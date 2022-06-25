@@ -1,0 +1,112 @@
+[
+  {
+    "SPARQL": "SELECT  ?X  WHERE { {?X  ?Y  foaf:1930-12-11} union {?X ?Y \"1930-12-11\"} ?Y rdfs:label \"sinh vào\". ?X rdf:type ?Z. ?Z rdfs:label \"Con người@vn\" }",
+    "Answer": "Đó là Nguyễn Ngọc Loan, ",
+    "Output RASA": "con người~sinh vào~1930-12-11"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { {?X  ?Y  foaf:1996-12-24} union {?X ?Y \"1996-12-24\"} ?Y rdfs:label \"mất vào\". ?X rdf:type ?Z. ?Z rdfs:label \"Con người@vn\" }",
+    "Answer": "Đó là Nguyễn Hữu Thọ, ",
+    "Output RASA": "con người~mất vào~1996-12-24"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { {?X  ?Y  foaf:830} union {?X ?Y \"830\"} ?Y rdfs:label \"sinh vào\". ?X rdf:type ?Z. ?Z rdfs:label \"Con người@vn\" }",
+    "Answer": "Đó là Khúc Thừa Dụ, ",
+    "Output RASA": "con người~sinh vào~830"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { {?X  ?Y  foaf:Dương_Bình_Vương} union {?X ?Y \"Dương Bình Vương\"} ?Y rdfs:label \"có người kế vị là\". ?X rdf:type ?Z. ?Z rdfs:label \"Con người@vn\" }",
+    "Answer": "Đó là Ngô Quyền, ",
+    "Output RASA": "con người~có người kế vị là~Dương Bình Vương"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { {?X  ?Y  foaf:Ái_Châu} union {?X ?Y \"Ái Châu\"} ?Y rdfs:label \"sinh tại\". ?X rdf:type ?Z. ?Z rdfs:label \"Con người@vn\" }",
+    "Answer": "Đó là Ngô Quyền, ",
+    "Output RASA": "con người~sinh tại~Ái Châu"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { {?X  ?Y  foaf:Huế} union {?X ?Y \"Huế\"} ?Y rdfs:label \"sinh tại\". ?X rdf:type ?Z. ?Z rdfs:label \"Con người@vn\" }",
+    "Answer": "Đó là Nguyễn Ngọc Loan, ",
+    "Output RASA": "con người~sinh tại~Huế"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { {?X  ?Y  foaf:Quảng_Ninh} union {?X ?Y \"Quảng Ninh\"} ?Y rdfs:label \"được tổ chức tại\". ?X rdf:type ?Z. ?Z rdfs:label \"Lễ hội@vn\" }",
+    "Answer": "Đó là Lễ hội Bạch Đằng, Lễ hội đền Đức Ông, ",
+    "Output RASA": "lễ hội~được tổ chức tại~Quảng Ninh"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { {?X  ?Y1 foaf:tháng_2_Âm_lịch} union {?X ?Y1 \"tháng 2 Âm lịch\"} ?Y1 rdfs:label \"diễn ra vào\". {?X ?Y2 foaf:Quảng_Ninh} union {?X ?Y2 \"Quảng Ninh\"} ?Y2 rdfs:label \"được tổ chức tại\". ?X rdf:type ?Z. ?Z rdfs:label \"Lễ hội@vn\" }",
+    "Answer": "Đó là Lễ hội đền Đức Ông, ",
+    "Output RASA": "lễ hội~diễn ra vào~tháng 2 Âm lịch~được tổ chức tại~Quảng Ninh"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { {?X  ?Y  foaf:3000_năm} union {?X ?Y \"3000 năm\"} ?Y rdfs:label \"có niên đại\". ?X rdf:type ?Z. ?Z rdfs:label \"Di tích khảo cổ@vn\" }",
+    "Answer": "Đó là Đàn đá Bình Đa, ",
+    "Output RASA": "di tích khảo cổ~có niên đại~3000 năm"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { {?X  ?Y  foaf:An_Dương_Vương} union {?X ?Y \"An Dương Vương\"} ?Y rdfs:label \"được xây dựng bởi\". ?X rdf:type ?Z. ?Z rdfs:label \"Kiến trúc thành quách@vn\" }",
+    "Answer": "Đó là Cổ Loa Citadel, ",
+    "Output RASA": "kiến trúc thành quách~được xây dựng bởi~An Dương Vương"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { {?X  ?Y  foaf:quần_thể_di_tích_Cố_đô_Huế} union {?X ?Y \"quần thể di tích Cố đô Huế\"} ?Y rdfs:label \"nằm trong\". ?X rdf:type ?Z. ?Z rdfs:label \"Di tích lịch sử văn hóa@vn\" }",
+    "Answer": "Đó là Điện Long An, ",
+    "Output RASA": "di tích lịch sử văn hóa~nằm trong~quần thể di tích Cố đô Huế"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { {?X  ?Y  foaf:Ngô_Quyền} union {?X ?Y \"Ngô Quyền\"} ?Y rdfs:label \"làm\". ?X rdf:type ?Z. ?Z rdfs:label \"Kiến trúc thành quách@vn\" }",
+    "Answer": "Đó là ",
+    "Output RASA": "kiến trúc thành quách~làm~Ngô Quyền"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { {?X  ?Y  foaf:năm_1805} union {?X ?Y \"năm 1805\"} ?Y rdfs:label \"được xây dựng vào\". ?X rdf:type ?Z. ?Z rdfs:label \"Kiến trúc thành quách@vn\" }",
+    "Answer": "Đó là Kinh thành Huế, ",
+    "Output RASA": "kiến trúc thành quách~được xây dựng vào~năm 1805"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { {?X  ?Y  foaf:năm_1805} union {?X ?Y \"năm 1805\"} ?Y rdfs:label \"được xây dựng vào\". ?X rdf:type ?Z. ?Z rdfs:label \"Kiến trúc thành quách@vn\" }",
+    "Answer": "Đó là Kinh thành Huế, ",
+    "Output RASA": "kiến trúc thành quách~được xây dựng vào~năm 1805"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { {?X  ?Y1 foaf:32_Âm_lịch} union {?X ?Y1 \"3\/2 Âm lịch\"} ?Y1 rdfs:label \"bắt đầu vào\". {?X ?Y2 foaf:cuối_tháng_3_Âm_lịch} union {?X ?Y2 \"cuối tháng 3 Âm lịch\"} ?Y2 rdfs:label \"kết thúc vào\". ?X rdf:type ?Z. ?Z rdfs:label \"Lễ hội@vn\" }",
+    "Answer": "Đó là Lễ hội đền Đức Ông, ",
+    "Output RASA": "lễ hội~bắt đầu vào~3\/2 Âm lịch~kết thúc vào~cuối tháng 3 Âm lịch"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { foaf:Đàn_đá_Bình_Đa  ?Y  ?X. ?Y rdfs:label \"có niên đại\"}",
+    "Answer": "Đàn đá Bình Đa có niên đại 3000 năm, ",
+    "Output RASA": "Đàn đá Bình Đa~có niên đại"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { foaf:Kinh_thành_Huế  ?Y  ?X. ?Y rdfs:label \"được xây dựng vào\"}",
+    "Answer": "Kinh thành Huế được xây dựng vào năm 1805, ",
+    "Output RASA": "Kinh thành Huế~được xây dựng vào"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { foaf:Lễ_hội_đền_Đức_Ông  ?Y  ?X. ?Y rdfs:label \"diễn ra vào\"}",
+    "Answer": "Lễ hội đền Đức Ông diễn ra vào tháng 2 Âm lịch, ",
+    "Output RASA": "Lễ hội đền Đức Ông~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { foaf:Khúc_Thừa_Dụ  ?Y  ?X. ?Y rdfs:label \"sinh vào\"}",
+    "Answer": "Khúc Thừa Dụ sinh vào 830, ",
+    "Output RASA": "Khúc Thừa Dụ~sinh vào"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { foaf:Trần_Anh_Tông  ?Y  ?X. ?Y rdfs:label \"sinh vào\"}",
+    "Answer": "Trần Anh Tông sinh vào 17-9-1276 (theo wikidata & dbpedia), 25-10-1276 (theo nguoikesu), ",
+    "Output RASA": "Trần Anh Tông~sinh vào"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { foaf:Trần_Anh_Tông  ?Y  ?X. ?Y rdfs:label \"sinh vào\"}",
+    "Answer": "Trần Anh Tông sinh vào 17-9-1276 (theo wikidata & dbpedia), 25-10-1276 (theo nguoikesu), ",
+    "Output RASA": "Trần Anh Tông~sinh vào"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { foaf:Ngô_Quyền  ?Y  ?X. ?Y rdfs:label \"làm\"}",
+    "Answer": "Ngô Quyền làm King Ngô Quyền",
+    "Output RASA": "Ngô Quyền~làm"
+  }
+]

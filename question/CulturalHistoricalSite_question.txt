@@ -1,0 +1,2 @@
+    - [di tích lịch sử văn hóa]{"entity":"X"} nào [nằm trong]{"entity":"predicate"} [quần thể di tích Cố đô Huế]{"entity":"object"}?
+    - [di tích lịch sử văn hóa]{"entity":"X"} nào nằm trong [quần thể di tích Cố đô Huế]{"entity":"object"}?

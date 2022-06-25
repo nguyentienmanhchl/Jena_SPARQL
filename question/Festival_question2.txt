@@ -1,0 +1,12 @@
+    - [lễ hội]{"entity":"X"} nào [diễn ra vào]{"entity":"predicate"} [tháng 2 Âm lịch]{"entity":"object"} và [bắt đầu vào]{"entity":"predicate"} [3/2 Âm lịch]{"entity":"object"} ?
+    - [lễ hội]{"entity":"X"} nào [diễn ra vào]{"entity":"predicate"} [tháng 2 Âm lịch]{"entity":"object"} và [kết thúc vào]{"entity":"predicate"} [cuối tháng 3 Âm lịch]{"entity":"object"} ?
+    - [lễ hội]{"entity":"X"} nào [bắt đầu vào]{"entity":"predicate"} [3/2 Âm lịch]{"entity":"object"} và [diễn ra vào]{"entity":"predicate"} [tháng 2 Âm lịch]{"entity":"object"} ?
+    - [lễ hội]{"entity":"X"} nào [bắt đầu vào]{"entity":"predicate"} [3/2 Âm lịch]{"entity":"object"} và [kết thúc vào]{"entity":"predicate"} [cuối tháng 3 Âm lịch]{"entity":"object"} ?
+    - [lễ hội]{"entity":"X"} nào [kết thúc vào]{"entity":"predicate"} [cuối tháng 3 Âm lịch]{"entity":"object"} và [diễn ra vào]{"entity":"predicate"} [tháng 2 Âm lịch]{"entity":"object"} ?
+    - [lễ hội]{"entity":"X"} nào [kết thúc vào]{"entity":"predicate"} [cuối tháng 3 Âm lịch]{"entity":"object"} và [bắt đầu vào]{"entity":"predicate"} [3/2 Âm lịch]{"entity":"object"} ?
+    - [lễ hội]{"entity":"X"} nào diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} và bắt đầu vào [3/2 Âm lịch]{"entity":"object"} ?
+    - [lễ hội]{"entity":"X"} nào diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} và kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} ?
+    - [lễ hội]{"entity":"X"} nào bắt đầu vào [3/2 Âm lịch]{"entity":"object"} và diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} ?
+    - [lễ hội]{"entity":"X"} nào bắt đầu vào [3/2 Âm lịch]{"entity":"object"} và kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} ?
+    - [lễ hội]{"entity":"X"} nào kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} và diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} ?
+    - [lễ hội]{"entity":"X"} nào kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} và bắt đầu vào [3/2 Âm lịch]{"entity":"object"} ?

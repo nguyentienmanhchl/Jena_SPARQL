@@ -1,0 +1,2346 @@
+@prefix : <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix terms: <http://purl.org/dc/terms/> .
+@prefix untitled-ontology-20: <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#> .
+@base <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20> .
+
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20> rdf:type owl:Ontology ;
+                                                                           owl:imports <http://www.w3.org/2006/time#2016> .
+
+#################################################################
+#    Annotation properties
+#################################################################
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#chosenCapitalBy
+untitled-ontology-20:chosenCapitalBy rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasAdministrativeDivision
+untitled-ontology-20:hasAdministrativeDivision rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasBorn
+untitled-ontology-20:hasBorn rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasBornAt
+untitled-ontology-20:hasBornAt rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasBuildBy
+untitled-ontology-20:hasBuildBy rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasBuildTime
+untitled-ontology-20:hasBuildTime rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasBuriedAt
+untitled-ontology-20:hasBuriedAt rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasCareerLevel
+untitled-ontology-20:hasCareerLevel rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasCertification
+untitled-ontology-20:hasCertification rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasChronology
+untitled-ontology-20:hasChronology rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasCountry
+untitled-ontology-20:hasCountry rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasDegree
+untitled-ontology-20:hasDegree rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasDescription
+untitled-ontology-20:hasDescription rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasDied
+untitled-ontology-20:hasDied rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasFestival
+untitled-ontology-20:hasFestival rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasHistoricalSiteLevel
+untitled-ontology-20:hasHistoricalSiteLevel rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasJob
+untitled-ontology-20:hasJob rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasLunarChronology
+untitled-ontology-20:hasLunarChronology rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasNational
+untitled-ontology-20:hasNational rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasOrganization
+untitled-ontology-20:hasOrganization rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasPeriod
+untitled-ontology-20:hasPeriod rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasReignFrom
+untitled-ontology-20:hasReignFrom rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasReignTo
+untitled-ontology-20:hasReignTo rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasSameEducationDegreeLevel
+untitled-ontology-20:hasSameEducationDegreeLevel rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasSuccessor
+untitled-ontology-20:hasSuccessor rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#hasTimeHappen
+untitled-ontology-20:hasTimeHappen rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#isApartOf
+untitled-ontology-20:isApartOf rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#orKnownAs
+untitled-ontology-20:orKnownAs rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#stateIn
+untitled-ontology-20:stateIn rdf:type owl:AnnotationProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#wasDerivedFrom
+untitled-ontology-20:wasDerivedFrom rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/2004/02/skos/core#altLabel
+skos:altLabel rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/2004/02/skos/core#broader
+skos:broader rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/2004/02/skos/core#definition
+skos:definition rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/2004/02/skos/core#editorialNote
+skos:editorialNote rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/2004/02/skos/core#historyNote
+skos:historyNote rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/2004/02/skos/core#narower
+skos:narower rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/2004/02/skos/core#note
+skos:note rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/2004/02/skos/core#prefLabel
+skos:prefLabel rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/2004/02/skos/core#related
+skos:related rdf:type owl:AnnotationProperty .
+
+
+###  http://www.w3.org/2004/02/skos/core#scopeNote
+skos:scopeNote rdf:type owl:AnnotationProperty .
+
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  http://purl.org/dc/elements/1.1/subject
+<http://purl.org/dc/elements/1.1/subject> rdf:type owl:ObjectProperty .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#parentSubject
+untitled-ontology-20:parentSubject rdf:type owl:ObjectProperty ;
+                                   rdfs:seeAlso "https://www.w3.org/2004/02/skos/core/broader" .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'has_beginning'
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'has_beginning'> rdf:type owl:ObjectProperty ;
+                                                                                          rdfs:subPropertyOf <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'has_time'> ;
+                                                                                          rdfs:label "has beginning" .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'has_end'
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'has_end'> rdf:type owl:ObjectProperty ;
+                                                                                    rdfs:subPropertyOf <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'has_time'> ;
+                                                                                    rdfs:label "has end" .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'has_time'
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'has_time'> rdf:type owl:ObjectProperty ;
+                                                                                     rdfs:label "has time" .
+
+
+###  http://www.w3.org/2006/time#hasEnd
+time:hasEnd rdf:type owl:ObjectProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#AbroadFestival
+untitled-ontology-20:AbroadFestival rdf:type owl:Class ;
+                                    rdfs:subClassOf untitled-ontology-20:Festival ;
+                                    rdfs:label "Lễ hội du nhập từ nước ngoài"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#AdministrativeDivision
+untitled-ontology-20:AdministrativeDivision rdf:type owl:Class ;
+                                            rdfs:label "AdministrativeDivision"@en ,
+                                                       "Đơn vị hành chính"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Am
+untitled-ontology-20:Am rdf:type owl:Class ;
+                        rdfs:subClassOf untitled-ontology-20:ReligiousArchitecture .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#ArchaeologicalHistoricalSite
+untitled-ontology-20:ArchaeologicalHistoricalSite rdf:type owl:Class ;
+                                                  rdfs:subClassOf untitled-ontology-20:HeritageSite ;
+                                                  rdfs:label "Di tích khảo cổ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#ArtArchitectureHistoricalSite
+untitled-ontology-20:ArtArchitectureHistoricalSite rdf:type owl:Class ;
+                                                   rdfs:subClassOf untitled-ontology-20:HeritageSite ;
+                                                   rdfs:label "Di tích kiến trúc nghệ thuật"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#AttachedToHistoricalEvent
+untitled-ontology-20:AttachedToHistoricalEvent rdf:type owl:Class ;
+                                               rdfs:subClassOf untitled-ontology-20:CulturalHistoricalSite .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#AttachedToHistoricalFigure
+untitled-ontology-20:AttachedToHistoricalFigure rdf:type owl:Class ;
+                                                rdfs:subClassOf untitled-ontology-20:CulturalHistoricalSite .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#AttachedToRevolutionsAndResistance
+untitled-ontology-20:AttachedToRevolutionsAndResistance rdf:type owl:Class ;
+                                                        rdfs:subClassOf untitled-ontology-20:CulturalHistoricalSite .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Austroasiatic
+untitled-ontology-20:Austroasiatic rdf:type owl:Class ;
+                                   rdfs:subClassOf untitled-ontology-20:Ethnic ;
+                                   rdfs:label "Nhóm Môn – Khmer"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Buddhism
+untitled-ontology-20:Buddhism rdf:type owl:Class ;
+                              rdfs:subClassOf untitled-ontology-20:Religion ;
+                              rdfs:label "Đạo phật"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#BuddhistTemple
+untitled-ontology-20:BuddhistTemple rdf:type owl:Class ;
+                                    rdfs:subClassOf untitled-ontology-20:ReligiousArchitecture ;
+                                    rdfs:label "Chùa"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Bố_chính
+untitled-ontology-20:Bố_chính rdf:type owl:Class ;
+                              rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Bộc_xạ
+untitled-ontology-20:Bộc_xạ rdf:type owl:Class ;
+                            rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Caodaism
+untitled-ontology-20:Caodaism rdf:type owl:Class ;
+                              rdfs:subClassOf untitled-ontology-20:Religion ;
+                              rdfs:label "Cao Đài"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Catholicism
+untitled-ontology-20:Catholicism rdf:type owl:Class ;
+                                 rdfs:subClassOf untitled-ontology-20:Religion ;
+                                 rdfs:label "Công giáo"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Chancellery
+untitled-ontology-20:Chancellery rdf:type owl:Class ;
+                                 rdfs:subClassOf untitled-ontology-20:PositionTitle ;
+                                 rdfs:label "Chancellery"@en ,
+                                            "Tể tướng"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Chi_hậu
+untitled-ontology-20:Chi_hậu rdf:type owl:Class ;
+                             rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Christianity
+untitled-ontology-20:Christianity rdf:type owl:Class ;
+                                  rdfs:subClassOf untitled-ontology-20:Religion ;
+                                  rdfs:label "Kitô giáo"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Châu_mục
+untitled-ontology-20:Châu_mục rdf:type owl:Class ;
+                              rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Chỉ_huy_sứ
+untitled-ontology-20:Chỉ_huy_sứ rdf:type owl:Class ;
+                                rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#CitadelArchitecture
+untitled-ontology-20:CitadelArchitecture rdf:type owl:Class ;
+                                         rdfs:subClassOf untitled-ontology-20:ArtArchitectureHistoricalSite ;
+                                         rdfs:label "Kiến trúc thành quách"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#CommunalVillageHouse
+untitled-ontology-20:CommunalVillageHouse rdf:type owl:Class ;
+                                          rdfs:subClassOf untitled-ontology-20:ReligiousArchitecture ;
+                                          rdfs:label "Đình"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Country
+untitled-ontology-20:Country rdf:type owl:Class ;
+                             untitled-ontology-20:hasDescription "The name of the country through historical periods"@en ;
+                             rdfs:label "Country"@en ,
+                                        "Tên đất nước"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#CulturalHistoricalSite
+untitled-ontology-20:CulturalHistoricalSite rdf:type owl:Class ;
+                                            rdfs:subClassOf untitled-ontology-20:HeritageSite ;
+                                            rdfs:label "Di tích lịch sử văn hóa"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Cấp_sự
+untitled-ontology-20:Cấp_sự rdf:type owl:Class ;
+                            rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Dụ_đức
+untitled-ontology-20:Dụ_đức rdf:type owl:Class ;
+                            rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#EducationDegreeTitle
+untitled-ontology-20:EducationDegreeTitle rdf:type owl:Class ;
+                                          rdfs:label "EducationDegreeTitle"@en ,
+                                                     "Học vị"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Ethnic
+untitled-ontology-20:Ethnic rdf:type owl:Class ;
+                            rdfs:subClassOf untitled-ontology-20:Festival ;
+                            rdfs:label "Dân tộc"@vn ,
+                                       "Ethnic"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Festival
+untitled-ontology-20:Festival rdf:type owl:Class ;
+                              rdfs:label "Festival"@en ,
+                                         "Lễ hội"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#FolkArchitecture
+untitled-ontology-20:FolkArchitecture rdf:type owl:Class ;
+                                      rdfs:subClassOf untitled-ontology-20:ArtArchitectureHistoricalSite ;
+                                      rdfs:label "Kiến trúc dân gian"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#FolkReligion
+untitled-ontology-20:FolkReligion rdf:type owl:Class ;
+                                  rdfs:subClassOf untitled-ontology-20:Religion ;
+                                  rdfs:label "Tín ngưỡng dân gian"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#HeritageSite
+untitled-ontology-20:HeritageSite rdf:type owl:Class ;
+                                  rdfs:subClassOf [ rdf:type owl:Restriction ;
+                                                    owl:onProperty <http://purl.org/dc/elements/1.1/subject> ;
+                                                    owl:someValuesFrom untitled-ontology-20:Subject
+                                                  ] ;
+                                  untitled-ontology-20:orKnownAs "HistoricSite"@vn ;
+                                  rdfs:label "Di tích lịch sử"@vn ,
+                                             "HeritageSite"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#HistoricEvent
+untitled-ontology-20:HistoricEvent rdf:type owl:Class ;
+                                   rdfs:subClassOf [ rdf:type owl:Restriction ;
+                                                     owl:onProperty <http://purl.org/dc/elements/1.1/subject> ;
+                                                     owl:someValuesFrom untitled-ontology-20:Subject
+                                                   ] ;
+                                   rdfs:label "HistoricEvent"@en ,
+                                              "Sự kiện lịch sử"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#HistoricSiteLevel
+untitled-ontology-20:HistoricSiteLevel rdf:type owl:Class ;
+                                       untitled-ontology-20:orKnownAs "HistoricSiteLevel"@en ;
+                                       rdfs:label "Cấp độ di tích lịch sử"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Hoahaoism
+untitled-ontology-20:Hoahaoism rdf:type owl:Class ;
+                               rdfs:subClassOf untitled-ontology-20:Religion ;
+                               rdfs:label "Hòa Hảo"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#King
+untitled-ontology-20:King rdf:type owl:Class ;
+                          rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Kra
+untitled-ontology-20:Kra rdf:type owl:Class ;
+                         rdfs:subClassOf untitled-ontology-20:Ethnic ;
+                         rdfs:label "Nhóm Kadai"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Landscape-Place
+untitled-ontology-20:Landscape-Place rdf:type owl:Class ;
+                                     rdfs:subClassOf untitled-ontology-20:ScenicHistoricalSites ;
+                                     rdfs:label "Cảnh quan, địa điểm"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#LandscapeArchitecture
+untitled-ontology-20:LandscapeArchitecture rdf:type owl:Class ;
+                                           rdfs:subClassOf untitled-ontology-20:ArtArchitectureHistoricalSite ;
+                                           rdfs:label "Kiến trúc vườn cảnh"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Malayo-Polynesian
+untitled-ontology-20:Malayo-Polynesian rdf:type owl:Class ;
+                                       rdfs:subClassOf untitled-ontology-20:Ethnic ;
+                                       rdfs:label "Nhóm Nam đảo"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#NaturalArea
+untitled-ontology-20:NaturalArea rdf:type owl:Class ;
+                                 rdfs:subClassOf untitled-ontology-20:ScenicHistoricalSites ;
+                                 rdfs:label "Khu vực thiên nhiên"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#NaturalTalent
+untitled-ontology-20:NaturalTalent rdf:type owl:Class ;
+                                   rdfs:label "NaturalTalent"@en ,
+                                              "Tài năng thiên bẩm"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Nghè
+untitled-ontology-20:Nghè rdf:type owl:Class ;
+                          rdfs:subClassOf untitled-ontology-20:ReligiousArchitecture .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Organization
+untitled-ontology-20:Organization rdf:type owl:Class ;
+                                  rdfs:label "Organization"@en ,
+                                             "Tổ chức, cơ quan"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#OtherFestival
+untitled-ontology-20:OtherFestival rdf:type owl:Class ;
+                                   rdfs:subClassOf untitled-ontology-20:Festival .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#OtherReligion
+untitled-ontology-20:OtherReligion rdf:type owl:Class ;
+                                   rdfs:subClassOf untitled-ontology-20:Religion ;
+                                   rdfs:label "Các tôn giáo, tín ngưỡng khác"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#OtherReligiousArchitecture
+untitled-ontology-20:OtherReligiousArchitecture rdf:type owl:Class ;
+                                                rdfs:subClassOf untitled-ontology-20:ReligiousArchitecture .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#PalaceMansionArchitecture
+untitled-ontology-20:PalaceMansionArchitecture rdf:type owl:Class ;
+                                               rdfs:subClassOf untitled-ontology-20:ArtArchitectureHistoricalSite ;
+                                               rdfs:label "Kiến trúc cung điện - dinh thự"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Period
+untitled-ontology-20:Period rdf:type owl:Class ;
+                            rdfs:label "Period"@en ,
+                                       "Thời kỳ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Person
+untitled-ontology-20:Person rdf:type owl:Class ;
+                            rdfs:subClassOf [ rdf:type owl:Restriction ;
+                                              owl:onProperty <http://purl.org/dc/elements/1.1/subject> ;
+                                              owl:someValuesFrom untitled-ontology-20:Subject
+                                            ] ;
+                            rdfs:label "Con người"@vn ,
+                                       "Person"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#PersonClass
+untitled-ontology-20:PersonClass rdf:type owl:Class ;
+                                 rdfs:label "Giai cấp đẳng cấp, thứ hạng của nhân vật lịch sử"@vn ,
+                                            "PersonClass"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Phủ
+untitled-ontology-20:Phủ rdf:type owl:Class ;
+                         rdfs:subClassOf untitled-ontology-20:ReligiousArchitecture .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#PositionTitle
+untitled-ontology-20:PositionTitle rdf:type owl:Class ;
+                                   rdfs:label "Chức vụ"@vn ,
+                                              "PositionTitle"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Prince
+untitled-ontology-20:Prince rdf:type owl:Class ;
+                            rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Princess
+untitled-ontology-20:Princess rdf:type owl:Class ;
+                              rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Protestantism
+untitled-ontology-20:Protestantism rdf:type owl:Class ;
+                                   rdfs:subClassOf untitled-ontology-20:Religion ;
+                                   rdfs:label "Đạo tin lành"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Queen
+untitled-ontology-20:Queen rdf:type owl:Class ;
+                           rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Quán
+untitled-ontology-20:Quán rdf:type owl:Class ;
+                          rdfs:subClassOf untitled-ontology-20:ReligiousArchitecture .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Reference
+untitled-ontology-20:Reference rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Religion
+untitled-ontology-20:Religion rdf:type owl:Class ;
+                              rdfs:label "Religion"@en ,
+                                         "Tôn giáo/ tín ngưỡng"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#ReligiousArchitecture
+untitled-ontology-20:ReligiousArchitecture rdf:type owl:Class ;
+                                           rdfs:subClassOf untitled-ontology-20:ArtArchitectureHistoricalSite ;
+                                           rdfs:label "Kiến trúc tôn giáo - tín ngưỡng"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#ReligiousFestival
+untitled-ontology-20:ReligiousFestival rdf:type owl:Class ;
+                                       rdfs:subClassOf untitled-ontology-20:Festival .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#RevolutionHistoryFestival
+untitled-ontology-20:RevolutionHistoryFestival rdf:type owl:Class ;
+                                               rdfs:subClassOf untitled-ontology-20:Festival .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#RevolutionaryHistoricalSite
+untitled-ontology-20:RevolutionaryHistoricalSite rdf:type owl:Class ;
+                                                 rdfs:subClassOf untitled-ontology-20:HeritageSite ;
+                                                 rdfs:label "Di tích lịch sử cách mạng"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#ScenicHistoricalSites
+untitled-ontology-20:ScenicHistoricalSites rdf:type owl:Class ;
+                                           rdfs:subClassOf untitled-ontology-20:HeritageSite ;
+                                           rdfs:label "Di tích thắng cảnh"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#School
+untitled-ontology-20:School rdf:type owl:Class ;
+                            rdfs:label "School"@en ,
+                                       "Trường học"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Shrine
+untitled-ontology-20:Shrine rdf:type owl:Class ;
+                            rdfs:subClassOf untitled-ontology-20:ReligiousArchitecture ;
+                            rdfs:label "Miếu"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Sinitic
+untitled-ontology-20:Sinitic rdf:type owl:Class ;
+                             rdfs:subClassOf untitled-ontology-20:Ethnic ;
+                             rdfs:label "Nhóm Hán"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Subject
+untitled-ontology-20:Subject rdf:type owl:Class .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Tai
+untitled-ontology-20:Tai rdf:type owl:Class ;
+                         rdfs:subClassOf untitled-ontology-20:Ethnic ;
+                         rdfs:label "hóm Tày Thái"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Temple
+untitled-ontology-20:Temple rdf:type owl:Class ;
+                            rdfs:subClassOf untitled-ontology-20:ReligiousArchitecture ;
+                            rdfs:label "Đền"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Tibet-Burma
+untitled-ontology-20:Tibet-Burma rdf:type owl:Class ;
+                                 rdfs:subClassOf untitled-ontology-20:Ethnic ;
+                                 rdfs:label "Nhóm Tạng-Miến"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Time
+untitled-ontology-20:Time rdf:type owl:Class ;
+                          rdfs:label "Time"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#TraditionalFestival
+untitled-ontology-20:TraditionalFestival rdf:type owl:Class ;
+                                         rdfs:subClassOf untitled-ontology-20:Festival .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Vietic
+untitled-ontology-20:Vietic rdf:type owl:Class ;
+                            rdfs:subClassOf untitled-ontology-20:Ethnic ;
+                            rdfs:label "Nhóm Việt Mường"@vn ,
+                                       "Vietic"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Điện
+untitled-ontology-20:Điện rdf:type owl:Class ;
+                          rdfs:subClassOf untitled-ontology-20:ReligiousArchitecture .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Đình_úy
+untitled-ontology-20:Đình_úy rdf:type owl:Class ;
+                             rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Đô_đốc
+untitled-ontology-20:Đô_đốc rdf:type owl:Class ;
+                            rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Đại_học_sĩ
+untitled-ontology-20:Đại_học_sĩ rdf:type owl:Class ;
+                                rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Đại_lý_tự
+untitled-ontology-20:Đại_lý_tự rdf:type owl:Class ;
+                               rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Đại_phụ
+untitled-ontology-20:Đại_phụ rdf:type owl:Class ;
+                             rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Đại_tướng
+untitled-ontology-20:Đại_tướng rdf:type owl:Class ;
+                               rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Đề_lĩnh
+untitled-ontology-20:Đề_lĩnh rdf:type owl:Class ;
+                             rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Đề_đốc
+untitled-ontology-20:Đề_đốc rdf:type owl:Class ;
+                            rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Đốc_binh
+untitled-ontology-20:Đốc_binh rdf:type owl:Class ;
+                              rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Đốc_thị
+untitled-ontology-20:Đốc_thị rdf:type owl:Class ;
+                             rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Đốc_đồng
+untitled-ontology-20:Đốc_đồng rdf:type owl:Class ;
+                              rdfs:subClassOf untitled-ontology-20:PositionTitle .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'Date-time_interval'
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'Date-time_interval'> rdf:type owl:Class ;
+                                                                                               rdfs:subClassOf <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'Proper_interval'> ;
+                                                                                               rdfs:label "Date-time interval"@en ;
+                                                                                               skos:definition "DateTimeInterval is a subclass of ProperInterval, defined using the multi-element DateTimeDescription."@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'Proper_interval'
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'Proper_interval'> rdf:type owl:Class ;
+                                                                                            rdfs:subClassOf <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'Time_interval'> ;
+                                                                                            owl:disjointWith <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'Time_instant'> ;
+                                                                                            rdfs:label "Proper interval"@en ;
+                                                                                            skos:definition "A temporal entity with non-zero extent or duration, i.e. for which the value of the beginning and end are different"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'Temporal_entity'
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'Temporal_entity'> rdf:type owl:Class ;
+                                                                                            owl:equivalentClass [ rdf:type owl:Class ;
+                                                                                                                  owl:unionOf ( <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'Time_instant'>
+                                                                                                                                <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'Time_interval'>
+                                                                                                                              )
+                                                                                                                ] ;
+                                                                                            rdfs:subClassOf untitled-ontology-20:Time ;
+                                                                                            rdfs:label "Temporal entity"@en ;
+                                                                                            skos:definition "A temporal interval or instant."@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'Time_instant'
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'Time_instant'> rdf:type owl:Class ;
+                                                                                         rdfs:subClassOf <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'Temporal_entity'> ;
+                                                                                         rdfs:label "Time instant"@en ;
+                                                                                         skos:definition "A temporal entity with zero extent or duration"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'Time_interval'
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'Time_interval'> rdf:type owl:Class ;
+                                                                                          rdfs:subClassOf <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'Temporal_entity'> ;
+                                                                                          rdfs:label "Time interval"@en ;
+                                                                                          skos:definition "A temporal entity with an extent or duration"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Hmong–Mien
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Hmong–Mien> rdf:type owl:Class ;
+                                                                                     rdfs:subClassOf untitled-ontology-20:Ethnic ;
+                                                                                     rdfs:label "Nhóm H'Mông - Dao"@vn .
+
+
+###  http://www.w3.org/2006/time#TRS
+time:TRS rdf:type owl:Class ;
+         rdfs:subClassOf untitled-ontology-20:Time .
+
+
+###  http://www.w3.org/2006/time#TemporalDuration
+time:TemporalDuration rdf:type owl:Class ;
+                      rdfs:subClassOf untitled-ontology-20:Time .
+
+
+###  http://www.w3.org/2006/time#TimeZone
+time:TimeZone rdf:type owl:Class ;
+              rdfs:subClassOf untitled-ontology-20:Time .
+
+
+#################################################################
+#    Individuals
+#################################################################
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#AbroadImportedFestival
+untitled-ontology-20:AbroadImportedFestival rdf:type owl:NamedIndividual ;
+                                            rdfs:label "AbroadImportedFestival"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Academics
+untitled-ontology-20:Academics rdf:type owl:NamedIndividual ,
+                                        untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#AnDuongVuongTempleSubject
+untitled-ontology-20:AnDuongVuongTempleSubject rdf:type owl:NamedIndividual ,
+                                                        untitled-ontology-20:Subject ;
+                                               untitled-ontology-20:parentSubject untitled-ontology-20:CoLoaSubject .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#AnNam
+untitled-ontology-20:AnNam rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:Country ;
+                           rdfs:label "An Nam"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#An_Duong_Vuong_Temple
+untitled-ontology-20:An_Duong_Vuong_Temple rdf:type owl:NamedIndividual ,
+                                                    untitled-ontology-20:CitadelArchitecture ;
+                                           <http://purl.org/dc/elements/1.1/subject> untitled-ontology-20:AnDuongVuongTempleSubject .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#An_Dương_Vương
+untitled-ontology-20:An_Dương_Vương rdf:type owl:NamedIndividual ,
+                                             untitled-ontology-20:Person ;
+                                    <http://purl.org/dc/elements/1.1/subject> untitled-ontology-20:ThucSubject .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#AncientPeriod
+untitled-ontology-20:AncientPeriod rdf:type owl:NamedIndividual ,
+                                            untitled-ontology-20:Period .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#ArchaeologicalRelic
+untitled-ontology-20:ArchaeologicalRelic rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Archery
+untitled-ontology-20:Archery rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Art
+untitled-ontology-20:Art rdf:type owl:NamedIndividual ,
+                                  untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Articulate
+untitled-ontology-20:Articulate rdf:type owl:NamedIndividual ,
+                                         untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#ArtisticArchitecturalMonuments
+untitled-ontology-20:ArtisticArchitecturalMonuments rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#AsscociateProfessor
+untitled-ontology-20:AsscociateProfessor rdf:type owl:NamedIndividual ,
+                                                  untitled-ontology-20:EducationDegreeTitle ;
+                                         rdfs:label "Phó giáo sư"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#AuLac
+untitled-ontology-20:AuLac rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:Country ;
+                           rdfs:label "Âu Lạc"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#AuLacDynasty
+untitled-ontology-20:AuLacDynasty rdf:type owl:NamedIndividual ,
+                                           untitled-ontology-20:Period ;
+                                  time:hasEnd <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'208_BC'> ;
+                                  rdfs:label "Thời kỳ  Âu Lạc"@vn ;
+                                  skos:narower untitled-ontology-20:AncientPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#AutonomousRepublicOfCochinchina
+untitled-ontology-20:AutonomousRepublicOfCochinchina rdf:type owl:NamedIndividual ,
+                                                              untitled-ontology-20:Country ;
+                                                     rdfs:label "Cộng hòa Tự trị Nam Kỳ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Autumn
+untitled-ontology-20:Autumn rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Ba_Na
+untitled-ontology-20:Ba_Na rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Baccalaureate
+untitled-ontology-20:Baccalaureate rdf:type owl:NamedIndividual ,
+                                            untitled-ontology-20:EducationDegreeTitle ;
+                                   untitled-ontology-20:hasSameEducationDegreeLevel untitled-ontology-20:HighSchool ;
+                                   rdfs:label "Tú tài"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Bachelor
+untitled-ontology-20:Bachelor rdf:type owl:NamedIndividual ,
+                                       untitled-ontology-20:EducationDegreeTitle ;
+                              untitled-ontology-20:hasSameEducationDegreeLevel untitled-ontology-20:HuongCong ;
+                              rdfs:label "Cử nhân"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#BirthDay
+untitled-ontology-20:BirthDay rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#BronzeAge
+untitled-ontology-20:BronzeAge rdf:type owl:NamedIndividual ,
+                                        untitled-ontology-20:Period ;
+                               rdfs:label "Thời đại đồ đồng"@vn ;
+                               skos:narower untitled-ontology-20:PrehistoricPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Bru
+untitled-ontology-20:Bru rdf:type owl:NamedIndividual ,
+                                  untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Brâu
+untitled-ontology-20:Brâu rdf:type owl:NamedIndividual ,
+                                   untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Bác_sĩ
+untitled-ontology-20:Bác_sĩ rdf:type owl:NamedIndividual ;
+                            untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                            rdfs:label "Bác sĩ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Bố_Y
+untitled-ontology-20:Bố_Y rdf:type owl:NamedIndividual ,
+                                   untitled-ontology-20:Tai .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Bố_chính_sứ
+untitled-ontology-20:Bố_chính_sứ rdf:type owl:NamedIndividual ;
+                                 untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                                 rdfs:label "Bố chính sứ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Bột_cận
+untitled-ontology-20:Bột_cận rdf:type owl:NamedIndividual ;
+                             untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                             rdfs:label "Bột cận"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Cai_bạ
+untitled-ontology-20:Cai_bạ rdf:type owl:NamedIndividual ;
+                            untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                            rdfs:label "Cai bạ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Cai_cơ
+untitled-ontology-20:Cai_cơ rdf:type owl:NamedIndividual ;
+                            untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                            rdfs:label "Cai cơ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Cai_thuyền
+untitled-ontology-20:Cai_thuyền rdf:type owl:NamedIndividual ;
+                                untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                                rdfs:label "Cai thuyền"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Cai_đội
+untitled-ontology-20:Cai_đội rdf:type owl:NamedIndividual ;
+                             untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                             rdfs:label "Cai đội"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Central
+untitled-ontology-20:Central rdf:type owl:NamedIndividual ;
+                             rdfs:label "Central"@en ,
+                                        "Miền Trung"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Central_Highlands
+untitled-ontology-20:Central_Highlands rdf:type owl:NamedIndividual ;
+                                       rdfs:label "Central Highlands"@en ,
+                                                  "vùng Tây Nguyên"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#ChineseDominationPeriod
+untitled-ontology-20:ChineseDominationPeriod rdf:type owl:NamedIndividual ,
+                                                      untitled-ontology-20:Period .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Chu_Ru
+untitled-ontology-20:Chu_Ru rdf:type owl:NamedIndividual ,
+                                     untitled-ontology-20:Malayo-Polynesian .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Chánh_sứ
+untitled-ontology-20:Chánh_sứ rdf:type owl:NamedIndividual ;
+                              untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                              rdfs:label "Chánh sứ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Chăm
+untitled-ontology-20:Chăm rdf:type owl:NamedIndividual ,
+                                   untitled-ontology-20:Malayo-Polynesian .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Chơ_Ro
+untitled-ontology-20:Chơ_Ro rdf:type owl:NamedIndividual ,
+                                     untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Chưởng_cơ
+untitled-ontology-20:Chưởng_cơ rdf:type owl:NamedIndividual ;
+                               untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                               rdfs:label "Chưởng cơ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Chưởng_dinh
+untitled-ontology-20:Chưởng_dinh rdf:type owl:NamedIndividual ;
+                                 untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                                 rdfs:label "Chưởng dinh"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Chưởng_doanh
+untitled-ontology-20:Chưởng_doanh rdf:type owl:NamedIndividual ;
+                                  untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                                  rdfs:label "Chưởng doanh"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Chưởng_vệ
+untitled-ontology-20:Chưởng_vệ rdf:type owl:NamedIndividual ;
+                               untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                               rdfs:label "Chưởng vệ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Chứt
+untitled-ontology-20:Chứt rdf:type owl:NamedIndividual ,
+                                   untitled-ontology-20:Vietic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Civilian
+untitled-ontology-20:Civilian rdf:type owl:NamedIndividual ,
+                                       untitled-ontology-20:Organization ;
+                              rdfs:label "Người dân"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Co
+untitled-ontology-20:Co rdf:type owl:NamedIndividual ,
+                                 untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#CoLoaSubject
+untitled-ontology-20:CoLoaSubject rdf:type owl:NamedIndividual ,
+                                           untitled-ontology-20:Subject .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#College
+untitled-ontology-20:College rdf:type owl:NamedIndividual ;
+                             rdfs:label "College"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Colleges
+untitled-ontology-20:Colleges rdf:type owl:NamedIndividual ,
+                                       untitled-ontology-20:EducationDegreeTitle ;
+                              rdfs:label "Cao đẳng"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Communication
+untitled-ontology-20:Communication rdf:type owl:NamedIndividual ,
+                                            untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#CulturalEvolution
+untitled-ontology-20:CulturalEvolution rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#CulturalHistoricalRelics
+untitled-ontology-20:CulturalHistoricalRelics rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Cơ_Ho
+untitled-ontology-20:Cơ_Ho rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Cơ_Tu
+untitled-ontology-20:Cơ_Tu rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Cổ_Loa_Citadel
+untitled-ontology-20:Cổ_Loa_Citadel rdf:type owl:NamedIndividual ,
+                                             untitled-ontology-20:CitadelArchitecture ;
+                                    untitled-ontology-20:chosenCapitalBy untitled-ontology-20:An_Dương_Vương ,
+                                                                         untitled-ontology-20:Ngô_Quyền ,
+                                                                         untitled-ontology-20:Ngô_Xương_Văn ;
+                                    untitled-ontology-20:hasAdministrativeDivision untitled-ontology-20:Hà_Nội ;
+                                    untitled-ontology-20:hasBuildBy untitled-ontology-20:An_Dương_Vương ;
+                                    untitled-ontology-20:hasBuildTime "3rd century"@en ;
+                                    untitled-ontology-20:hasCountry untitled-ontology-20:AuLac ;
+                                    untitled-ontology-20:hasFestival untitled-ontology-20:Lễ_hội_Cổ_Loa ;
+                                    untitled-ontology-20:hasHistoricalSiteLevel untitled-ontology-20:SepcialNationalLevel ;
+                                    untitled-ontology-20:hasPeriod untitled-ontology-20:NgoDynasty ;
+                                    rdfs:label "Cổ Loa Citade"@en ,
+                                               "Thành Cổ Loa"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Cờ_Lao
+untitled-ontology-20:Cờ_Lao rdf:type owl:NamedIndividual ,
+                                     untitled-ontology-20:Kra .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#DaiCoViet
+untitled-ontology-20:DaiCoViet rdf:type owl:NamedIndividual ,
+                                        untitled-ontology-20:Country ;
+                               rdfs:label "Đại Cồ Việt"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#DaiNam
+untitled-ontology-20:DaiNam rdf:type owl:NamedIndividual ,
+                                     untitled-ontology-20:Country ;
+                            rdfs:label "Đại Nam"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#DaiNgu
+untitled-ontology-20:DaiNgu rdf:type owl:NamedIndividual ,
+                                     untitled-ontology-20:Country ;
+                            rdfs:label "Đại Ngu"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#DaiViet
+untitled-ontology-20:DaiViet rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:Country ;
+                             rdfs:label "Đại Việt"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Dao
+untitled-ontology-20:Dao rdf:type owl:NamedIndividual ,
+                                  <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Hmong–Mien> .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Decentralized
+untitled-ontology-20:Decentralized rdf:type owl:NamedIndividual ;
+                                   untitled-ontology-20:hasChronology <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#1527–1802> .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#DeclaresIndependencePeriod
+untitled-ontology-20:DeclaresIndependencePeriod rdf:type owl:NamedIndividual ,
+                                                         untitled-ontology-20:Period ;
+                                                rdfs:label "Tuyên bố độc lập"@vn ;
+                                                skos:narower untitled-ontology-20:ModernPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#DemocraticRepublicOfVietnam
+untitled-ontology-20:DemocraticRepublicOfVietnam rdf:type owl:NamedIndividual ,
+                                                          untitled-ontology-20:Country ;
+                                                 rdfs:label "Việt Nam Dân Chủ Cộng Hòa"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#DinhDynasty
+untitled-ontology-20:DinhDynasty rdf:type owl:NamedIndividual ,
+                                          untitled-ontology-20:Period ;
+                                 rdfs:label "Nhà Đinh"@vn ;
+                                 skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Doctor_of_Philosophy
+untitled-ontology-20:Doctor_of_Philosophy rdf:type owl:NamedIndividual ;
+                                          rdfs:label "Doctor of Philosophy"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Dry
+untitled-ontology-20:Dry rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Dương_Bình_Vương
+untitled-ontology-20:Dương_Bình_Vương rdf:type owl:NamedIndividual ,
+                                               untitled-ontology-20:Person .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#EarlyLeDynasty
+untitled-ontology-20:EarlyLeDynasty rdf:type owl:NamedIndividual ,
+                                             untitled-ontology-20:Period ;
+                                    rdfs:label "Nhà Tiền Lê"@vn ;
+                                    skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#EarlyLyDynasty
+untitled-ontology-20:EarlyLyDynasty rdf:type owl:NamedIndividual ,
+                                             untitled-ontology-20:Period ;
+                                    rdfs:label "Nhà Tiền Lý"@vn ;
+                                    skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#EmprieOfVietNam
+untitled-ontology-20:EmprieOfVietNam rdf:type owl:NamedIndividual ,
+                                              untitled-ontology-20:Country ;
+                                     rdfs:label "Đế quốc Việt Nam"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Engineer
+untitled-ontology-20:Engineer rdf:type owl:NamedIndividual ,
+                                       untitled-ontology-20:EducationDegreeTitle ;
+                              rdfs:label "Kỹ sư"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#EthnicOrigins
+untitled-ontology-20:EthnicOrigins rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Female
+untitled-ontology-20:Female rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Financial
+untitled-ontology-20:Financial rdf:type owl:NamedIndividual ,
+                                        untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#FirstChineseDomination
+untitled-ontology-20:FirstChineseDomination rdf:type owl:NamedIndividual ,
+                                                     untitled-ontology-20:Period ;
+                                            time:hasEnd <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#39> ;
+                                            untitled-ontology-20:hasChronology <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#111_BC–40_AD> ;
+                                            rdfs:label "Bắc thuộc lần thứ nhất"@vn ;
+                                            skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#FourthChineseDomination
+untitled-ontology-20:FourthChineseDomination rdf:type owl:NamedIndividual ,
+                                                      untitled-ontology-20:Period ;
+                                             rdfs:label "Bắc thuộc lần thứ tư"@vn ;
+                                             skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#FrenchColonialPeriod
+untitled-ontology-20:FrenchColonialPeriod rdf:type owl:NamedIndividual ,
+                                                   untitled-ontology-20:Period ;
+                                          rdfs:label "Thời kỳ Pháp thuộc"@vn ;
+                                          skos:narower untitled-ontology-20:ModernPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#FrenchIndochina
+untitled-ontology-20:FrenchIndochina rdf:type owl:NamedIndividual ,
+                                              untitled-ontology-20:Country ;
+                                     rdfs:label "Liên bang Đông Dương"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Gia_Rai
+untitled-ontology-20:Gia_Rai rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:Malayo-Polynesian .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#GiaoChau
+untitled-ontology-20:GiaoChau rdf:type owl:NamedIndividual ,
+                                       untitled-ontology-20:Country ;
+                              rdfs:label "Giao Châu"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Giáy
+untitled-ontology-20:Giáy rdf:type owl:NamedIndividual ,
+                                   untitled-ontology-20:Tai .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Giẻ_Triêng
+untitled-ontology-20:Giẻ_Triêng rdf:type owl:NamedIndividual ,
+                                         untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Government
+untitled-ontology-20:Government rdf:type owl:NamedIndividual ,
+                                         untitled-ontology-20:Organization ;
+                                rdfs:label "Chính phủ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#HighSchool
+untitled-ontology-20:HighSchool rdf:type owl:NamedIndividual ,
+                                         untitled-ontology-20:EducationDegreeTitle ;
+                                untitled-ontology-20:hasSameEducationDegreeLevel untitled-ontology-20:Baccalaureate ;
+                                rdfs:label "Trung học phổ thông"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#HistoricalRevolutionRelics
+untitled-ontology-20:HistoricalRevolutionRelics rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Hmong
+untitled-ontology-20:Hmong rdf:type owl:NamedIndividual ,
+                                    <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Hmong–Mien> .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#HoDynasty
+untitled-ontology-20:HoDynasty rdf:type owl:NamedIndividual ,
+                                        untitled-ontology-20:Period ;
+                               rdfs:label "Nhà Hồ"@vn ;
+                               skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Hoa
+untitled-ontology-20:Hoa rdf:type owl:NamedIndividual ,
+                                  untitled-ontology-20:Sinitic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Horsing
+untitled-ontology-20:Horsing rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Hrê
+untitled-ontology-20:Hrê rdf:type owl:NamedIndividual ,
+                                  untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Humor
+untitled-ontology-20:Humor rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#HuongCong
+untitled-ontology-20:HuongCong rdf:type owl:NamedIndividual ,
+                                        untitled-ontology-20:EducationDegreeTitle ;
+                               untitled-ontology-20:hasSameEducationDegreeLevel untitled-ontology-20:Bachelor ;
+                               rdfs:label "Hương Cống"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Hà_Nhì
+untitled-ontology-20:Hà_Nhì rdf:type owl:NamedIndividual ,
+                                     untitled-ontology-20:Tibet-Burma .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Hà_Nội
+untitled-ontology-20:Hà_Nội rdf:type owl:NamedIndividual ,
+                                     untitled-ontology-20:AdministrativeDivision .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Independent
+untitled-ontology-20:Independent rdf:type owl:NamedIndividual ;
+                                 untitled-ontology-20:hasChronology <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#938–1407> .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#IndochinaWar
+untitled-ontology-20:IndochinaWar rdf:type owl:NamedIndividual ,
+                                           untitled-ontology-20:Period ;
+                                  rdfs:label "Chiến tranh Đông Dương"@vn ;
+                                  skos:narower untitled-ontology-20:ModernPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Intermediate
+untitled-ontology-20:Intermediate rdf:type owl:NamedIndividual ,
+                                           untitled-ontology-20:EducationDegreeTitle ;
+                                  rdfs:label "Trung cấp"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#IronAge
+untitled-ontology-20:IronAge rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:Period ;
+                             rdfs:label "Thời đại đồ sắt"@vn ;
+                             skos:narower untitled-ontology-20:PrehistoricPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#JapaneseColonialPeriod
+untitled-ontology-20:JapaneseColonialPeriod rdf:type owl:NamedIndividual ,
+                                                     untitled-ontology-20:Period ;
+                                            rdfs:label "Thời kỳ Nhật thuộc"@vn ;
+                                            skos:narower untitled-ontology-20:ModernPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Jiaozhi
+untitled-ontology-20:Jiaozhi rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:Country ;
+                             rdfs:label "Bộ Giao Chỉ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#JuniorHighSchool
+untitled-ontology-20:JuniorHighSchool rdf:type owl:NamedIndividual ,
+                                               untitled-ontology-20:EducationDegreeTitle ;
+                                      rdfs:label "Trung học cơ sở"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Khmer
+untitled-ontology-20:Khmer rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#KhucFamily
+untitled-ontology-20:KhucFamily rdf:type owl:NamedIndividual ,
+                                         untitled-ontology-20:Period ;
+                                rdfs:label "Họ Khúc"@vn ;
+                                skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Kháng
+untitled-ontology-20:Kháng rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Khơ_Mú
+untitled-ontology-20:Khơ_Mú rdf:type owl:NamedIndividual ,
+                                     untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#King
+untitled-ontology-20:King rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#King_Ngô_Quyền
+untitled-ontology-20:King_Ngô_Quyền rdf:type owl:NamedIndividual ,
+                                             untitled-ontology-20:King ;
+                                    untitled-ontology-20:hasReignFrom "Year 938"@en ;
+                                    untitled-ontology-20:hasReignTo "Year 939"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Kinh
+untitled-ontology-20:Kinh rdf:type owl:NamedIndividual ,
+                                   untitled-ontology-20:Vietic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#La_Chí
+untitled-ontology-20:La_Chí rdf:type owl:NamedIndividual ,
+                                     untitled-ontology-20:Kra .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#La_Ha
+untitled-ontology-20:La_Ha rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:Kra .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#La_Hủ
+untitled-ontology-20:La_Hủ rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:Tibet-Burma .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Lao
+untitled-ontology-20:Lao rdf:type owl:NamedIndividual ,
+                                  untitled-ontology-20:Tai .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#LeDynasty
+untitled-ontology-20:LeDynasty rdf:type owl:NamedIndividual ,
+                                        untitled-ontology-20:Period ;
+                               untitled-ontology-20:orKnownAs "LaterLeDynasty"@en ;
+                               rdfs:label "Nhà Hậu Lê"@vn ;
+                               skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#LeTrungHunDynasty
+untitled-ontology-20:LeTrungHunDynasty rdf:type owl:NamedIndividual ,
+                                                untitled-ontology-20:Period ;
+                                       rdfs:label "Nhà Lê Trung Hưng"@vn ;
+                                       skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Leadership
+untitled-ontology-20:Leadership rdf:type owl:NamedIndividual ,
+                                         untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Legal
+untitled-ontology-20:Legal rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#LinhNam
+untitled-ontology-20:LinhNam rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:Country ;
+                             rdfs:label "Lĩnh Nam"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Literature
+untitled-ontology-20:Literature rdf:type owl:NamedIndividual ,
+                                         untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Logistics
+untitled-ontology-20:Logistics rdf:type owl:NamedIndividual ,
+                                        untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#LyDynasty
+untitled-ontology-20:LyDynasty rdf:type owl:NamedIndividual ,
+                                        untitled-ontology-20:Period ;
+                               rdfs:label "Nhà Lý"@vn ;
+                               skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Lô_Lô
+untitled-ontology-20:Lô_Lô rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:Tibet-Burma .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Lý_Thường_Kiệt
+untitled-ontology-20:Lý_Thường_Kiệt rdf:type owl:NamedIndividual ,
+                                             untitled-ontology-20:Person ;
+                                    untitled-ontology-20:wasDerivedFrom untitled-ontology-20:fbc824608bf047fcbfb803c1b0f98e66f4372207 .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Lễ_hội_Cổ_Loa
+untitled-ontology-20:Lễ_hội_Cổ_Loa rdf:type owl:NamedIndividual ,
+                                            untitled-ontology-20:TraditionalFestival ;
+                                   untitled-ontology-20:hasTimeHappen "The fifth day of the fifth month of the lunar Vietnamese calendar"@en ;
+                                   rdfs:label "Cổ Loa Festival"@en ,
+                                              "Lễ hội Cổ Loa"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Lự
+untitled-ontology-20:Lự rdf:type owl:NamedIndividual ,
+                                 untitled-ontology-20:Tai .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#MacDynasty
+untitled-ontology-20:MacDynasty rdf:type owl:NamedIndividual ,
+                                         untitled-ontology-20:Period ;
+                                rdfs:label "Nhà Mạc"@vn ;
+                                skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Male
+untitled-ontology-20:Male rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Master
+untitled-ontology-20:Master rdf:type owl:NamedIndividual ,
+                                     untitled-ontology-20:EducationDegreeTitle ;
+                            rdfs:label "Thạc sĩ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Math
+untitled-ontology-20:Math rdf:type owl:NamedIndividual ,
+                                   untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Military
+untitled-ontology-20:Military rdf:type owl:NamedIndividual ,
+                                       untitled-ontology-20:Organization ;
+                              rdfs:label "Quân đội"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#MilitaryManagerment
+untitled-ontology-20:MilitaryManagerment rdf:type owl:NamedIndividual ,
+                                                  untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Mnông
+untitled-ontology-20:Mnông rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#ModernPeriod
+untitled-ontology-20:ModernPeriod rdf:type owl:NamedIndividual ,
+                                           untitled-ontology-20:Period .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#MonarchicalPeriod
+untitled-ontology-20:MonarchicalPeriod rdf:type owl:NamedIndividual ,
+                                                untitled-ontology-20:Period ;
+                                       rdfs:label "Thời kỳ quân chủ"@vn ;
+                                       skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Music
+untitled-ontology-20:Music rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Mường
+untitled-ontology-20:Mường rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:Vietic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Mạ
+untitled-ontology-20:Mạ rdf:type owl:NamedIndividual ,
+                                 untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Mảng
+untitled-ontology-20:Mảng rdf:type owl:NamedIndividual ,
+                                   untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#NamViet
+untitled-ontology-20:NamViet rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:Country ;
+                             rdfs:label "Nam Việt"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#NationalHeritage
+untitled-ontology-20:NationalHeritage rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#NationalLevel
+untitled-ontology-20:NationalLevel rdf:type owl:NamedIndividual ,
+                                            untitled-ontology-20:HistoricSiteLevel ;
+                                   rdfs:label "Di tích quốc gia"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#NationalMonumentsSpecial
+untitled-ontology-20:NationalMonumentsSpecial rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Negotiating
+untitled-ontology-20:Negotiating rdf:type owl:NamedIndividual ,
+                                          untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#NgoDynasty
+untitled-ontology-20:NgoDynasty rdf:type owl:NamedIndividual ,
+                                         untitled-ontology-20:Period ;
+                                rdfs:label "Nhà Ngô"@vn ;
+                                skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#NguyenDynasty
+untitled-ontology-20:NguyenDynasty rdf:type owl:NamedIndividual ,
+                                            untitled-ontology-20:Period ;
+                                   rdfs:label "Nhà Nguyễn"@vn ;
+                                   skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Ngái
+untitled-ontology-20:Ngái rdf:type owl:NamedIndividual ,
+                                   untitled-ontology-20:Sinitic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Ngô_Quyền
+untitled-ontology-20:Ngô_Quyền rdf:type owl:NamedIndividual ,
+                                        untitled-ontology-20:Person ;
+                               untitled-ontology-20:hasBorn "17 April 898"@en ;
+                               untitled-ontology-20:hasBornAt untitled-ontology-20:Ái_Châu ;
+                               untitled-ontology-20:hasDied "14 February 944"@en ;
+                               untitled-ontology-20:hasJob untitled-ontology-20:King_Ngô_Quyền ;
+                               untitled-ontology-20:hasPeriod untitled-ontology-20:NgoDynasty ;
+                               untitled-ontology-20:hasSuccessor untitled-ontology-20:Dương_Bình_Vương .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Ngô_Quyền_Mausoleum
+untitled-ontology-20:Ngô_Quyền_Mausoleum rdf:type owl:NamedIndividual ,
+                                                  untitled-ontology-20:CitadelArchitecture ;
+                                         rdfs:label "Lăng Ngô Quyền"@vn ,
+                                                    "Ngô Quyền Mausoleum"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Ngô_Xương_Văn
+untitled-ontology-20:Ngô_Xương_Văn rdf:type owl:NamedIndividual ,
+                                            untitled-ontology-20:Person .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Nha_lại
+untitled-ontology-20:Nha_lại rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#North_Central_and_Central_Coast
+untitled-ontology-20:North_Central_and_Central_Coast rdf:type owl:NamedIndividual ;
+                                                     rdfs:label "North Central and Central Coast"@en ,
+                                                                "vùng Bắc Trung Bộ và Duyên hải miền Trung"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Northern
+untitled-ontology-20:Northern rdf:type owl:NamedIndividual ;
+                              rdfs:label "Miền Bắc"@vn ,
+                                         "Northern"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Northern_Midlands_and_Mountains
+untitled-ontology-20:Northern_Midlands_and_Mountains rdf:type owl:NamedIndividual ;
+                                                     rdfs:label "Northern Midlands and Mountains"@en ,
+                                                                "Trung du và Miền núi phía Bắc"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Nùng
+untitled-ontology-20:Nùng rdf:type owl:NamedIndividual ,
+                                   untitled-ontology-20:Tai .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Other
+untitled-ontology-20:Other rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#OtherEvent
+untitled-ontology-20:OtherEvent rdf:type owl:NamedIndividual ,
+                                         untitled-ontology-20:HistoricEvent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#OtherFestival
+untitled-ontology-20:OtherFestival rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Parliament
+untitled-ontology-20:Parliament rdf:type owl:NamedIndividual ,
+                                         untitled-ontology-20:Organization ;
+                                rdfs:label "Quốc hội"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#PhD
+untitled-ontology-20:PhD rdf:type owl:NamedIndividual ,
+                                  untitled-ontology-20:EducationDegreeTitle ;
+                         rdfs:label "Tiến sĩ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#PhoBang
+untitled-ontology-20:PhoBang rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:EducationDegreeTitle ;
+                             rdfs:label "Phó bảng"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Phunoi
+untitled-ontology-20:Phunoi rdf:type owl:NamedIndividual ,
+                                     untitled-ontology-20:Tibet-Burma .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Phù_Lá
+untitled-ontology-20:Phù_Lá rdf:type owl:NamedIndividual ,
+                                     untitled-ontology-20:Tibet-Burma .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Planning
+untitled-ontology-20:Planning rdf:type owl:NamedIndividual ,
+                                       untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Poetry
+untitled-ontology-20:Poetry rdf:type owl:NamedIndividual ,
+                                     untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#PostWarEvent
+untitled-ontology-20:PostWarEvent rdf:type owl:NamedIndividual ,
+                                           untitled-ontology-20:HistoricEvent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#PrehistoricPeriod
+untitled-ontology-20:PrehistoricPeriod rdf:type owl:NamedIndividual ,
+                                                untitled-ontology-20:Period .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Primary
+untitled-ontology-20:Primary rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:EducationDegreeTitle ;
+                             rdfs:label "Tiểu học"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Primary_I
+untitled-ontology-20:Primary_I rdf:type owl:NamedIndividual ;
+                               rdfs:label "Primary I"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Primary_II
+untitled-ontology-20:Primary_II rdf:type owl:NamedIndividual ;
+                                rdfs:label "Primary II"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Primary_III
+untitled-ontology-20:Primary_III rdf:type owl:NamedIndividual ;
+                                 rdfs:label "Primary III"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Prince
+untitled-ontology-20:Prince rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Princess
+untitled-ontology-20:Princess rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Professor
+untitled-ontology-20:Professor rdf:type owl:NamedIndividual ,
+                                        untitled-ontology-20:EducationDegreeTitle ;
+                               rdfs:label "Giáo sư"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#ProvincialLevel
+untitled-ontology-20:ProvincialLevel rdf:type owl:NamedIndividual ,
+                                              untitled-ontology-20:HistoricSiteLevel ;
+                                     rdfs:label "Di tích cấp tỉnh"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#ProvincialLevelMonuments
+untitled-ontology-20:ProvincialLevelMonuments rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#ProvisionalRevolutionaryGovernmentOfTheRepublicOfSouthVietnam
+untitled-ontology-20:ProvisionalRevolutionaryGovernmentOfTheRepublicOfSouthVietnam rdf:type owl:NamedIndividual ,
+                                                                                            untitled-ontology-20:Country ;
+                                                                                   rdfs:label "Chính phủ Cách mạng Lâm thời Cộng hòa Miền Nam Việt Nam"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Pu_Péo
+untitled-ontology-20:Pu_Péo rdf:type owl:NamedIndividual ,
+                                     untitled-ontology-20:Kra .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Pà_Thẻn
+untitled-ontology-20:Pà_Thẻn rdf:type owl:NamedIndividual ,
+                                      <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Hmong–Mien> .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Quan_lại
+untitled-ontology-20:Quan_lại rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Queen
+untitled-ontology-20:Queen rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Ra_Glai
+untitled-ontology-20:Ra_Glai rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:Malayo-Polynesian .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Rainy
+untitled-ontology-20:Rainy rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Red_River_Delta
+untitled-ontology-20:Red_River_Delta rdf:type owl:NamedIndividual ;
+                                     rdfs:label "Red River Delta"@en ,
+                                                "vùng Đồng bằng sông Hồng"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#ReformEvent
+untitled-ontology-20:ReformEvent rdf:type owl:NamedIndividual ,
+                                          untitled-ontology-20:HistoricEvent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#RelicInCulturalHeritageList
+untitled-ontology-20:RelicInCulturalHeritageList rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#ReligiousFestival
+untitled-ontology-20:ReligiousFestival rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#RenovatedEra
+untitled-ontology-20:RenovatedEra rdf:type owl:NamedIndividual ,
+                                           untitled-ontology-20:Period ;
+                                  rdfs:label "Thời kỳ đổi mới"@vn ;
+                                  skos:narower untitled-ontology-20:ModernPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#RepublicOfVietnam
+untitled-ontology-20:RepublicOfVietnam rdf:type owl:NamedIndividual ,
+                                                untitled-ontology-20:Country ;
+                                       rdfs:label "Việt Nam Cộng Hòa"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Restored
+untitled-ontology-20:Restored rdf:type owl:NamedIndividual ;
+                              untitled-ontology-20:hasChronology <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#1428–1527> .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#RevolutionHistoryFestival
+untitled-ontology-20:RevolutionHistoryFestival rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Royal
+untitled-ontology-20:Royal rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:Organization ;
+                           rdfs:label "Hoàng gia"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Rơ_Măm
+untitled-ontology-20:Rơ_Măm rdf:type owl:NamedIndividual ,
+                                     untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#ScenicMonuments
+untitled-ontology-20:ScenicMonuments rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#SecondChineseDomination
+untitled-ontology-20:SecondChineseDomination rdf:type owl:NamedIndividual ,
+                                                      untitled-ontology-20:Period ;
+                                             untitled-ontology-20:hasChronology <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#43–544> ;
+                                             rdfs:label "Bắc thuộc lần thứ hai"@vn ;
+                                             skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#SepcialNationalLevel
+untitled-ontology-20:SepcialNationalLevel rdf:type owl:NamedIndividual ,
+                                                   untitled-ontology-20:HistoricSiteLevel ;
+                                          rdfs:label "Di tích quốc gia đặc biệt"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Shooting
+untitled-ontology-20:Shooting rdf:type owl:NamedIndividual ,
+                                       untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Si_La
+untitled-ontology-20:Si_La rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:Tibet-Burma .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#SocialistRepublicOfVietnam
+untitled-ontology-20:SocialistRepublicOfVietnam rdf:type owl:NamedIndividual ,
+                                                         untitled-ontology-20:Country ;
+                                                rdfs:label "Cộng hòa Xã hội chủ nghĩa Việt Nam"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#South
+untitled-ontology-20:South rdf:type owl:NamedIndividual ;
+                           rdfs:label "Miền Bắc"@vn ,
+                                      "South"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Spring
+untitled-ontology-20:Spring rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#StateOfVietnam
+untitled-ontology-20:StateOfVietnam rdf:type owl:NamedIndividual ,
+                                             untitled-ontology-20:Country ;
+                                    rdfs:label "Quốc gia Việt Nam"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#StoneAge
+untitled-ontology-20:StoneAge rdf:type owl:NamedIndividual ,
+                                       untitled-ontology-20:Period ;
+                              rdfs:label "Thời đại đồ đá"@vn ;
+                              skos:narower untitled-ontology-20:PrehistoricPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Summer
+untitled-ontology-20:Summer rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Swimming
+untitled-ontology-20:Swimming rdf:type owl:NamedIndividual ,
+                                       untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Sán_Chay
+untitled-ontology-20:Sán_Chay rdf:type owl:NamedIndividual ,
+                                       untitled-ontology-20:Tai .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Sán_Dìu
+untitled-ontology-20:Sán_Dìu rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:Sinitic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Taming
+untitled-ontology-20:Taming rdf:type owl:NamedIndividual ,
+                                     untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Taxes
+untitled-ontology-20:Taxes rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#TaySonDynasty
+untitled-ontology-20:TaySonDynasty rdf:type owl:NamedIndividual ,
+                                            untitled-ontology-20:Period ;
+                                   rdfs:label "Nhà Tây Sơn"@vn ;
+                                   skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Teaching
+untitled-ontology-20:Teaching rdf:type owl:NamedIndividual ,
+                                       untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Thanh_Hóa
+untitled-ontology-20:Thanh_Hóa rdf:type owl:NamedIndividual ,
+                                        untitled-ontology-20:AdministrativeDivision .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#The_Mekong_Delta
+untitled-ontology-20:The_Mekong_Delta rdf:type owl:NamedIndividual ;
+                                      rdfs:label "The Mekong Delta"@en ,
+                                                 "Vùng Đồng Bằng Sông Cửu Long"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#ThirdChineseDomination
+untitled-ontology-20:ThirdChineseDomination rdf:type owl:NamedIndividual ,
+                                                     untitled-ontology-20:Period ;
+                                            rdfs:label "Bắc thuộc lần thứ ba"@vn ;
+                                            skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#ThucSubject
+untitled-ontology-20:ThucSubject rdf:type owl:NamedIndividual ,
+                                          untitled-ontology-20:Subject .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Thái
+untitled-ontology-20:Thái rdf:type owl:NamedIndividual ,
+                                   untitled-ontology-20:Tai .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Thăng_Long
+untitled-ontology-20:Thăng_Long rdf:type owl:NamedIndividual ,
+                                         untitled-ontology-20:AdministrativeDivision .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Thổ
+untitled-ontology-20:Thổ rdf:type owl:NamedIndividual ,
+                                  untitled-ontology-20:Vietic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#TinhHaiQuan
+untitled-ontology-20:TinhHaiQuan rdf:type owl:NamedIndividual ,
+                                          untitled-ontology-20:Country ;
+                                 rdfs:label "TinhHaiQuan"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#TraditionalFestival
+untitled-ontology-20:TraditionalFestival rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#TranDynasty
+untitled-ontology-20:TranDynasty rdf:type owl:NamedIndividual ,
+                                          untitled-ontology-20:Period ;
+                                 rdfs:label "TranDynasty"@vn ;
+                                 skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#TrieuRulingDynasty
+untitled-ontology-20:TrieuRulingDynasty rdf:type owl:NamedIndividual ,
+                                                 untitled-ontology-20:Period ;
+                                        time:hasEnd <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#111_BC> ;
+                                        rdfs:label "Nhà Triệu cai trị"@vn ;
+                                        skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#TrungSisters
+untitled-ontology-20:TrungSisters rdf:type owl:NamedIndividual ,
+                                           untitled-ontology-20:Period ;
+                                  rdfs:label "Hai Bà Trưng"@vn ;
+                                  skos:narower untitled-ontology-20:ChineseDominationPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Tà_Ôi
+untitled-ontology-20:Tà_Ôi rdf:type owl:NamedIndividual ,
+                                    untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Tày
+untitled-ontology-20:Tày rdf:type owl:NamedIndividual ,
+                                  untitled-ontology-20:Tai .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Unified
+untitled-ontology-20:Unified rdf:type owl:NamedIndividual ;
+                             untitled-ontology-20:hasChronology <http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#1802–1858> .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#UnifiedEra
+untitled-ontology-20:UnifiedEra rdf:type owl:NamedIndividual ,
+                                         untitled-ontology-20:Period ;
+                                rdfs:label "Thời kỳ thống nhất"@vn ;
+                                skos:narower untitled-ontology-20:ModernPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#University
+untitled-ontology-20:University rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#VanLang
+untitled-ontology-20:VanLang rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:Country ;
+                             rdfs:label "Văn Lang"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#VanLangDynasty
+untitled-ontology-20:VanLangDynasty rdf:type owl:NamedIndividual ,
+                                             untitled-ontology-20:Period ;
+                                    rdfs:label "Thời kỳ Văn Lang"@vn ;
+                                    skos:narower untitled-ontology-20:AncientPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#VanXuan
+untitled-ontology-20:VanXuan rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:Country ;
+                             rdfs:label "Vạn Xuân"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#VietNam
+untitled-ontology-20:VietNam rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:Country ;
+                             rdfs:label "Việt Nam"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#VietNamWar
+untitled-ontology-20:VietNamWar rdf:type owl:NamedIndividual ,
+                                         untitled-ontology-20:Period ;
+                                rdfs:label "Chiến tranh Việt Nam"@vn ;
+                                skos:narower untitled-ontology-20:ModernPeriod .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Văn_Miếu_-_Quốc_Tử_Giám
+untitled-ontology-20:Văn_Miếu_-_Quốc_Tử_Giám rdf:type owl:NamedIndividual ;
+                                             untitled-ontology-20:hasDegree untitled-ontology-20:Doctor_of_Philosophy ;
+                                             rdfs:label "Văn Miếu - Quốc Tử Giám"@en ,
+                                                        "Văn Miếu - Quốc Tử Giám"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#WarEvent
+untitled-ontology-20:WarEvent rdf:type owl:NamedIndividual ,
+                                       untitled-ontology-20:HistoricEvent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Winter
+untitled-ontology-20:Winter rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Wisdom
+untitled-ontology-20:Wisdom rdf:type owl:NamedIndividual ,
+                                     untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#WorldRelics
+untitled-ontology-20:WorldRelics rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Writing
+untitled-ontology-20:Writing rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:NaturalTalent .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#XichQuy
+untitled-ontology-20:XichQuy rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:Country ;
+                             rdfs:label "Xích Quỷ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Xinh_Mun
+untitled-ontology-20:Xinh_Mun rdf:type owl:NamedIndividual ,
+                                       untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Xơ_Đăng
+untitled-ontology-20:Xơ_Đăng rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#fbc824608bf047fcbfb803c1b0f98e66f4372207
+untitled-ontology-20:fbc824608bf047fcbfb803c1b0f98e66f4372207 rdf:type owl:NamedIndividual ,
+                                                                       untitled-ontology-20:Reference ;
+                                                              untitled-ontology-20:stateIn "https://nguoikesu.com/nhan-vat/ly-thuong-kiet" .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#the_Southeast
+untitled-ontology-20:the_Southeast rdf:type owl:NamedIndividual ;
+                                   rdfs:label "The Southeast"@en ,
+                                              "Vùng Đông Nam Bộ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Ái_Châu
+untitled-ontology-20:Ái_Châu rdf:type owl:NamedIndividual ,
+                                      untitled-ontology-20:AdministrativeDivision ;
+                             untitled-ontology-20:isApartOf untitled-ontology-20:Thanh_Hóa .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Án_sát_sứ
+untitled-ontology-20:Án_sát_sứ rdf:type owl:NamedIndividual ;
+                               untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                               rdfs:label "Án sát sứ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Ê_Đê
+untitled-ontology-20:Ê_Đê rdf:type owl:NamedIndividual ,
+                                   untitled-ontology-20:Malayo-Polynesian .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Đô_chỉ_huy_sứ
+untitled-ontology-20:Đô_chỉ_huy_sứ rdf:type owl:NamedIndividual ;
+                                   untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                                   rdfs:label "Đô chỉ huy sứ"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Đô_đốc
+untitled-ontology-20:Đô_đốc rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Đại_học_sĩ
+untitled-ontology-20:Đại_học_sĩ rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Đại_tư_mã
+untitled-ontology-20:Đại_tư_mã rdf:type owl:NamedIndividual ;
+                               untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                               rdfs:label "Đại tư mã"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Đề_lĩnh
+untitled-ontology-20:Đề_lĩnh rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Đốc_học
+untitled-ontology-20:Đốc_học rdf:type owl:NamedIndividual ;
+                             untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                             rdfs:label "Đốc học"@vn .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#Ơ_Đu
+untitled-ontology-20:Ơ_Đu rdf:type owl:NamedIndividual ,
+                                   untitled-ontology-20:Austroasiatic .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'208_BC'
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#'208_BC'> rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#111_BC
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#111_BC> rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#111_BC–40_AD
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#111_BC–40_AD> rdf:type owl:NamedIndividual ;
+                                                                                       rdfs:label "111 BC–40 AD"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#1407–1427
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#1407–1427> rdf:type owl:NamedIndividual ;
+                                                                                    rdfs:label "1407–1427"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#1428–1527
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#1428–1527> rdf:type owl:NamedIndividual ;
+                                                                                    rdfs:label "1428–1527"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#1527–1802
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#1527–1802> rdf:type owl:NamedIndividual ;
+                                                                                    rdfs:label "1527–1802"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#1802–1858
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#1802–1858> rdf:type owl:NamedIndividual ;
+                                                                                    rdfs:label "1802–1858"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#1858–1945
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#1858–1945> rdf:type owl:NamedIndividual ;
+                                                                                    rdfs:label "1858–1945"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#1945–present
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#1945–present> rdf:type owl:NamedIndividual ;
+                                                                                       rdfs:label "1945–present"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#207_BC
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#207_BC> rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#207–111_BC
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#207–111_BC> rdf:type owl:NamedIndividual ;
+                                                                                     rdfs:label "207–111 BC"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#257_BC
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#257_BC> rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#257–179_BC
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#257–179_BC> rdf:type owl:NamedIndividual ;
+                                                                                     rdfs:label "257–179 BC"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#2879-250_BC
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#2879-250_BC> rdf:type owl:NamedIndividual ;
+                                                                                      rdfs:label "2879-250 BC"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#39
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#39> rdf:type owl:NamedIndividual .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#40–43
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#40–43> rdf:type owl:NamedIndividual ;
+                                                                                rdfs:label "40–43"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#43–544
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#43–544> rdf:type owl:NamedIndividual ;
+                                                                                 rdfs:label "43–544"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#544–602
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#544–602> rdf:type owl:NamedIndividual ;
+                                                                                  rdfs:label "544–602"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#602–905
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#602–905> rdf:type owl:NamedIndividual ;
+                                                                                  rdfs:label "602–905"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#905–938
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#905–938> rdf:type owl:NamedIndividual ;
+                                                                                  rdfs:label "905–938"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#938–1407
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#938–1407> rdf:type owl:NamedIndividual ;
+                                                                                   rdfs:label "938–1407"@en .
+
+
+###  http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#X’Tiêng
+<http://www.semanticweb.org/minhn/ontologies/2021/0/untitled-ontology-20#X’Tiêng> rdf:type owl:NamedIndividual ,
+                                                                                           untitled-ontology-20:Austroasiatic .
+
+
+#################################################################
+#    Annotations
+#################################################################
+
+untitled-ontology-20:King rdfs:label "Vua"@vn ;
+                          untitled-ontology-20:hasOrganization untitled-ontology-20:Royal ;
+                          rdfs:label "King"@en .
+
+
+untitled-ontology-20:OtherFestival rdfs:label "OtherFestival"@en ,
+                                              "Lễ hội khác"@vn .
+
+
+untitled-ontology-20:Prince rdfs:label "Prince"@en ;
+                            untitled-ontology-20:hasOrganization untitled-ontology-20:Royal ;
+                            rdfs:label "Hoàng tử"@en .
+
+
+untitled-ontology-20:Princess rdfs:label "Công chúa"@vn ,
+                                         "Princess"@en ;
+                              untitled-ontology-20:hasOrganization untitled-ontology-20:Royal .
+
+
+untitled-ontology-20:Queen untitled-ontology-20:hasOrganization untitled-ontology-20:Royal ,
+                                                                "Queen"@en ,
+                                                                "Nữ hoàng"@vn .
+
+
+untitled-ontology-20:ReligiousFestival rdfs:label "Lễ hội tôn giáo"@vn ,
+                                                  "ReligiousFestival"@en .
+
+
+untitled-ontology-20:RevolutionHistoryFestival rdfs:label "RevolutionHistoryFestival"@en ,
+                                                          "Lễ hội lịch sử cách mạng"@vn .
+
+
+untitled-ontology-20:TraditionalFestival rdfs:label "Lễ hội dân gian"@vn ,
+                                                    "TraditionalFestival"@en .
+
+
+untitled-ontology-20:Đô_đốc rdfs:label "Đô đốc"@vn ;
+                            untitled-ontology-20:hasOrganization untitled-ontology-20:Government .
+
+
+untitled-ontology-20:Đại_học_sĩ untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                                rdfs:label "Đại học sĩ"@vn .
+
+
+untitled-ontology-20:Đề_lĩnh untitled-ontology-20:hasOrganization untitled-ontology-20:Government ;
+                             rdfs:label "Đề lĩnh"@vn .
+
+
+###  Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi

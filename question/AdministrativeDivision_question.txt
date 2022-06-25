@@ -1,0 +1,2 @@
+    - [đơn vị hành chính]{"entity":"X"} nào [nằm trong]{"entity":"predicate"} [Thanh Hóa]{"entity":"object"}?
+    - [đơn vị hành chính]{"entity":"X"} nào nằm trong [Thanh Hóa]{"entity":"object"}?

@@ -1,0 +1,911 @@
+{
+  "Trịnh Tùng": {
+    "hasBorn": "1550-12-19^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Trịnh_Cối",
+    "hasJob": "http://dbpedia.org/resource/Trịnh_lords",
+    "name": "Trịnh_Tùng",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1623-07-17^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Lê Thuần Tông": {
+    "hasBorn": "1699-03-16^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Lê_Duy_Phường",
+    "hasJob": "http://dbpedia.org/resource/List_of_monarchs_of_Vietnam",
+    "name": "Lê_Thuần_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1735-06-05^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Dương Tam Kha": {
+    "hasBorn": "?@en",
+    "hasSuccessor": "http://dbpedia.org/resource/Ngô_Quyền",
+    "hasJob": "http://dbpedia.org/resource/List_of_monarchs_of_Vietnam",
+    "name": "Dương_Tam_Kha",
+    "hasBornAt": "http://dbpedia.org/resource/Tĩnh_Hải_quân",
+    "hasDied": "0980-08-10^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trần Dụ Tông": {
+    "hasBorn": "1336-11-22^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Trần_Hiến_Tông",
+    "hasJob": "http://dbpedia.org/resource/List_of_emperors_of_the_Trần_dynasty",
+    "name": "Trần_Dụ_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1369-05-25^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Triệu Việt Vương": {
+    "hasBorn": "0524-01-26^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Lý_Nam_Đế",
+    "hasJob": "Ruler of Vietnam@en",
+    "name": "Triệu_Việt_Vương",
+    "hasBornAt": "Zhu Jian, Jiaozhou@en",
+    "hasDied": "571^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Ngô Sĩ Liên": {
+    "hasBorn": "unknown@en",
+    "hasSuccessor": "",
+    "hasJob": "Royal historian@en",
+    "name": "Ngô_Sĩ_Liên",
+    "hasBornAt": "Chương Đức, Hà Đông, Hà Tây, now Hà Nội,xứ Sơn Nam, Đại Việt@en",
+    "hasDied": "unknown@en",
+    "hasPeriod": ""
+  },
+  "Trần Thuận Tông": {
+    "hasBorn": "1378^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "http://dbpedia.org/resource/Trần_Nghệ_Tông",
+    "hasJob": "Birth name@en",
+    "name": "Trần_Thuận_Tông",
+    "hasBornAt": "Thang Long, Vietnam@en",
+    "hasDied": "April 1399@en",
+    "hasPeriod": ""
+  },
+  "Nguyễn An Ninh": {
+    "hasBorn": "1900-09-05^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "",
+    "hasJob": "writer, activist, revolutionary@en",
+    "name": "Nguyễn_An_Ninh",
+    "hasBornAt": "http://dbpedia.org/resource/Hóc_Môn",
+    "hasDied": "1943-08-14^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Mạc Thiên Tứ": {
+    "hasBorn": "1700^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "Tang Lieng@en",
+    "hasJob": "http://dbpedia.org/resource/Principality_of_Hà_Tiên",
+    "name": "Mạc_Thiên_Tứ",
+    "hasBornAt": "http://dbpedia.org/resource/Principality_of_Hà_Tiên",
+    "hasDied": "",
+    "hasPeriod": ""
+  },
+  "Mạc Cửu": {
+    "hasBorn": "1655^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "none@en",
+    "hasJob": "http://dbpedia.org/resource/Principality_of_Hà_Tiên",
+    "name": "Mạc_Cửu",
+    "hasBornAt": "Leizhou Peninsula, China@en",
+    "hasDied": "",
+    "hasPeriod": ""
+  },
+  "Thiệu Trị": {
+    "hasBorn": "1807-06-16^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Minh_Mạng",
+    "hasJob": "http://dbpedia.org/resource/List_of_monarchs_of_Vietnam",
+    "name": "Thiệu_Trị",
+    "hasBornAt": "http://dbpedia.org/resource/Imperial_City_of_Huế",
+    "hasDied": "1847-10-04^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trần Hiến Tông": {
+    "hasBorn": "1319-05-17^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Trần_Minh_Tông",
+    "hasJob": "http://dbpedia.org/resource/List_of_emperors_of_the_Trần_dynasty",
+    "name": "Trần_Hiến_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1341-06-11^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trần Quang Khải": {
+    "hasBorn": "1241^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "Prince Chiêu Minh@en",
+    "name": "Trần_Quang_Khải",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1294^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Gia Long": {
+    "hasBorn": "1762-02-08^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "Dynasty established@en",
+    "hasJob": "http://dbpedia.org/resource/Nguyễn_lords",
+    "name": "Gia_Long",
+    "hasBornAt": "http://dbpedia.org/resource/Phú_Xuân",
+    "hasDied": "1820-02-03^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Ngô Quyền": {
+    "hasBorn": "0898-04-17^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "Post established@en",
+    "hasJob": "",
+    "name": "Ngô_Quyền",
+    "hasBornAt": "http://dbpedia.org/resource/Đường_Lâm",
+    "hasDied": "0944-02-14^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trần Duệ Tông": {
+    "hasBorn": "1337-06-30^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Trần_Nghệ_Tông",
+    "hasJob": "http://dbpedia.org/resource/List_of_emperors_of_the_Trần_dynasty",
+    "name": "Trần_Duệ_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1377-03-04^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Nguyễn Du": {
+    "hasBorn": "1765-01-03^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "",
+    "hasJob": "http://dbpedia.org/resource/Lê_dynasty",
+    "name": "Nguyễn_Du",
+    "hasBornAt": "Dongkinh,  Việt Nam@en",
+    "hasDied": "1820-09-18^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Lê Chân Tông": {
+    "hasBorn": "1630^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "http://dbpedia.org/resource/Lê_Thần_Tông",
+    "hasJob": "http://dbpedia.org/resource/List_of_monarchs_of_Vietnam",
+    "name": "Lê_Chân_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1649-10-02^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trần Bình Trọng": {
+    "hasBorn": "1259^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "Prince of Bảo Nghĩa@en",
+    "name": "Trần_Bình_Trọng",
+    "hasBornAt": "Thang Long,  Đại Việt@en",
+    "hasDied": "1285^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Hoàng Tích Chu": {
+    "hasBorn": "1897-01-01^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "",
+    "hasJob": "http://dbpedia.org/resource/Journalist",
+    "name": "Hoàng_Tích_Chu",
+    "hasBornAt": "Phù Lưu village, Từ Sơn district, Bắc Ninh province, Tonkin, 23px Indochina@en",
+    "hasDied": "1933-01-25^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Lê Huyền Tông": {
+    "hasBorn": "1654^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "http://dbpedia.org/resource/Lê_Thần_Tông",
+    "hasJob": "Emperor of Vietnam@en",
+    "name": "Lê_Huyền_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1671-11-16^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Lý Nhân Tông": {
+    "hasBorn": "1066-02-22^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Lý_Thánh_Tông",
+    "hasJob": "Personal name@en",
+    "name": "Lý_Nhân_Tông",
+    "hasBornAt": "Long Đức palace, Thăng Long@en",
+    "hasDied": "1128-01-15^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trần Thánh Tông": {
+    "hasBorn": "1240-10-12^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Trần_Thái_Tông",
+    "hasJob": "http://dbpedia.org/resource/List_of_emperors_of_the_Trần_dynasty",
+    "name": "Trần_Thánh_Tông",
+    "hasBornAt": "Thăng Long, Đại Việt@en",
+    "hasDied": "1290-07-03^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Vũ Trinh": {
+    "hasBorn": "1759^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "Royal official@en",
+    "name": "Vũ_Trinh",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1828^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Kiều Công Tiễn": {
+    "hasBorn": "870^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "http://dbpedia.org/resource/Dương_Đình_Nghệ",
+    "hasJob": "Jiedushi of Tĩnh Hải quân@en",
+    "name": "Kiều_Công_Tiễn",
+    "hasBornAt": "http://dbpedia.org/resource/Phong_châu",
+    "hasDied": "938^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Dương Đình Nghệ": {
+    "hasBorn": "0874-11-22^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Khúc_Thừa_Mỹ",
+    "hasJob": "Jiedushi of Tĩnh Hải quân@en",
+    "name": "Dương_Đình_Nghệ",
+    "hasBornAt": "Bắc Ninh Province@en",
+    "hasDied": "March 937@en",
+    "hasPeriod": ""
+  },
+  "Nguyễn Phúc Chu": {
+    "hasBorn": "1675-06-11^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Nguyễn_Phúc_Trăn",
+    "hasJob": "http://dbpedia.org/resource/Nguyễn_lords",
+    "name": "Nguyễn_Phúc_Chu",
+    "hasBornAt": "http://dbpedia.org/resource/Đàng_Trong",
+    "hasDied": "1725-06-02^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Đinh Phế Đế": {
+    "hasBorn": "974^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "http://dbpedia.org/resource/Đinh_Bộ_Lĩnh",
+    "hasJob": "http://dbpedia.org/resource/List_of_monarchs_of_Vietnam",
+    "name": "Đinh_Phế_Đế",
+    "hasBornAt": "http://dbpedia.org/resource/Names_of_Vietnam",
+    "hasDied": "1001^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Lý Thánh Tông": {
+    "hasBorn": "1023-03-19^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "Kingdom of Đại Cồ Việt renamed to kingdom of Đại Việt@en",
+    "hasJob": "Temple name@en",
+    "name": "Lý_Thánh_Tông",
+    "hasBornAt": "Long Đức palace, Thăng Long@en",
+    "hasDied": "1072-02-01^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trịnh Cương": {
+    "hasBorn": "1686-07-09^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Trịnh_Căn",
+    "hasJob": "http://dbpedia.org/resource/Trịnh_lords",
+    "name": "Trịnh_Cương",
+    "hasBornAt": "Đông Kinh, North Vietnam@en",
+    "hasDied": "1729-12-20^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Nguyễn Đình Chiểu": {
+    "hasBorn": "1822-07-01^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "",
+    "hasJob": "Poet@en",
+    "name": "Nguyễn_Đình_Chiểu",
+    "hasBornAt": "http://dbpedia.org/resource/Nguyễn_dynasty",
+    "hasDied": "1888-07-03^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Phạm Ngũ Lão": {
+    "hasBorn": "1255^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "",
+    "name": "Phạm_Ngũ_Lão",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1320^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Nguyễn Văn Xuân": {
+    "hasBorn": "1892-04-03^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "",
+    "hasJob": "President of Cochinchina@en",
+    "name": "Nguyễn_Văn_Xuân",
+    "hasBornAt": "Truong Tho, Gia Định Province, Annam@en",
+    "hasDied": "1989-01-14^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trần Thiếu Đế": {
+    "hasBorn": "1396^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "http://dbpedia.org/resource/Trần_Thuận_Tông",
+    "hasJob": "http://dbpedia.org/resource/List_of_emperors_of_the_Trần_dynasty",
+    "name": "Trần_Thiếu_Đế",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "Unknown@en",
+    "hasPeriod": ""
+  },
+  "Trần Liễu": {
+    "hasBorn": "1211^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "Prince Yên Sinh@en",
+    "name": "Trần_Liễu",
+    "hasBornAt": "Thang Long,  Đại Việt@en",
+    "hasDied": "1251^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Tự Đức": {
+    "hasBorn": "1829-09-22^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Thiệu_Trị",
+    "hasJob": "http://dbpedia.org/resource/Nguyễn_dynasty",
+    "name": "Tự_Đức",
+    "hasBornAt": "http://dbpedia.org/resource/Imperial_City_of_Huế",
+    "hasDied": "1883-07-19^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Khúc Hạo": {
+    "hasBorn": "860^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "http://dbpedia.org/resource/Khúc_Thừa_Dụ",
+    "hasJob": "Ruler of autonomous Vietnam@en",
+    "name": "Khúc_Hạo",
+    "hasBornAt": "Ninh Giang, Hải Dương, Tĩnh Hải quân@en",
+    "hasDied": "917^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Lê Trang Tông": {
+    "hasBorn": "1515^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "Mạc Thái Tổ@en",
+    "hasJob": "http://dbpedia.org/resource/List_of_monarchs_of_Vietnam",
+    "name": "Lê_Trang_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1548-03-09^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trần Thừa": {
+    "hasBorn": "1184^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "none@en",
+    "hasJob": "Retired Emperor of Đại Việt@en",
+    "name": "Trần_Thừa",
+    "hasBornAt": "http://dbpedia.org/resource/Names_of_Vietnam",
+    "hasDied": "1234^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Lê Duy Phường": {
+    "hasBorn": "1709^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "http://dbpedia.org/resource/Lê_Dụ_Tông",
+    "hasJob": "http://dbpedia.org/resource/List_of_monarchs_of_Vietnam",
+    "name": "Lê_Duy_Phường",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "September 1735@en",
+    "hasPeriod": ""
+  },
+  "Nguyễn Trung Trực": {
+    "hasBorn": "1838^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "",
+    "name": "Nguyễn_Trung_Trực",
+    "hasBornAt": "http://dbpedia.org/resource/Southern_Vietnam",
+    "hasDied": "1868-10-27^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Khúc Thừa Dụ": {
+    "hasBorn": "830^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "none@en",
+    "hasJob": "Ruler of autonomous Vietnam@en",
+    "name": "Khúc_Thừa_Dụ",
+    "hasBornAt": "http://dbpedia.org/resource/Ninh_Giang_District",
+    "hasDied": "0907-07-23^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Lý Huệ Tông": {
+    "hasBorn": "July 1194@en",
+    "hasSuccessor": "http://dbpedia.org/resource/Sùng_Hiền_hầu",
+    "hasJob": "http://dbpedia.org/resource/List_of_monarchs_of_Vietnam",
+    "name": "Lý_Huệ_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Imperial_Citadel_of_Thăng_Long",
+    "hasDied": "1226-09-03^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trần Quốc Toản": {
+    "hasBorn": "1267^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "Marquis Hoài Văn@en",
+    "name": "Trần_Quốc_Toản",
+    "hasBornAt": "Thien Truong,  Đại Việt@en",
+    "hasDied": "12^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Ngô Đình Thục": {
+    "hasBorn": "1897-10-06^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "Jean-Baptiste Urrutia (as Vicar Apostolic of Huế)@en",
+    "hasJob": "In Memoriam: Archbishop Ngô Đình Thục@en",
+    "name": "Ngô_Đình_Thục",
+    "hasBornAt": "http://dbpedia.org/resource/Huế",
+    "hasDied": "1984-12-13^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Nguyễn Nhạc": {
+    "hasBorn": "?@en",
+    "hasSuccessor": "title changed from emperor@en",
+    "hasJob": "http://dbpedia.org/resource/List_of_monarchs_of_Vietnam",
+    "name": "Nguyễn_Nhạc",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "",
+    "hasPeriod": ""
+  },
+  "Hoàng Kế Viêm": {
+    "hasBorn": "1820^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "",
+    "name": "Hoàng_Kế_Viêm",
+    "hasBornAt": "http://dbpedia.org/resource/Quảng_Ninh_District",
+    "hasDied": "1909^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Lý Cao Tông": {
+    "hasBorn": "1173-07-06^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Lý_Anh_Tông",
+    "hasJob": "http://dbpedia.org/resource/Lý_dynasty",
+    "name": "Lý_Cao_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Imperial_Citadel_of_Thăng_Long",
+    "hasDied": "1210-11-15^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Lê Hiển Tông": {
+    "hasBorn": "1717-05-20^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Lê_Ý_Tông",
+    "hasJob": "http://dbpedia.org/resource/List_of_monarchs_of_Vietnam",
+    "name": "Lê_Hiển_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1786-08-10^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Lê Ý Tông": {
+    "hasBorn": "1719-03-29^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Lê_Thuần_Tông",
+    "hasJob": "http://dbpedia.org/resource/List_of_monarchs_of_Vietnam",
+    "name": "Lê_Ý_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1759-08-10^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trần Quốc Tảng": {
+    "hasBorn": "?@en",
+    "hasSuccessor": "",
+    "hasJob": "Prince Hưng Nhượng@en",
+    "name": "Trần_Quốc_Tảng",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1313^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Lý Chiêu Hoàng": {
+    "hasBorn": "September 1218@en",
+    "hasSuccessor": "http://dbpedia.org/resource/Lý_Huệ_Tông",
+    "hasJob": "Queen of Dai Viet@en",
+    "name": "Lý_Chiêu_Hoàng",
+    "hasBornAt": "http://dbpedia.org/resource/Imperial_Citadel_of_Thăng_Long",
+    "hasDied": "1278^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Đoàn Thị Điểm": {
+    "hasBorn": "1705^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "",
+    "name": "Đoàn_Thị_Điểm",
+    "hasBornAt": "Giai Phạm village, Văn Giang district, Kinh Bắc local government, Đại Việt@en",
+    "hasDied": "--09-11^^http://www.w3.org/2001/XMLSchema#gMonthDay",
+    "hasPeriod": ""
+  },
+  "Trịnh Kiểm": {
+    "hasBorn": "1503-09-14^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "Military commander established@en",
+    "hasJob": "http://dbpedia.org/resource/Trịnh_lords",
+    "name": "Trịnh_Kiểm",
+    "hasBornAt": "http://dbpedia.org/resource/Yên_Định_District",
+    "hasDied": "1570-03-29^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Lê Gia Tông": {
+    "hasBorn": "1661^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "http://dbpedia.org/resource/Lê_Huyền_Tông",
+    "hasJob": "Emperor of Vietnam@en",
+    "name": "Lê_Gia_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1675-04-27^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Phan Xích Long": {
+    "hasBorn": "1893-01-01^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "",
+    "hasJob": "",
+    "name": "Phan_Xích_Long",
+    "hasBornAt": "http://dbpedia.org/resource/Southern_Vietnam",
+    "hasDied": "1916-02-22^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trần Thái Tông": {
+    "hasBorn": "1218-07-17^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Lý_Chiêu_Hoàng",
+    "hasJob": "http://dbpedia.org/resource/List_of_emperors_of_the_Trần_dynasty",
+    "name": "Trần_Thái_Tông",
+    "hasBornAt": "Hương Tức Mặc,@en",
+    "hasDied": "1277-05-05^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trịnh Giang": {
+    "hasBorn": "1711-10-14^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Trịnh_Cương",
+    "hasJob": "http://dbpedia.org/resource/Trịnh_lords",
+    "name": "Trịnh_Giang",
+    "hasBornAt": "Đông Kinh, North Vietnam@en",
+    "hasDied": "1762-12-30^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Khúc Thừa Mỹ": {
+    "hasBorn": "before 900@en",
+    "hasSuccessor": "http://dbpedia.org/resource/Khúc_Hạo",
+    "hasJob": "http://dbpedia.org/resource/Jiedushi",
+    "name": "Khúc_Thừa_Mỹ",
+    "hasBornAt": "http://dbpedia.org/resource/Hải_Dương_province",
+    "hasDied": "931^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Lê Quý Đôn": {
+    "hasBorn": "1726^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "",
+    "name": "Lê_Quý_Đôn",
+    "hasBornAt": "Diên Hà, Thái Bình, northern Vietnam@en",
+    "hasDied": "",
+    "hasPeriod": ""
+  },
+  "Mạc Toàn": {
+    "hasBorn": "?@en",
+    "hasSuccessor": "http://dbpedia.org/resource/Mạc_Mậu_Hợp",
+    "hasJob": "Emperor of Vietnam@en",
+    "name": "Mạc_Toàn",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1593^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Trương Định": {
+    "hasBorn": "1820^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "",
+    "name": "Trương_Định",
+    "hasBornAt": "Bình Sơn, Quảng Ngãi, Vietnam@en",
+    "hasDied": "--08-19^^http://www.w3.org/2001/XMLSchema#gMonthDay",
+    "hasPeriod": ""
+  },
+  "Lý Anh Tông": {
+    "hasBorn": "4^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "http://dbpedia.org/resource/Lý_Thần_Tông",
+    "hasJob": "http://dbpedia.org/resource/List_of_emperors_of_the_Lý_dynasty",
+    "name": "Lý_Anh_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Imperial_Citadel_of_Thăng_Long",
+    "hasDied": "1175-08-14^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trần Ích Tắc": {
+    "hasBorn": "1254^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "Prince Chiêu Quốc@en",
+    "name": "Trần_Ích_Tắc",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1329^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Trịnh Căn": {
+    "hasBorn": "1633-07-18^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Trịnh_Tạc",
+    "hasJob": "http://dbpedia.org/resource/Trịnh_lords",
+    "name": "Trịnh_Căn",
+    "hasBornAt": "http://dbpedia.org/resource/North_Vietnam",
+    "hasDied": "1709-06-17^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trần Minh Tông": {
+    "hasBorn": "1300-09-04^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Trần_Anh_Tông",
+    "hasJob": "http://dbpedia.org/resource/List_of_emperors_of_the_Trần_dynasty",
+    "name": "Trần_Minh_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1357-03-10^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Hiệp Hòa": {
+    "hasBorn": "1847-11-01^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Dục_Đức",
+    "hasJob": "http://dbpedia.org/resource/Nguyễn_dynasty",
+    "name": "Hiệp_Hòa",
+    "hasBornAt": "http://dbpedia.org/resource/Imperial_City_of_Huế",
+    "hasDied": "1883-11-29^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Hoàng Diệu": {
+    "hasBorn": "1829-03-14^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "",
+    "hasJob": "",
+    "name": "Hoàng_Diệu",
+    "hasBornAt": "http://dbpedia.org/resource/Điện_Bàn",
+    "hasDied": "1882-04-25^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trần Quốc Khang": {
+    "hasBorn": "1237^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "Prince Tĩnh Quốc@en",
+    "name": "Trần_Quốc_Khang",
+    "hasBornAt": "Thang Long,  Đại Việt@en",
+    "hasDied": "1300^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Lê Thần Tông": {
+    "hasBorn": "1607-11-19^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Lê_Kính_Tông",
+    "hasJob": "http://dbpedia.org/resource/List_of_monarchs_of_Vietnam",
+    "name": "Lê_Thần_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1662-11-02^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trần Nhật Duật": {
+    "hasBorn": "1255^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "Prince Chiêu Văn@en",
+    "name": "Trần_Nhật_Duật",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1330^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Minh Mạng": {
+    "hasBorn": "1791-05-25^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "Việt Nam renamed to Đại Nam@en",
+    "hasJob": "http://dbpedia.org/resource/List_of_monarchs_of_Vietnam",
+    "name": "Minh_Mạng",
+    "hasBornAt": "http://dbpedia.org/resource/Ho_Chi_Minh_City",
+    "hasDied": "1841-01-20^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Nguyễn Phan Chánh": {
+    "hasBorn": "1892-07-21^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "",
+    "hasJob": "",
+    "name": "Nguyễn_Phan_Chánh",
+    "hasBornAt": "http://dbpedia.org/resource/Hà_Tĩnh",
+    "hasDied": "1984-11-22^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Thân Văn Nhiếp": {
+    "hasBorn": "1804^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "http://dbpedia.org/resource/Prosecutor",
+    "name": "Thân_Văn_Nhiếp",
+    "hasBornAt": "http://dbpedia.org/resource/Names_of_Vietnam",
+    "hasDied": "1872^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Nguyễn Thiện Thuật": {
+    "hasBorn": "1844-03-23^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "",
+    "hasJob": "Official, revolutionist@en",
+    "name": "Nguyễn_Thiện_Thuật",
+    "hasBornAt": "http://dbpedia.org/resource/Hưng_Yên_province",
+    "hasDied": "",
+    "hasPeriod": ""
+  },
+  "Trần Anh Tông": {
+    "hasBorn": "1276-09-17^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Trần_Nhân_Tông",
+    "hasJob": "Birth name@en",
+    "name": "Trần_Anh_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1320-12-12^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Trịnh Tráng": {
+    "hasBorn": "1577-08-06^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Trịnh_Tùng",
+    "hasJob": "http://dbpedia.org/resource/Trịnh_lords",
+    "name": "Trịnh_Tráng",
+    "hasBornAt": "http://dbpedia.org/resource/Thanh_Hóa",
+    "hasDied": "1657-05-28^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Lê Long Đĩnh": {
+    "hasBorn": "0986-11-15^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Lê_Long_Việt",
+    "hasJob": "http://dbpedia.org/resource/List_of_monarchs_of_Vietnam",
+    "name": "Lê_Long_Đĩnh",
+    "hasBornAt": "http://dbpedia.org/resource/Names_of_Vietnam",
+    "hasDied": "1009-11-19^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Kiến Phúc": {
+    "hasBorn": "1868-02-12^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Hiệp_Hòa",
+    "hasJob": "Birth name@en",
+    "name": "Kiến_Phúc",
+    "hasBornAt": "http://dbpedia.org/resource/Imperial_City_of_Huế",
+    "hasDied": "1884-07-31^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Lê Dụ Tông": {
+    "hasBorn": "1679^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "http://dbpedia.org/resource/Lê_Hy_Tông",
+    "hasJob": "http://dbpedia.org/resource/List_of_monarchs_of_Vietnam",
+    "name": "Lê_Dụ_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1731-02-27^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Lý Thần Tông": {
+    "hasBorn": "1116^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "http://dbpedia.org/resource/Lý_Nhân_Tông",
+    "hasJob": "Birth name@en",
+    "name": "Lý_Thần_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Imperial_Citadel_of_Thăng_Long",
+    "hasDied": "1138-10-31^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Dương Vân Nga": {
+    "hasBorn": "?@en",
+    "hasSuccessor": "none@en",
+    "hasJob": "Empress of Early Lê Dynasty@en",
+    "name": "Dương_Vân_Nga",
+    "hasBornAt": "http://dbpedia.org/resource/Names_of_Vietnam",
+    "hasDied": "1000^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Lê Hy Tông": {
+    "hasBorn": "1663-04-22^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Lê_Gia_Tông",
+    "hasJob": "Emperor of Vietnam@en",
+    "name": "Lê_Hy_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1716-06-04^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Nguyễn Lữ": {
+    "hasBorn": "?@en",
+    "hasSuccessor": "",
+    "hasJob": "Đông Định vương@en",
+    "name": "Nguyễn_Lữ",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1787^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Trần Nghệ Tông": {
+    "hasBorn": "December 1321@en",
+    "hasSuccessor": "http://dbpedia.org/resource/Trần_Minh_Tông",
+    "hasJob": "http://dbpedia.org/resource/List_of_monarchs_of_Vietnam",
+    "name": "Trần_Nghệ_Tông",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1394-12-15^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Phan Đình Phùng": {
+    "hasBorn": "1847^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "",
+    "name": "Phan_Đình_Phùng",
+    "hasBornAt": "http://dbpedia.org/resource/Đông_Thái_village",
+    "hasDied": "--01-21^^http://www.w3.org/2001/XMLSchema#gMonthDay",
+    "hasPeriod": ""
+  },
+  "Trần Hưng Đạo": {
+    "hasBorn": "1228^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "Imperial Prince of Đại Việt@en",
+    "name": "Trần_Hưng_Đạo",
+    "hasBornAt": "Tức Mặc, Mỹ Lộc, Thiên Trường,  Đại Việt@en",
+    "hasDied": "",
+    "hasPeriod": ""
+  },
+  "Hồ Quý Ly": {
+    "hasBorn": "1336^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "http://dbpedia.org/resource/Trần_Thiếu_Đế",
+    "hasJob": "http://dbpedia.org/resource/List_of_monarchs_of_Vietnam",
+    "name": "Hồ_Quý_Ly",
+    "hasBornAt": "Đại Lại village, Vĩnh Ninh district,  Ái Châu, Thanh Đô town, Đại Việt@en",
+    "hasDied": "Unknown@en",
+    "hasPeriod": ""
+  },
+  "Tôn Đức Thắng": {
+    "hasBorn": "1888-08-20^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Bùi_Bằng_Đoàn",
+    "hasJob": "http://dbpedia.org/resource/President_of_Vietnam",
+    "name": "Tôn_Đức_Thắng",
+    "hasBornAt": "http://dbpedia.org/resource/Long_Xuyên",
+    "hasDied": "1980-03-30^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Lê Ngọc Bình": {
+    "hasBorn": "1785-01-22^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Bùi_Thị_Nhạn",
+    "hasJob": "",
+    "name": "Lê_Ngọc_Bình",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1810-10-10^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Lê Văn Hưu": {
+    "hasBorn": "1230^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "Royal historian@en",
+    "name": "Lê_Văn_Hưu",
+    "hasBornAt": "http://dbpedia.org/resource/Phủ_Lý_District,_Hà_Nam",
+    "hasDied": "1322^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Phan Thanh Giản": {
+    "hasBorn": "1796-11-11^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "",
+    "hasJob": "",
+    "name": "Phan_Thanh_Giản",
+    "hasBornAt": "Ba Thanh village, Biên Hòa@en",
+    "hasDied": "1867-08-04^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Lê Thái Tông": {
+    "hasBorn": "1423-11-20^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Lê_Lợi",
+    "hasJob": "Emperor of Vietnam@en",
+    "name": "Lê_Thái_Tông",
+    "hasBornAt": "Lam Sơn, Thọ Xuân, Thanh Hóa Province@en",
+    "hasDied": "1442-08-08^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Vũ Miên": {
+    "hasBorn": "1718^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "Royal historian@en",
+    "name": "Vũ_Miên",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "1782^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Mạc Mậu Hợp": {
+    "hasBorn": "1560^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "http://dbpedia.org/resource/Mạc_Tuyên_Tông",
+    "hasJob": "Emperor of Vietnam@en",
+    "name": "Mạc_Mậu_Hợp",
+    "hasBornAt": "http://dbpedia.org/resource/Đại_Việt",
+    "hasDied": "December 1593@en",
+    "hasPeriod": ""
+  },
+  "Nguyễn Phúc Thuần": {
+    "hasBorn": "1754-12-31^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "http://dbpedia.org/resource/Nguyễn_Phúc_Khoát",
+    "hasJob": "http://dbpedia.org/resource/Nguyễn_lords",
+    "name": "Nguyễn_Phúc_Thuần",
+    "hasBornAt": "http://dbpedia.org/resource/Đàng_Trong",
+    "hasDied": "1777-10-18^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Lê Văn Duyệt": {
+    "hasBorn": "1763^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "Viceroy of Gia Định@en",
+    "name": "Lê_Văn_Duyệt",
+    "hasBornAt": "Trà Lọt, Hòa Khánh, Định Tường, Chiêm Thành@en",
+    "hasDied": "1832-07-30^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Nguyễn Hoàng": {
+    "hasBorn": "1525-08-28^^http://www.w3.org/2001/XMLSchema#date",
+    "hasSuccessor": "Military Commander established@en",
+    "hasJob": "http://dbpedia.org/resource/Nguyễn_lords",
+    "name": "Nguyễn_Hoàng",
+    "hasBornAt": "http://dbpedia.org/resource/Thanh_Hóa_province",
+    "hasDied": "1613-07-20^^http://www.w3.org/2001/XMLSchema#date",
+    "hasPeriod": ""
+  },
+  "Đào Duy Từ": {
+    "hasBorn": "1572^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "http://dbpedia.org/resource/Official",
+    "name": "Đào_Duy_Từ",
+    "hasBornAt": "http://dbpedia.org/resource/Ngọc_Sơn_Lương_Sơn",
+    "hasDied": "1634^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasPeriod": ""
+  },
+  "Đặng Trần Côn": {
+    "hasBorn": "circa 1705@en",
+    "hasSuccessor": "",
+    "hasJob": "",
+    "name": "Đặng_Trần_Côn",
+    "hasBornAt": "Nhân Mục village, Thanh Trì district, Hanoi@en",
+    "hasDied": "circa@en",
+    "hasPeriod": ""
+  },
+  "Trần Thủ Độ": {
+    "hasBorn": "1194^^http://www.w3.org/2001/XMLSchema#integer",
+    "hasSuccessor": "",
+    "hasJob": "Prince Trung Võ@en",
+    "name": "Trần_Thủ_Độ",
+    "hasBornAt": "Long Hưng, Vietnam@en",
+    "hasDied": "",
+    "hasPeriod": ""
+  }
+}

@@ -1,0 +1,2 @@
+    - [di tích khảo cổ]{"entity":"X"} nào [có niên đại]{"entity":"predicate"} [3000 năm]{"entity":"object"}?
+    - [di tích khảo cổ]{"entity":"X"} nào có niên đại [3000 năm]{"entity":"object"}?

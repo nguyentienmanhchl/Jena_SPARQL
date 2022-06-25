@@ -1,0 +1,12 @@
+    - [Khúc Thừa Dụ]{"entity":"object"}  [mất vào]{"entity":"predicate"} ?
+    - [Khúc Thừa Dụ]{"entity":"object"}  [sinh vào]{"entity":"predicate"} ?
+    - [Ngô Quyền]{"entity":"object"}  [ở thời kỳ là]{"entity":"predicate"} ?
+    - [Ngô Quyền]{"entity":"object"}  [giữ chức vụ]{"entity":"predicate"} ?
+    - [Ngô Quyền]{"entity":"object"}  [có người kế vị là]{"entity":"predicate"} ?
+    - [Nguyễn Ngọc Loan]{"entity":"object"}  [sinh tại]{"entity":"predicate"} ?
+    - [Khúc Thừa Dụ]{"entity":"object"}  mất vào ?
+    - [Khúc Thừa Dụ]{"entity":"object"}  sinh vào ?
+    - [Ngô Quyền]{"entity":"object"}  ở thời kỳ là ?
+    - [Ngô Quyền]{"entity":"object"}  giữ chức vụ ?
+    - [Ngô Quyền]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Ngọc Loan]{"entity":"object"}  sinh tại ?

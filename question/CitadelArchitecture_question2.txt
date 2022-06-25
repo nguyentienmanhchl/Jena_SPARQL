@@ -1,0 +1,12 @@
+    - [kiến trúc thành quách]{"entity":"X"} nào [ở thời kỳ là]{"entity":"predicate"} [NgoDynasty]{"entity":"object"} và [được chọn làm thủ đô bởi]{"entity":"predicate"} [Ngô Quyền]{"entity":"object"} ?
+    - [kiến trúc thành quách]{"entity":"X"} nào [ở thời kỳ là]{"entity":"predicate"} [NgoDynasty]{"entity":"object"} và [được xây dựng bởi]{"entity":"predicate"} [An Dương Vương]{"entity":"object"} ?
+    - [kiến trúc thành quách]{"entity":"X"} nào [được chọn làm thủ đô bởi]{"entity":"predicate"} [Ngô Quyền]{"entity":"object"} và [ở thời kỳ là]{"entity":"predicate"} [NgoDynasty]{"entity":"object"} ?
+    - [kiến trúc thành quách]{"entity":"X"} nào [được chọn làm thủ đô bởi]{"entity":"predicate"} [Ngô Quyền]{"entity":"object"} và [được xây dựng bởi]{"entity":"predicate"} [An Dương Vương]{"entity":"object"} ?
+    - [kiến trúc thành quách]{"entity":"X"} nào [được xây dựng bởi]{"entity":"predicate"} [An Dương Vương]{"entity":"object"} và [ở thời kỳ là]{"entity":"predicate"} [NgoDynasty]{"entity":"object"} ?
+    - [kiến trúc thành quách]{"entity":"X"} nào [được xây dựng bởi]{"entity":"predicate"} [An Dương Vương]{"entity":"object"} và [được chọn làm thủ đô bởi]{"entity":"predicate"} [Ngô Quyền]{"entity":"object"} ?
+    - [kiến trúc thành quách]{"entity":"X"} nào ở thời kỳ là [NgoDynasty]{"entity":"object"} và được chọn làm thủ đô bởi [Ngô Quyền]{"entity":"object"} ?
+    - [kiến trúc thành quách]{"entity":"X"} nào ở thời kỳ là [NgoDynasty]{"entity":"object"} và được xây dựng bởi [An Dương Vương]{"entity":"object"} ?
+    - [kiến trúc thành quách]{"entity":"X"} nào được chọn làm thủ đô bởi [Ngô Quyền]{"entity":"object"} và ở thời kỳ là [NgoDynasty]{"entity":"object"} ?
+    - [kiến trúc thành quách]{"entity":"X"} nào được chọn làm thủ đô bởi [Ngô Quyền]{"entity":"object"} và được xây dựng bởi [An Dương Vương]{"entity":"object"} ?
+    - [kiến trúc thành quách]{"entity":"X"} nào được xây dựng bởi [An Dương Vương]{"entity":"object"} và ở thời kỳ là [NgoDynasty]{"entity":"object"} ?
+    - [kiến trúc thành quách]{"entity":"X"} nào được xây dựng bởi [An Dương Vương]{"entity":"object"} và được chọn làm thủ đô bởi [Ngô Quyền]{"entity":"object"} ?

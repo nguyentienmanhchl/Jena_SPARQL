@@ -1,0 +1,2 @@
+    - [Đàn đá Bình Đa]{"entity":"object"}  [có niên đại]{"entity":"predicate"} ?
+    - [Đàn đá Bình Đa]{"entity":"object"}  có niên đại ?

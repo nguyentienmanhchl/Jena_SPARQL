@@ -1,0 +1,12 @@
+    - [con người]{"entity":"X"} nào [mất vào]{"entity":"predicate"} [0907-07-23]{"entity":"object"}?
+    - [con người]{"entity":"X"} nào [sinh vào]{"entity":"predicate"} [830]{"entity":"object"}?
+    - [con người]{"entity":"X"} nào [ở thời kỳ là]{"entity":"predicate"} [NgoDynasty]{"entity":"object"}?
+    - [con người]{"entity":"X"} nào [giữ chức vụ]{"entity":"predicate"} [King Ngô Quyền]{"entity":"object"}?
+    - [con người]{"entity":"X"} nào [có người kế vị là]{"entity":"predicate"} [Dương Bình Vương]{"entity":"object"}?
+    - [con người]{"entity":"X"} nào [sinh tại]{"entity":"predicate"} [Huế]{"entity":"object"}?
+    - [con người]{"entity":"X"} nào mất vào [0907-07-23]{"entity":"object"}?
+    - [con người]{"entity":"X"} nào sinh vào [830]{"entity":"object"}?
+    - [con người]{"entity":"X"} nào ở thời kỳ là [NgoDynasty]{"entity":"object"}?
+    - [con người]{"entity":"X"} nào giữ chức vụ [King Ngô Quyền]{"entity":"object"}?
+    - [con người]{"entity":"X"} nào có người kế vị là [Dương Bình Vương]{"entity":"object"}?
+    - [con người]{"entity":"X"} nào sinh tại [Huế]{"entity":"object"}?

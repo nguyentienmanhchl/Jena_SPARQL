@@ -1,0 +1,8 @@
+    - [kiến trúc thành quách]{"entity":"X"} nào [được xây dựng vào]{"entity":"predicate"} [năm 1805]{"entity":"object"}?
+    - [kiến trúc thành quách]{"entity":"X"} nào [ở thời kỳ là]{"entity":"predicate"} [NgoDynasty]{"entity":"object"}?
+    - [kiến trúc thành quách]{"entity":"X"} nào [được chọn làm thủ đô bởi]{"entity":"predicate"} [Ngô Quyền]{"entity":"object"}?
+    - [kiến trúc thành quách]{"entity":"X"} nào [được xây dựng bởi]{"entity":"predicate"} [An Dương Vương]{"entity":"object"}?
+    - [kiến trúc thành quách]{"entity":"X"} nào được xây dựng vào [năm 1805]{"entity":"object"}?
+    - [kiến trúc thành quách]{"entity":"X"} nào ở thời kỳ là [NgoDynasty]{"entity":"object"}?
+    - [kiến trúc thành quách]{"entity":"X"} nào được chọn làm thủ đô bởi [Ngô Quyền]{"entity":"object"}?
+    - [kiến trúc thành quách]{"entity":"X"} nào được xây dựng bởi [An Dương Vương]{"entity":"object"}?

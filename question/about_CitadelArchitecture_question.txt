@@ -1,0 +1,8 @@
+    - [Kinh thành Huế]{"entity":"object"}  [được xây dựng vào]{"entity":"predicate"} ?
+    - [Cổ Loa Citadel]{"entity":"object"}  [ở thời kỳ là]{"entity":"predicate"} ?
+    - [Cổ Loa Citadel]{"entity":"object"}  [được chọn làm thủ đô bởi]{"entity":"predicate"} ?
+    - [Cổ Loa Citadel]{"entity":"object"}  [được xây dựng bởi]{"entity":"predicate"} ?
+    - [Kinh thành Huế]{"entity":"object"}  được xây dựng vào ?
+    - [Cổ Loa Citadel]{"entity":"object"}  ở thời kỳ là ?
+    - [Cổ Loa Citadel]{"entity":"object"}  được chọn làm thủ đô bởi ?
+    - [Cổ Loa Citadel]{"entity":"object"}  được xây dựng bởi ?

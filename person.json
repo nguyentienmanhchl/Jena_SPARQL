@@ -1,0 +1,30 @@
+{
+  "Hồ_Chí_Minh": {
+    "name": "Hồ_Chí_Minh",
+    "hasBorn": "19 May 1890",
+    "hasBornAt": "Nghệ An",
+    "hasDied": "2 Sep 1969",
+    "hasJob": "Chủ tịch nước Việt Nam",
+    "hasPeriod": "Thời kỳ Hiện đại",
+    "hasSuccessor": "Tôn Đức Thắng"
+  },
+  "An_Dương_Vương": {
+    "name": "An_Dương_Vương",
+    "hasBorn": "",
+    "hasBornAt": "",
+    "hasDied": "179 TCN",
+    "hasJob": "Quốc vương nước Âu Lạc",
+    "hasPeriod": "",
+    "hasSuccessor": ""
+  },
+  "Trần_Nhân_Tông": {
+    "name": "Trần_Nhân_Tông",
+    "hasBorn": " 7 Dec 1258",
+    "hasBornAt": "Thăng Long,Đại Việt",
+    "hasDied": "16 Dec 1308",
+    "hasJob": "Hoàng đế Đại Việt",
+    "hasPeriod": "",
+    "hasSuccessor": "Trần Anh Tông"
+
+  }
+}

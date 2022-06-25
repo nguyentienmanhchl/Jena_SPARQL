@@ -1,0 +1,50 @@
+isApartOf : nằm trong : Điện Long An nằm trong quần thể di tích Cố đô Huế, CulturalHistoricalSite
+hasChronology : có niên đại -> Đàn đá Bình Đa có niên đại 3000 năm
+hasOrganization : được tổ chức tại -> lễ hội
+hasDescription : được mô tả là -> all
+hasBuildTime : được xây dựng vào -> Kinh thành Huế được xây dựng vào năm 1805
+wasDerivedFrom : có nguồn gốc từ -> lễ hội
+related : có liên quan
+hasDied : mất vào -> người
+hasBorn : sinh vào -> người
+orKnownAs : hay còn được gọi là -> all
+hasReignTo : trị vì đến -> người
+hasReignFrom : trị vì từ -> người
+hasTimeHappen : diễn ra vào -> lễ hội
+hasPeriod : ở thời kỳ là -> người
+hasBuildBy : được xây dựng bởi -> đền, chùa, kiến trúc
+hasJob : làm -> người :
+hasSuccessor : có người kế vị là -> người
+hasBornAt : sinh tại -> người
+
+
+time:hasBeginning : Lễ hội đền Đức Ông bắt đầu vào 3/2 Âm lịch
+hasEnd: Lễ hội đền Đức Ông kết thúc cuối tháng 3 Âm lịch
+---------------------------
+AdministrativeDivision : đơn vị hành chính
+Buddhism: đạo Phật
+CulturalHistoricalSite: di tích lịch sử văn hóa
+Đại_tướng
+CitadelArchitecture: Kiến trúc thành cổ
+School
+Phủ
+ReligiousFestival : lễ hội tôn giáo
+ProperInterval : khoảng thời gian thích hợp
+Landscape-Place : cảnh quan địa điểm
+Chancellery: thủ tướng
+Shrine: đền thờ
+Period
+Religion
+Queen
+Ethnic: dân tộc
+HeritageSite: di sản
+King
+Person
+FolkArchitecture: kiến trúc dân gian
+Temple
+Country
+Festival
+TraditionalFestival
+HistoricEvent
+AbroadFestival: lễ hội du nhập từ nước ngoài
+---------------------------

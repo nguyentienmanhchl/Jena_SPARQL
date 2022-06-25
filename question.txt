@@ -1,0 +1,51 @@
+    - [con người]{"entity":"X"} nào [sinh tại]{"entity":"predicate"} [Huế]{"entity":"object"}?
+    - [sinh tại]{"entity":"predicate"} [Huế]{"entity":"object"} là [con người]{"entity":"X"} gì?
+    - [con người]{"entity":"X"} nào [sinh tại]{"entity":"predicate"} [Ái Châu]{"entity":"object"}?
+    - [sinh tại]{"entity":"predicate"} [Ái Châu]{"entity":"object"} là [con người]{"entity":"X"} gì?
+    - [con người]{"entity":"X"} nào [sinh tại]{"entity":"predicate"} [Sơn Tây]{"entity":"object"}?
+    - [sinh tại]{"entity":"predicate"} [Sơn Tây]{"entity":"object"} là [con người]{"entity":"X"} gì?
+    - [lễ hội]{"entity":"X"} nào [bắt đầu vào]{"entity":"predicate"} [cuối tháng 3 Âm lịch]{"entity":"object"}?
+    - [bắt đầu vào]{"entity":"predicate"} [cuối tháng 3 Âm lịch]{"entity":"object"} là [lễ hội]{"entity":"X"} gì?
+    - [lễ hội]{"entity":"X"} nào [kết thúc vào]{"entity":"predicate"} [3/2 Âm lịch]{"entity":"object"}?
+    - [kết thúc vào]{"entity":"predicate"} [3/2 Âm lịch]{"entity":"object"} là [lễ hội]{"entity":"X"} gì?
+    - [di tích lịch sử văn hóa]{"entity":"X"} nào [nằm trong]{"entity":"predicate"} [quần thể di tích Cố đô Huế]{"entity":"object"}?
+    - [nằm trong]{"entity":"predicate"} [quần thể di tích Cố đô Huế]{"entity":"object"} là [di tích lịch sử văn hóa]{"entity":"X"} gì?
+    - [đơn vị hành chính]{"entity":"X"} nào [nằm trong]{"entity":"predicate"} [Thanh Hóa]{"entity":"object"}?
+    - [nằm trong]{"entity":"predicate"} [Thanh Hóa]{"entity":"object"} là [đơn vị hành chính]{"entity":"X"} gì?
+    - [di tích khảo cổ]{"entity":"X"} nào [có niên đại]{"entity":"predicate"} [3000 năm]{"entity":"object"}?
+    - [có niên đại]{"entity":"predicate"} [3000 năm]{"entity":"object"} là [di tích khảo cổ]{"entity":"X"} gì?
+    - [con người]{"entity":"X"} nào [có người kế vị là]{"entity":"predicate"} [Dương Bình Vương]{"entity":"object"}?
+    - [có người kế vị là]{"entity":"predicate"} [Dương Bình Vương]{"entity":"object"} là [con người]{"entity":"X"} gì?
+    - [con người]{"entity":"X"} nào [ở thời kỳ là]{"entity":"predicate"} [NgoDynasty]{"entity":"object"}?
+    - [ở thời kỳ là]{"entity":"predicate"} [NgoDynasty]{"entity":"object"} là [con người]{"entity":"X"} gì?
+    - [kiến trúc thành quách]{"entity":"X"} nào [ở thời kỳ là]{"entity":"predicate"} [NgoDynasty]{"entity":"object"}?
+    - [ở thời kỳ là]{"entity":"predicate"} [NgoDynasty]{"entity":"object"} là [kiến trúc thành quách]{"entity":"X"} gì?
+    - [vua]{"entity":"X"} nào [trị vì]{"entity":"predicate"} [Year 939]{"entity":"object"}?
+    - [trị vì]{"entity":"predicate"} [Year 939]{"entity":"object"} là [vua]{"entity":"X"} gì?
+    - [con người]{"entity":"X"} nào [sinh vào]{"entity":"predicate"} [830]{"entity":"object"}?
+    - [sinh vào]{"entity":"predicate"} [830]{"entity":"object"} là [con người]{"entity":"X"} gì?
+    - [con người]{"entity":"X"} nào [sinh vào]{"entity":"predicate"} [1930-12-11]{"entity":"object"}?
+    - [sinh vào]{"entity":"predicate"} [1930-12-11]{"entity":"object"} là [con người]{"entity":"X"} gì?
+    - [con người]{"entity":"X"} nào [sinh vào]{"entity":"predicate"} [1910-07-10]{"entity":"object"}?
+    - [sinh vào]{"entity":"predicate"} [1910-07-10]{"entity":"object"} là [con người]{"entity":"X"} gì?
+    - [con người]{"entity":"X"} nào [sinh vào]{"entity":"predicate"} [1930-09-08]{"entity":"object"}?
+    - [sinh vào]{"entity":"predicate"} [1930-09-08]{"entity":"object"} là [con người]{"entity":"X"} gì?
+    - [con người]{"entity":"X"} nào [mất vào]{"entity":"predicate"} [0907-07-23]{"entity":"object"}?
+    - [mất vào]{"entity":"predicate"} [0907-07-23]{"entity":"object"} là [con người]{"entity":"X"} gì?
+    - [con người]{"entity":"X"} nào [mất vào]{"entity":"predicate"} [1998-07-14]{"entity":"object"}?
+    - [mất vào]{"entity":"predicate"} [1998-07-14]{"entity":"object"} là [con người]{"entity":"X"} gì?
+    - [con người]{"entity":"X"} nào [mất vào]{"entity":"predicate"} [1996-12-24]{"entity":"object"}?
+    - [mất vào]{"entity":"predicate"} [1996-12-24]{"entity":"object"} là [con người]{"entity":"X"} gì?
+    - [con người]{"entity":"X"} nào [mất vào]{"entity":"predicate"} [2011-07-23]{"entity":"object"}?
+    - [mất vào]{"entity":"predicate"} [2011-07-23]{"entity":"object"} là [con người]{"entity":"X"} gì?
+    - [lễ hội]{"entity":"X"} nào [diễn ra vào]{"entity":"predicate"} [tháng 2 Âm lịch]{"entity":"object"}?
+    - [diễn ra vào]{"entity":"predicate"} [tháng 2 Âm lịch]{"entity":"object"} là [lễ hội]{"entity":"X"} gì?
+    - [kiến trúc thành quách]{"entity":"X"} nào [được xây dựng bởi]{"entity":"predicate"} [An Dương Vương]{"entity":"object"}?
+    - [được xây dựng bởi]{"entity":"predicate"} [An Dương Vương]{"entity":"object"} là [kiến trúc thành quách]{"entity":"X"} gì?
+    - [kiến trúc thành quách]{"entity":"X"} nào [được xây dựng vào]{"entity":"predicate"} [năm 1805]{"entity":"object"}?
+    - [được xây dựng vào]{"entity":"predicate"} [năm 1805]{"entity":"object"} là [kiến trúc thành quách]{"entity":"X"} gì?
+    - [con người]{"entity":"X"} nào [giữ chức vụ]{"entity":"predicate"} [King Ngô Quyền]{"entity":"object"}?
+    - [lễ hội]{"entity":"X"} nào [được tổ chức tại]{"entity":"predicate"} [Quảng Ninh]{"entity":"object"}?
+    - [được tổ chức tại]{"entity":"predicate"} [Quảng Ninh]{"entity":"object"} là [lễ hội]{"entity":"X"} gì?
+    - [lễ hội]{"entity":"X"} nào [được tổ chức tại]{"entity":"predicate"} [Quảng Ninh]{"entity":"object"}?
+    - [được tổ chức tại]{"entity":"predicate"} [Quảng Ninh]{"entity":"object"} là [lễ hội]{"entity":"X"} gì?
