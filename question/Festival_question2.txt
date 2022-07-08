@@ -1,12 +1,43 @@
-    - [lễ hội]{"entity":"X"} nào [diễn ra vào]{"entity":"predicate"} [tháng 2 Âm lịch]{"entity":"object"} và [bắt đầu vào]{"entity":"predicate"} [3/2 Âm lịch]{"entity":"object"} ?
-    - [lễ hội]{"entity":"X"} nào [diễn ra vào]{"entity":"predicate"} [tháng 2 Âm lịch]{"entity":"object"} và [kết thúc vào]{"entity":"predicate"} [cuối tháng 3 Âm lịch]{"entity":"object"} ?
-    - [lễ hội]{"entity":"X"} nào [bắt đầu vào]{"entity":"predicate"} [3/2 Âm lịch]{"entity":"object"} và [diễn ra vào]{"entity":"predicate"} [tháng 2 Âm lịch]{"entity":"object"} ?
-    - [lễ hội]{"entity":"X"} nào [bắt đầu vào]{"entity":"predicate"} [3/2 Âm lịch]{"entity":"object"} và [kết thúc vào]{"entity":"predicate"} [cuối tháng 3 Âm lịch]{"entity":"object"} ?
-    - [lễ hội]{"entity":"X"} nào [kết thúc vào]{"entity":"predicate"} [cuối tháng 3 Âm lịch]{"entity":"object"} và [diễn ra vào]{"entity":"predicate"} [tháng 2 Âm lịch]{"entity":"object"} ?
-    - [lễ hội]{"entity":"X"} nào [kết thúc vào]{"entity":"predicate"} [cuối tháng 3 Âm lịch]{"entity":"object"} và [bắt đầu vào]{"entity":"predicate"} [3/2 Âm lịch]{"entity":"object"} ?
-    - [lễ hội]{"entity":"X"} nào diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} và bắt đầu vào [3/2 Âm lịch]{"entity":"object"} ?
-    - [lễ hội]{"entity":"X"} nào diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} và kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} ?
-    - [lễ hội]{"entity":"X"} nào bắt đầu vào [3/2 Âm lịch]{"entity":"object"} và diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} ?
-    - [lễ hội]{"entity":"X"} nào bắt đầu vào [3/2 Âm lịch]{"entity":"object"} và kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} ?
-    - [lễ hội]{"entity":"X"} nào kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} và diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} ?
-    - [lễ hội]{"entity":"X"} nào kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} và bắt đầu vào [3/2 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào được tổ chức [Quảng Ninh]{"entity":"object"} và tri ân [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào được tổ chức [Quảng Ninh]{"entity":"object"} và tưởng nhớ [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào được tổ chức [Quảng Ninh]{"entity":"object"} và kỷ niệm [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào được tổ chức [Quảng Ninh]{"entity":"object"} và bắt đầu vào [3/2 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào được tổ chức [Quảng Ninh]{"entity":"object"} và kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào được tổ chức [Quảng Ninh]{"entity":"object"} và diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào được tổ chức [Quảng Ninh]{"entity":"object"} và được tổ chức [Quảng Ninh]{"entity":"object"} ?
+    - lễ hội nào tri ân [Trần Quốc Tảng]{"entity":"object"} và được tổ chức [Quảng Ninh]{"entity":"object"} ?
+    - lễ hội nào tri ân [Trần Quốc Tảng]{"entity":"object"} và tưởng nhớ [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào tri ân [Trần Quốc Tảng]{"entity":"object"} và kỷ niệm [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào tri ân [Trần Quốc Tảng]{"entity":"object"} và bắt đầu vào [3/2 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào tri ân [Trần Quốc Tảng]{"entity":"object"} và kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào tri ân [Trần Quốc Tảng]{"entity":"object"} và diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào tưởng nhớ [Trần Quốc Tảng]{"entity":"object"} và được tổ chức [Quảng Ninh]{"entity":"object"} ?
+    - lễ hội nào tưởng nhớ [Trần Quốc Tảng]{"entity":"object"} và tri ân [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào tưởng nhớ [Trần Quốc Tảng]{"entity":"object"} và kỷ niệm [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào tưởng nhớ [Trần Quốc Tảng]{"entity":"object"} và bắt đầu vào [3/2 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào tưởng nhớ [Trần Quốc Tảng]{"entity":"object"} và kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào tưởng nhớ [Trần Quốc Tảng]{"entity":"object"} và diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào kỷ niệm [Trần Quốc Tảng]{"entity":"object"} và được tổ chức [Quảng Ninh]{"entity":"object"} ?
+    - lễ hội nào kỷ niệm [Trần Quốc Tảng]{"entity":"object"} và tri ân [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào kỷ niệm [Trần Quốc Tảng]{"entity":"object"} và tưởng nhớ [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào kỷ niệm [Trần Quốc Tảng]{"entity":"object"} và bắt đầu vào [3/2 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào kỷ niệm [Trần Quốc Tảng]{"entity":"object"} và kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào kỷ niệm [Trần Quốc Tảng]{"entity":"object"} và diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào bắt đầu vào [3/2 Âm lịch]{"entity":"object"} và được tổ chức [Quảng Ninh]{"entity":"object"} ?
+    - lễ hội nào bắt đầu vào [3/2 Âm lịch]{"entity":"object"} và tri ân [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào bắt đầu vào [3/2 Âm lịch]{"entity":"object"} và tưởng nhớ [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào bắt đầu vào [3/2 Âm lịch]{"entity":"object"} và kỷ niệm [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào bắt đầu vào [3/2 Âm lịch]{"entity":"object"} và kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào bắt đầu vào [3/2 Âm lịch]{"entity":"object"} và diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} và được tổ chức [Quảng Ninh]{"entity":"object"} ?
+    - lễ hội nào kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} và tri ân [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} và tưởng nhớ [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} và kỷ niệm [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} và bắt đầu vào [3/2 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} và diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} và được tổ chức [Quảng Ninh]{"entity":"object"} ?
+    - lễ hội nào diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} và tri ân [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} và tưởng nhớ [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} và kỷ niệm [Trần Quốc Tảng]{"entity":"object"} ?
+    - lễ hội nào diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} và bắt đầu vào [3/2 Âm lịch]{"entity":"object"} ?
+    - lễ hội nào diễn ra vào [tháng 2 Âm lịch]{"entity":"object"} và kết thúc vào [cuối tháng 3 Âm lịch]{"entity":"object"} ?

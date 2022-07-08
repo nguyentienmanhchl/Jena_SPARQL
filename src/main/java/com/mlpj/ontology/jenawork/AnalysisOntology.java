@@ -65,7 +65,7 @@ public class AnalysisOntology {
                 while (iterator.hasNext()) {
                     Object i = iterator.next();
                     if (i.toString().contains("#")) {
-                        results.add(i.toString().split("#")[1].replaceAll("'",""));
+                        results.add(i.toString().split("#")[1].replaceAll("'", ""));
                     }
 
                 }
@@ -83,10 +83,11 @@ public class AnalysisOntology {
     }
 
     public static String answer(String predicate) {
+
         String query = Constant.PREFIX_QUERY +
                 "SELECT   ?X ?Y ?Z ?U ?U1 WHERE { {?X foaf:" + predicate + " ?Z.}union{?X time:" + predicate + " ?Z.}" +
                 "?X rdf:type ?U." +
-                "{foaf:" + predicate + " rdfs:label ?Y}union{time:" + predicate + " rdfs:label ?Y}" +
+                "{foaf:" + predicate + " rdfs:comment ?Y}union{time:" + predicate + " rdfs:comment ?Y}" +
                 "?U rdfs:label ?U1}";
         String results = InitJena.getItems3(query);
         FileHelper.saveToFile(results, "answer.txt");
@@ -95,9 +96,32 @@ public class AnalysisOntology {
     }
 
     public static void createAnswer() {
-        List<String> list = getProperties();
-        for (String s : list) {
-            answer(s);
+//        List<String> list = getProperties();
+//        for (String s : list) {
+//            answer(s);
+//        }
+        String[] list = {"isApartOf",
+                "hasOrganization",
+                "hasBuildTime",
+                "hasCommemorate",
+                "hasBeginning",
+                "hasEnd",
+                "related",
+                "hasDied",
+                "hasBorn",
+                "hasPredecessor",
+                "orKnownAs",
+                "hasBirthName",
+                "hasTimeHappen",
+                "chosenCapitalBy",
+                "related",
+                "hasBuildBy",
+                "buriedPlace",
+                "hasSuccessor",
+                "hasBornAt"
+        };
+        for (int i = 0; i < list.length; i++) {
+            answer(list[i]);
         }
     }
 
@@ -114,9 +138,9 @@ public class AnalysisOntology {
                 result = "    - [" + list[0].toLowerCase(Locale.ROOT) + "]{\"entity\":\"X\"} nào " +  list[2]  + " [" + list[3] + "]{\"entity\":\"object\"}?\n";
 
 //                result = "    - [" + list[0].toLowerCase(Locale.ROOT) + "]{\"entity\":\"X\"} nào " + "[" + list[2] + "]{\"entity\":\"predicate\"} " + "[" + list[3] + "]{\"entity\":\"object\"}?\n";
-                FileHelper.saveToFile(result, "question/"+list[4]+"_question.txt");
-//                result = "    - [" + list[2] + "]{\"entity\":\"predicate\"} " + "[" + list[3] + "]{\"entity\":\"object\"} là [" + list[0].toLowerCase(Locale.ROOT) + "]{\"entity\":\"X\"} gì?\n";
-//                FileHelper.saveToFile(result, "question.txt");
+                FileHelper.saveToFile(result, "question/" + list[4] + "_question.txt");
+                result = list[0].toLowerCase(Locale.ROOT)+" nào "+list[2]+" "+list[3]+"?\n";
+                FileHelper.saveToFile(result, "question.txt");
 
             }
             myReader.close();
@@ -146,9 +170,11 @@ public class AnalysisOntology {
                             String result;
 //                            result = "    - [" + list1[0].toLowerCase(Locale.ROOT) + "]{\"entity\":\"X\"} nào " + "[" + list1[2] + "]{\"entity\":\"predicate\"} " + "[" + list1[3] + "]{\"entity\":\"object\"} " +
 //                                    "và [" + list2[2] + "]{\"entity\":\"predicate\"} " + "[" + list2[3] + "]{\"entity\":\"object\"} ?\n";
-                            result = "    - [" + list1[0].toLowerCase(Locale.ROOT) + "]{\"entity\":\"X\"} nào "  + list1[2] + " [" + list1[3] + "]{\"entity\":\"object\"} " +
+                            result = "    - " + list1[0].toLowerCase(Locale.ROOT) + " nào " + list1[2] + " [" + list1[3] + "]{\"entity\":\"object\"} " +
                                     "và " + list2[2] + " [" + list2[3] + "]{\"entity\":\"object\"} ?\n";
-                            FileHelper.saveToFile(result, "question/"+list1[4]+"_question2.txt");
+                            FileHelper.saveToFile(result, "question/" + list1[4] + "_question2.txt");
+                            result =  list1[0].toLowerCase(Locale.ROOT) + " nào " + list1[2] + " " + list1[3] + " và " + list2[2] + " " + list2[3] + "?\n";
+                            FileHelper.saveToFile(result, "question.txt");
 
                         }
                     }
@@ -160,6 +186,7 @@ public class AnalysisOntology {
             e.printStackTrace();
         }
     }
+
     public static void genQuestion3() {
         try {
             File myObj = new File("answer.txt");
@@ -171,8 +198,10 @@ public class AnalysisOntology {
                 String[] list = data.split("~");
                 String result;
 //                result = "    - [" + list[1] + "]{\"entity\":\"object\"}  " + "[" + list[2] + "]{\"entity\":\"predicate\"} " + "?\n";
-                result = "    - [" + list[1] + "]{\"entity\":\"object\"}  "  + list[2] +   " ?\n";
-                FileHelper.saveToFile(result, "question/about_"+list[4]+"_question.txt");
+                result = "    - [" + list[1] + "]{\"entity\":\"object\"}  " + list[2] + " ?\n";
+                FileHelper.saveToFile(result, "question/about_" + list[4] + "_question.txt");
+                result =   list[1] + " " + list[2] + " ?\n";
+                FileHelper.saveToFile(result, "question.txt");
 
 
             }
@@ -185,13 +214,20 @@ public class AnalysisOntology {
 
 
     public static void main(String[] args) {
+//        List<String> list = getProperties();
+//        for (String i : list) {
+//            System.out.println(i);
+//        }
 //        AnalysisOntology.getOntologyInfomation();
+
+
+////      AnalysisOntology.answer("hasBeginning");
+////      AnalysisOntology.answer("hasEnd");
+
 //        AnalysisOntology.createAnswer();
-//        AnalysisOntology.answer("hasBeginning");
-//        AnalysisOntology.answer("hasEnd");
-        AnalysisOntology.genQuestion();
-        AnalysisOntology.genQuestion2();
-        AnalysisOntology.genQuestion3();
+//        AnalysisOntology.genQuestion();
+//        AnalysisOntology.genQuestion2();
+//        AnalysisOntology.genQuestion3();
 
 
     }

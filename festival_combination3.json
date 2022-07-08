@@ -1,0 +1,5685 @@
+[
+    {
+        "name": "Tết Dương lịch",
+        "synonyms": null,
+        "province": null,
+        "description": "Ngày lễ chào mừng năm mới vào ngày 1 tháng 1 hàng năm",
+        "related_person": null,
+        "type": [
+            "public holiday",
+            "New Year celebrations",
+            "world day"
+        ],
+        "date": {
+            "solar_calendar": "1/1"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Ngày Học sinh – Sinh viên Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "9/1"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày thành lập Đảng Cộng sản Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "3/2"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Lễ tình nhân (Valentine, Valentine đỏ)",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "14/2"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày thầy thuốc Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "27/2"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Ngày Quốc tế Phụ nữ",
+        "synonyms": null,
+        "province": null,
+        "description": "ngày lễ tôn vinh phụ nữ trên toàn thế giới",
+        "related_person": null,
+        "type": [
+            "public holidays in Russia",
+            "world day"
+        ],
+        "date": {
+            "solar_calendar": "8/3"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Ngày Valentine Trắng(White day).",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "14/3"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Quốc tế Hạnh phúc",
+        "synonyms": null,
+        "province": null,
+        "description": "Ngày kỷ niệm",
+        "related_person": null,
+        "type": [
+            "world day"
+        ],
+        "date": {
+            "solar_calendar": "20/3"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Ngày Nước sạch Thế giới",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "22/3"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày thành lập Đoàn TNCS Hồ Chí Minh",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "26/3"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Thể thao Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "27/3"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày thành lập lực lượng Dân quân tự vệ",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "28/3"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Cá tháng Tư",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": [
+            "recurring event",
+            "annual commemoration"
+        ],
+        "date": {
+            "solar_calendar": "1/4"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Quốc tế Thể thao",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "6/4"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Sức khỏe Thế giới",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": [
+            "world day"
+        ],
+        "date": {
+            "solar_calendar": "7/4"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Valentine Đen (Black Day)",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "14/4"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Sách Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "21/4"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Trái Đất",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": [
+            "recurring event",
+            "world day"
+        ],
+        "date": {
+            "solar_calendar": "22/4"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Ngày giải phóng miền Nam",
+        "synonyms": [
+            "ngày giải phóng miền nam thống nhất đất nước"
+        ],
+        "province": null,
+        "description": "sự kiện Quân đội Nhân dân Việt Nam và Mặt trận Dân tộc Giải phóng miền Nam Việt Nam chiếm đóng Sài Gòn",
+        "related_person": null,
+        "type": [
+            "battle"
+        ],
+        "date": {
+            "solar_calendar": "30/4"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Ngày Quốc tế Lao động",
+        "synonyms": [
+            "quốc tế lao động"
+        ],
+        "province": null,
+        "description": "ngày lễ kỷ niệm của phong trào công nhân quốc tế và của người lao động",
+        "related_person": null,
+        "type": [
+            "public holiday",
+            "world day"
+        ],
+        "date": {
+            "solar_calendar": "1/5"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Ngày chiến thắng Điện Biên Phủ",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "7/5"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày của mẹ (Ngày của Mẹ được tính là Chủ nhật thứ hai của tháng 5 và trong năm 2022 này thì rơi vào ngày 08/05)",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "8/5"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày thành lập Đội Thiếu niên Tiền phong Hồ Chí Minh",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "15/5"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày sinh chủ tịch Hồ Chí Minh",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "19/5"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Quốc tế thiếu nhi",
+        "synonyms": null,
+        "province": null,
+        "description": "ngày lễ quốc tế",
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "1/6"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Ngày Bác Hồ ra đi tìm đường cứu nước và ngày Môi trường Thế giới",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "5/6"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày của cha (Ngày của Cha là được quy ước ngày Chủ nhật thứ ba của tháng 6 và trong năm 2022 thì rơi vào ngày 19/06)",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "17/6"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Báo chí Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "21/6"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Gia đình Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "28/6"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Ngày Quốc tế Nụ hôn",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "6/7"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày dân số thế giới",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": [
+            "world day"
+        ],
+        "date": {
+            "solar_calendar": "11/7"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Thương binh liệt sĩ",
+        "synonyms": null,
+        "province": null,
+        "description": "ngày lễ kỉ niệm được tổ chức hàng năm",
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "27/7"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Ngày thành lập Công đoàn Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "28/7"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Cách mạng tháng Tám thành công và ngày truyền thống Công an nhân dân.",
+        "synonyms": [
+            "ngày cách mạng tháng tám thành công"
+        ],
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "19/8"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Ngày Quốc Khánh",
+        "synonyms": [
+            "ngày quốc khánh nước cộng hoà xã hội chủ nghĩa việt nam"
+        ],
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "2/9"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Ngày thành lập Mặt trận Tổ quốc Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "10/9"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Quốc tế Hòa bình",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": [
+            "world day"
+        ],
+        "date": {
+            "solar_calendar": "21/9"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Quốc tế Người cao tuổi",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": [
+            "world day"
+        ],
+        "date": {
+            "solar_calendar": "1/10"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Giải phóng Thủ đô và ngày truyền thống Luật sư Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "10/10"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày truyền thống Luật sư Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "10/10"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Doanh nhân Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "13/10"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Ngày thành lập Hội Nông dân Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "14/10"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Ngày thành lập Hội Liên hiệp Thanh niên Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "15/10"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Phụ nữ Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": "Ngày lễ chỉ ở Việt Nam, được tổ chức vào 20/10",
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "20/10"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Điều dưỡng Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "26/10"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Halloween",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "31/10"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Pháp luật Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "9/11"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Quốc tế Nam giới",
+        "synonyms": null,
+        "province": null,
+        "description": "sự kiện quốc tế hàng năm",
+        "related_person": null,
+        "type": [
+            "holiday"
+        ],
+        "date": {
+            "solar_calendar": "19/11"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày Nhà giáo Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": "ngày tôn vinh các thầy cô giáo của Việt Nam",
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "20/11"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Ngày thành lập Hội chữ thập đỏ Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "23/11"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày thế giới phòng chống AIDS",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "1/12"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày thành lập Hội Cựu chiến binh Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "6/12"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày toàn quốc kháng chiến",
+        "synonyms": null,
+        "province": null,
+        "description": "Sự kiện lịch sử tại Việt Nam diễn ra từ đêm 19/12/1946",
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "19/12"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Ngày thành lập Quân đội nhân dân Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "22/12"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Ngày lễ Giáng sinh",
+        "synonyms": [
+            "lễ giáng sinh"
+        ],
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "24/12"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html"
+        ]
+    },
+    {
+        "name": "Tết Nguyên Đán",
+        "synonyms": null,
+        "province": null,
+        "description": "dịp lễ đầu năm âm lịch tại Việt Nam",
+        "related_person": null,
+        "type": [
+            "annual event"
+        ],
+        "date": {
+            "lunar_calender": "1/1"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html",
+            "https://toplist.vn/top-list/le-hoi-truyen-thong-o-nuoc-ta-1180.htm"
+        ]
+    },
+    {
+        "name": "Tết Nguyên Tiêu (Lễ Thượng Nguyên)",
+        "synonyms": [
+            "tết nguyên tiêu",
+            "tết nguyên tiêu"
+        ],
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "lunar_calender": "15/1"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11"
+        ]
+    },
+    {
+        "name": "Tết Hàn Thực",
+        "synonyms": null,
+        "province": null,
+        "description": "ngày lễ truyền thống của Trung Quốc",
+        "related_person": null,
+        "type": [
+            "holiday"
+        ],
+        "date": {
+            "lunar_calender": "3/3"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11"
+        ]
+    },
+    {
+        "name": "Giỗ Tổ Hùng Vương",
+        "synonyms": [
+            "lễ hội giỗ tổ hùng vương"
+        ],
+        "province": [
+            "nhiều nơi",
+            "kiên giang"
+        ],
+        "description": "quốc lễ của Việt Nam",
+        "related_person": null,
+        "type": [
+            "holiday",
+            "public holiday"
+        ],
+        "date": {
+            "lunar_calender": "10/3"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html",
+            "https://toplist.vn/top-list/le-hoi-truyen-thong-o-nuoc-ta-1180.htm",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+            "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-kien-giang-noi-tieng.html"
+        ]
+    },
+    {
+        "name": "Lễ Phật Đản",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": [
+            "public holiday"
+        ],
+        "date": {
+            "lunar_calender": "15/4"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11"
+        ]
+    },
+    {
+        "name": "Tết Đoan Ngọ",
+        "synonyms": null,
+        "province": [
+            "hà nội"
+        ],
+        "description": null,
+        "related_person": null,
+        "type": [
+            "festival"
+        ],
+        "date": {
+            "lunar_calender": "5/5"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11"
+        ]
+    },
+    {
+        "name": "Lễ Vu Lan",
+        "synonyms": [
+            "lễ vu lan thắng hội",
+            "lễ vu lan, tết trung nguyên"
+        ],
+        "province": [
+            "trà vinh",
+            "côn đảo"
+        ],
+        "description": "Một trong những ngày lễ chính của Phật giáo",
+        "related_person": null,
+        "type": [
+            "holiday"
+        ],
+        "date": {
+            "lunar_calender": "15/7"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html",
+            "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-o-tra-vinh-23501.htm",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+            "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-con-dao-y-nghia.html"
+        ]
+    },
+    {
+        "name": "Tết Trung Thu",
+        "synonyms": null,
+        "province": null,
+        "description": "Lễ hội của người Đông Á và Đông Nam Á, diễn ra vào ngày Rằm tháng 8 hàng năm",
+        "related_person": null,
+        "type": [
+            "holiday"
+        ],
+        "date": {
+            "lunar_calender": "15/8"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11"
+        ]
+    },
+    {
+        "name": "Tết Trùng Cửu",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": [
+            "public holiday"
+        ],
+        "date": {
+            "lunar_calender": "9/9"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Tết Thường Tân (Tết Cơm mới)",
+        "synonyms": [
+            "tết cơm mới"
+        ],
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "lunar_calender": "10/10"
+        },
+        "source": [
+            "https://halotravel.vn/cac-ngay-le-trong-nam/",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11"
+        ]
+    },
+    {
+        "name": "Tết Hạ Nguyên",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "lunar_calender": "15/10"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Tiễn Táo Quân về trời",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "lunar_calender": "23/12"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Lễ Tất Niên",
+        "synonyms": null,
+        "province": null,
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "lunar_calender": "29/12 hoặc 30/12"
+        },
+        "source": "https://halotravel.vn/cac-ngay-le-trong-nam/"
+    },
+    {
+        "name": "Lễ tình nhân (Valentine)",
+        "synonyms": null,
+        "province": null,
+        "source": "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "14 tháng 2"
+        }
+    },
+    {
+        "name": "Ngày thành lập Đoàn Thanh niên Cộng sản Hồ Chí Minh",
+        "synonyms": null,
+        "province": null,
+        "source": "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "26 tháng 3"
+        }
+    },
+    {
+        "name": "Ngày sinh của Chủ tịch Hồ Chí Minh",
+        "synonyms": null,
+        "province": null,
+        "source": "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "19 tháng 5"
+        }
+    },
+    {
+        "name": "Ngày thành lập Đài Truyền hình Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "source": "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "7 tháng 9"
+        }
+    },
+    {
+        "name": "Ngày thành lập Hội Phụ nữ Việt Nam",
+        "synonyms": null,
+        "province": null,
+        "source": "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "solar_calendar": "20 tháng 10"
+        }
+    },
+    {
+        "name": "Lễ cúng Ông Táo",
+        "synonyms": null,
+        "province": null,
+        "source": "https://vemaybayvietnam.com/cac-ngay-le-trong-nam-o-viet-nam.html",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "23 tháng 12"
+        }
+    },
+    {
+        "name": "Hội làng Khê Thượng",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "3-7/1 âm lịch."
+        },
+        "province": "xã Sơn Đà, huyện Ba Vì.",
+        "related_person": "Tản Viên sơn thánh (con rể vua Hùng).",
+        "description": "tục “chém may” (thi chém thân chuối), trò đấu vật thờ thánh.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội vật Mai Động",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "4/1 âm lịch."
+        },
+        "province": "phường Mai Động, quận Hoàng Mai. ",
+        "related_person": "đô Nguyễn Tam Trinh (tướng của Hai Bà Trưng).",
+        "description": "thi đấu vật.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đền Xuân Lai",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "4/1 âm lịch."
+        },
+        "province": "thôn Xuân Lai, xã Xuân Thu, huyện Sóc Sơn. ",
+        "related_person": "Thánh Gióng.",
+        "description": "trò đấu vật, lấy nước, kéo lửa thổi cơm thi, cướp cờ và trò “kéo mỏ”.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Nghè",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "4/1 âm lịch."
+        },
+        "province": "làng Nghè, phường Nghĩa Đô, quận Cầu Giấy.",
+        "related_person": "tướng quân Trần Công Tích, hoàng hậu Hồng Nương, phu nhân Quế Nương.",
+        "description": "thi nấu cơm, trước đó phải thi kéo lửa bằng sợi giang kéo qua lỗ khúc tre, người giữ người kéo. Bếp thổi cơm là 3 cọc tre chôn xuống đất.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Động Phí",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "4/1 âm lịch (3 năm tổ chức một lần)."
+        },
+        "province": "xã Phương Tú, huyện Ứng Hòa.",
+        "related_person": "Bạch Tượng, Bạch Địa, Đô Đài.",
+        "description": "kiệu bay, kiệu quay, múa sư tử, múa sênh tiền, múa trống.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Sài Đồng",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "4/1 âm lịch."
+        },
+        "province": "thôn Sài Đồng, phường Gia Thụy, quận Long Biên. ",
+        "related_person": "Linh Lang đại vương.",
+        "description": "trình nghề nông.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Xuân Dục",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "Hội xuân: 4/1 âm lịch. Hội tưởng niệm quốc tổ: 12-14/10 âm lịch."
+        },
+        "province": "làng Xuân Dục, xã Tân Minh, huyện Sóc Sơn.",
+        "related_person": "Quốc Tổ Lạc Long Quân, Quốc Mẫu Âu Cơ.",
+        "description": "trò chơi húc cầu. Quả cầu tượng trưng cho mặt trời được sơn đỏ, làm bằng gỗ lục thông nặng khoảng 60-70kg.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Hải Bối",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "4-6/1 âm lịch."
+        },
+        "province": "xã Hải Bối, huyện Đông Anh.",
+        "related_person": "Triệu Nguyên, Triệu Chính, Triệu Lệnh.",
+        "description": "cờ người, leo cột mỡ, tuồng, hát trống quân, hát giao duyên nam nữ: hai bên hát với nhau qua một sợi chỉ dài, nối với ống bơ được bịt bằng da ếch, gọi là “hát ống”.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội chùa Trăm Gian",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "4-6/1 âm lịch."
+        },
+        "province": "chùa Trăm Gian, xã Tiên Phương, huyện Chương Mỹ.",
+        "related_person": "Phật và Đức thánh Bối (Nguyễn Bình An).",
+        "description": "rước kiệu thánh, thi cỗ chay và trình rối cạn.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình Mông Phụ",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "4-10/1 âm lịch."
+        },
+        "province": "thôn Mông Phụ, xã Đường Lâm, TX Sơn Tây.",
+        "related_person": "thần núi Tản Viên.",
+        "description": "rước kiệu thánh, đấu cờ người, đấu vật, chọi gà, đập niêu đất, bịt mắt bắt vịt…",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội An Sơn",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "5/1 âm lịch."
+        },
+        "province": "làng An Sơn, xã Đông Sơn, huyện Chương Mỹ.",
+        "related_person": "ba anh em họ Đặng (Đặng Cả, Đặng Hai, Đặng Ba - tướng của Hai Bà Trưng).",
+        "description": "lễ cờ.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội Đống Đa",
+        "synonyms": [
+            "lễ hội đống đa - tây sơn (bình định)"
+        ],
+        "type": null,
+        "date": {
+            "lunar_calendar": "5/1 âm lịch."
+        },
+        "province": [
+            "gò đống đa, quận đống đa.",
+            "bình định",
+            "hà nội"
+        ],
+        "related_person": "vua Quang Trung.",
+        "description": "rước rồng lửa Thăng Long.",
+        "source": [
+            "https://360.hncity.org/spip.php?article297",
+            "https://toplist.vn/top-list/le-hoi-xuan-ban-khong-the-bo-qua-vao-dip-tet-nguyen-dan-8473.htm",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11"
+        ]
+    },
+    {
+        "name": "Lễ hội Vân Sa",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "5/1 âm lịch."
+        },
+        "province": "đình làng Vân Sa, xã Tản Hồng, huyện Ba Vì.",
+        "related_person": "Trần Quốc Chẩn (con thứ Trần Hưng Đạo và là đại thần đời Trần) và Ngũ Nương (Đức Thánh Bà, tướng của Hai Bà Trưng).",
+        "description": "hội làng nghề nuôi tằm dệt lụa, có lễ rước bông, các trò: cướp kén, trò tứ dân lạc nghiệp, múa Tứ Linh.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội chùa Vua",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "5-9/1 âm lịch."
+        },
+        "province": "phường Phố Huế, quận Hai Bà Trưng.",
+        "related_person": "Đế Thích.",
+        "description": "thi đánh cờ người.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Hoa Sơn",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6/1 âm lịch."
+        },
+        "province": "làng Miêng Hạ, xã Hoa Sơn, huyện Ứng Hoà.",
+        "related_person": "Cao Sơn, Quí Minh.",
+        "description": "hội cầu mùa, trai gái bá cổ nhau \"bắt lươn trong chum\".",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đình Trần Đăng",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6/1 âm lịch."
+        },
+        "province": "làng Trần Đăng, xã Hoa Sơn, huyện Ứng Hòa.",
+        "related_person": "Cao Lỗ (tướng của An Dương Vương).",
+        "description": "trò người hóa trang hổ, đuổi bắt giặc.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đền Hạ Lôi",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6/1 âm lịch."
+        },
+        "province": "\nĐịa điểm tổ chức: làng Hạ Lôi, xã Mê Linh, huyện Mê Linh.",
+        "related_person": "Hai Bà Trưng.",
+        "description": "lễ rước kiệu và giao kiệu, cúng bánh dày.",
+        "source": "https:null,//360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đền Thanh Nhàn",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6/1 âm lịch."
+        },
+        "province": "thôn Thanh Nhàn, xã Thanh Xuân, huyện Sóc Sơn.",
+        "related_person": "Phù Đổng Thiên Vương.",
+        "description": "đền có tượng đôi ngựa hồng và ngựa bạch bằng đồng. Tổ chức đám rước lớn của chín làng.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Bồ Đề",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6/1 âm lịch."
+        },
+        "province": "làng Phú Viên (Bồ Đề là tên nôm của làng Phú Viên), phường Bồ Đề, quận Long Biên. ",
+        "related_person": "Cao Sơn, Càn Mỹ Nương, Dung Hoa.",
+        "description": "đua thuyền.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Đại Lan",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6-8/1 âm lịch."
+        },
+        "province": "thôn Đại Lan, xã Duyên Hà, huyện Thanh Trì.",
+        "related_person": "Minh Hồ, Linh Chiêu, Chà Mục (ba anh em làm tướng thời Hùng Vương).",
+        "description": "rước và làm cỗ cá lăng, hội vật, đánh gậy, múa roi.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Đại Mỗ",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6-8/1 âm lịch."
+        },
+        "province": "xã Đại Mỗ, huyện Từ Liêm.",
+        "related_person": "Ả Lã Nàng Đê, Thủy Hải long vương, Nguyễn Quý Đức, Nguyễn Quý An, Nguyễn Quý Kính.",
+        "description": "thi thổi xôi, cờ người, hát ả đào.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Gióng đền Sóc",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6-8/1 âm lịch, chính hội 7/1 (ngày thánh hóa)"
+        },
+        "province": "xã Phù Linh, huyện Sóc Sơn.",
+        "related_person": "Thánh Gióng.",
+        "description": "cướp hoa tre và chém tướng giặc Ân.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Phú Đô",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6-8/1 âm lịch. Chính hội 7/1 âm lịch."
+        },
+        "province": "thôn Phú Đô, xã Mễ Trì, huyện Từ Liêm.",
+        "related_person": "Lý Thiên Bảo, Đinh Dự và Mãn Hoa Đường (Tổ nghề ca trù), Bà An (hoàng hậu vua Lê Anh Tông), Bà Phương (Nguyên phi), Hồ Nguyên Thơ (Tổ nghề bún).",
+        "description": "lễ tổ thành hoàng dâng cúng Mâm bún, thi làm bún, hát chèo.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đền Măng Sơn",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6-12/1 âm lịch. Chính hội 6/1 âm lịch."
+        },
+        "province": "xã Sơn Đông, thị xã Sơn Tây.",
+        "related_person": "Đức Thánh Tản Viên.",
+        "description": "rước lễ vật (ngũ quả, không thể thiếu mít xanh, thịt thú rừng hoặc 3 miếng da lợn). Trò đấu vật, ném còn, hát ví, hát đúm giao duyên, bắn nỏ, đu cây.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Đêm hội Rã La",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6-14/1 âm lịch (5 năm tổ chức một lần)."
+        },
+        "province": "xã Dương Nội, huyện Hoài Đức.",
+        "related_person": "Đương cảnh thành hoàng.",
+        "description": "rước đêm, diễn trò săn hổ, rước hoàn cung.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội Cổ Loa",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6-15/1 âm lịch"
+        },
+        "province": [
+            "huyện ðông anh, hà nội",
+            "hà nội"
+        ],
+        "related_person": "vua An Dương Vương",
+        "description": null,
+        "source": [
+            "https://360.hncity.org/spip.php?article297",
+            "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-mien-bac-5719.htm",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11"
+        ]
+    },
+    {
+        "name": "Hội làng Ruộng",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6-16/1 và 12/8 âm lịch."
+        },
+        "province": "thôn Vĩnh Thanh, xã Vĩnh Ngọc, huyện Đông Anh.",
+        "related_person": "Nội Hầu (tướng của An Dương Vương) và phu nhân Ả Nương cùng 2 người con (Đống Công, Vực Công).",
+        "description": "đua thuyền nữ (thuyền gỗ hình thoi, mũi thuyền đầu rồng, đầu hạc), múa rối nước.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội chùa Hương",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6/1 đến hết tháng 3 âm lịch."
+        },
+        "province": [
+            "xã hương sơn, huyện mỹ Đức.",
+            "hà nội"
+        ],
+        "related_person": "Phật Bà Quan Âm",
+        "description": "Múa rồng, bơi trải.",
+        "source": [
+            "https://360.hncity.org/spip.php?article297",
+            "https://toplist.vn/top-list/le-hoi-xuan-ban-khong-the-bo-qua-vao-dip-tet-nguyen-dan-8473.htm",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11"
+        ]
+    },
+    {
+        "name": "Hội đình Thượng Lão",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "7/1 âm lịch."
+        },
+        "province": "thôn Lực Canh, xã Xuân Canh, huyện Đông Anh.",
+        "related_person": "An Dương Vương, Cao Sơn.",
+        "description": "ca trù, đấu vật, cờ người, thả diều.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Thúy Lĩnh",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "7/1 âm lịch."
+        },
+        "province": "phường Lĩnh Nam, quận Hoàng Mai. ",
+        "related_person": "Linh Lang đại vương, thần Bạch Hổ (đức Thánh Hai).",
+        "description": "vật cầu (cướp cầu).",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Phú Mỹ— Kiều Mai",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "7/1 âm lịch."
+        },
+        "province": "làng Phú Mỹ (xã Mỹ Đình), làng Kiều Mai (xã Phú Diễn), huyện Từ Liêm.",
+        "related_person": "Lý Nam Đế, Lý Phật Tử, Ả Lã Nàng Đê, Bạch Hạc Tam Giang.",
+        "description": "thi cây xôi (ván ép xôi thành cây).",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Sơn Thanh",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "7-9/1 âm lịch."
+        },
+        "province": "làng Sơn Thanh, xã Sơn Hà, huyện Phú Xuyên.",
+        "related_person": "Tô Hiến Thành, Thái úy thời Lý.",
+        "description": "lễ tế tưởng niệm.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Sốm",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "7-12/1 âm lịch. "
+        },
+        "province": "xã Phú Lãm và xã Phú Lương, quận Hà Đông. ",
+        "description": "lễ kỳ an, tế xuân đình.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đền Đông Bộ Đầu",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "8/1 âm lịch."
+        },
+        "province": "xã Thống Nhất, huyện Thường Tín.",
+        "related_person": "Huyền Thiên (Ứng Thiên) Đại thánh Thiên vương.",
+        "description": "lễ hội tưởng niệm công ơn Ứng Thiên đã diệt trừ thuồng luồng cho dân, có trò múa gậy giật giải.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội cướp cầu Viên Nội",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "8/1 âm lịch."
+        },
+        "province": "thôn Viên Nội, xã Vân Nội, huyện Đông Anh.",
+        "related_person": "Đống Vĩnh tướng quân, Chung Bảo tướng quân.",
+        "description": "đám rước và tế “thần Cầu” với các trò chơi dùng “ông Móc” móc cầu và giành cầu.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội thổi cơm thi Thị Cấm",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "8/1 âm lịch."
+        },
+        "province": "đình làng Thị Cấm, thôn Thị Cấm, xã Xuân Phương, huyện Từ Liêm",
+        "related_person": "Phan Tây Nhạc đại vương và Hoa Dung công chúa.",
+        "description": "tế lễ, hội kéo lửa, thổi cơm thi, hát văn, hát chèo….",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội chùa Đậu",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "8-10/1 âm lịch."
+        },
+        "province": "làng Gia Phúc, xã Nguyễn Trãi, huyện Thường Tín.",
+        "related_person": "Tam bảo Chư Phật, nữ thần Pháp Vũ, thần Giếng.",
+        "description": "lễ Lạp nguyệt (cuối năm), lễ rước nước từ giếng bà Giao.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình Phú Gia",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "8-11/1 âm lịch"
+        },
+        "province": "đình Phú Gia, làng Phú Gia, phường Phú Thượng, quận Tây Hồ. ",
+        "related_person": "thành hoàng làng Trần Khai Nguyên.",
+        "description": "lễ tế thần, dâng hương,rước kiệu, thổi xôi, ca hát, đấu võ, chọi gà ...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng An Cốc (Kẻ Quán)",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "9-10/1 âm lịch."
+        },
+        "province": "xã Hồng Minh, huyện Phú Xuyên.",
+        "related_person": "Thái Luân (ông tổ nghề giấy).",
+        "description": "Giỗ-Tế Tổ, cúng chè kho, bánh giầy, cau, rượu.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Bà Già",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "9-11/1 âm lịch."
+        },
+        "province": "đình Phú Gia, phường Phú Thượng, quận Tây Hồ.",
+        "related_person": "Trang Mục đại vương (một vị tướng của Thánh Gióng), bà chúa nuôi tằm Quỳnh Hoa.",
+        "description": "rước nước, hát ả đào.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đình Kim Mã Hạ",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10/1 âm lịch."
+        },
+        "province": "Số 6 phố Kim Mã, phường Kim Mã, quận Ba Đình.",
+        "related_person": "Bố Cái đại vương Phùng Hưng, Hoàng Phúc Trung và đại vương Linh Lang.",
+        "description": "leo cầu, thi thuyền nan tại hồ đầu làng.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội chợ Chuông",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "Hội chợ 10/1 âm lịch (Hội làng 10/3 âm lịch)."
+        },
+        "province": "Chợ Chuông (tại làng Chuông), xã Phương Trung, huyện Thanh Oai.",
+        "related_person": "Bố cái đại vương Phùng Hưng, thành hoàng làng.",
+        "description": "trưng bày nón, thi đánh cờ người, thổi cơm thi.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội làng Triều Khúc",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10-12/1 âm lịch."
+        },
+        "province": "thôn Triều Khúc, xã Tân Triều, huyện Thanh Trì. ",
+        "related_person": "Bố Cái đại vương Phùng Hưng, Thánh sư họ Vũ.",
+        "description": "Múa Rồng, múa Trống Bồng và múa Chạy cờ.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đền Hữu Vĩnh",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "Hội xuân 10-12/1 âm lịch. Hội thu 12/8 âm lịch."
+        },
+        "province": "xã Hồng Quang, huyện Ứng Hoà.",
+        "related_person": "Quảng Xung đại vương.",
+        "description": "lễ hội gồm có rước kiệu, trò bơi trải, đấu vật.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình La Dương",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10-15/1 âm lịch (chính hội 11/1)"
+        },
+        "province": "đình La Dương, làng La Dương, xã Dương Nội, huyện Hoài Đức.",
+        "related_person": "Tam vị thành hoàng Minh Tuất đại vương.",
+        "description": "rước kiệu, tế lễ, văn nghệ, đánh cờ …",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đền Sái (Hội rước vua sống)",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "12/1 âm lịch."
+        },
+        "province": "thôn Thụy Lôi, xã Thụy Lâm, huyện Đông Anh. ",
+        "related_person": "Huyền Thiên Trấn Vũ.",
+        "description": "theo tích rùa vàng giúp vua An Dương Vương trừ yêu quái, xây xong thành ốc (Cổ Loa), lễ hội có diễn trò rước vua sống do cụ già đóng vai vua, ngồi kiệu.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Quậy",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "12/1 âm lịch."
+        },
+        "province": "Hà Vỹ, xã Liên Hà, huyện Đông Anh.",
+        "related_person": "Thủy Hải, Đăng Giang, Khổng Chúng, Tam Giang và Đông Hải.",
+        "description": "Hát giao duyên, chọi gà, đấu cờ người, bịt mắt bắt dê, bơi ao bắt vịt.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội chùa Bối Khê",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "12/1 âm lịch."
+        },
+        "province": "xã Tam Hưng, huyện Thanh Oai.",
+        "related_person": "Phật, pháp sư Nguyễn Bình An (thế kỷ 14).",
+        "description": "lễ rước nước, tắm tượng, dâng cỗ chay. Trò: múa rồng, múa gậy, bơi thuyền bắt vịt, cờ tướng, hát chèo, đốt cây bông.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đền Cống Yên",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "12-13/1 âm lịch."
+        },
+        "province": "đền Cống Yên, phường Vĩnh Phúc, quận Ba Đình.",
+        "related_person": "Đức Thánh Quảng Hồng có công đánh giặc Nguyên ở thế kỷ 13.",
+        "description": "tế nam quan, tế nữ quan, hát ca trù, chọi chim, chọi gà.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Đa Sĩ",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "12-15/1 âm lịch."
+        },
+        "province": "làng Đa Sĩ, xã Kiến Hưng, quận Hà Đông.",
+        "related_person": "thành hoàng làng Hoàng Đôn Hòa (Lương y dược đại vương nổi tiếng với 201 phương thuốc ở thế kỷ 18) và vợ là công chúa Phương Dung (trồng cây thuốc).",
+        "description": "tế lễ, dâng hương, rước kiệu, múa rồng, đánh đu, chọi gà, vật, hát chèo, ca trù.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Hà Hương",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "12-15/1 âm lịch."
+        },
+        "province": "xã Liên Hà, huyện Đông Anh.",
+        "related_person": "Vũ Dực Công, Vũ Minh Công (2 thầy thuốc giỏi thời Hùng Vương).",
+        "description": "tế lễ, rước, đấu vật.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội Võng La",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "13-15/1 âm lịch (chính hội 14/1)"
+        },
+        "province": "đình Đại Độ, làng Đại Độ, xã Võng La, huyện Đông Anh.",
+        "related_person": "Ngũ vị Tôn thần.",
+        "description": "rước kiệu, tế lễ, hát quan họ, đánh cờ, đu tre...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Tó",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "13-16/1 âm lịch."
+        },
+        "province": "xã Tả Thanh Oai, huyện Thanh Trì. ",
+        "related_person": "vua Lê Hoàn và Bà chúa Hến (cô gái làng Tó làm phi của vua Lê Hoàn).",
+        "description": "lễ rước, rước cỗ thờ (cơm nắm muối vừng), hát xướng, chơi cờ bỏi, cờ người, đập niêu, bắt vịt, hát trống quân nam nữ.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Dịch Vọng Trung",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "11/1, 12/2 và 12/8 âm lịch. Hội lớn 5 năm một lần vào 12/2 âm lịch."
+        },
+        "province": "đình Bối Hà, thôn Trung, phường Dịch Vọng, quận Cầu Giấy.",
+        "related_person": "Chu Lý đại vương, Triệu Chí Thành đại vương.",
+        "description": "Vật võ, chọi gà, cờ tướng, đập niêu, hát chèo, đu dây.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đền Và",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "Hội xuân 15/1. Hội thu rằm tháng 9 (âm lịch)."
+        },
+        "province": "đền Và, thôn Vân Gia, xã Trung Hưng, thị xã Sơn Tây.",
+        "related_person": "Đối tượng tôn vinh: thần Tản Viên (Sơn Tinh, một trong tứ bất tử trong thần điện Việt Nam.",
+        "description": "lễ rước qua sông sang đền Dội, tục đánh cá thờ.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội thổi cơm thi ở Đồng Vân",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "15/1 âm lịch."
+        },
+        "province": "xã Đồng Tháp, huyện Đan Phượng.",
+        "related_person": "thành hoàng Vãng Vị.",
+        "description": "rước nước, hát chèo, thổi cơm thi (cách lấy lửa độc đáo).",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Ngũ Xã",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "17/1 âm lịch."
+        },
+        "province": "làng Nam Tràng, phường Trúc Bạch, quận Ba Đình. ",
+        "related_person": "Phật A di đà, Thánh tổ Nguyễn Chí Thành.",
+        "description": "triển lãm sản phẩm đúc đồng, chọi gà.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Ninh Hiệp",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "18/1 âm lịch."
+        },
+        "province": "làng Nành, xã Ninh Hiệp, huyện Gia Lâm.",
+        "related_person": "Bà Lý Nhũ Thái lão (tổ sư nghề thuốc nam).",
+        "description": "lễ dâng hương, dân đến lễ và xin thuốc.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội làng Huỳnh Cung",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "18-21/1 âm lịch"
+        },
+        "province": "đình Huỳnh Cung, xã Tam Hiệp, huyện Thanh Trì",
+        "related_person": "Uy Mang và Hồng Bác (là hai con của vua Hùng đời thứ 17) và Đức thánh hiền Chu Văn An.",
+        "description": "tế lễ, rước kiệu, múa sư tử và các trò chơi như đá gà, đánh cờ, bóng đá ca hát…",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội núi Sưa",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "19/1 âm lịch"
+        },
+        "province": "Núi Sưa (Công viên Bách Thảo), phường Ngọc Hà, quận Ba Đình.",
+        "related_person": "Đức Huyền Thiên Hắc Đế (Hắc Công)",
+        "description": "Xuất phát từ tục kết chạ xưa của ba thôn: Ngọc Hà, Hữu Tiệp, Xuân Biểu. Có lễ tế, rước kiệu, gặp gỡ kết giao, thổi xôi, ca hát, đấu võ, chọi gà…",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội Thập Tam Trại",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "21/1 âm lịch"
+        },
+        "province": "Công viên Bách Thảo, phường Ngọc Hà, quận Ba Đình.",
+        "related_person": "Hoàng Quý Công người làng Lệ Mật, có công xây dựng 13 làng trại.",
+        "description": "Góp phần giao lưu thúc đẩy mối liên hệ cộng đồng của 13 làng trại với các tiết mục lễ tế, rước kiệu của 13 làng trại, đấu võ, hát quan họ, đánh cờ…",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội chùa Thánh Chúa",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "25/1 âm lịch."
+        },
+        "province": "chùa Thánh Chúa, phường Dịch Vọng Hậu và Mai Dịch, quận Cầu Giấy.",
+        "related_person": "Hội đồng đức Phật và Nguyên phi Ỷ Lan.",
+        "description": "cúng Phật, dâng hương, trình diễn hoạt cảnh, biểu diễn văn nghệ.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình Ngũ Giáp",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "1-3/2 âm lịch (chính hội 02/2)"
+        },
+        "province": "đình Ngũ Giáp, làng Đoài, xã Liên Hà, huyện Đông Anh",
+        "related_person": "thành hoàng làng là tể tướng Lữ Gia.",
+        "description": "rước kiệu, tế lễ, văn nghệ, đánh cờ, bắt vịt ...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đền Đại Lộ (đền Mẫu)",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "1-10/2 âm lịch"
+        },
+        "province": "đền Đại Lộ, đền Quan, chùa Đại Lộ thuộc xã Ninh Sở, huyện Thường Tín",
+        "related_person": "Tứ vị Thánh Mẫu.",
+        "description": "tế lễ, rước nước, rước kiệu, hầu Thánh, hát văn...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội kén rể",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "2/2 âm lịch."
+        },
+        "province": "làng Đường Yên, xã Xuân Nộn, huyện Đông Anh.",
+        "related_person": "Nữ tướng Lê Hoa thời Hai Bà Trưng.",
+        "description": "lễ hội độc đáo để chọn rể tài hiền cho nữ tướng Lê Hoa.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội chùa Trầm",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "2/2 âm lịch"
+        },
+        "province": "thôn Long Châu, xã Phụng Châu, huyện Chương Mỹ, Hà Nội.",
+        "related_person": null,
+        "description": "cúng (giỗ bà Trần), cầu kinh, múa rồng, múa rối nước.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đánh cá làng Me - Tường Phiêu",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "2-10/2 âm lịch. Chính hội 4/2 âm lịch."
+        },
+        "province": "xã Tích Giang, huyện Phúc Thọ.",
+        "related_person": "Đức Thánh Tản Viên.",
+        "description": "thi đánh cá tế thánh Tản Viên, làm tiệc cá,múa rối, hát đúm, đáo đĩa.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đền Đồng Nhân",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "4-6/2 âm lịch."
+        },
+        "province": "đền Đồng Nhân, 12 Hương Viên, phường Đồng Nhân, quận Hai Bà Trưng.",
+        "related_person": "Hai Bà Trưng.",
+        "description": "tế lễ, rước nước, rước kiệu, đánh trận giả, hát văn, hát quan họ, đấu cờ, đấu võ ….",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội chùa Nành",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "4-6/2 âm lịch (chính hội 5/2)."
+        },
+        "province": "xã Ninh Hiệp, huyện Gia Lâm. ",
+        "related_person": "Phật Mẫu Man Nương, Pháp Vân (Bà Nành), Đức Phật Thích Ca, Đức Trần Hưng Đạo.",
+        "description": "tục cúng, nâng cây phan.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội làng Sơn Đồng",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "5-6/2 âm lịch."
+        },
+        "province": "xã Sơn Đồng, huyện Hoài Đức.",
+        "related_person": "Đông Nhạc giáng thần.",
+        "description": "lễ tế trâu, rước và thi bánh giầy, trò cướp bông.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đền Dầm",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "5-7/2 âm lịch."
+        },
+        "province": "thôn Sâm Dương, xã Ninh Sở, huyện Thường Tín.",
+        "related_person": "Thủy Cung Thánh Mẫu.",
+        "description": "lễ rước nước, múa rồng, múa sư tử, kéo chữ, cờ người, hát quan họ, chọi gà.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình Đông Phù",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "06 -07/2 âm lịch."
+        },
+        "province": "đình Đông Phù, làng Đông Phù, xã Đông Mỹ, huyện Thanh Trì.",
+        "related_person": "tướng quân Nguyễn Siêu.",
+        "description": "lễ tế, dâng hương,rước kiệu, biểu diễn văn nghệ …",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội làng Thọ Am",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "7-09/02 âm lịch."
+        },
+        "province": "đình Thọ Am và miếu Thọ Am thuộc làng Thọ Am, xã Liên Ninh, huyện Thanh Trì.",
+        "related_person": "tướng quân Đoàn Thượng, Quan nghè Nguyễn Phục.",
+        "description": "rước nước, rước sắc,rước kiệu, lễ tế, dâng hương, biểu diễn hát quan họ, chèo, hội vật, chọi gà, bắt vịt nước, thả chim bồ câu...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Đông Dư",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "7-13/2 âm lịch."
+        },
+        "province": "xã Đông Dư, huyện Gia Lâm.",
+        "related_person": "Cao Sơn, Bạch Đa, Linh Lang đại vương.",
+        "description": "rước nước, đấu cờ.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình Vạn Phúc",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "8-9/2 âm lịch"
+        },
+        "province": "đình Vạn Phúc, làng Vạn Phúc, quận Ba Đình ",
+        "related_person": "Hoàng tử Hoàng Chân được phong là Đức Thánh Linh Lang đại vương, Tây trấn Thượng đẳng Phúc thần.",
+        "description": "lễ tế, dâng hương, rước nước, tụng kinh cầu quốc thái dân an, biểu diễn văn nghệ, đánh cờ, chọi gà, tổ tôm điếm...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đình Bà Tía",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "8-10/2 âm lịch."
+        },
+        "province": "thôn Vĩnh Ninh, xã Vĩnh Quỳnh, huyện Thanh Trì.",
+        "related_person": "Trương Tử Nương, tướng của Hai Bà Trưng.",
+        "description": "thi đấu vật, đánh cờ, đi cầu đập nồi niêu.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đình Thanh Liệt",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "8-10/2 âm lịch."
+        },
+        "province": "phường Thanh Liệt, huyện Thanh Trì. ",
+        "related_person": "",
+        "description": "Phạm Tu",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đình Trường Lâm",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "8-10/2 âm lịch."
+        },
+        "province": "phố Hoa Lâm, phường Việt Hưng, quận Long Biên.",
+        "related_person": "Linh Lang đại vương, Đào Hoa phu nhân và Phù Nương phu nhân.",
+        "description": "thi đấu vật, đánh cờ, múa \"lột rắn\".",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình Nhật Tân",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "8-11/2 âm lịch"
+        },
+        "province": "đình Nhật Tân, đường Âu Cơ, phường Nhật Tân, quận Tây Hồ. ",
+        "related_person": "Đức Thánh Uy Đô đại vương Trần Linh Lang (Uy Linh Lang).",
+        "description": "rước nước, rước kiệu, tế lễ, dâng hương, biểu diễn chèo, đánh cờ...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình Vĩnh Ninh",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "8-12/2 âm lịch."
+        },
+        "province": "đình Vĩnh Ninh, thôn Vĩnh Ninh, xã Vĩnh Quỳnh, huyện Thanh Trì.",
+        "related_person": "Trương Tử Nương, nữ tướng của Hai Bà Trưng.",
+        "description": "tế lễ, rước kiệu, thi đấu vật, đánh cờ, chọi gà...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Thổ Khối",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "9/2 âm lịch."
+        },
+        "province": "phường Cự Khối, quận Long Biên. ",
+        "related_person": "Bố Cái đại vương, Đào Duy Trinh, Cao Sơn, Linh Lang đại vương, Bạch Đa.",
+        "description": "không cúng gà trắng, có đua thuyền, cờ người, bơi trải, tổ tôm điếm, hát chèo, ca trù, tuồng.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình Bái Ân",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "09-10/2 âm lịch"
+        },
+        "province": "đình Bái Ân, phường Nghĩa Đô, quận Cầu Giấy.",
+        "related_person": "ba vị thành hoàng làng là Chiêu ứng Vũ đại vương Uy Linh Phúc thần, Chiêu Điều đại vương và Thuận Chính công chúa.",
+        "description": "tế lễ, rước kiệu, hát dân gian, đánh cờ…",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đền Voi Phục",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "09 -10/2 âm lịch."
+        },
+        "province": "đền Voi Phục, làng Thủ Lệ, phường Ngọc Khánh, quận Ba Đình. ",
+        "related_person": "Đức Thánh Linh Lang đại vương.",
+        "description": "lễ rước kiệu, lễ tế, múa rồng, múa lân, dâng hương, đấu cờ, đập niêu, chọi gà, biểu diễn văn nghệ...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội năm làng Mọc",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "9-11/2 âm lịch."
+        },
+        "province": "Mọc Quan Nhân, Mọc Chính Kinh, Mọc CựLộc, Mọc Giáp Nhất, Mọc Phùng Khoang, phường Trung Hòa, quận Cầu Giấy. ",
+        "related_person": "Đoàn Thượng, Lã Liệu, Hùng Lãng Công, Phùng Luông.",
+        "description": "rước kiệu qua 5 làng, múa rồng, múa sư tử.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình Giàn",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "9-11/2 âm lịch."
+        },
+        "province": "đình Giàn, thôn Cáo Đỉnh, xã Xuân Đỉnh, huyện Từ Liêm.",
+        "related_person": "thành hoàng làng Thái úy Tướng công Thượng đẳng Tôn thần Lý Phục Man.",
+        "description": "tế lễ, rước nước, rước kiệu, đấu cờ người…",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đình Vẽ",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "9-11/2 âm lịch."
+        },
+        "province": "xã Đông Ngạc, huyện Từ Liêm. ",
+        "related_person": "Thánh Độc Cước sơn tiên, Lê Khôi-công thần thời Lê, thổ thần.",
+        "description": "thi thả thơ, hát ca trù. Đặc sản có bánh khoái và hàng mây tre đan.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội vật làng Yên Nội",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10/2 âm lịch."
+        },
+        "province": "xã Đồng Quang, huyện Quốc Oai. ",
+        "related_person": "Đức Thánh Tản Viên, Mỵ Nương công chúa, tướng Cao Lỗ.",
+        "description": "rước kiệu, dâng hương, đấu vật, thi võ.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đền Thụy Khuê",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10/2 âm lịch."
+        },
+        "province": "251 đường Thụy Khuê, phường Thụy Khuê, quận Tây Hồ.",
+        "related_person": "Linh Lang đại vương và 6 bộ tướng.",
+        "description": "rước kết chạ với Thủ Lệ.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đình Gia Thuỵ",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10/2 âm lịch."
+        },
+        "province": "đình Gia Thụy, phường Gia Thụy và đền Yên Tân, phường Ngọc Thụy, quận Long Biên. ",
+        "related_person": "Trung Thành, Đống Lương, Thung Vinh, Quý Nương.",
+        "description": "ca trù, đu bay, cờ người.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Mạch Lũng",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10/2 âm lịch."
+        },
+        "province": "thôn Mạch Lũng, xã Đại Mạch, huyện Đông Anh.",
+        "related_person": "Tam vị Minh Mổ đại vương và bà thân mẫu Xoa Nương.",
+        "description": "rước nước, rước kiệu, bơi trải.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội thờ Thủy thần",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10/2 âm lịch."
+        },
+        "province": "thôn Linh Đàm, phường Hoàng Liệt, quận Hoàng Mai. ",
+        "related_person": "Bảo Ninh (thủy thần).",
+        "description": "Dâng cúng cỗ cá (bỏ đầu), chơi cờ người, bắt vịt, bơi thuyền.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình Yên Phụ",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10/2 âm lịch."
+        },
+        "province": "đình Yên Phụ, phường Yên Phụ, quận Tây Hồ. ",
+        "related_person": "Uy Đô Linh Lang (hoàng tử nhà Trần).",
+        "description": "Múa lân, múa rồng, cờ người, bơi thuyền trên hồ.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Yên Nội",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10/2 âm lịch."
+        },
+        "province": "xã Liên Mạc, huyện Từ Liêm.",
+        "related_person": "Bạch Hạc Tam Giang, Túc Chinh công chúa.",
+        "description": "Ngày hội có kết chạ với các làng lân cận. Chỉ cúng bằng cơm tẻ, muối vừng. Chơi trò trận giả ném cát.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Yên Thái",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10/2 âm lịch."
+        },
+        "province": "làng Yên Thái, phường Bưởi, quận Tây Hồ.",
+        "related_person": "Vũ Phục Chiêu ứng đại vương và Thuận Chính phu nhân (ông Dầu, bà Dầu).",
+        "description": "Xôi dẻo, thịt bò thui, cơm nếp, gà mái ghẹ luộc. Trò chơi đu tiên, thi cây hoa, cây cảnh xuân.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Nghi Tàm",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10/2 âm lịch."
+        },
+        "province": "đình Nghi Tàm, phường Quảng An, quận Tây Hồ.",
+        "related_person": "Võ Trung, Võ Quốc, Bảo Trung, công chúa Quỳnh Hoa, Thánh Minh Khiết, Tây Hồ thủy thần.",
+        "description": "Bơi trải, thi hoa cây cảnh.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội miếu Vũ, Xuân Đỉnh",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10/2 âm lịch."
+        },
+        "province": "xã Xuân Đỉnh, huyện Từ Liêm. ",
+        "related_person": "Vũ Phục (ông Dầu), Đỗ Thị Thiện (bà Dầu).",
+        "description": "kiệu bay, thi bánh giầy, chè kho.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đình Quảng Bá",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10-12/2 âm lịch."
+        },
+        "province": "thôn Quảng Bá, phường Quảng An, quận Tây Hồ.",
+        "related_person": "Bố Cái đại vương Phùng Hưng và 6 bộ tướng.",
+        "description": "cờ người, chọi gà.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đền Cai Công",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10-12/2 và 7/7 âm lịch."
+        },
+        "province": "làng Thượng Thanh, xã Thanh Cao, huyện Thanh Oai. ",
+        "related_person": "ông Cai Công, tướng thời Hai Bà Trưng, người đã đóng giả nữ tham gia cuộc khởi nghĩa.",
+        "description": "lễ rước, cúng cỗ chay (ông Cai Công không cho cúng thịt trâu bò), cờ tướng, đấu vật, chọi gà.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình làng Trung Kính Thượng",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10-17/2 âm lịch(14/2 là chính hội)"
+        },
+        "province": "đình làng Trung Kính Thượng, phường Trung Hòa, quận Cầu Giấy.",
+        "related_person": "Quốc Vương Đại thần Hùng Công",
+        "description": "lễ mộc dục, tế lễ, phong áo Thánh, chọi gà, chơi cờ…",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đình Nhật Tảo",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "11/2 âm lịch."
+        },
+        "province": "xã Đông Ngạc, huyện Từ Liêm.",
+        "related_person": "Trần Nguyễn Trác.",
+        "description": "thi bánh giầy, chè kho.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình Giảng Võ",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "11-12/2 âm lịch."
+        },
+        "province": "đình Giảng Võ, phường Giảng Võ, quận Đống Đa.",
+        "related_person": "Bà chúa kho Lý Châu Nương.",
+        "description": "tế yết, dâng hương, cờ tướng, biểu diễn văn nghệ...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình Kim Giang",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "11-12/2 âm lịch"
+        },
+        "province": "đình Kim Giang, phường Đại Kim, quận Hoàng Mai.",
+        "related_person": "thành hoàng Mạo Giáp Hoa và Thánh mẫu Lê Ngại Mỹ Châu.",
+        "description": "tế lễ, rước kiệu, hát dân gian, đánh cờ, chọi gà, kéo co…",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình An Hòa",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "11-13/2 âm lịch"
+        },
+        "province": "phường Yên Hòa, quận Cầu Giấy.",
+        "related_person": "Bạch Hạc Tam Giang và vua Lý Thần Tông.",
+        "description": "lễ tế, dâng hương, rước kiệu, văn nghệ, đánh cờ, chọi gà…",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đình Gừng Khương Hạ",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "12/2 âm lịch."
+        },
+        "province": "phường Khương Đình, quận Thanh Xuân.",
+        "related_person": "thần Tô Lịch và Lê Dương Vệ.",
+        "description": "lễ chạy mã, múa rồng, múa sư tử, cờ người, vật, hát chèo.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đền Bạch Mã",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "12-13/2 âm lịch."
+        },
+        "province": "đền Bạch Mã, số 76 phố Hàng Buồm, quận Hoàn Kiếm. ",
+        "related_person": "thần Bạch Mã (Biểu tượng của thần Mặt trời), thần Long Đỗ, thần trấn phương Đông được phong là \"Quốc đô Thăng Long thành hoàng kinh đô”",
+        "description": "tế lễ, dâng hương, rước kiệu, múa rồng, tiến trâu, biểu diễn văn nghệ...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Cót",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "12-15/2 âm lịch."
+        },
+        "province": "đình Cót, phường Yên Hòa, quận Cầu Giấy. ",
+        "related_person": "Các thần Cao Sơn, Diêm La, Mộc Tinh, hai vị bản thổ (hoàng cung Trịnh Thục phu nhân, Tràng Hán anh linh Đại tướng quân).",
+        "description": "rước lớn 7 kiệu (5 long ngai bài vị, một kiệu sắc - kiệu phù hương, một kiệu chum nước).",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đình An Phú",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "13/2 âm lịch."
+        },
+        "province": "phường Nghĩa Đô, quận Cầu Giấy.",
+        "related_person": "thần Nguyễn Bông và ngài Trần Toàn.",
+        "description": "hội làng có trò chơi “đi Cầu Noi”.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Hồ Khẩu",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "13/2 âm lịch hội chính"
+        },
+        "province": "phường Bưởi, quận Tây Hồ.",
+        "related_person": "Dực thánh đại vương (Cống Lễ), Vệ quốc đại vương (Cá Lễ).",
+        "description": "Múa bơi trải (múa cạn) với sự tham gia của 36 thanh niên gọi là giai",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội làng Bát Tràng",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "14-16/2 âm lịch."
+        },
+        "province": "đình Bát Tràng, Xã Bát Tràng, huyện Gia Lâm.",
+        "related_person": "Hán Cao Tổ và Lữ hậu, Cai O Minh Chính tự đại vương, Phan Đại tướng, Hồ Quốc thần, Bạch Mã thần.",
+        "description": "rước nước, tắm bài vị, thi sáng tác ca trù để hát thờ.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Cán Khê",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "16/2 âm lịch."
+        },
+        "province": "xã Nguyên Khê, huyện Đông Anh.",
+        "related_person": "Phù Đổng Thiên Vương.",
+        "description": "rước lớn 16 đoàn được tổ chức công phu. 60 thanh niên và hơn 100 cụ tham gia đám rước.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Thượng Phúc",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "16/2 âm lịch, 14/4 và 27/4 âm lịch."
+        },
+        "province": "làng Thượng Phúc, xã Tả Thanh Oai, huyện Thanh Trì.",
+        "related_person": "Hoàng tử Lý Thầm, thiền sư Hồ Bà Lam.",
+        "description": "thi bơi thuyền trên sông, năm thì bơi thuyền gỗ, năm bơi thuyền thúng. Thổi cơm thi, đôi nam nữ vừa đi vừa thổi cơm, vừa múa. Buổi tối có hát trống quân trên thuyền.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình làng Nam Đồng",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "16-17/2 âm lịch"
+        },
+        "province": "đình làng Nam Đồng, phường Nam Đồng, quận Đống Đa. ",
+        "related_person": "Thái úy Lý Thường Kiệt",
+        "description": "lễ tế, dâng hương, biểu diễn văn nghệ, đánh cờ, chọi gà...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đền bà Tấm",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "19-22/2 và 25/7 âm lịch. Chính hội 19/2 âm lịch. Hội lớn 5 năm một lần."
+        },
+        "province": "thôn Dương Đá, xã Dương Xá, huyện Gia Lâm. ",
+        "related_person": "Nguyên Phi Ỷ Lan.",
+        "description": "tục “Phất cờ tổng”.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đình Nội Bình Đà",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "2-6/3 âm lịch."
+        },
+        "province": "xã Bình Minh, huyện Thanh Oai.",
+        "related_person": "Lạc Long Quân, Âu Cơ, Linh Lang.",
+        "description": "rước lớn hoàn cung, rước và thả \"bánh vía\" xuống Long cung, thi đốt pháo hoa, chọi gà, đánh cờ.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội làng Sủi",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "3/3 âm lịch."
+        },
+        "province": "đình-đền Sủi, làng Sủi, xã Phú Thị, huyện Gia Lâm.",
+        "related_person": "Nguyên Phi Ỷ Lan và Tây Vị đại vương tướng quân Đào Liên Hoa.",
+        "description": "lễ hội Bông Sòng, lễ tế, rước kiệu , đấu võ, hát quan họ, đánh cờ.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Quán Thánh",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "3/3 âm lịch."
+        },
+        "province": "đền Quán Thánh, phường Quán Thánh, quận Ba Đình. ",
+        "related_person": "Đại Thánh Huyền Thiên Trấn Vũ (thần trấn phương Bắc).",
+        "description": "giáng bút, cầu mộng, cầu lộc.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội phủ Tây Hồ",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "3-7/3 âm lịch."
+        },
+        "province": "phường Quảng An, quận Tây Hồ. ",
+        "related_person": "Bà chúa Liễu Hạnh, Tam tòa Thánh Mẫu.",
+        "description": "hội có rước, dâng hương và hát văn.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Ngọc Trì",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "3/3 và ngày 9/9 âm lịch."
+        },
+        "province": "phường Thạch Bàn, quận Long Biên.",
+        "related_person": "Huyền Thiên Trấn Vũ.",
+        "description": "hội làng được tổ chức 5 năm một lần. Trò chơi kéo co.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đền Hát Môn",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "4-7/3, 4/9 và 24/12 âm lịch. Chính hội 6/3 âm lịch."
+        },
+        "province": "thôn Hát Môn, xã Hát Môn, huyện Phúc Thọ.",
+        "related_person": "Hai Bà Trưng.",
+        "description": "ba lễ hội trong năm. Có tục dâng cúng bánh trôi. Tục thả bánh trôi trên sông vào đêm 5/3 âm lịch.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội chùa Thầy",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "5-7/3 âm lịch."
+        },
+        "province": [
+            "xã sài sơn, huyện quốc oai. ",
+            "hà tây"
+        ],
+        "related_person": "pháp sư Từ Ðạo Hạnh, ông tổ nghệ thuật múa rối nước Việt Nam.",
+        "description": "lễ cúng Phật và chạy đàn. Trò chơi rối nước.",
+        "source": [
+            "https://360.hncity.org/spip.php?article297",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11"
+        ]
+    },
+    {
+        "name": "Hội chùa Tây Phương",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6/3 âm lịch."
+        },
+        "province": "xã Thạch Xá, huyện Thạch Thất.",
+        "related_person": "Đức Phật, La Hán.",
+        "description": "Hành hương lễ Phật, tụng kinh niệm Phật.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội chùa Tam Huyền",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6/3 âm lịch."
+        },
+        "province": "phường Hạ Đình, quận Thanh Xuân.",
+        "related_person": "Từ Vinh (phụ thân thiền sư Từ Đạo Hạnh).",
+        "description": "đấu roi (hai người), thi thổi xôi, vật tay, chọi gà.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội làng Bắc Biên",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6/3 âm lịch."
+        },
+        "province": "đình Phúc Xá, làng Bắc Biên, phường Ngọc Thụy, quận Long Biên. ",
+        "related_person": "Lý Thường Kiệt (1019 – 1105), người có nhiều công lao cho đất nước dưới triều Nhà Lý.",
+        "description": "rước kiệu, rước văn, lễ tế, thả cá chép ra sông, hát quan họ, đánh cờ, chọi gà...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội chùa Duệ Tú",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6-7/3 âm lịch."
+        },
+        "province": "phường Quan Hoa, quận Cầu Giấy.",
+        "related_person": "Pháp sư Đại Biên, một lương y nổi tiếng, một công thần có công giúp nước đời nhà Lý.",
+        "description": "tế lễ, tụng kinh, múa phượng, chọi gà, chơi cờ…",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội chùa Láng",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "06-08/3 âm lịch. Chính hội 7/3 âm lịch."
+        },
+        "province": "chùa Láng, đường Chùa Láng, phường Láng Thượng, quận Đống Đa.",
+        "related_person": "Hội đồng Đức Phật , vua Lý thần Tông và Thiền sư Từ Đạo Hạnh.",
+        "description": "rước kiệu, lễ tế, dâng hương, tụng kinh, biểu diễn văn nghệ, thổi cơm thi, đập niêu, đi cầu kiều, tổ tôm điếm, thi cờ tướng...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình Ứng Thiên",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6-8/3 âm lịch."
+        },
+        "province": "đình Ứng Thiên, phường Láng Hạ, quận Ba Đình.",
+        "related_person": "Hậu Thổ phu nhân (Đức Địa Mẫu)",
+        "description": "tế, lễ, dâng hương, chọi gà, chơi cờ...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Phủ Đức",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6-8/3 âm lịch."
+        },
+        "province": "xã Tây Mỗ, huyện Từ Liêm. ",
+        "related_person": "Bà Chúa Liễu Hạnh.",
+        "description": "Dâng hương, cầu cúng, hát văn, hầu đồng.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Nghiềm",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "7/3 âm lịch."
+        },
+        "province": "xã Liên Hà và Liên Trung, huyện Đan Phượng.",
+        "related_person": "Bà Sa Lăng và các tướng tài của Hai Bà Trưng hy sinh ngày 8/3.",
+        "description": "cúng thịt lợn, tế lễ, thi bơi thuyền nan trên sông Hồng.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội chùa Hoa Lăng",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "7/3 âm lịch."
+        },
+        "province": "Quận Cầu Giấy. ",
+        "related_person": "Thánh mẫu Tăng Thị Loan - mẹ của Từ Đạo Hạnh.",
+        "description": "lễ đấu thần.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đình Phú Diễn (Hữu Hoà)",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "7-9/3 âm lịch."
+        },
+        "province": "xã Phú Diễn, huyện Thanh Trì.",
+        "related_person": "Lê Đại Hành, Trần Thông.",
+        "description": "đấu roi, thi leo dây, múa rối nước trên sông, múa rồng, đánh vật, hát ca trù, múa sênh tiền, bịt mắt bắt dê, bơi trải.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng chài Vạn Vĩ",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "9-10/3 âm lịch."
+        },
+        "province": "làng Vạn Vĩ, xã Trung Châu, huyện Đan Phượng.",
+        "related_person": "thần Hà Bá, Lạc Long Quân, Linh Thông, Linh ứng, Võ Duệ.",
+        "description": "đua thuyền rồng, bơi trải, hát chèo, ca trù, múa sư tử.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Thanh Am",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "9-11/3 âm lịch."
+        },
+        "province": "làng Thanh Am, phường Thượng Thanh, quận Long Biên. ",
+        "related_person": "Trạng Trình Nguyễn Bỉnh Khiêm, Đào Kỳ và Phương Dung công chúa.",
+        "description": "lễ rước nước trên sông Đuống với trò múa cờ dẹp đường chỉ có ở Thanh Am. Hát quan, chầu văn.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội làng Đăm",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "9-13/3 âm lịch. Chính hội 10/3 âm lịch."
+        },
+        "province": "đình và miếu làng Đăm, xã Tây Tựu, huyện Từ Liêm.",
+        "related_person": "Đức Thánh Tam Giang (Bạch Hạc Tam Giang).",
+        "description": "rước kiệu, rước ngai, tế lễ, đua thuyền trên sông, chọi gà, đánh cờ, hát quan họ trên sông...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội bơi Thượng Cát",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10/3 âm lịch."
+        },
+        "province": "xã Thượng Cát, huyện Từ Liêm. ",
+        "related_person": "Quách Lãng, Đinh Bạch Nương, Đinh Tĩnh Nương, ba anh em tướng của Hai Bà Trưng, lập nhiều công.",
+        "description": "thi đua thuyền, chọi gà, bắt vịt, đấu vật, nấu cơm thi, chạy thi.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội miếu Mèn",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10/3 âm lịch."
+        },
+        "province": "xã Cam Thượng, huyện Ba Vì. ",
+        "related_person": "Bà Man Thiện (mẹ hai nữ anh hùng Trưng Trắc, Trưng Nhị).",
+        "description": "rước, tế, trò leo dây, bơi thuyền, múa rối.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Quán Giá",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10-26/3 âm lịch."
+        },
+        "province": "làng Giá, xã Yên Sở, huyện Hoài Đức. ",
+        "related_person": "Lý Phục Man, danh tướng thời Lý Nam Đế.",
+        "description": "tế thánh, diễn cảnh xuất trận của tướng Lý Phục Man, đấu vật, cờ tướng, đu tiên.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Canh Hoạch (làng Vác)",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "12/3 âm lịch"
+        },
+        "province": "đình Canh Hoạch (Đình Vác), xã Dân Hòa, huyện Thanh Oai",
+        "related_person": "3 vị thành hoàng: Trình Lý, Cao Hàn (tướng thời Hùng Vương 18), Trần Uất (tướng thời Trần), Trạng nguyên Nguyễn Đức Lượng, Thường quốc công Nguyễn Quyện.",
+        "description": "rước quạt, đấu cờ, đánh gậy, hát chèo, đề cao truyền thống hiếu học và tinh thần thượng võ từ xưa để lại.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Vải (hội Tầm Xá)",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "12/3 âm lịch và 3 năm 1 lần vào ngày 5/4 âm lịch."
+        },
+        "province": "xã Tầm Xá, huyện Đông Anh. ",
+        "related_person": "Tản Viên, Cao Sơn, Quí Minh, Long Linh, Cẩm phu nhân.",
+        "description": "tế nhập tịch, tế chính tiệc, tế tống tịch, tế yên vị, tế tư văn, múa mặt nạ.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình Đại Yên",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "13-14/3 âm lịch"
+        },
+        "province": "đình Đại Yên, phường Ngọc Hà, quận Ba Đình. ",
+        "related_person": "Đức thành hoàng Ngọc Hoa công chúa.",
+        "description": "lễ tế, dâng hương, biểu diễn văn nghệ, đánh cờ, chọi gà…",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội Tổng Nam Phù",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "14-16/3 âm lịch"
+        },
+        "province": "chùa Hưng Phúc, chùa Hưng Long, chùa Phổ Quang, xã Ngũ Hiệp, huyện Thanh Trì. ",
+        "related_person": "Nhị Vị Bồ Tát (2 công chúa nhà Lý Từ Huy và Từ Thục).",
+        "description": "lễ hội được tổ chức 5 năm một lần với lễ rước nước, rước kiệu, các trò chơi dân gian, thi các nghề truyền thống, các trò chơi...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Khê Hồi",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "14-17/3 âm lịch."
+        },
+        "province": "xã Hà Hồi, huyện Thường Tín. ",
+        "related_person": "thành hoàng Cao Sơn.",
+        "description": "hội có trò thủy chiến ở ao bán nguyệt trước đình mô phỏng lại tích những trận thủy chiến trên sông Bạch Đằng của Trần Hưng Đạo đánh giặc Nguyên và Ngô Quyền đánh quân Nam Hán, thi bắt vịt.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Lê Xá",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "15/3 âm lịch."
+        },
+        "province": "thôn Lê Xá, xã Mai Lâm, huyện Đông Anh. ",
+        "related_person": "Đào Kỳ và Phương Dung (tướng của Hai Bà Trưng).",
+        "description": "lễ rước, lễ tế, thi đánh chạc (thi bện thừng), ca trù, hát quan họ, thi bắt vịt, chọi gà.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Liên Bạt",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "15/3 âm lịch."
+        },
+        "province": "xã Liên Bạt, huyện Ứng Hòa. ",
+        "related_person": "Đức Thánh đệ nhất (Đặng Sĩ), Đức Thánh đệ nhị (Đặng Xã), Đức thánh đệ tam (Đặng Lang).",
+        "description": "kiệu bay, kiệu quay, rước văn đề cao tinh thần hiếu học, quý trọng tri thức văn hóa.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội thả diều Bá Giang",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "15/3 âm lịch."
+        },
+        "province": "xã Hồng Hà, huyện Đan Phượng. ",
+        "related_person": "ông Nguyễn Cả, phó súy tướng của vua Đinh Tiên Hoàng.",
+        "description": "thi thả diều, rước bánh dày, thổi cơm thi.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình và đền Kim Liên (Cao Sơn)",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "15-16/3 âm lịch."
+        },
+        "province": "làng Kim Liên cũ, phường Phương Liên, quận Đống Đa.",
+        "related_person": "Cao Sơn đại vương",
+        "description": "tế lễ, lễ rước kiệu, thi cắt tóc, chọi chim, nấu ăn và bày cỗ…",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đền Ninh Xá",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "15-17/3 âm lịch."
+        },
+        "province": "xã Ninh Sở, huyện Thường Tín. ",
+        "related_person": "2 công chúa con vua Lý Nhân Tông.",
+        "description": "lễ dâng hương, cầu phúc lộc, lên đồng.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội rước thành hoàng tổng Hà Hồi",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "16/3 âm lịch."
+        },
+        "province": "tại 3 xã Hà Hồi, Quất Động, Liên Phương, huyện Thường Tín. ",
+        "related_person": "thành hoàng Cao Sơn.",
+        "description": "cờ bỏi, múa gậy, thi bơi, hội thủy chiến, hát chèo, diễn tuồng.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình Tứ Liên (đình Ngọc Xuyên)",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "16/3 và 12/10 âm lịch, (chính hội 16/3)"
+        },
+        "province": "đình Ngọc Xuyên, phường Tứ Liên, quận Tây Hồ",
+        "related_person": "ba vị thành hoàng làng là Bảo Trung Thượng đẳng Phúc thần, Minh Khiết Thượng đẳng Phúc thần và Ý Hạnh phu nhân Tôn công chúa Thượng đẳng Phúc thần.",
+        "description": "lễ tế thần, dâng hương, rước kiệu, rước nước,thi nấu cơm, ca hát, đấu võ, chọi gà …",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Lệ Mật",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "ngày 23/3 âm lịch hàng năm."
+        },
+        "province": "làng Lệ Mật, phường Việt Hưng, quận Long Biên",
+        "related_person": "thành hoàng làng họ Hoàng.",
+        "description": "hội có múa rắn.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội xã Tự Nhiên",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "1/4 âm lịch."
+        },
+        "province": "xã Tự Nhiên, huyện Thường Tín. ",
+        "related_person": "Chử Đồng Tử, Tiên Dung công chúa, Tây Sa công chúa và Đào Thành (tướng của Hai Bà Trưng).",
+        "description": "rước nước, cờ bỏi.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đền Đồng Cổ (hội thề Đồng Cổ)",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "4/4 âm lịch."
+        },
+        "province": "phường Bưởi, quận Tây Hồ, Hà Nội.",
+        "related_person": "sơn thần Đồng Cổ (thần núi Trống Đồng).",
+        "description": "lễ hội tưởng nhớ vua Lý Thái Tông cho rước thần núi Trống Đồng ở Đan Nê (Thanh Hóa) về lập đền thờ ở Thăng Long.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Lỗ Khê",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "5-7/4 và 13-15/11 âm lịch."
+        },
+        "province": "xã Liên Hà, huyện Đông Anh. ",
+        "related_person": "vợ chồng ông Đinh Dự và bà Mãn Hoa Đường (dạy nghề hát ả đào).",
+        "description": "giỗ tổ nghề ca trù có tế lễ và múa hát.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội Gióng",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "6-12/4 âm lịch, chính hội 9/4"
+        },
+        "province": "xã Phù Đổng, huyện Gia Lâm",
+        "related_person": "Thánh Gióng (Phù Đổng Thiên Vương).",
+        "description": "phường ải Lao múa hát thờ thần; múa \"ba ván thuận, ba ván nghịch\" mô tả ông Gióng đánh trận.",
+        "source": [
+            "https://360.hncity.org/spip.php?article297",
+            "https://toplist.vn/top-list/le-hoi-truyen-thong-o-nuoc-ta-1180.htm"
+        ]
+    },
+    {
+        "name": "Hội Chi Nam (hội Phù Gióng)",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "8/4 âm lịch."
+        },
+        "province": "xã Lệ Chi, huyện Gia Lâm.",
+        "related_person": "Thánh Gióng, ông Hiển Công, có công đánh giặc Ân.",
+        "description": "tế lễ, diễn trận, đấu gậy, trò cướp gậy, cướp dừa.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Vo",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "9/4 âm lịch."
+        },
+        "province": "thôn Hội Xá, xã Phù Đổng, huyện Gia Lâm. ",
+        "related_person": "Dực Hòa Bảo Chính và 2 em gái.",
+        "description": "Múa hổ.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Quất Động",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "12-16/4 âm lịch."
+        },
+        "province": "xã Quất Động, huyện Thường Tín.",
+        "related_person": "Lê Công Hành, tổ nghề là trạng nguyên thời Mạc Đăng Dung.",
+        "description": "lễ dâng hương, lễ cúng tưởng niệm.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội thả chim làng Dục Tú",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "Cuối xuân, sang hè. "
+        },
+        "province": "xã Dục Tú, huyện Đông Anh. ",
+        "description": "thi thả chim câu.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đình-đền Chèm",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "14-15-16/5 âm lịch"
+        },
+        "province": "đình Chèm, xã Thụy Phương, huyện Từ Liêm. ",
+        "related_person": "Đức Thượng Đẳng Thiên Vương Lý Ông Trọng – Nhà ngoại giao đầu tiên của dân tộc Việt Nam.",
+        "description": "lễ mộc dục, rước nước, rước văn, rước kiệu, lễ tế, dâng hương, biểu diễn hát quan họ, chèo, hội thi bơi, hội vật, chọi gà, bắt vịt nước, thả chim bồ câu...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội chùa Hàm Long",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "15/5 âm lịch."
+        },
+        "province": "xã Thụy Phương, huyện Từ Liêm. ",
+        "related_person": "Đức Phật và Lý Ông Trọng, người có công trị thủy sông Hồng, đi sứ giúp vua Tần đánh giặc Hung Nô (năm 221 trước công nguyên).",
+        "description": "lễ rước văn, lễ phát tấu cúng Phật cầu siêu cho đức thánh Chèm và phu nhân.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đình Văn Khê",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "17-18/5 âm lịch"
+        },
+        "province": "xã Nghĩa Hương, huyện Quốc Oai. ",
+        "related_person": "Hai vị thành hoàng làng, con của Lạc Long Quân và Âu Cơ.",
+        "description": "lễ rước nước, đấu vật, đánh cờ, tổ tôm điếm, diễn chèo.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đền Quán Đôi",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "20/5 đến 21/5 âm lịch."
+        },
+        "province": "đền Quán Đôi, số 178 Nguyễn Đình Hoàn, P. Nghĩa Đô, Q. Cầu Giấy. ",
+        "related_person": "Tiền Lý Hoàng thái hậu và Thái tử.",
+        "description": "tế lễ, lrước kiệu, dâng hương, biểu diễn văn nghệ, trò hội...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Hậu Ái",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "28/5 âm lịch"
+        },
+        "province": "làng Hậu Ái, xã Vân Canh, huyện Hoài Đức.",
+        "related_person": "thành hoàng làng là Đỗ Kính Tu, đại thần thời Lý.",
+        "description": "Dân làng góp bánh tro, bánh dày, bánh chay cho làng mời khách thập phương. Cùng với các nghi lễ rước truyền thống, còn có các sinh hoạt văn hóa dân gian.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đền Ba Xã",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "12/6 âm lịch."
+        },
+        "province": "xã Minh Đức, huyện Ứng Hòa. ",
+        "related_person": "Đức thánh Mạc Trâu.",
+        "description": "Múa rồng, múa lân, thi chọi gà, đấu , đập bị gạo, túm nước.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đền Bà Chúa",
+        "synonyms": [
+            "lễ hội đền bà chúa kho",
+            "lễ hội đền bà chúa kho"
+        ],
+        "type": null,
+        "date": {
+            "lunar_calendar": "30/7 đến 01-02/8 âm lịch."
+        },
+        "province": [
+            "đền bà chúa, thôn viên, xã cổ nhuế, huyện từ liêm. ",
+            "bắc ninh"
+        ],
+        "related_person": "công chúa Túc Trinh, con gái vua Trần Thánh Tông.",
+        "description": "tế lễ, lễ mộc dục, rước kiệu, dâng hương, biểu diễn văn nghệ, trò hội, đánh cờ, chọi gà...",
+        "source": [
+            "https://360.hncity.org/spip.php?article297",
+            "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-tai-bac-ninh-11373.htm",
+            "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-o-bac-ninh-ma-ban-khong-nen-bo-lo.html"
+        ]
+    },
+    {
+        "name": "Hội Bạch Trữ (Kẻ Bạch)",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "9-15/8 âm lịch."
+        },
+        "province": "xã Tiến Thắng, huyện Mê Linh.",
+        "related_person": "Mỵ Nương và Cống Sơn - tướng của Hai Bà Trưng",
+        "description": "rước kiệu Bà, dâng lễ vật, tế lễ, thi bánh giầy.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội bơi trải Vĩnh Tuy",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10/8 âm lịch."
+        },
+        "province": "phường Vĩnh Hưng, quận Hoàng Mai.",
+        "related_person": "Nhã Cát đại vương và Trinh Thiên phu nhân.",
+        "description": "đua thuyền.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đền Bích Câu",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "12/8 âm lịch"
+        },
+        "province": "Số 14 phố Cát Linh, quận Đống Đa. ",
+        "related_person": "Đức tiên ông Trần Tú Uyên (chân nhân Tú Uyên) .",
+        "description": "tế lễ, dâng hương, biểu diễn ca trù, đánh cờ....",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Phú Xá",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "14/8 âm lịch."
+        },
+        "province": "phường Phú Thượng, quận Tây Hồ. ",
+        "related_person": "Nguyễn Kiều, Thánh Tăng.",
+        "description": "rước Thánh Tăng.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Giáp Lục",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "14/8 âm lịch."
+        },
+        "province": "thôn Giáp Lục, phường Thịnh Liệt, quận Hoàng Mai. ",
+        "related_person": "Nguyễn Chính (thành hoàng).",
+        "description": "trẻ con 4-5 tuổi được làm lễ yết thánh vào làng tại đình với 100 khẩu trầu và 1 chai rượu.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đua thuyền Yên Duyên",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "15/8 âm lịch."
+        },
+        "province": "xã Yên Duyên, huyện Thanh Trì.",
+        "related_person": "Trần Khát Chân (thành hoàng), Bà Chúa.",
+        "description": "đua thuyền.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Bất Nạo",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "15-18/8 âm lịch."
+        },
+        "province": "thôn Phú Nhiêu, xã Quang Trung, huyện Phú Xuyên.",
+        "related_person": "Trương Công, Khánh Công (Đình Bất Nạo), còn gọi là Thổ Lệnh hoặc thần Trung Thành, tướng thời Hùng Vương 18.",
+        "description": "tế thần, hò cửa đình, vật thịnh, mùa màng tươi tốt.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đền Nguyễn Trãi",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "16/8 âm lịch."
+        },
+        "province": "làng Nhị Khê, xã Nhị Khê, huyện Thường Tín. ",
+        "related_person": "Nguyễn Trãi, \"Khai quốc nguyên công\" (công đầu mở nước), nhà chính trị, nhà ngoại giao thiên tài, nhà văn hóa lớn thế kỷ 15.",
+        "description": "dâng hương tưởng niệm ngày giỗ ông (16/8), tham quan tượng đài và khu nhà thờ.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội làng Chàng Sơn",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "17 -18/08 âm lịch (Chính hội 18/08)"
+        },
+        "province": "xã Chàng Sơn, huyện Thạch Thất.",
+        "related_person": "Đức Thánh Tản Viên, Tiếu Thiện đại vương và Trầm Đồng đại vương.",
+        "description": "rước lễ, tế lễ, dâng hương, múa rối nước, đánh cờ ...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội đền Lư Giang",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "18/8 đến 20/8 âm lịch"
+        },
+        "province": "đền Lư Giang, làng Thanh Mai, phường Hoàng Văn Thụ, quận Hoàng Mai.",
+        "related_person": "Trần Hưng Đạo, Phạm Tổ Thu, Phạm Ngưu Tất và Thủy tinh công chúa.",
+        "description": "tế lễ, rước kiệu, dâng hương, biểu diễn văn nghệ, trò hội, đánh cờ…",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội đền Ghềnh (Hà Nội)",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "20/8 âm lịch."
+        },
+        "province": "thôn Ái Mộ, phường Bồ Đề, quận Long Biên. ",
+        "related_person": "ba nữ thần gồm Liễu Hạnh (con gái Ngọc Hoàng), La Bình (con gái thần núi Tản Viên), Lê Ngọc Hân (vợ vua Quang Trung).",
+        "description": "hát văn ca ngợi công đức Thánh Mẫu.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội điện Thái Bình",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "26/8 âm lịch."
+        },
+        "province": "xóm Thái Bình, xã Vân Nội, huyện Đông Anh.",
+        "related_person": "Trần Hưng Đạo.",
+        "description": "lễ đảo thánh, dâng văn.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Võng Thị",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "30/9 âm lịch."
+        },
+        "province": "làng Võng Thị, phường Bưởi, quận Tây Hồ.",
+        "related_person": "Mục Thận, có công cứu vua Lý Nhân Tông trên hồ Tây.",
+        "description": "cúng tế, chọi gà, hát tuồng.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Xuân Nộn",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "11/10 âm lịch."
+        },
+        "province": "đình Xuân Nộn, thôn Xuân Nộn, xã Xuân Nộn, huyện Đông Anh.",
+        "related_person": "5 vị phúc thần gồm Ả Lã Tuệ Tịnh phu nhân người phụ nữ trong thời kỳ lịch sử cổ đại của dân tộc, Vũ Định đại vương và Thiên Cương tôn thần thời Hùng Vương, Trương Hống—Trương Hát (tướng theo Triệu Quang Phục).",
+        "description": "rước kiệu vua bà, múa rắn, tuồng tế Thánh.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Lai Tảo",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "12/10 âm lịch."
+        },
+        "province": "xã Bột Xuyên, huyện Mỹ Đức.",
+        "related_person": "thành hoàng làng là 3 anh em họ Cao, tướng của Hai Bà Trưng.",
+        "description": "cỗ tế thành hoàng bằng thịt lợn sống và gạo nếp.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Nhị Khê",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "25/10 âm lịch."
+        },
+        "province": "xã Nhị Khê, huyện Thường Tín.",
+        "related_person": "ông Doãn Văn Tài, tổ nghề tiện gỗ thế kỷ 16.",
+        "description": "tế tổ, cúng tế, dâng lễ vật lên tổ sư, đánh cờ, hát chèo.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội làng Hạ Thái",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "9-11/11 âm lịch. Chính hội 10/11 âm lịch."
+        },
+        "province": "làng Hạ Thái, xã Duyên Thái, huyện Thường Tín.",
+        "related_person": "Thái sư Bùi Sĩ Lương và bà Đinh Thị Trạch.",
+        "description": "lễ rước kiệu, rước sắc, rước cỗ, lễ tế, múa rồng, hát quan họ, đánh cờ...",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội làng Mạnh Tân",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "10/11 âm lịch."
+        },
+        "province": "thôn Mạnh Tân, xã Thụy Lâm, huyện Đông Anh.",
+        "related_person": "Đương Giang, Lý triều Quốc Mẫu.",
+        "description": "rước kiệu, tế lễ, vật cổ truyền.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội tế Trung Đồ",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "18/11 âm lịch."
+        },
+        "province": "làng Ngọc Phan, huyện Thanh Oai.",
+        "related_person": "vua Lý Nam Đế.",
+        "description": "cúng, kể hạnh, đánh phết.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Hội Đình Mai",
+        "synonyms": null,
+        "type": null,
+        "date": {
+            "lunar_calendar": "20/12 âm lịch."
+        },
+        "province": "xã Thanh Mai, huyện Thanh Oai.",
+        "related_person": "Hà Khôi đại vương, người có công giúp Đinh Bộ Lĩnh dẹp sứ quân Đỗ Cảnh Thạc cát cứ vùng Thanh Oai.",
+        "description": "lễ tế thần, cờ tướng, chọi gà.",
+        "source": "https://360.hncity.org/spip.php?article297"
+    },
+    {
+        "name": "Lễ hội Ka-tê",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-o-nuoc-ta-1180.htm"
+    },
+    {
+        "name": "Lễ hội Gò Đống Đa",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-o-nuoc-ta-1180.htm"
+    },
+    {
+        "name": "Lễ hội cầu ngư",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "quảng ngãi"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-truyen-thong-o-nuoc-ta-1180.htm",
+            "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-quang-ngai.html"
+        ]
+    },
+    {
+        "name": "Hội đua voi",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "tây nguyên"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-truyen-thong-o-nuoc-ta-1180.htm",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11"
+        ]
+    },
+    {
+        "name": "Lễ hội bà Chúa Xứ",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-o-nuoc-ta-1180.htm"
+    },
+    {
+        "name": "Lễ hội Căm Mường",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-o-nuoc-ta-1180.htm"
+    },
+    {
+        "name": "Hội Rước Pháo làng Đồng Kỵ",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-xuan-ban-khong-the-bo-qua-vao-dip-tet-nguyen-dan-8473.htm"
+    },
+    {
+        "name": "Hội Lim - Bắc Ninh",
+        "synonyms": [
+            "hội lim"
+        ],
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "bắc ninh",
+            "bắc ninh"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-mua-xuan-o-viet-nam-7313.htm",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11"
+        ]
+    },
+    {
+        "name": "Lễ Hội Núi Bà Đen",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-xuan-ban-khong-the-bo-qua-vao-dip-tet-nguyen-dan-8473.htm"
+    },
+    {
+        "name": "Lễ hội khai ấn đền Trần",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-mien-bac-5719.htm"
+    },
+    {
+        "name": "Lễ hội Đền Hùng (Lễ Giỗ Tổ Hùng Vương)",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-mua-xuan-o-viet-nam-7313.htm"
+    },
+    {
+        "name": "Hội Gò Đống Đa (Hà Nội)",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hà Nội",
+        "source": "https://toplist.vn/top-list/le-hoi-mua-xuan-o-viet-nam-7313.htm"
+    },
+    {
+        "name": "Lễ hội Yên Tử (Quảng Ninh)",
+        "synonyms": [
+            "lễ hội yên tử"
+        ],
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "quảng ninh",
+            "hạ long"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-mua-xuan-o-viet-nam-7313.htm",
+            "https://luhanhvietnam.com.vn/du-lich/hoa-minh-vao-nhung-le-hoi-truyen-thong-dac-sac-o-ha-long.html"
+        ]
+    },
+    {
+        "name": "Lễ Tống Ôn",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-van-hoa-truyen-thong-o-mien-tay-nam-bo-8159.htm"
+    },
+    {
+        "name": "Lễ hội đua bò Bảy Núi",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": [
+            "festival"
+        ],
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-van-hoa-truyen-thong-o-mien-tay-nam-bo-8159.htm"
+    },
+    {
+        "name": "Lễ hội nghinh Ông",
+        "synonyms": [
+            "lễ hội nghinh ông (quan thánh đế quân)"
+        ],
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "phan thiết (bình thuận)",
+            "quảng ngãi"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-xuan-ban-khong-the-bo-qua-vao-dip-tet-nguyen-dan-8473.htm",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+            "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-quang-ngai.html"
+        ]
+    },
+    {
+        "name": "Lễ hội Bà Chúa Xứ Núi Sam",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-van-hoa-truyen-thong-o-mien-tay-nam-bo-8159.htm"
+    },
+    {
+        "name": "Lễ Đôn Ta - Dolta",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-van-hoa-truyen-thong-o-mien-tay-nam-bo-8159.htm"
+    },
+    {
+        "name": "Lễ tết Khmer Chol Chnam Thmay",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-van-hoa-truyen-thong-o-mien-tay-nam-bo-8159.htm"
+    },
+    {
+        "name": "Lễ Hội Kỳ Yên",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "đồng nai"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-van-hoa-truyen-thong-o-mien-tay-nam-bo-8159.htm",
+            "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-o-dong-nai-doc-dao.html"
+        ]
+    },
+    {
+        "name": "Lễ hội cúng trăng Ok Om Bok",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-van-hoa-truyen-thong-o-mien-tay-nam-bo-8159.htm"
+    },
+    {
+        "name": "Lễ hội Kathina",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-van-hoa-truyen-thong-o-mien-tay-nam-bo-8159.htm"
+    },
+    {
+        "name": "Lễ Cúng Dừa - Lễ hội tâm linh",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-van-hoa-truyen-thong-o-mien-tay-nam-bo-8159.htm"
+    },
+    {
+        "name": "Lễ hội chùa Hương kéo dài từ mùng 6 Tết hết tháng 3 Âm lịch",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-xuan-duoc-yeu-thich-nhat-tai-viet-nam-28570.htm"
+    },
+    {
+        "name": "Lễ hội Yên Tử – Quảng Ninh (Từ mùng 10 tháng giêng)",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Quảng Ninh",
+        "source": "https://toplist.vn/top-list/le-hoi-xuan-duoc-yeu-thich-nhat-tai-viet-nam-28570.htm"
+    },
+    {
+        "name": "Lễ hội khai ấn Đền Trần – Nam Định (Từ 13 – 15 tháng Giêng)",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Nam Định",
+        "source": "https://toplist.vn/top-list/le-hoi-xuan-duoc-yeu-thich-nhat-tai-viet-nam-28570.htm"
+    },
+    {
+        "name": "Giỗ Tổ Hùng Vương (ngày 5 đến 10/3 Âm lịch hàng năm)",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-xuan-duoc-yeu-thich-nhat-tai-viet-nam-28570.htm"
+    },
+    {
+        "name": "Hội Lim – Bắc Ninh (Từ ngày 12 – 14 tháng giêng)",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bắc Ninh",
+        "source": "https://toplist.vn/top-list/le-hoi-xuan-duoc-yeu-thich-nhat-tai-viet-nam-28570.htm"
+    },
+    {
+        "name": "Lễ hội núi Bà Đen – Tây Ninh (Mùng 4 Tết)",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Tây Ninh",
+        "source": "https://toplist.vn/top-list/le-hoi-xuan-duoc-yeu-thich-nhat-tai-viet-nam-28570.htm"
+    },
+    {
+        "name": "Lễ hội Bà Chúa Xứ – An Giang (từ 23 – 27 tháng 4 âm lịch)",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "An Giang",
+        "source": "https://toplist.vn/top-list/le-hoi-xuan-duoc-yeu-thich-nhat-tai-viet-nam-28570.htm"
+    },
+    {
+        "name": "Lễ hội Chùa Bà Thiên Hậu – Bình Dương (từ 13 – 15 tháng Giêng)",
+        "synonyms": [
+            "lễ hội chùa bà thiên hậu"
+        ],
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "bình dương",
+            "thành phố hồ chí minh"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-xuan-duoc-yeu-thich-nhat-tai-viet-nam-28570.htm",
+            "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-o-thanh-pho-ho-chi-minh-noi-tieng.html"
+        ]
+    },
+    {
+        "name": "Lễ hội đền Hùng - Giỗ tổ vua Hùng Vương",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-viet-nam-1842.htm"
+    },
+    {
+        "name": "Lễ hội miếu Bà Chúa Xứ núi Sam tỉnh An Giang",
+        "synonyms": [
+            "lễ hội miếu bà chúa xứ"
+        ],
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "an giang",
+            "an giang"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-viet-nam-1842.htm",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11"
+        ]
+    },
+    {
+        "name": "Lễ hội chùa Hương hay trẩy hội chùa Hương",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-viet-nam-1842.htm"
+    },
+    {
+        "name": "Lễ hội Nghinh Ông là lễ hội nổi tiếng ở Cần Giờ",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-viet-nam-1842.htm"
+    },
+    {
+        "name": "Lễ hội xuân Yên Tử tri ân công đức Phật Hoàng Trần Nhân Tông",
+        "synonyms": [
+            "hội xuân yên tử"
+        ],
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "quảng ninh"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-viet-nam-1842.htm",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11"
+        ]
+    },
+    {
+        "name": "Lễ vía Ngũ Hành Nương Nương tại miếu Bà Ngũ Hành tại Long An",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-viet-nam-1842.htm"
+    },
+    {
+        "name": "Lễ hội chùa Bái Đính là lễ hội hành hương về vùng đất cố đô Hoa Lư tỉnh Ninh Bình",
+        "synonyms": [
+            "lễ hội chùa bái đính"
+        ],
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "ninh bình"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-viet-nam-1842.htm",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11"
+        ]
+    },
+    {
+        "name": "Lễ hội đền Trần tại phường Lộc Vượng, thành phố Nam Định, tỉnh Nam Định",
+        "synonyms": [
+            "lễ hội đền trần"
+        ],
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "nam định",
+            "nam định"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-viet-nam-1842.htm",
+            "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-nam-dinh.html"
+        ]
+    },
+    {
+        "name": "Lễ hội Tháp Bà Ponagar còn gọi là Lễ hội Thiên Y A Na Thánh Mẫu hay Lễ vía Bà tại Khánh Hòa",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-viet-nam-1842.htm"
+    },
+    {
+        "name": "Hội Lim là lễ hội truyền thống nổi tiếng và lớn nhất vùng Kinh Bắc Việt Nam",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-viet-nam-1842.htm"
+    },
+    {
+        "name": "Lễ cúng biển ở Mỹ Long",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Trà Vinh",
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-o-tra-vinh-23501.htm"
+    },
+    {
+        "name": "Lễ hội đền Gióng tại Sóc Sơn",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-viet-nam-1842.htm"
+    },
+    {
+        "name": "Lễ hội đền Hai Bà Trưng - Mê Linh",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-viet-nam-1842.htm"
+    },
+    {
+        "name": "Lễ Hội Bà Chúa Kho",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-mien-bac-5719.htm"
+    },
+    {
+        "name": "Lễ Hội Đền Hùng",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": [
+            "Di tích Việt Nam"
+        ],
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-mien-bac-5719.htm"
+    },
+    {
+        "name": "Lễ Hội Chợ Viềng",
+        "synonyms": [
+            "chợ viềng"
+        ],
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "nam định"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-mien-bac-5719.htm",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+            "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-nam-dinh.html"
+        ]
+    },
+    {
+        "name": "Lễ Hội Đền Gióng",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-mien-bac-5719.htm"
+    },
+    {
+        "name": "Lễ hội Chùa Yên Tử",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-mien-bac-5719.htm"
+    },
+    {
+        "name": "Lễ hội hoa ban",
+        "synonyms": [
+            "lễ hội hoa ban - mường lò"
+        ],
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "yên bái"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-mien-bac-5719.htm",
+            "https://luhanhvietnam.com.vn/du-lich/doc-dao-nhung-le-hoi-truyen-thong-o-yen-bai.html"
+        ]
+    },
+    {
+        "name": "Lễ hội Kinh Dương Vương",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-mien-bac-5719.htm"
+    },
+    {
+        "name": "Hội Lim",
+        "synonyms": null,
+        "description": "Lễ hội ở Việt Nam",
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-xuan-ban-khong-the-bo-qua-vao-dip-tet-nguyen-dan-8473.htm"
+    },
+    {
+        "name": "Hội Gò Đống Đa",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-mien-bac-5719.htm"
+    },
+    {
+        "name": "Lễ hội chùa Keo",
+        "synonyms": [
+            "lễ hội chùa keo hành thiện"
+        ],
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "thái bình",
+            "nam định"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-mien-bac-5719.htm",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+            "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-nam-dinh.html"
+        ]
+    },
+    {
+        "name": "Lễ hội chùa Bái Đính",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-mien-bac-5719.htm"
+    },
+    {
+        "name": "Hội Xoan",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-mien-bac-5719.htm"
+    },
+    {
+        "name": "Lễ hội Đền Đô",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "bắc ninh",
+            "bắc ninh"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-tai-bac-ninh-11373.htm",
+            "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-o-bac-ninh-ma-ban-khong-nen-bo-lo.html"
+        ]
+    },
+    {
+        "name": "Lễ hội chùa Dâu",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "bắc ninh",
+            "bắc ninh"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-tai-bac-ninh-11373.htm",
+            "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-o-bac-ninh-ma-ban-khong-nen-bo-lo.html"
+        ]
+    },
+    {
+        "name": "Lễ hội chùa Phật Tích",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "bắc ninh",
+            "bắc ninh"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-tai-bac-ninh-11373.htm",
+            "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-o-bac-ninh-ma-ban-khong-nen-bo-lo.html"
+        ]
+    },
+    {
+        "name": "Lễ hội chùa Bút Tháp",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bắc Ninh",
+        "source": "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-tai-bac-ninh-11373.htm"
+    },
+    {
+        "name": "Hội Chùa Keo",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Thái Bình",
+        "source": "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-thai-binh-2145.htm"
+    },
+    {
+        "name": "Hội Đèn Hét",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Thái Bình",
+        "source": "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-thai-binh-2145.htm"
+    },
+    {
+        "name": "Hội đền Trần",
+        "synonyms": [
+            "lễ hội đền trần thương"
+        ],
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "hà nam"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-xuan-ban-khong-the-bo-qua-vao-dip-tet-nguyen-dan-8473.htm",
+            "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-ha-nam.html"
+        ]
+    },
+    {
+        "name": "Hội La Vân",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Thái Bình",
+        "source": "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-thai-binh-2145.htm"
+    },
+    {
+        "name": "Hội Đồng Bằng",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Thái Bình",
+        "source": "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-thai-binh-2145.htm"
+    },
+    {
+        "name": "Hội Đồng Xâm",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Thái Bình",
+        "source": "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-thai-binh-2145.htm"
+    },
+    {
+        "name": "Hội đền Tiên La",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Thái Bình",
+        "source": "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-thai-binh-2145.htm"
+    },
+    {
+        "name": "Hội Đền Chòi",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Thái Bình",
+        "source": "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-thai-binh-2145.htm"
+    },
+    {
+        "name": "Hội Quang Lang",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Thái Bình",
+        "source": "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-thai-binh-2145.htm"
+    },
+    {
+        "name": "Hội đền Côn Giang",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Thái Bình",
+        "source": "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-thai-binh-2145.htm"
+    },
+    {
+        "name": "Lễ hội đua voi",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Đắk Lắk",
+        "source": "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-o-dak-lak-2495.htm"
+    },
+    {
+        "name": "Lễ hội Cồng chiêng",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Đắk Lắk",
+        "source": "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-o-dak-lak-2495.htm"
+    },
+    {
+        "name": "Lễ hội cà phê Buôn Ma Thuột",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Đắk Lắk",
+        "source": "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-o-dak-lak-2495.htm"
+    },
+    {
+        "name": "Lễ cúng bến nước",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Đắk Lắk",
+        "source": "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-o-dak-lak-2495.htm"
+    },
+    {
+        "name": "Lễ Pơ thi (bỏ mả)",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Đắk Lắk",
+        "source": "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-o-dak-lak-2495.htm"
+    },
+    {
+        "name": "Lễ mừng lúa mới",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Đắk Lắk",
+        "source": "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-o-dak-lak-2495.htm"
+    },
+    {
+        "name": "Lễ hội đâm trâu",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "đắk lắk",
+            "quảng ngãi"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-dac-sac-nhat-o-dak-lak-2495.htm",
+            "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-quang-ngai.html"
+        ]
+    },
+    {
+        "name": "Lễ hội Chôl Chnam Thmây",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": [
+            "annual event"
+        ],
+        "province": "Trà Vinh",
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-o-tra-vinh-23501.htm"
+    },
+    {
+        "name": "Lễ hội Ok Om Bok",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Trà Vinh",
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-o-tra-vinh-23501.htm"
+    },
+    {
+        "name": "Lễ hội Sen Đôlta",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Trà Vinh",
+        "source": "https://toplist.vn/top-list/le-hoi-truyen-thong-noi-tieng-nhat-o-tra-vinh-23501.htm"
+    },
+    {
+        "name": "Lễ Hội Lồng Tồng",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "hà giang"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-xuan-ban-khong-the-bo-qua-vao-dip-tet-nguyen-dan-8473.htm",
+            "https://luhanhvietnam.com.vn/du-lich/le-hoi-dau-nam-o-ha-giang.html"
+        ]
+    },
+    {
+        "name": "Lễ hội chùa Hương -  Mỹ Đức -  Hà Nội",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hà Nội",
+        "source": "https://toplist.vn/top-list/le-hoi-dau-nam-lon-nhat-o-mien-bac-khong-nen-bo-qua-9518.htm"
+    },
+    {
+        "name": "Lễ hội đền Gióng - Sóc Sơn - Hà Nội",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hà Nội",
+        "source": "https://toplist.vn/top-list/le-hoi-dau-nam-lon-nhat-o-mien-bac-khong-nen-bo-qua-9518.htm"
+    },
+    {
+        "name": "Lễ khai ấn đền Trần - Nam Định",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Nam Định",
+        "source": "https://toplist.vn/top-list/le-hoi-dau-nam-lon-nhat-o-mien-bac-khong-nen-bo-qua-9518.htm"
+    },
+    {
+        "name": "Lễ hội Lim - Tiên Du - Bắc Ninh",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bắc Ninh",
+        "source": "https://toplist.vn/top-list/le-hoi-dau-nam-lon-nhat-o-mien-bac-khong-nen-bo-qua-9518.htm"
+    },
+    {
+        "name": "Lễ hội chùa Yên Tử - Quảng Ninh",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Quảng Ninh",
+        "source": "https://toplist.vn/top-list/le-hoi-dau-nam-lon-nhat-o-mien-bac-khong-nen-bo-qua-9518.htm"
+    },
+    {
+        "name": "Lễ hội bà Chúa Kho - Vũ Ninh - Bắc Ninh",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bắc Ninh",
+        "source": "https://toplist.vn/top-list/le-hoi-dau-nam-lon-nhat-o-mien-bac-khong-nen-bo-qua-9518.htm"
+    },
+    {
+        "name": "Lễ hội gò Đống Đa - Đống Đa - Hà Nội",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hà Nội",
+        "source": "https://toplist.vn/top-list/le-hoi-dau-nam-lon-nhat-o-mien-bac-khong-nen-bo-qua-9518.htm"
+    },
+    {
+        "name": "Lễ hội Côn Sơn - Hải Dương",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hải Dương",
+        "source": "https://toplist.vn/top-list/le-hoi-dau-nam-lon-nhat-o-mien-bac-khong-nen-bo-qua-9518.htm"
+    },
+    {
+        "name": "Lễ hội Xoan - Phú Thọ",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Phú Thọ",
+        "source": "https://toplist.vn/top-list/le-hoi-dau-nam-lon-nhat-o-mien-bac-khong-nen-bo-qua-9518.htm"
+    },
+    {
+        "name": "Hội chùa Keo - Thái Bình",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Thái Bình",
+        "source": "https://toplist.vn/top-list/le-hoi-dau-nam-lon-nhat-o-mien-bac-khong-nen-bo-qua-9518.htm"
+    },
+    {
+        "name": "Lễ Hội Tịch Điền",
+        "synonyms": null,
+        "description": "Lễ hội tại Đọi Sơn",
+        "related_person": null,
+        "date": null,
+        "type": [
+            "festival"
+        ],
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-xuan-ban-khong-the-bo-qua-vao-dip-tet-nguyen-dan-8473.htm"
+    },
+    {
+        "name": "Lễ Hội Đua Ngựa",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": null,
+        "source": "https://toplist.vn/top-list/le-hoi-xuan-ban-khong-the-bo-qua-vao-dip-tet-nguyen-dan-8473.htm"
+    },
+    {
+        "name": "Lễ hội Làm chay - Long An",
+        "synonyms": [
+            "lễ hội làm chay"
+        ],
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "long an",
+            "long an"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-xuan-ban-khong-the-bo-qua-vao-dip-tet-nguyen-dan-8473.htm",
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11"
+        ]
+    },
+    {
+        "name": "Hội vật Làng Sình - Huế",
+        "synonyms": [
+            "hội vật làng sình"
+        ],
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": [
+            "huế",
+            "huế"
+        ],
+        "source": [
+            "https://toplist.vn/top-list/le-hoi-xuan-ban-khong-the-bo-qua-vao-dip-tet-nguyen-dan-8473.htm",
+            "https://luhanhvietnam.com.vn/du-lich/kham-pha-nhung-le-hoi-tet-o-hue-doc-dao.html"
+        ]
+    },
+    {
+        "name": "Hội vật Liễu Đôi",
+        "synonyms": null,
+        "province": "Hà Nam",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "hội Gióng Sóc Sơn",
+        "synonyms": null,
+        "province": "Hà Nội",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Lễ hội đầm Ô Loan",
+        "synonyms": null,
+        "province": [
+            "phú yên",
+            "phú yên"
+        ],
+        "source": [
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+            "https://luhanhvietnam.com.vn/du-lich/danh-sach-cac-le-hoi-truyen-thong-tai-phu-yen.html"
+        ],
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Đại lễ Đức Chí Tôn",
+        "synonyms": null,
+        "province": "Tây Ninh",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Hội phết Hiền Quan",
+        "synonyms": null,
+        "province": "Phú Thọ",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Hội chùa Côn Sơn",
+        "synonyms": null,
+        "province": "Hải Dương",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Lễ hội chọi trâu",
+        "synonyms": null,
+        "province": "Hải Phòng",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": "trang định hướng Wikimedia",
+        "related_person": null,
+        "type": [
+            "Wikimedia disambiguation page"
+        ],
+        "date": null
+    },
+    {
+        "name": "Hội Xuân núi Bà",
+        "synonyms": null,
+        "province": "Tây Ninh",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Lễ hội đình Yên Phụ",
+        "synonyms": null,
+        "province": "Hà Nội",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Lễ hội Miếu Mạch Lũng",
+        "synonyms": null,
+        "province": "Hà Nội",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Lễ hội Quán Thế Âm",
+        "synonyms": null,
+        "province": "Đà Nẵng",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Tiết Thanh minh",
+        "synonyms": null,
+        "province": null,
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": "ngày lễ của Việt Nam",
+        "related_person": null,
+        "type": [
+            "holiday",
+            "public holiday"
+        ],
+        "date": null
+    },
+    {
+        "name": "Hội Phủ Giầy",
+        "synonyms": null,
+        "province": "Nam Định",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Lễ hội Điện Hòn Chén",
+        "synonyms": null,
+        "province": "Thừa Thiên - Huế",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Lễ hội Hoa Lư",
+        "synonyms": null,
+        "province": "Ninh Bình",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Lễ hội đền Thái Vi",
+        "synonyms": null,
+        "province": "Ninh Bình",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Lễ hội Nam Trì",
+        "synonyms": null,
+        "province": "Hưng Yên",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Lễ hội đền Mẫu",
+        "synonyms": null,
+        "province": [
+            "hưng yên",
+            "hưng yên"
+        ],
+        "source": [
+            "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+            "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-hung-yen-noi-tieng-nhat.html"
+        ],
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Lễ hội Làng cá Cát Bà",
+        "synonyms": null,
+        "province": "Hải Phòng",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Hội Gióng Phù Đổng",
+        "synonyms": null,
+        "province": "Hà Nội",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Lễ hội Chol Chnam Thmay",
+        "synonyms": null,
+        "province": "Nam Bộ",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": [
+            "annual event"
+        ],
+        "date": null
+    },
+    {
+        "name": "Lễ khao lề thế lính",
+        "synonyms": null,
+        "province": "Quảng Ngãi",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Thất Tịch",
+        "synonyms": null,
+        "province": null,
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": [
+            "holiday",
+            "festival"
+        ],
+        "date": null
+    },
+    {
+        "name": "Lễ hội Katê",
+        "synonyms": null,
+        "province": "Bình Thuận",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Hội Đền Kiếp Bạc",
+        "synonyms": null,
+        "province": "Hải Dương",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Hội Yến Diêu Trì",
+        "synonyms": null,
+        "province": "Tây Ninh",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": [
+            "religious festival"
+        ],
+        "date": null
+    },
+    {
+        "name": "Lễ hội Nghinh Ông (Cá Voi)",
+        "synonyms": null,
+        "province": "Bình Thuận",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Lễ hội AHDT Nguyễn Trung Trực",
+        "synonyms": null,
+        "province": "Rạch Giá",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Lễ hội đền Nguyễn Công Trứ",
+        "synonyms": null,
+        "province": "Ninh Bình",
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Tiễn Ông Táo về trời",
+        "synonyms": null,
+        "province": null,
+        "source": "http://vhttcs.org.vn/report.aspx?sitepageid=659&id=11",
+        "description": null,
+        "related_person": null,
+        "type": null,
+        "date": null
+    },
+    {
+        "name": "Lễ hội cầu mưa ở ấp Tà Kuông",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bình Phước",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-binh-phuoc.html"
+    },
+    {
+        "name": "Lễ hội vía Bà Rá Phước Long",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bình Phước",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-binh-phuoc.html"
+    },
+    {
+        "name": "Tết mừng lúa mới của người M’nông",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bình Phước",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-binh-phuoc.html"
+    },
+    {
+        "name": "Lễ tết Chôl Chnăm Thmây",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bình Phước",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-binh-phuoc.html"
+    },
+    {
+        "name": "Hội chọi trâu Hớn Quản",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bình Phước",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-binh-phuoc.html"
+    },
+    {
+        "name": "Lễ hội đâm trâu mừng lúa mới của người S'Tiêng",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bình Phước",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-binh-phuoc.html"
+    },
+    {
+        "name": "Lễ hội Miếu Ông Bổn",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bình Dương",
+        "source": "https://luhanhvietnam.com.vn/du-lich/diem-danh-cac-le-hoi-o-binh-duong-noi-tieng.html"
+    },
+    {
+        "name": "Lễ hội 'Lái Thiêu mùa trái chín'",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bình Dương",
+        "source": "https://luhanhvietnam.com.vn/du-lich/diem-danh-cac-le-hoi-o-binh-duong-noi-tieng.html"
+    },
+    {
+        "name": "Lễ hội Kỳ Yên",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bình Dương",
+        "source": "https://luhanhvietnam.com.vn/du-lich/diem-danh-cac-le-hoi-o-binh-duong-noi-tieng.html"
+    },
+    {
+        "name": "Lễ hội đền Từ Hả",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bắc Giang",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-bac-giang-dam-da-ban-sac-van-hoa.html"
+    },
+    {
+        "name": "Hội đền Suối Mỡ",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bắc Giang",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-bac-giang-dam-da-ban-sac-van-hoa.html"
+    },
+    {
+        "name": "Lễ hội Đình Thổ Hà",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bắc Giang",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-bac-giang-dam-da-ban-sac-van-hoa.html"
+    },
+    {
+        "name": "Lễ hội chùa Bổ Đà",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bắc Giang",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-bac-giang-dam-da-ban-sac-van-hoa.html"
+    },
+    {
+        "name": "Lễ hội đền Xương Giang",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Bắc Giang",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-bac-giang-dam-da-ban-sac-van-hoa.html"
+    },
+    {
+        "name": "Ngày giỗ chung Côn Đảo",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Côn Đảo",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-con-dao-y-nghia.html"
+    },
+    {
+        "name": "Ngày giỗ Cô Sáu",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Côn Đảo",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-con-dao-y-nghia.html"
+    },
+    {
+        "name": "Lễ giỗ Bà Phi Yến",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Côn Đảo",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-con-dao-y-nghia.html"
+    },
+    {
+        "name": "Lễ hội Nàng Hai",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Cao Bằng",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-cao-bang.html"
+    },
+    {
+        "name": "Lễ hội pháo hoa Quảng Uyên",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Cao Bằng",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-cao-bang.html"
+    },
+    {
+        "name": "Lễ hội Thanh Minh",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Cao Bằng",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-cao-bang.html"
+    },
+    {
+        "name": "Lễ hội du lịch thác Bản Giốc",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Cao Bằng",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-cao-bang.html"
+    },
+    {
+        "name": "Lễ hội Sa-yang-va",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Đồng Nai",
+        "source": "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-o-dong-nai-doc-dao.html"
+    },
+    {
+        "name": "Lễ hội Lơh-yang-rơ",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Đồng Nai",
+        "source": "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-o-dong-nai-doc-dao.html"
+    },
+    {
+        "name": "Lễ hội cúng Bà",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Đồng Nai",
+        "source": "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-o-dong-nai-doc-dao.html"
+    },
+    {
+        "name": "Lễ hội Tả Tài Phán",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Đồng Nai",
+        "source": "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-o-dong-nai-doc-dao.html"
+    },
+    {
+        "name": "Hội làng Gừa",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hà Nam",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-ha-nam.html"
+    },
+    {
+        "name": "Lễ hội đền Lảnh Giang",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hà Nam",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-ha-nam.html"
+    },
+    {
+        "name": "Hội đền Trúc",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hà Nam",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-ha-nam.html"
+    },
+    {
+        "name": "Hội thi thả diều",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hà Nam",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-ha-nam.html"
+    },
+    {
+        "name": "Hội vật võ Liễu Đôi",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hà Nam",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-ha-nam.html"
+    },
+    {
+        "name": "Lễ hội làng Dâu",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hà Nam",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-ha-nam.html"
+    },
+    {
+        "name": "Lễ hội chùa Long Đọi",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hà Nam",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-ha-nam.html"
+    },
+    {
+        "name": "Lễ hội Thượng Tiêu",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Huế",
+        "source": "https://luhanhvietnam.com.vn/du-lich/kham-pha-nhung-le-hoi-tet-o-hue-doc-dao.html"
+    },
+    {
+        "name": "Lễ hội Đu Tiên",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Huế",
+        "source": "https://luhanhvietnam.com.vn/du-lich/kham-pha-nhung-le-hoi-tet-o-hue-doc-dao.html"
+    },
+    {
+        "name": "Lễ hội đua thuyền",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": [
+            "holiday"
+        ],
+        "province": "Quảng Ngãi",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-quang-ngai.html"
+    },
+    {
+        "name": "Lễ hội sắc bùa",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hòa Bình",
+        "source": "https://luhanhvietnam.com.vn/du-lich/vui-quen-loi-truoc-nhung-le-hoi-o-hoa-binh-dac-sac.html"
+    },
+    {
+        "name": "Lễ hội đền Bờ",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hòa Bình",
+        "source": "https://luhanhvietnam.com.vn/du-lich/vui-quen-loi-truoc-nhung-le-hoi-o-hoa-binh-dac-sac.html"
+    },
+    {
+        "name": "Lễ hội xuống đồng (khuống mùa, khai hạ)",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hòa Bình",
+        "source": "https://luhanhvietnam.com.vn/du-lich/vui-quen-loi-truoc-nhung-le-hoi-o-hoa-binh-dac-sac.html"
+    },
+    {
+        "name": "Lễ hội Đu Mường Vôi",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hòa Bình",
+        "source": "https://luhanhvietnam.com.vn/du-lich/vui-quen-loi-truoc-nhung-le-hoi-o-hoa-binh-dac-sac.html"
+    },
+    {
+        "name": "Lễ cơm mới",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hòa Bình",
+        "source": "https://luhanhvietnam.com.vn/du-lich/vui-quen-loi-truoc-nhung-le-hoi-o-hoa-binh-dac-sac.html"
+    },
+    {
+        "name": "Tết cơm Đe Mường Rậm",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hòa Bình",
+        "source": "https://luhanhvietnam.com.vn/du-lich/vui-quen-loi-truoc-nhung-le-hoi-o-hoa-binh-dac-sac.html"
+    },
+    {
+        "name": "Lễ hội Làng Vai",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hòa Bình",
+        "source": "https://luhanhvietnam.com.vn/du-lich/vui-quen-loi-truoc-nhung-le-hoi-o-hoa-binh-dac-sac.html"
+    },
+    {
+        "name": "Tham gia lễ hội chùa Long Tiên",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hạ Long",
+        "source": "https://luhanhvietnam.com.vn/du-lich/hoa-minh-vao-nhung-le-hoi-truyen-thong-dac-sac-o-ha-long.html"
+    },
+    {
+        "name": "Lễ hội Bạch Đằng",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hạ Long",
+        "source": "https://luhanhvietnam.com.vn/du-lich/hoa-minh-vao-nhung-le-hoi-truyen-thong-dac-sac-o-ha-long.html"
+    },
+    {
+        "name": "Lễ hội Đình Trà Cổ",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hạ Long",
+        "source": "https://luhanhvietnam.com.vn/du-lich/hoa-minh-vao-nhung-le-hoi-truyen-thong-dac-sac-o-ha-long.html"
+    },
+    {
+        "name": "Lễ hội Quan Lạn",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hạ Long",
+        "source": "https://luhanhvietnam.com.vn/du-lich/hoa-minh-vao-nhung-le-hoi-truyen-thong-dac-sac-o-ha-long.html"
+    },
+    {
+        "name": "Lễ hội đền Cửa Ông",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hạ Long",
+        "source": "https://luhanhvietnam.com.vn/du-lich/hoa-minh-vao-nhung-le-hoi-truyen-thong-dac-sac-o-ha-long.html"
+    },
+    {
+        "name": "Lễ hội Carnaval Hạ Long",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hạ Long",
+        "source": "https://luhanhvietnam.com.vn/du-lich/hoa-minh-vao-nhung-le-hoi-truyen-thong-dac-sac-o-ha-long.html"
+    },
+    {
+        "name": "Lễ hội đầu xuân Côn Sơn - Kiếp Bạc",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hải Dương",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-hai-duong-doc-dao-thu-vi.html"
+    },
+    {
+        "name": "Tham dự lễ hội linh thiêng chùa Bạch Hào",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hải Dương",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-hai-duong-doc-dao-thu-vi.html"
+    },
+    {
+        "name": "Lễ hội chùa Muống, Hải Dương",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hải Dương",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-hai-duong-doc-dao-thu-vi.html"
+    },
+    {
+        "name": "Lễ hội văn miếu Mao Điền",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hải Dương",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-hai-duong-doc-dao-thu-vi.html"
+    },
+    {
+        "name": "Lễ hội đền Sượt",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hải Dương",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-hai-duong-doc-dao-thu-vi.html"
+    },
+    {
+        "name": "Lễ hội chợ tình Khâu vai",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hà Giang",
+        "source": "https://luhanhvietnam.com.vn/du-lich/le-hoi-dau-nam-o-ha-giang.html"
+    },
+    {
+        "name": "Lễ hội Cấp Sắc",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hà Giang",
+        "source": "https://luhanhvietnam.com.vn/du-lich/le-hoi-dau-nam-o-ha-giang.html"
+    },
+    {
+        "name": "Lễ hội Gầu Tào",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hà Giang",
+        "source": "https://luhanhvietnam.com.vn/du-lich/le-hoi-dau-nam-o-ha-giang.html"
+    },
+    {
+        "name": "Lễ hội Nghinh Ông Hòn Sơn",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Kiên Giang",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-kien-giang-noi-tieng.html"
+    },
+    {
+        "name": "Lễ hội Nguyễn Trung Trực",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Phú Quốc",
+        "source": "https://luhanhvietnam.com.vn/du-lich/diem-danh-nhung-le-hoi-o-phu-quoc-dac-sac.html"
+    },
+    {
+        "name": "Lễ hội Dinh Bà Ông Lang",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Phú Quốc",
+        "source": "https://luhanhvietnam.com.vn/du-lich/diem-danh-nhung-le-hoi-o-phu-quoc-dac-sac.html"
+    },
+    {
+        "name": "Lễ hội đua thuyền Phú Quốc",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Kiên Giang",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-kien-giang-noi-tieng.html"
+    },
+    {
+        "name": "Lễ hội Dinh Cậu Phú Quốc",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Kiên Giang",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-kien-giang-noi-tieng.html"
+    },
+    {
+        "name": "Lễ hội đền Phù Ủng",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hưng Yên",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-hung-yen-noi-tieng-nhat.html"
+    },
+    {
+        "name": "Lễ hội Chử Đồng Tử - Tiên Dung",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hưng Yên",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-hung-yen-noi-tieng-nhat.html"
+    },
+    {
+        "name": "Lễ hội văn hóa dân gian Phố Hiến",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hưng Yên",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-hung-yen-noi-tieng-nhat.html"
+    },
+    {
+        "name": "Lễ hội nhãn lồng",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hưng Yên",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-hung-yen-noi-tieng-nhat.html"
+    },
+    {
+        "name": "Lễ hội đền Kim Đằng",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Hưng Yên",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-hung-yen-noi-tieng-nhat.html"
+    },
+    {
+        "name": "Lễ hội mừng lúa mới ở Kon Tum",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Kon Tum",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-kon-tum-dac-sac-nhat.html"
+    },
+    {
+        "name": "Lễ hội mừng nhà Rông mới của người Giẻ Triêng",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Kon Tum",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-kon-tum-dac-sac-nhat.html"
+    },
+    {
+        "name": "Lễ hội Puh Hơ Drih",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Kon Tum",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-kon-tum-dac-sac-nhat.html"
+    },
+    {
+        "name": "Lễ cúng đất làng của người Ba Na",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Kon Tum",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-o-kon-tum-dac-sac-nhat.html"
+    },
+    {
+        "name": "Hội Đào Xá",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Phú Thọ",
+        "source": "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-truyen-thong-phu-tho.html"
+    },
+    {
+        "name": "Hội đền Mẫu Âu Cơ",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Phú Thọ",
+        "source": "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-truyen-thong-phu-tho.html"
+    },
+    {
+        "name": "Hội Bạch Hạc",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Phú Thọ",
+        "source": "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-truyen-thong-phu-tho.html"
+    },
+    {
+        "name": "Lễ hội phủ Dầy",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Nam Định",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-nam-dinh.html"
+    },
+    {
+        "name": "Lễ hội chùa Cổ Lễ",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Nam Định",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-nam-dinh.html"
+    },
+    {
+        "name": "Lễ hội đua thuyền truyền thống",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Phú Quốc",
+        "source": "https://luhanhvietnam.com.vn/du-lich/diem-danh-nhung-le-hoi-o-phu-quoc-dac-sac.html"
+    },
+    {
+        "name": "Lễ hội Trai Đàn Sùng Hưng Cổ Tự",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Phú Quốc",
+        "source": "https://luhanhvietnam.com.vn/du-lich/diem-danh-nhung-le-hoi-o-phu-quoc-dac-sac.html"
+    },
+    {
+        "name": "Lễ hội Đình Thần Dương Đông",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Phú Quốc",
+        "source": "https://luhanhvietnam.com.vn/du-lich/diem-danh-nhung-le-hoi-o-phu-quoc-dac-sac.html"
+    },
+    {
+        "name": "Lễ hội đâm trâu đặc sắc tại Phú Yên",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Phú Yên",
+        "source": "https://luhanhvietnam.com.vn/du-lich/danh-sach-cac-le-hoi-truyen-thong-tai-phu-yen.html"
+    },
+    {
+        "name": "Lễ hội mùa tại Phú Yên",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Phú Yên",
+        "source": "https://luhanhvietnam.com.vn/du-lich/danh-sach-cac-le-hoi-truyen-thong-tai-phu-yen.html"
+    },
+    {
+        "name": "Lễ hội bỏ mả của đồng bào dân tộc miền núi Phú Yên",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Phú Yên",
+        "source": "https://luhanhvietnam.com.vn/du-lich/danh-sach-cac-le-hoi-truyen-thong-tai-phu-yen.html"
+    },
+    {
+        "name": "Lễ hội Đền Mẫu Thác Bà",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Yên Bái",
+        "source": "https://luhanhvietnam.com.vn/du-lich/doc-dao-nhung-le-hoi-truyen-thong-o-yen-bai.html"
+    },
+    {
+        "name": "Lễ hội Xên Mường",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Yên Bái",
+        "source": "https://luhanhvietnam.com.vn/du-lich/doc-dao-nhung-le-hoi-truyen-thong-o-yen-bai.html"
+    },
+    {
+        "name": "Đám Sênh lễ chay",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Yên Bái",
+        "source": "https://luhanhvietnam.com.vn/du-lich/doc-dao-nhung-le-hoi-truyen-thong-o-yen-bai.html"
+    },
+    {
+        "name": "Lễ hội Xên Lẩu Nó ",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Yên Bái",
+        "source": "https://luhanhvietnam.com.vn/du-lich/doc-dao-nhung-le-hoi-truyen-thong-o-yen-bai.html"
+    },
+    {
+        "name": "Lễ cấp sắc của người Dao Đỏ",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Yên Bái",
+        "source": "https://luhanhvietnam.com.vn/du-lich/le-hoi-yen-bai-dac-sac-nhat.html"
+    },
+    {
+        "name": "Hội Dồi Bòng",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Quảng Ngãi",
+        "source": "https://luhanhvietnam.com.vn/du-lich/nhung-le-hoi-truyen-thong-o-quang-ngai.html"
+    },
+    {
+        "name": "Lễ đền thờ Phan Công Hớn",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Thành phố Hồ Chí Minh",
+        "source": "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-o-thanh-pho-ho-chi-minh-noi-tieng.html"
+    },
+    {
+        "name": "Lễ giỗ Tổ nghề kim hoàn",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Thành phố Hồ Chí Minh",
+        "source": "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-o-thanh-pho-ho-chi-minh-noi-tieng.html"
+    },
+    {
+        "name": "Hội chùa Ông",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Thành phố Hồ Chí Minh",
+        "source": "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-o-thanh-pho-ho-chi-minh-noi-tieng.html"
+    },
+    {
+        "name": "Hội miếu Ông Địa",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Thành phố Hồ Chí Minh",
+        "source": "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-o-thanh-pho-ho-chi-minh-noi-tieng.html"
+    },
+    {
+        "name": "Lễ Kỳ Yên đình Phú Nhuận",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Thành phố Hồ Chí Minh",
+        "source": "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-o-thanh-pho-ho-chi-minh-noi-tieng.html"
+    },
+    {
+        "name": "Lễ nghinh Ông",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Thành phố Hồ Chí Minh",
+        "source": "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-o-thanh-pho-ho-chi-minh-noi-tieng.html"
+    },
+    {
+        "name": "Lễ giỗ Trần Hưng Đạo",
+        "synonyms": null,
+        "description": null,
+        "related_person": null,
+        "date": null,
+        "type": null,
+        "province": "Thành phố Hồ Chí Minh",
+        "source": "https://luhanhvietnam.com.vn/du-lich/cac-le-hoi-o-thanh-pho-ho-chi-minh-noi-tieng.html"
+    }
+]

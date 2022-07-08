@@ -1,0 +1,4 @@
+    - [chùa]{"entity":"X"} nào nằm trong [Quảng Ninh]{"entity":"object"}?
+    - [chùa]{"entity":"X"} nào nằm trong [Quảng Ninh]{"entity":"object"}?
+    - [chùa]{"entity":"X"} nào nằm trong [Hà Nội]{"entity":"object"}?
+    - [chùa]{"entity":"X"} nào nằm trong [Quảng Ninh]{"entity":"object"}?

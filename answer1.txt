@@ -1,0 +1,17 @@
+Di tích lịch sử văn hóa@vn~Điện Long An~nằm trong~quần thể di tích Cố đô Huế~CulturalHistoricalSite
+Đơn vị hành chính@vn~Ái Châu~nằm trong~Thanh Hóa~AdministrativeDivision
+Di tích khảo cổ@vn~Đàn đá Bình Đa~có niên đại~3000 năm~ArchaeologicalHistoricalSite
+Lễ hội@vn~Lễ hội Bạch Đằng~được tổ chức tại~Quảng Ninh~Festival
+Kiến trúc thành quách@vn~Kinh thành Huế~được xây dựng vào~năm 1805~CitadelArchitecture
+Con người@vn~Khúc Thừa Dụ~mất vào~0907-07-23~Person
+Con người@vn~Khúc Thừa Dụ~sinh vào~830~Person
+Lễ hội@vn~Lễ hội đền Đức Ông~diễn ra vào~tháng 2 Âm lịch~Festival
+Con người@vn~Ngô Quyền~ở thời kỳ là~NgoDynasty~Person
+Kiến trúc thành quách@vn~Cổ Loa Citadel~ở thời kỳ là~NgoDynasty~CitadelArchitecture
+Kiến trúc thành quách@vn~Cổ Loa Citadel~được chọn làm thủ đô bởi~Ngô Quyền~CitadelArchitecture
+Kiến trúc thành quách@vn~Cổ Loa Citadel~được xây dựng bởi~An Dương Vương~CitadelArchitecture
+Con người@vn~Ngô Quyền~giữ chức vụ~King Ngô Quyền~Person
+Con người@vn~Ngô Quyền~có người kế vị là~Dương Bình Vương~Person
+Con người@vn~Nguyễn Ngọc Loan~sinh tại~Huế~Person
+Lễ hội@vn~Lễ hội đền Đức Ông~bắt đầu vào~3/2 Âm lịch~Festival
+Lễ hội@vn~Lễ hội đền Đức Ông~kết thúc vào~cuối tháng 3 Âm lịch~Festival

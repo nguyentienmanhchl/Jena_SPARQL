@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 
 public class Constant {
-    public final static String FILE = "vntourism.owl";
+    public final static String FILE = "xmlowlv9.owl";
     public final static String FILE2 = "festivalVietNam.owl";
 
     public final static String PREFIX = "http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#";

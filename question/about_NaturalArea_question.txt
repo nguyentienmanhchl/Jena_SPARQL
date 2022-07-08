@@ -1,0 +1,10 @@
+    - [Bãi biển Trà Cổ]{"entity":"object"}  nằm trong ?
+    - [Bãi biển Trà Cổ]{"entity":"object"}  nằm trong ?
+    - [Hồ Gươm]{"entity":"object"}  nằm trong ?
+    - [Hồ Gươm]{"entity":"object"}  nằm trong ?
+    - [Hồ Tây]{"entity":"object"}  nằm trong ?
+    - [Hồ Tây]{"entity":"object"}  nằm trong ?
+    - [Vịnh Hạ Long]{"entity":"object"}  nằm trong ?
+    - [Vịnh Hạ Long]{"entity":"object"}  nằm trong ?
+    - [Núi Bài Thơ]{"entity":"object"}  nằm trong ?
+    - [Núi Bài Thơ]{"entity":"object"}  nằm trong ?

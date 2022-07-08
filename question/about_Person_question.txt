@@ -1,12 +1,2370 @@
-    - [Khúc Thừa Dụ]{"entity":"object"}  [mất vào]{"entity":"predicate"} ?
-    - [Khúc Thừa Dụ]{"entity":"object"}  [sinh vào]{"entity":"predicate"} ?
-    - [Ngô Quyền]{"entity":"object"}  [ở thời kỳ là]{"entity":"predicate"} ?
-    - [Ngô Quyền]{"entity":"object"}  [giữ chức vụ]{"entity":"predicate"} ?
-    - [Ngô Quyền]{"entity":"object"}  [có người kế vị là]{"entity":"predicate"} ?
-    - [Nguyễn Ngọc Loan]{"entity":"object"}  [sinh tại]{"entity":"predicate"} ?
+    - [Trần Nhân Tông]{"entity":"object"}  có liên quan ?
+    - [Lê Lợi]{"entity":"object"}  có liên quan ?
+    - [Lê Quang Đạo]{"entity":"object"}  mất vào ?
+    - [Trần Thừa]{"entity":"object"}  mất vào ?
+    - [Trần Thừa]{"entity":"object"}  mất vào ?
+    - [Nguyễn Thị Anh]{"entity":"object"}  mất vào ?
+    - [Nguyễn Hữu Thị Lan]{"entity":"object"}  mất vào ?
+    - [Trương Cư Chính]{"entity":"object"}  mất vào ?
+    - [Đỗ Lễ]{"entity":"object"}  mất vào ?
+    - [Trịnh Đình Cửu]{"entity":"object"}  mất vào ?
+    - [Trịnh Sâm]{"entity":"object"}  mất vào ?
+    - [Vũ Trọng Khánh]{"entity":"object"}  mất vào ?
+    - [Bảo Đại]{"entity":"object"}  mất vào ?
+    - [Lê Hiến Tông]{"entity":"object"}  mất vào ?
+    - [Trần Hiến Tông]{"entity":"object"}  mất vào ?
+    - [Cao Văn Viên]{"entity":"object"}  mất vào ?
+    - [Lý Đào Lang Vương]{"entity":"object"}  mất vào ?
+    - [Dương Nhật Lễ]{"entity":"object"}  mất vào ?
+    - [Trần Nguyên Đán]{"entity":"object"}  mất vào ?
+    - [Ngô Quyền]{"entity":"object"}  mất vào ?
+    - [Ngô Du]{"entity":"object"}  mất vào ?
+    - [Trần Quý Khoáng]{"entity":"object"}  mất vào ?
+    - [Lý Bôn]{"entity":"object"}  mất vào ?
+    - [Triệu Ai Vương]{"entity":"object"}  mất vào ?
+    - [Lê Chiêu Tông]{"entity":"object"}  mất vào ?
+    - [Tạ Đình Đề]{"entity":"object"}  mất vào ?
+    - [Trần Thánh Tông]{"entity":"object"}  mất vào ?
+    - [Lê Chân Tông]{"entity":"object"}  mất vào ?
+    - [Bùi Thị Xuân]{"entity":"object"}  mất vào ?
+    - [Hồ Hán Thương]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Chu]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Nguyên]{"entity":"object"}  mất vào ?
+    - [Nguyễn Lương Bằng]{"entity":"object"}  mất vào ?
+    - [Trần Hoàn]{"entity":"object"}  mất vào ?
+    - [Trịnh Sâm]{"entity":"object"}  mất vào ?
+    - [Nguyễn Lữ]{"entity":"object"}  mất vào ?
+    - [Nguyễn Nhạc]{"entity":"object"}  mất vào ?
+    - [Phan Đình Phùng]{"entity":"object"}  mất vào ?
+    - [Nguyễn Du]{"entity":"object"}  mất vào ?
+    - [Trần Thuận Tông]{"entity":"object"}  mất vào ?
+    - [Tự Đức]{"entity":"object"}  mất vào ?
+    - [Trần Quốc Hoàn]{"entity":"object"}  mất vào ?
+    - [Triệu Việt Vương]{"entity":"object"}  mất vào ?
+    - [Trần Thị Tùng]{"entity":"object"}  mất vào ?
+    - [Hoàng Sào]{"entity":"object"}  mất vào ?
+    - [Lê Anh Tông]{"entity":"object"}  mất vào ?
+    - [Lê Hoàn]{"entity":"object"}  mất vào ?
+    - [Lê Duy Vũ]{"entity":"object"}  mất vào ?
+    - [Hoàng Hưng]{"entity":"object"}  mất vào ?
+    - [Lê Thánh Tông]{"entity":"object"}  mất vào ?
+    - [Hoàng Văn Thái]{"entity":"object"}  mất vào ?
+    - [Trần Nguyên Hãn]{"entity":"object"}  mất vào ?
+    - [Lê Tân]{"entity":"object"}  mất vào ?
+    - [Phan Huy Quát]{"entity":"object"}  mất vào ?
+    - [Lê Quý Ly]{"entity":"object"}  mất vào ?
+    - [Trần Ngỗi]{"entity":"object"}  mất vào ?
+    - [Trần Hữu Lượng]{"entity":"object"}  mất vào ?
+    - [Lý Đán]{"entity":"object"}  mất vào ?
+    - [Hồ Quý Ly]{"entity":"object"}  mất vào ?
+    - [Trần Thúc Bảo]{"entity":"object"}  mất vào ?
+    - [Đồng Khánh]{"entity":"object"}  mất vào ?
+    - [Triệu Đà]{"entity":"object"}  mất vào ?
+    - [Đinh Bộ Lĩnh]{"entity":"object"}  mất vào ?
+    - [Lê Trạc Tú]{"entity":"object"}  mất vào ?
+    - [Trần Đình Hượu]{"entity":"object"}  mất vào ?
+    - [Hồ Chí Minh]{"entity":"object"}  mất vào ?
+    - [Trần Hữu Dực]{"entity":"object"}  mất vào ?
+    - [Mạc Tuyên Tông]{"entity":"object"}  mất vào ?
+    - [Nguyễn An Ninh]{"entity":"object"}  mất vào ?
+    - [Triệu Hồ]{"entity":"object"}  mất vào ?
+    - [Lê Sát]{"entity":"object"}  mất vào ?
+    - [Phùng Khắc Khoan]{"entity":"object"}  mất vào ?
+    - [Hoàng Quốc Việt]{"entity":"object"}  mất vào ?
+    - [Phạm Văn Đồng]{"entity":"object"}  mất vào ?
+    - [Lý Thánh Tông]{"entity":"object"}  mất vào ?
+    - [Lê Hy Tông]{"entity":"object"}  mất vào ?
+    - [Trần Quốc Toản]{"entity":"object"}  mất vào ?
+    - [Dương Ngọc Hoàn]{"entity":"object"}  mất vào ?
+    - [Lê Văn Thịnh]{"entity":"object"}  mất vào ?
+    - [Lê Hồng Phong]{"entity":"object"}  mất vào ?
+    - [Mạc Kính Điển]{"entity":"object"}  mất vào ?
+    - [Dương Bình Vương]{"entity":"object"}  mất vào ?
+    - [Vũ Văn Uyên]{"entity":"object"}  mất vào ?
+    - [Lý Cao Tông]{"entity":"object"}  mất vào ?
+    - [Nguyễn Bá Thanh]{"entity":"object"}  mất vào ?
+    - [Triệu Anh Tề]{"entity":"object"}  mất vào ?
+    - [Đặng Xuân Khu]{"entity":"object"}  mất vào ?
+    - [Trần Văn Giang]{"entity":"object"}  mất vào ?
+    - [Mạc Thái Tông]{"entity":"object"}  mất vào ?
+    - [Trần Cảnh]{"entity":"object"}  mất vào ?
+    - [Tự Đức]{"entity":"object"}  mất vào ?
+    - [Nguyễn Bặc]{"entity":"object"}  mất vào ?
+    - [Trịnh Doanh]{"entity":"object"}  mất vào ?
+    - [Nguyễn Cảnh Tông]{"entity":"object"}  mất vào ?
+    - [Lê Triện]{"entity":"object"}  mất vào ?
+    - [Lê Trung Tường]{"entity":"object"}  mất vào ?
+    - [Lý Nhân Tông]{"entity":"object"}  mất vào ?
+    - [Lê Kính Tông]{"entity":"object"}  mất vào ?
+    - [Mạc Thái Tông]{"entity":"object"}  mất vào ?
+    - [Mạc Mậu Hợp]{"entity":"object"}  mất vào ?
+    - [Hoàng Minh Giám]{"entity":"object"}  mất vào ?
+    - [Nguyễn Hữu Thọ]{"entity":"object"}  mất vào ?
+    - [Lê Kính Tông]{"entity":"object"}  mất vào ?
+    - [Triệu Cấu]{"entity":"object"}  mất vào ?
+    - [Lê Duẩn]{"entity":"object"}  mất vào ?
+    - [Lý Càn Đức]{"entity":"object"}  mất vào ?
+    - [Lý Thọ]{"entity":"object"}  mất vào ?
+    - [Dương Quảng Hàm]{"entity":"object"}  mất vào ?
+    - [Trần Văn Phương]{"entity":"object"}  mất vào ?
+    - [Trần Đại Nghĩa]{"entity":"object"}  mất vào ?
+    - [Nguyễn Đức Quang]{"entity":"object"}  mất vào ?
+    - [Trần Quốc Khang]{"entity":"object"}  mất vào ?
+    - [Hoàng Diệu]{"entity":"object"}  mất vào ?
+    - [Lê Thần Tông]{"entity":"object"}  mất vào ?
+    - [Bà Triệu]{"entity":"object"}  mất vào ?
+    - [Trịnh Giang]{"entity":"object"}  mất vào ?
+    - [Lý Quốc Sư]{"entity":"object"}  mất vào ?
+    - [Nguyễn Thế Tổ]{"entity":"object"}  mất vào ?
+    - [Phạm Ngọc Thạch]{"entity":"object"}  mất vào ?
+    - [Nguyễn Giản Tông]{"entity":"object"}  mất vào ?
+    - [Lý Thế Dân]{"entity":"object"}  mất vào ?
+    - [Trịnh Khải]{"entity":"object"}  mất vào ?
+    - [Mạc Kính Khoan]{"entity":"object"}  mất vào ?
+    - [Minh Mạng]{"entity":"object"}  mất vào ?
+    - [Lê Long Mang]{"entity":"object"}  mất vào ?
+    - [Lê Oanh]{"entity":"object"}  mất vào ?
+    - [Võ An Ninh]{"entity":"object"}  mất vào ?
+    - [Hoàng Xuân Lãm]{"entity":"object"}  mất vào ?
+    - [Phan Hoan]{"entity":"object"}  mất vào ?
+    - [Nguyễn Bá Cẩn]{"entity":"object"}  mất vào ?
+    - [Phan Châu Trinh]{"entity":"object"}  mất vào ?
+    - [Lý Nhật Tôn]{"entity":"object"}  mất vào ?
+    - [Trần Hiến Tông]{"entity":"object"}  mất vào ?
+    - [Lê Đức Đạt]{"entity":"object"}  mất vào ?
+    - [Chu Văn An]{"entity":"object"}  mất vào ?
+    - [Ngô Thì Sĩ]{"entity":"object"}  mất vào ?
+    - [Trần Dụ Tông]{"entity":"object"}  mất vào ?
+    - [Lê Ngọc Hân]{"entity":"object"}  mất vào ?
+    - [Trương Khánh Châu]{"entity":"object"}  mất vào ?
+    - [Mạc Phúc Nguyên]{"entity":"object"}  mất vào ?
+    - [Trần Trọng Kim]{"entity":"object"}  mất vào ?
+    - [Dương Quảng]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Thuần]{"entity":"object"}  mất vào ?
+    - [Trần Quang Khải]{"entity":"object"}  mất vào ?
+    - [Lý Tĩnh]{"entity":"object"}  mất vào ?
+    - [Ngô Đình Diệm]{"entity":"object"}  mất vào ?
+    - [Phạm Thị Hằng]{"entity":"object"}  mất vào ?
+    - [Lê Thuần Tông]{"entity":"object"}  mất vào ?
+    - [Tần Thủy Hoàng]{"entity":"object"}  mất vào ?
+    - [Trần Tuấn Khải]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Thái]{"entity":"object"}  mất vào ?
+    - [Lý Thánh Tông]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Thái]{"entity":"object"}  mất vào ?
+    - [Hồ Hợi]{"entity":"object"}  mất vào ?
+    - [Lê Thái Tổ]{"entity":"object"}  mất vào ?
+    - [Lý Tư]{"entity":"object"}  mất vào ?
+    - [Trần Nhật Duật]{"entity":"object"}  mất vào ?
+    - [Bùi Trang Chước]{"entity":"object"}  mất vào ?
+    - [Nguyễn An Ninh]{"entity":"object"}  mất vào ?
+    - [Minh Mạng]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Lan]{"entity":"object"}  mất vào ?
+    - [Lê Ngọc Hân]{"entity":"object"}  mất vào ?
+    - [Lê Uy Mục]{"entity":"object"}  mất vào ?
+    - [Lê Khắc Xương]{"entity":"object"}  mất vào ?
+    - [Nguyễn Huệ]{"entity":"object"}  mất vào ?
+    - [Bùi Thị Xuân]{"entity":"object"}  mất vào ?
+    - [Trần Văn Cẩn]{"entity":"object"}  mất vào ?
+    - [Thiệu Trị]{"entity":"object"}  mất vào ?
+    - [Lê Tư Thành]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Đảm]{"entity":"object"}  mất vào ?
+    - [Lưu Nhân Chú]{"entity":"object"}  mất vào ?
+    - [Mạc Toàn]{"entity":"object"}  mất vào ?
+    - [Mai Hắc Đế]{"entity":"object"}  mất vào ?
+    - [Trần Thuyên]{"entity":"object"}  mất vào ?
+    - [Lý Mậu Trinh]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phi Khanh]{"entity":"object"}  mất vào ?
+    - [Lê Chiêu Thống]{"entity":"object"}  mất vào ?
+    - [Nguyễn Bỉnh Khiêm]{"entity":"object"}  mất vào ?
+    - [Lê Long Việt]{"entity":"object"}  mất vào ?
+    - [Vũ Văn Thái]{"entity":"object"}  mất vào ?
+    - [Lý Công Uẩn]{"entity":"object"}  mất vào ?
+    - [Lê Bang Cơ]{"entity":"object"}  mất vào ?
+    - [Ngô Miễn]{"entity":"object"}  mất vào ?
+    - [Trần Nghệ Tông]{"entity":"object"}  mất vào ?
+    - [Lý Hanh]{"entity":"object"}  mất vào ?
+    - [Trần Thuận Tông]{"entity":"object"}  mất vào ?
+    - [Ngô Sỹ Liên]{"entity":"object"}  mất vào ?
+    - [Lê Quý Đôn]{"entity":"object"}  mất vào ?
+    - [Nguyễn Chí Thanh]{"entity":"object"}  mất vào ?
+    - [Lý Huệ Tông]{"entity":"object"}  mất vào ?
+    - [Vũ Văn Xiển]{"entity":"object"}  mất vào ?
+    - [Tôn Đức Thắng]{"entity":"object"}  mất vào ?
+    - [Nguyễn Văn Toàn]{"entity":"object"}  mất vào ?
+    - [Trần Thái Tổ]{"entity":"object"}  mất vào ?
+    - [Lê Thương]{"entity":"object"}  mất vào ?
+    - [Phạm Quỳnh]{"entity":"object"}  mất vào ?
+    - [Lê Duy Phường]{"entity":"object"}  mất vào ?
+    - [Dục Đức]{"entity":"object"}  mất vào ?
+    - [Lý Anh Tông]{"entity":"object"}  mất vào ?
+    - [Lê Long Tích]{"entity":"object"}  mất vào ?
+    - [Trần Nghệ Tông]{"entity":"object"}  mất vào ?
+    - [Trương Chi Động]{"entity":"object"}  mất vào ?
+    - [Lê Đại Hành]{"entity":"object"}  mất vào ?
+    - [Duy Tân]{"entity":"object"}  mất vào ?
+    - [Lê Túc Tông]{"entity":"object"}  mất vào ?
+    - [Trần Liễu]{"entity":"object"}  mất vào ?
+    - [Lý Thần Tông]{"entity":"object"}  mất vào ?
+    - [Lê Lai]{"entity":"object"}  mất vào ?
     - [Khúc Thừa Dụ]{"entity":"object"}  mất vào ?
+    - [Nguyễn Văn Tỵ]{"entity":"object"}  mất vào ?
+    - [Phạm Phú Quốc]{"entity":"object"}  mất vào ?
+    - [Lý Tòng Bá]{"entity":"object"}  mất vào ?
+    - [Mạc Hiến Tông]{"entity":"object"}  mất vào ?
+    - [Lý Triện]{"entity":"object"}  mất vào ?
+    - [Trần Quốc Tuấn]{"entity":"object"}  mất vào ?
+    - [Mạc Chính Trung]{"entity":"object"}  mất vào ?
+    - [Trần Thái Tông]{"entity":"object"}  mất vào ?
+    - [Trịnh Tạc]{"entity":"object"}  mất vào ?
+    - [Lê Yên]{"entity":"object"}  mất vào ?
+    - [Đào Duy Từ]{"entity":"object"}  mất vào ?
+    - [Ngô Sĩ Liên]{"entity":"object"}  mất vào ?
+    - [Lê Huyền Tông]{"entity":"object"}  mất vào ?
+    - [Ngô Xương Văn]{"entity":"object"}  mất vào ?
+    - [Lê Dụ Tông]{"entity":"object"}  mất vào ?
+    - [Nguyễn Thuật]{"entity":"object"}  mất vào ?
+    - [Ngô Sĩ Liên]{"entity":"object"}  mất vào ?
+    - [Nguyễn Văn Diệp]{"entity":"object"}  mất vào ?
+    - [Trần Duệ Tông]{"entity":"object"}  mất vào ?
+    - [Khúc Hạo]{"entity":"object"}  mất vào ?
+    - [Bà Triệu]{"entity":"object"}  mất vào ?
+    - [Vũ Văn Hóa Cập]{"entity":"object"}  mất vào ?
+    - [Lê Nguyên Khang]{"entity":"object"}  mất vào ?
+    - [Nguyễn Văn Bảy]{"entity":"object"}  mất vào ?
+    - [Tô Hiến Thành]{"entity":"object"}  mất vào ?
+    - [Huỳnh Phú Sổ]{"entity":"object"}  mất vào ?
+    - [Lê Thuần Tông]{"entity":"object"}  mất vào ?
+    - [Lê Huyền Tông]{"entity":"object"}  mất vào ?
+    - [Phan Văn Khải]{"entity":"object"}  mất vào ?
+    - [Nguyễn Huệ]{"entity":"object"}  mất vào ?
+    - [Mạc Kính Chỉ]{"entity":"object"}  mất vào ?
+    - [Đào Duy Từ]{"entity":"object"}  mất vào ?
+    - [Trịnh Tráng]{"entity":"object"}  mất vào ?
+    - [Triệu Minh Vương]{"entity":"object"}  mất vào ?
+    - [Nguyễn Văn Linh]{"entity":"object"}  mất vào ?
+    - [Lê Trang Tông]{"entity":"object"}  mất vào ?
+    - [Lê Tương Dực]{"entity":"object"}  mất vào ?
+    - [Lý Nhật Quang]{"entity":"object"}  mất vào ?
+    - [Nguyễn Hân]{"entity":"object"}  mất vào ?
+    - [Khúc Thừa Hạo]{"entity":"object"}  mất vào ?
+    - [Lý Tự Thành]{"entity":"object"}  mất vào ?
+    - [Trịnh Bồng]{"entity":"object"}  mất vào ?
+    - [Lê Trang Tông]{"entity":"object"}  mất vào ?
+    - [Trần Văn Giàu]{"entity":"object"}  mất vào ?
+    - [Nguyễn Hoàng]{"entity":"object"}  mất vào ?
+    - [Đinh Tiên Hoàng]{"entity":"object"}  mất vào ?
+    - [Ngô Xương Ngập]{"entity":"object"}  mất vào ?
+    - [Lý Cao Tông]{"entity":"object"}  mất vào ?
+    - [Trần Mạnh]{"entity":"object"}  mất vào ?
+    - [Nguyễn Đình Chiểu]{"entity":"object"}  mất vào ?
+    - [Lê Duy Đường]{"entity":"object"}  mất vào ?
+    - [Đào Duy Anh]{"entity":"object"}  mất vào ?
+    - [Lê Quý Đôn]{"entity":"object"}  mất vào ?
+    - [Lê Hữu Từ]{"entity":"object"}  mất vào ?
+    - [Ngô Tất Tố]{"entity":"object"}  mất vào ?
+    - [Trần Hưng Đạo]{"entity":"object"}  mất vào ?
+    - [Dương Nhật Lễ]{"entity":"object"}  mất vào ?
+    - [Thiệu Trị]{"entity":"object"}  mất vào ?
+    - [Nguyễn Duy Trinh]{"entity":"object"}  mất vào ?
+    - [Lê Trọng Tấn]{"entity":"object"}  mất vào ?
+    - [Đặng Thai Mai]{"entity":"object"}  mất vào ?
+    - [Dương Kiên]{"entity":"object"}  mất vào ?
+    - [An Dương Vương]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Nguyên]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Tần]{"entity":"object"}  mất vào ?
+    - [Lê Văn Tri]{"entity":"object"}  mất vào ?
+    - [Lý Huệ Tông]{"entity":"object"}  mất vào ?
+    - [Phan Văn Trị]{"entity":"object"}  mất vào ?
+    - [Phan Đình Phùng]{"entity":"object"}  mất vào ?
+    - [Phạm Văn Phú]{"entity":"object"}  mất vào ?
+    - [Trần Minh Tông]{"entity":"object"}  mất vào ?
+    - [Lê Đế Duy Phường]{"entity":"object"}  mất vào ?
+    - [Triệu Hưng]{"entity":"object"}  mất vào ?
+    - [Trần Minh Tông]{"entity":"object"}  mất vào ?
+    - [Nguyễn Sáng]{"entity":"object"}  mất vào ?
+    - [Lê Uy Mục]{"entity":"object"}  mất vào ?
+    - [Lê Bá Ngọc]{"entity":"object"}  mất vào ?
+    - [Trần Hưng Đạo]{"entity":"object"}  mất vào ?
+    - [Trần Dụ Tông]{"entity":"object"}  mất vào ?
+    - [Nguyễn Đình Thi]{"entity":"object"}  mất vào ?
+    - [Mạc Kính Cung]{"entity":"object"}  mất vào ?
+    - [Lê Quí Đôn]{"entity":"object"}  mất vào ?
+    - [Lý Tồn Úc]{"entity":"object"}  mất vào ?
+    - [Trịnh Kiểm]{"entity":"object"}  mất vào ?
+    - [Lương Văn Can]{"entity":"object"}  mất vào ?
+    - [Nguyễn Trãi]{"entity":"object"}  mất vào ?
+    - [Mạc Đăng Doanh]{"entity":"object"}  mất vào ?
+    - [Triệu Kiến Đức]{"entity":"object"}  mất vào ?
+    - [Trần Thánh Tông]{"entity":"object"}  mất vào ?
+    - [Triệu Khuông Dận]{"entity":"object"}  mất vào ?
+    - [Lê Duy Phường]{"entity":"object"}  mất vào ?
+    - [Nguyễn Du]{"entity":"object"}  mất vào ?
+    - [Nguyễn Cơ Thạch]{"entity":"object"}  mất vào ?
+    - [Ngô Viết Thụ]{"entity":"object"}  mất vào ?
+    - [Bùi Kỷ]{"entity":"object"}  mất vào ?
+    - [Thành Thái]{"entity":"object"}  mất vào ?
+    - [Lý Thái Tông]{"entity":"object"}  mất vào ?
+    - [Triệu Bính]{"entity":"object"}  mất vào ?
+    - [Mạc Đôn Nhượng]{"entity":"object"}  mất vào ?
+    - [Vũ Văn Cẩn]{"entity":"object"}  mất vào ?
+    - [Mạc Mậu Hợp]{"entity":"object"}  mất vào ?
+    - [Kiến Phúc]{"entity":"object"}  mất vào ?
+    - [Võ Văn Kiệt]{"entity":"object"}  mất vào ?
+    - [Lê Thái Tổ]{"entity":"object"}  mất vào ?
+    - [Nguyễn Khánh]{"entity":"object"}  mất vào ?
+    - [Triệu Việt Vương]{"entity":"object"}  mất vào ?
+    - [Văn Tiến Dũng]{"entity":"object"}  mất vào ?
+    - [Ngô Quang Trưởng]{"entity":"object"}  mất vào ?
+    - [Trần Thuận Tông]{"entity":"object"}  mất vào ?
+    - [Phùng Thế Tài]{"entity":"object"}  mất vào ?
+    - [Triệu Hằng]{"entity":"object"}  mất vào ?
+    - [Nguyễn Thị Chiên]{"entity":"object"}  mất vào ?
+    - [Lê Nguyên Long]{"entity":"object"}  mất vào ?
+    - [Đinh Tiên Hoàng]{"entity":"object"}  mất vào ?
+    - [Lê Tư Tề]{"entity":"object"}  mất vào ?
+    - [Dương Tam Kha]{"entity":"object"}  mất vào ?
+    - [Âu Cơ]{"entity":"object"}  mất vào ?
+    - [Trần Anh Tông]{"entity":"object"}  mất vào ?
+    - [Trần Hưng Đạo]{"entity":"object"}  mất vào ?
+    - [Lê Gia Tông]{"entity":"object"}  mất vào ?
+    - [Trịnh Tráng]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Chu]{"entity":"object"}  mất vào ?
+    - [Ngô Quyền]{"entity":"object"}  mất vào ?
+    - [Trần Anh Tông]{"entity":"object"}  mất vào ?
+    - [Trần Thái Tông]{"entity":"object"}  mất vào ?
+    - [Lê Long Kính]{"entity":"object"}  mất vào ?
+    - [Trịnh Doanh]{"entity":"object"}  mất vào ?
+    - [Hồ Chí Minh]{"entity":"object"}  mất vào ?
+    - [Lý Thiên Tộ]{"entity":"object"}  mất vào ?
+    - [Phan Bội Châu]{"entity":"object"}  mất vào ?
+    - [Trần Nghệ Tông]{"entity":"object"}  mất vào ?
+    - [Tôn Trung Sơn]{"entity":"object"}  mất vào ?
+    - [Trịnh Tùng]{"entity":"object"}  mất vào ?
+    - [Huỳnh Thúc Kháng]{"entity":"object"}  mất vào ?
+    - [Lê Duy Cáp]{"entity":"object"}  mất vào ?
+    - [Lê Duy Bang]{"entity":"object"}  mất vào ?
+    - [Phạm Hồ Đạt]{"entity":"object"}  mất vào ?
+    - [Lý Phật Mã]{"entity":"object"}  mất vào ?
+    - [Trần Thiếu Đế]{"entity":"object"}  mất vào ?
+    - [Hoàng Việt]{"entity":"object"}  mất vào ?
+    - [Dương Minh Châu]{"entity":"object"}  mất vào ?
+    - [Triệu Vũ Vương]{"entity":"object"}  mất vào ?
+    - [Nguyễn Thị Cận]{"entity":"object"}  mất vào ?
+    - [Nguyễn Thị Hoàn]{"entity":"object"}  mất vào ?
+    - [Nguyễn Thị Định]{"entity":"object"}  mất vào ?
+    - [Hàm Nghi]{"entity":"object"}  mất vào ?
+    - [Trần Dụ Tông]{"entity":"object"}  mất vào ?
+    - [Lý Nhân Tông]{"entity":"object"}  mất vào ?
+    - [Nguyễn Bính]{"entity":"object"}  mất vào ?
+    - [Trần Hiến Tông]{"entity":"object"}  mất vào ?
+    - [Phan Thanh Giản]{"entity":"object"}  mất vào ?
+    - [Trần Huy Liệu]{"entity":"object"}  mất vào ?
+    - [Hoàng Minh Thảo]{"entity":"object"}  mất vào ?
+    - [Dương Vân Nga]{"entity":"object"}  mất vào ?
+    - [Phạm Thị Liên]{"entity":"object"}  mất vào ?
+    - [Kiến Phúc]{"entity":"object"}  mất vào ?
+    - [Bùi Thị Nhạn]{"entity":"object"}  mất vào ?
+    - [Nguyễn Văn Minh]{"entity":"object"}  mất vào ?
+    - [Lê Nhân Tông]{"entity":"object"}  mất vào ?
+    - [Trần Lý]{"entity":"object"}  mất vào ?
+    - [Nguyễn Bặc]{"entity":"object"}  mất vào ?
+    - [Trần Duệ Tông]{"entity":"object"}  mất vào ?
+    - [Trần Tử Bình]{"entity":"object"}  mất vào ?
+    - [Hoàng Diệu]{"entity":"object"}  mất vào ?
+    - [Lê Văn Thịnh]{"entity":"object"}  mất vào ?
+    - [Trần Văn Đôn]{"entity":"object"}  mất vào ?
+    - [Phạm Hùng]{"entity":"object"}  mất vào ?
+    - [Mạc Ngọc Liễn]{"entity":"object"}  mất vào ?
+    - [Mạc Thái Tổ]{"entity":"object"}  mất vào ?
+    - [Lê Đức Thọ]{"entity":"object"}  mất vào ?
+    - [Lê Long Tung]{"entity":"object"}  mất vào ?
+    - [Trần Khâm]{"entity":"object"}  mất vào ?
+    - [Chu Huy Mân]{"entity":"object"}  mất vào ?
+    - [Khúc Hạo]{"entity":"object"}  mất vào ?
+    - [Trần Nhân Tông]{"entity":"object"}  mất vào ?
+    - [Hoàng Tích Trí]{"entity":"object"}  mất vào ?
+    - [Nguyễn Văn Thiệu]{"entity":"object"}  mất vào ?
+    - [Hồ Tùng Mậu]{"entity":"object"}  mất vào ?
+    - [Trần Phủ]{"entity":"object"}  mất vào ?
+    - [Trần Khánh Dư]{"entity":"object"}  mất vào ?
+    - [Trịnh Kiểm]{"entity":"object"}  mất vào ?
+    - [Lý Nguyên Cát]{"entity":"object"}  mất vào ?
+    - [Lê Tương Dực]{"entity":"object"}  mất vào ?
+    - [Trần Thiếu Đế]{"entity":"object"}  mất vào ?
+    - [Triệu Văn Vương]{"entity":"object"}  mất vào ?
+    - [Lê Lợi]{"entity":"object"}  mất vào ?
+    - [Nguyễn Hiến Tổ]{"entity":"object"}  mất vào ?
+    - [Mạc Phúc Hải]{"entity":"object"}  mất vào ?
+    - [Phan Đình Phùng]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Chu]{"entity":"object"}  mất vào ?
+    - [Trần Đình Thọ]{"entity":"object"}  mất vào ?
+    - [Triệu Vũ Đế]{"entity":"object"}  mất vào ?
+    - [Lê Duy Cối]{"entity":"object"}  mất vào ?
+    - [Lý Anh Tông]{"entity":"object"}  mất vào ?
+    - [Nguyễn Chánh Thi]{"entity":"object"}  mất vào ?
+    - [Phùng Hưng]{"entity":"object"}  mất vào ?
+    - [Đỗ Nhuận]{"entity":"object"}  mất vào ?
+    - [Đặng Vũ Hiệp]{"entity":"object"}  mất vào ?
+    - [Trịnh Giang]{"entity":"object"}  mất vào ?
+    - [Mạc Mậu Hợp]{"entity":"object"}  mất vào ?
+    - [Trần Linh Công]{"entity":"object"}  mất vào ?
+    - [Trần An]{"entity":"object"}  mất vào ?
+    - [Gia Long]{"entity":"object"}  mất vào ?
+    - [Nguyễn Văn Luyện]{"entity":"object"}  mất vào ?
+    - [Nguyễn Kim]{"entity":"object"}  mất vào ?
+    - [Nguyễn Bỉnh Khiêm]{"entity":"object"}  mất vào ?
+    - [Hoàng Hoa Thám]{"entity":"object"}  mất vào ?
+    - [Trần Ngung]{"entity":"object"}  mất vào ?
+    - [Trần Văn Lắm]{"entity":"object"}  mất vào ?
+    - [Lý Biện]{"entity":"object"}  mất vào ?
+    - [Phạm Văn Sơn]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Ưng Lịch]{"entity":"object"}  mất vào ?
+    - [Nguyễn Khuyến]{"entity":"object"}  mất vào ?
+    - [Trần Quỳnh]{"entity":"object"}  mất vào ?
+    - [Lê Gia Tông]{"entity":"object"}  mất vào ?
+    - [Nguyễn Đình Trụ]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Côn]{"entity":"object"}  mất vào ?
+    - [Trịnh Tráng]{"entity":"object"}  mất vào ?
+    - [Trịnh Tùng]{"entity":"object"}  mất vào ?
+    - [Trần Thánh Tông]{"entity":"object"}  mất vào ?
+    - [Lê Thanh Nghị]{"entity":"object"}  mất vào ?
+    - [Ngô Quyền]{"entity":"object"}  mất vào ?
+    - [Phan Kế Toại]{"entity":"object"}  mất vào ?
+    - [Lý Chiêu Hoàng]{"entity":"object"}  mất vào ?
+    - [Lương Văn Can]{"entity":"object"}  mất vào ?
+    - [Trần Giản Hoàng]{"entity":"object"}  mất vào ?
+    - [Lý Phật Tử]{"entity":"object"}  mất vào ?
+    - [Huỳnh Tấn Phát]{"entity":"object"}  mất vào ?
+    - [Trịnh Văn Bô]{"entity":"object"}  mất vào ?
+    - [Trần Đức Thông]{"entity":"object"}  mất vào ?
+    - [Nguyễn Công Bình]{"entity":"object"}  mất vào ?
+    - [Nguyễn Khoa Nam]{"entity":"object"}  mất vào ?
+    - [Trần Quốc Toản]{"entity":"object"}  mất vào ?
+    - [Lê Đạt]{"entity":"object"}  mất vào ?
+    - [Võ Chí Công]{"entity":"object"}  mất vào ?
+    - [Lý Long Cán]{"entity":"object"}  mất vào ?
+    - [Lê Văn Thân]{"entity":"object"}  mất vào ?
+    - [Khải Định]{"entity":"object"}  mất vào ?
+    - [Lê Thái Tông]{"entity":"object"}  mất vào ?
+    - [Lý Thánh Tông]{"entity":"object"}  mất vào ?
+    - [Tôn Đức Thắng]{"entity":"object"}  mất vào ?
+    - [Lê Nghi Dân]{"entity":"object"}  mất vào ?
+    - [Nguyễn Vĩnh Thụy]{"entity":"object"}  mất vào ?
+    - [Trần Hoảng]{"entity":"object"}  mất vào ?
+    - [Lê Duy Ninh]{"entity":"object"}  mất vào ?
+    - [Tôn Hạo]{"entity":"object"}  mất vào ?
+    - [Trần Thiếu Đế]{"entity":"object"}  mất vào ?
+    - [Ngô Thị Ngọc Dao]{"entity":"object"}  mất vào ?
+    - [Lê Đại Hành]{"entity":"object"}  mất vào ?
+    - [Vũ Văn Giác]{"entity":"object"}  mất vào ?
+    - [Lý Long Cơ]{"entity":"object"}  mất vào ?
+    - [Lý Anh Tông]{"entity":"object"}  mất vào ?
+    - [Nguyễn Văn Tố]{"entity":"object"}  mất vào ?
+    - [Lê Chân Tông]{"entity":"object"}  mất vào ?
+    - [Vũ Kỳ]{"entity":"object"}  mất vào ?
+    - [Lý Thần Tông]{"entity":"object"}  mất vào ?
+    - [Nguyễn Hoàng]{"entity":"object"}  mất vào ?
+    - [Đinh Liễn]{"entity":"object"}  mất vào ?
+    - [Phan Thanh Giản]{"entity":"object"}  mất vào ?
+    - [Trần Độ]{"entity":"object"}  mất vào ?
+    - [Lê Long Tương]{"entity":"object"}  mất vào ?
+    - [Nguyễn Dực Tông]{"entity":"object"}  mất vào ?
+    - [Lê Thánh Tông]{"entity":"object"}  mất vào ?
+    - [Lê Hiến Tông]{"entity":"object"}  mất vào ?
+    - [Trần Trọng Kim]{"entity":"object"}  mất vào ?
+    - [Lê Chân Tông]{"entity":"object"}  mất vào ?
+    - [Võ Vương]{"entity":"object"}  mất vào ?
+    - [Lê Trãi]{"entity":"object"}  mất vào ?
+    - [Nguyễn Du]{"entity":"object"}  mất vào ?
+    - [Triệu Ẩu]{"entity":"object"}  mất vào ?
+    - [Hoàng Cơ Minh]{"entity":"object"}  mất vào ?
+    - [Lê Chiêu Tông]{"entity":"object"}  mất vào ?
+    - [Trần Quang Cơ]{"entity":"object"}  mất vào ?
+    - [Lê Xuân]{"entity":"object"}  mất vào ?
+    - [Võ Tánh]{"entity":"object"}  mất vào ?
+    - [Nguyễn Ánh]{"entity":"object"}  mất vào ?
+    - [Triệu Thuẫn]{"entity":"object"}  mất vào ?
+    - [Vũ Đình Hòe]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Lan]{"entity":"object"}  mất vào ?
+    - [Phan Châu Trinh]{"entity":"object"}  mất vào ?
+    - [Lê Cung Hoàng]{"entity":"object"}  mất vào ?
+    - [Lê Thánh Tôn]{"entity":"object"}  mất vào ?
+    - [Lý Chiêu Hoàng]{"entity":"object"}  mất vào ?
+    - [Tự Đức]{"entity":"object"}  mất vào ?
+    - [Nguyễn Nam Khánh]{"entity":"object"}  mất vào ?
+    - [Lê Mẫn Đế]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Tần]{"entity":"object"}  mất vào ?
+    - [Lý Nam Đế]{"entity":"object"}  mất vào ?
+    - [Lê Cung Hoàng]{"entity":"object"}  mất vào ?
+    - [Lê Gia Tông]{"entity":"object"}  mất vào ?
+    - [Nguyễn Tài]{"entity":"object"}  mất vào ?
+    - [Lê Dụ Tông]{"entity":"object"}  mất vào ?
+    - [Phan Sào Nam]{"entity":"object"}  mất vào ?
+    - [Trần Văn Trà]{"entity":"object"}  mất vào ?
+    - [Đinh Nhu]{"entity":"object"}  mất vào ?
+    - [Hoàng Xuân Hãn]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Khoát]{"entity":"object"}  mất vào ?
+    - [Phan Khắc Sửu]{"entity":"object"}  mất vào ?
+    - [Trần Duệ Tông]{"entity":"object"}  mất vào ?
+    - [Trần Thủ Độ]{"entity":"object"}  mất vào ?
+    - [Lê Quý Đôn]{"entity":"object"}  mất vào ?
+    - [Hồ Quý Ly]{"entity":"object"}  mất vào ?
+    - [Nguyễn Sinh Sắc]{"entity":"object"}  mất vào ?
+    - [Nguyễn Khang]{"entity":"object"}  mất vào ?
+    - [Lê Long Đề]{"entity":"object"}  mất vào ?
+    - [Nguyễn Nhạc]{"entity":"object"}  mất vào ?
+    - [Lê Túc Tông]{"entity":"object"}  mất vào ?
+    - [Nguyễn Khắc Nhu]{"entity":"object"}  mất vào ?
+    - [Trần Phú]{"entity":"object"}  mất vào ?
+    - [Chu Nguyên Chương]{"entity":"object"}  mất vào ?
+    - [Lý Hạo Sảm]{"entity":"object"}  mất vào ?
+    - [Nguyễn Đình Chiểu]{"entity":"object"}  mất vào ?
+    - [Phan Đình Giót]{"entity":"object"}  mất vào ?
+    - [Trần Duy Hưng]{"entity":"object"}  mất vào ?
+    - [Nguyễn Quang Toản]{"entity":"object"}  mất vào ?
+    - [Trần Thủ Độ]{"entity":"object"}  mất vào ?
+    - [Trịnh Giang]{"entity":"object"}  mất vào ?
+    - [Dương Hạo]{"entity":"object"}  mất vào ?
+    - [Đinh Hạng Lang]{"entity":"object"}  mất vào ?
+    - [Nguyễn Thánh Tổ]{"entity":"object"}  mất vào ?
+    - [Ngô Thì Sỹ]{"entity":"object"}  mất vào ?
+    - [Lê Trang Tông]{"entity":"object"}  mất vào ?
+    - [Khúc Hạo]{"entity":"object"}  mất vào ?
+    - [Trần Quý Hai]{"entity":"object"}  mất vào ?
+    - [Dương Đức Hiền]{"entity":"object"}  mất vào ?
+    - [Lê Duy Tân]{"entity":"object"}  mất vào ?
+    - [Lê Anh Tông]{"entity":"object"}  mất vào ?
+    - [Trần Thắng]{"entity":"object"}  mất vào ?
+    - [Dương Văn Minh]{"entity":"object"}  mất vào ?
+    - [Phùng Hưng]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Thuần]{"entity":"object"}  mất vào ?
+    - [Nguyễn Mạnh Quân]{"entity":"object"}  mất vào ?
+    - [Đỗ Như Hối]{"entity":"object"}  mất vào ?
+    - [Lê Thế Tông]{"entity":"object"}  mất vào ?
+    - [Thiệu Trị]{"entity":"object"}  mất vào ?
+    - [Lê Dụ Tông]{"entity":"object"}  mất vào ?
+    - [Trần Liễu]{"entity":"object"}  mất vào ?
+    - [Ngô Sĩ Liên]{"entity":"object"}  mất vào ?
+    - [Trần Quang Diệu]{"entity":"object"}  mất vào ?
+    - [Võ Nguyên Giáp]{"entity":"object"}  mất vào ?
+    - [Trần Nghi]{"entity":"object"}  mất vào ?
+    - [Ngô Đình Nhu]{"entity":"object"}  mất vào ?
+    - [Lê Ngọa Triều]{"entity":"object"}  mất vào ?
+    - [Nguyễn Kim]{"entity":"object"}  mất vào ?
+    - [Gia Long]{"entity":"object"}  mất vào ?
+    - [Trần Thái Tông]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Luân]{"entity":"object"}  mất vào ?
+    - [Lê Hy Tông]{"entity":"object"}  mất vào ?
+    - [Ngô Phù Sai]{"entity":"object"}  mất vào ?
+    - [Đặng Thị Huệ]{"entity":"object"}  mất vào ?
+    - [Lê Duy Phường]{"entity":"object"}  mất vào ?
+    - [Nguyễn Ứng Long]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Luân]{"entity":"object"}  mất vào ?
+    - [Lê Nhân Chú]{"entity":"object"}  mất vào ?
+    - [Lý Kiến Thành]{"entity":"object"}  mất vào ?
+    - [Nguyễn Xiển]{"entity":"object"}  mất vào ?
+    - [Lê Uy Mục Đế]{"entity":"object"}  mất vào ?
+    - [Đinh Hoàn]{"entity":"object"}  mất vào ?
+    - [Triệu Quang Phục]{"entity":"object"}  mất vào ?
+    - [Hoàng Nguyên]{"entity":"object"}  mất vào ?
+    - [Trần Bá Tiên]{"entity":"object"}  mất vào ?
+    - [Trần Quốc Toản]{"entity":"object"}  mất vào ?
+    - [Trần Tuyên Đế]{"entity":"object"}  mất vào ?
+    - [Nguyễn Trường Tộ]{"entity":"object"}  mất vào ?
+    - [Nguyễn Khắc Hiếu]{"entity":"object"}  mất vào ?
+    - [Lê Thần Tông]{"entity":"object"}  mất vào ?
+    - [Mạc Tuyên Tông]{"entity":"object"}  mất vào ?
+    - [Lê Văn Lương]{"entity":"object"}  mất vào ?
+    - [An Dương Vương]{"entity":"object"}  mất vào ?
+    - [Trần Quý]{"entity":"object"}  mất vào ?
+    - [Phạm Ngọc Sang]{"entity":"object"}  mất vào ?
+    - [Lý Thái Tổ]{"entity":"object"}  mất vào ?
+    - [Phạm Quỳnh]{"entity":"object"}  mất vào ?
+    - [Lê Hy Tông]{"entity":"object"}  mất vào ?
+    - [Trần Quốc Khang]{"entity":"object"}  mất vào ?
+    - [Nguyễn Vỹ]{"entity":"object"}  mất vào ?
+    - [Lý Thiên Bảo]{"entity":"object"}  mất vào ?
+    - [Lý Nhân Tông]{"entity":"object"}  mất vào ?
+    - [Lê Thái Tông]{"entity":"object"}  mất vào ?
+    - [Khúc Thừa Dụ]{"entity":"object"}  mất vào ?
+    - [Lý Dương Hoán]{"entity":"object"}  mất vào ?
+    - [Đinh Toàn]{"entity":"object"}  mất vào ?
+    - [Lê Huyền Tông]{"entity":"object"}  mất vào ?
+    - [Lê Thái Tông]{"entity":"object"}  mất vào ?
+    - [Nguyễn Bồ]{"entity":"object"}  mất vào ?
+    - [Lê Long Thâu]{"entity":"object"}  mất vào ?
+    - [Trịnh Kiểm]{"entity":"object"}  mất vào ?
+    - [Đinh Phế Đế]{"entity":"object"}  mất vào ?
+    - [Lý Uyên]{"entity":"object"}  mất vào ?
+    - [Nguyễn Phúc Dương]{"entity":"object"}  mất vào ?
+    - [Lê Hoàng Đệ Xuân]{"entity":"object"}  mất vào ?
+    - [Nguyễn Quang Toản]{"entity":"object"}  mất vào ?
+    - [Đinh Phế Đế]{"entity":"object"}  mất vào ?
+    - [Khúc Thừa Dụ]{"entity":"object"}  mất vào ?
+    - [Trần Quang Khải]{"entity":"object"}  mất vào ?
+    - [Dương Tam Kha]{"entity":"object"}  sinh vào ?
+    - [Trần Độ]{"entity":"object"}  sinh vào ?
+    - [Lý Huệ Tông]{"entity":"object"}  sinh vào ?
+    - [Lê Mã Lương]{"entity":"object"}  sinh vào ?
+    - [Trần Nghi]{"entity":"object"}  sinh vào ?
+    - [Phạm Ngọc Sang]{"entity":"object"}  sinh vào ?
+    - [Tôn Trung Sơn]{"entity":"object"}  sinh vào ?
+    - [Lê Long Kính]{"entity":"object"}  sinh vào ?
+    - [Phan Văn Trị]{"entity":"object"}  sinh vào ?
+    - [Trần Quý]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Cơ Thạch]{"entity":"object"}  sinh vào ?
+    - [Mạc Tuyên Tông]{"entity":"object"}  sinh vào ?
+    - [Phùng Hưng]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Bồ]{"entity":"object"}  sinh vào ?
+    - [Phạm Văn Đồng]{"entity":"object"}  sinh vào ?
+    - [Trần Đại Nghĩa]{"entity":"object"}  sinh vào ?
+    - [Lương Văn Can]{"entity":"object"}  sinh vào ?
+    - [Trần Thiện Khiêm]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Lữ]{"entity":"object"}  sinh vào ?
+    - [Dương Kiên]{"entity":"object"}  sinh vào ?
+    - [Lê Quý Đôn]{"entity":"object"}  sinh vào ?
+    - [Trần Thúc Bảo]{"entity":"object"}  sinh vào ?
+    - [Hồ Tùng Mậu]{"entity":"object"}  sinh vào ?
+    - [Lê Văn Thịnh]{"entity":"object"}  sinh vào ?
+    - [Lê Yên]{"entity":"object"}  sinh vào ?
+    - [Lê Văn Thịnh]{"entity":"object"}  sinh vào ?
+    - [Kiến Phúc]{"entity":"object"}  sinh vào ?
+    - [Phan Huy Lê]{"entity":"object"}  sinh vào ?
+    - [Trần Năng ]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Khuyến]{"entity":"object"}  sinh vào ?
+    - [Lê Trãi]{"entity":"object"}  sinh vào ?
+    - [Chu Văn An]{"entity":"object"}  sinh vào ?
+    - [Lê Hồng Phong]{"entity":"object"}  sinh vào ?
+    - [Dương Bình Vương]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Chí Thanh]{"entity":"object"}  sinh vào ?
+    - [Lý Nam Đế]{"entity":"object"}  sinh vào ?
+    - [Trần Dụ Tông]{"entity":"object"}  sinh vào ?
+    - [Ngô Xương Xí]{"entity":"object"}  sinh vào ?
+    - [Hoàng Hưng]{"entity":"object"}  sinh vào ?
+    - [Trần Quốc Hoàn]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Hiến Tổ]{"entity":"object"}  sinh vào ?
+    - [Đinh Liễn]{"entity":"object"}  sinh vào ?
+    - [Triệu Ai Vương]{"entity":"object"}  sinh vào ?
+    - [Lý Thái Tổ]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Phi Khanh]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Bỉnh Khiêm]{"entity":"object"}  sinh vào ?
+    - [Lê Khắc Xương]{"entity":"object"}  sinh vào ?
+    - [Võ Văn Kiệt]{"entity":"object"}  sinh vào ?
+    - [Huỳnh Phú Sổ]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Phúc Chu]{"entity":"object"}  sinh vào ?
+    - [Ngô Thì Sĩ]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Phúc Đảm]{"entity":"object"}  sinh vào ?
+    - [Trần Thánh Tông]{"entity":"object"}  sinh vào ?
+    - [Lê Quí Đôn]{"entity":"object"}  sinh vào ?
+    - [Lý Thánh Tông]{"entity":"object"}  sinh vào ?
+    - [Lê Trang Tông]{"entity":"object"}  sinh vào ?
+    - [Trần Quang Khải]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Hữu Hạnh]{"entity":"object"}  sinh vào ?
+    - [Trần Thái Tổ]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Quang Ngọc]{"entity":"object"}  sinh vào ?
+    - [Lý Phật Mã]{"entity":"object"}  sinh vào ?
+    - [Lê Bang Cơ]{"entity":"object"}  sinh vào ?
+    - [Phạm Thị Hằng]{"entity":"object"}  sinh vào ?
+    - [Huỳnh Thúc Kháng]{"entity":"object"}  sinh vào ?
+    - [Lý Nhân Tông]{"entity":"object"}  sinh vào ?
+    - [Lý Tử Cấu]{"entity":"object"}  sinh vào ?
+    - [Phùng Hưng]{"entity":"object"}  sinh vào ?
+    - [Trần Văn Phương]{"entity":"object"}  sinh vào ?
+    - [Phan Thanh Giản]{"entity":"object"}  sinh vào ?
+    - [Lê Trung Tường]{"entity":"object"}  sinh vào ?
+    - [Triệu Việt Vương]{"entity":"object"}  sinh vào ?
+    - [Trần Thái Tông]{"entity":"object"}  sinh vào ?
+    - [Lê Tương Dực]{"entity":"object"}  sinh vào ?
+    - [Lê Gia Tông]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Phúc Luân]{"entity":"object"}  sinh vào ?
+    - [Ngô Phù Sai]{"entity":"object"}  sinh vào ?
+    - [Lê Đạt]{"entity":"object"}  sinh vào ?
+    - [Phan Hoan]{"entity":"object"}  sinh vào ?
+    - [Vũ Kỳ]{"entity":"object"}  sinh vào ?
+    - [Đỗ Bá Tỵ]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Khắc Nhu]{"entity":"object"}  sinh vào ?
+    - [Trần Đình Hượu]{"entity":"object"}  sinh vào ?
+    - [Lê Cung Hoàng]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Duy Trinh]{"entity":"object"}  sinh vào ?
+    - [Trần Khâm]{"entity":"object"}  sinh vào ?
+    - [Ngô Xuân Lịch]{"entity":"object"}  sinh vào ?
+    - [Trần Lý]{"entity":"object"}  sinh vào ?
+    - [Đinh Phế Đế]{"entity":"object"}  sinh vào ?
+    - [Lê Long Tung]{"entity":"object"}  sinh vào ?
+    - [Mạc Đăng Doanh]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Sinh Hùng]{"entity":"object"}  sinh vào ?
+    - [Phan Đình Niệm]{"entity":"object"}  sinh vào ?
+    - [Trần Đức Thông]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Bính]{"entity":"object"}  sinh vào ?
+    - [Lê Uy Mục Đế]{"entity":"object"}  sinh vào ?
+    - [Trần Hưng Đạo]{"entity":"object"}  sinh vào ?
+    - [Lưu Nhân Chú]{"entity":"object"}  sinh vào ?
+    - [Trần Hanh]{"entity":"object"}  sinh vào ?
+    - [Bùi Thị Xuân]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Ánh]{"entity":"object"}  sinh vào ?
+    - [Lý Tòng Bá]{"entity":"object"}  sinh vào ?
+    - [Hàm Nghi]{"entity":"object"}  sinh vào ?
+    - [Lê Tư Thành]{"entity":"object"}  sinh vào ?
+    - [Ngô Sĩ Liên]{"entity":"object"}  sinh vào ?
+    - [Trần Thị Tùng]{"entity":"object"}  sinh vào ?
+    - [Hoàng Cơ Minh]{"entity":"object"}  sinh vào ?
+    - [Lê Ngọa Triều]{"entity":"object"}  sinh vào ?
+    - [Lê Anh Tông]{"entity":"object"}  sinh vào ?
+    - [Lê Tư Tề]{"entity":"object"}  sinh vào ?
+    - [Lê Thuần Tông]{"entity":"object"}  sinh vào ?
+    - [Trịnh Tạc]{"entity":"object"}  sinh vào ?
+    - [Trần Thánh Tông]{"entity":"object"}  sinh vào ?
+    - [Phan Khắc Sửu]{"entity":"object"}  sinh vào ?
+    - [Hồ Hán Thương]{"entity":"object"}  sinh vào ?
+    - [Trịnh Giang]{"entity":"object"}  sinh vào ?
+    - [Trần Thị Băng Thanh]{"entity":"object"}  sinh vào ?
+    - [Lý Chiêu Hoàng]{"entity":"object"}  sinh vào ?
+    - [Triệu Cấu]{"entity":"object"}  sinh vào ?
+    - [Trần Nghệ Tông]{"entity":"object"}  sinh vào ?
+    - [Phan Sào Nam]{"entity":"object"}  sinh vào ?
+    - [Võ Tánh]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Huệ]{"entity":"object"}  sinh vào ?
+    - [Lý Thế Dân]{"entity":"object"}  sinh vào ?
+    - [Ngô Thì Sỹ]{"entity":"object"}  sinh vào ?
+    - [Lý Hanh]{"entity":"object"}  sinh vào ?
+    - [Âu Cơ]{"entity":"object"}  sinh vào ?
+    - [Ngô Du]{"entity":"object"}  sinh vào ?
+    - [Phan Kế Toại]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Xiển]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Đình Chiểu]{"entity":"object"}  sinh vào ?
+    - [Lý Càn Đức]{"entity":"object"}  sinh vào ?
+    - [Ngô Sỹ Liên]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Hoàng]{"entity":"object"}  sinh vào ?
+    - [Ngô Viết Thụ]{"entity":"object"}  sinh vào ?
+    - [Ngô Tất Tố]{"entity":"object"}  sinh vào ?
+    - [Tần Thủy Hoàng]{"entity":"object"}  sinh vào ?
+    - [Lê Lựu ]{"entity":"object"}  sinh vào ?
+    - [Phạm Ngọc Thạch]{"entity":"object"}  sinh vào ?
+    - [Trần Nguyên Hãn]{"entity":"object"}  sinh vào ?
+    - [Triệu Hưng]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Chiến]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Văn Toàn]{"entity":"object"}  sinh vào ?
+    - [Lê Thế Tông]{"entity":"object"}  sinh vào ?
+    - [Lý Tự Thành]{"entity":"object"}  sinh vào ?
+    - [Thành Thái]{"entity":"object"}  sinh vào ?
+    - [Lê Văn Thân]{"entity":"object"}  sinh vào ?
+    - [Lê Quý Đôn]{"entity":"object"}  sinh vào ?
+    - [Hoàng Xuân Lãm]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Nam Khánh]{"entity":"object"}  sinh vào ?
+    - [Đỗ Lễ]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Thanh Hồng]{"entity":"object"}  sinh vào ?
+    - [Trần Giản Hoàng]{"entity":"object"}  sinh vào ?
+    - [Phạm Thị Liên]{"entity":"object"}  sinh vào ?
+    - [Trịnh Kiểm]{"entity":"object"}  sinh vào ?
+    - [Dương Đức Hiền]{"entity":"object"}  sinh vào ?
+    - [Lý Triện]{"entity":"object"}  sinh vào ?
+    - [Ngô Quang Trưởng]{"entity":"object"}  sinh vào ?
+    - [Bùi Văn Phương]{"entity":"object"}  sinh vào ?
+    - [Lê Mẫn Đế]{"entity":"object"}  sinh vào ?
+    - [Trần Hiến Tông]{"entity":"object"}  sinh vào ?
+    - [Ngô Đình Diệm]{"entity":"object"}  sinh vào ?
+    - [Lê Sát]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Văn Bảy]{"entity":"object"}  sinh vào ?
+    - [Lý Cao Tông]{"entity":"object"}  sinh vào ?
+    - [Triệu Thuẫn]{"entity":"object"}  sinh vào ?
     - [Khúc Thừa Dụ]{"entity":"object"}  sinh vào ?
-    - [Ngô Quyền]{"entity":"object"}  ở thời kỳ là ?
-    - [Ngô Quyền]{"entity":"object"}  giữ chức vụ ?
+    - [Ngô Đình Nhu]{"entity":"object"}  sinh vào ?
+    - [Mạc Chính Trung]{"entity":"object"}  sinh vào ?
+    - [Trần Phú]{"entity":"object"}  sinh vào ?
+    - [Duy Tân]{"entity":"object"}  sinh vào ?
+    - [Trần Trọng Kim]{"entity":"object"}  sinh vào ?
+    - [Trần Nguyên Đán]{"entity":"object"}  sinh vào ?
+    - [Lý Thần Tông]{"entity":"object"}  sinh vào ?
+    - [Vũ Tuân]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Đức Quang]{"entity":"object"}  sinh vào ?
+    - [Lý Đào Lang Vương]{"entity":"object"}  sinh vào ?
+    - [Dương Bình Vương]{"entity":"object"}  sinh vào ?
+    - [Lê Dụ Tông]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Phúc Côn]{"entity":"object"}  sinh vào ?
+    - [Đinh Bộ Lĩnh]{"entity":"object"}  sinh vào ?
+    - [Trần Quốc Khang]{"entity":"object"}  sinh vào ?
+    - [Mạc Ngọc Liễn]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Sáng]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Phúc Luân]{"entity":"object"}  sinh vào ?
+    - [Trần Khánh Dư]{"entity":"object"}  sinh vào ?
+    - [Trần Duy Hưng]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Huệ]{"entity":"object"}  sinh vào ?
+    - [Lê Duy Cối]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Giản Tông]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Quân]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Trãi]{"entity":"object"}  sinh vào ?
+    - [Hồ Hợi]{"entity":"object"}  sinh vào ?
+    - [Trần Quang Khải]{"entity":"object"}  sinh vào ?
+    - [Trần Thái Tông]{"entity":"object"}  sinh vào ?
+    - [Trần Nghệ Tông]{"entity":"object"}  sinh vào ?
+    - [Lê Ngân]{"entity":"object"}  sinh vào ?
+    - [Đặng Thị Huệ]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Văn Đồng]{"entity":"object"}  sinh vào ?
+    - [Đinh Tiên Hoàng]{"entity":"object"}  sinh vào ?
+    - [Lê Thái Tổ]{"entity":"object"}  sinh vào ?
+    - [Lê Quý Ly]{"entity":"object"}  sinh vào ?
+    - [Trần Huy Liệu]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Khang]{"entity":"object"}  sinh vào ?
+    - [Lê Duy Tân]{"entity":"object"}  sinh vào ?
+    - [Phạm Quỳnh]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Thị Chiên]{"entity":"object"}  sinh vào ?
+    - [Lê Đế Duy Phường]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Mạnh Cầm]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Thị Hoàn]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Bặc]{"entity":"object"}  sinh vào ?
+    - [Đinh Tiên Hoàng]{"entity":"object"}  sinh vào ?
+    - [Lê Chiêu Tông]{"entity":"object"}  sinh vào ?
+    - [Trần Thuyên]{"entity":"object"}  sinh vào ?
+    - [Mạc Toàn]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Hữu Thị Lan]{"entity":"object"}  sinh vào ?
+    - [Lê Long Đề]{"entity":"object"}  sinh vào ?
+    - [Lý Biện]{"entity":"object"}  sinh vào ?
+    - [Lê Nhân Chú]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Thuật]{"entity":"object"}  sinh vào ?
+    - [Phùng Thế Tài]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Trung]{"entity":"object"}  sinh vào ?
+    - [Trần Văn Rón]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Văn Linh]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Cảnh Tông]{"entity":"object"}  sinh vào ?
+    - [Dục Đức]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Tài]{"entity":"object"}  sinh vào ?
+    - [Lý Huệ Tông]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Văn Minh]{"entity":"object"}  sinh vào ?
+    - [Lý Uyên]{"entity":"object"}  sinh vào ?
+    - [Triệu Ẩu]{"entity":"object"}  sinh vào ?
+    - [Dương Thu Hương]{"entity":"object"}  sinh vào ?
+    - [Trần Đình Thọ]{"entity":"object"}  sinh vào ?
+    - [Lê Khả Phiêu]{"entity":"object"}  sinh vào ?
+    - [Lê Văn Tri]{"entity":"object"}  sinh vào ?
+    - [Trịnh Khải]{"entity":"object"}  sinh vào ?
+    - [Phan Châu Trinh]{"entity":"object"}  sinh vào ?
+    - [Lý Thánh Tông]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Trường Tộ]{"entity":"object"}  sinh vào ?
+    - [Lê Thánh Tông]{"entity":"object"}  sinh vào ?
+    - [Trần Nghệ Tông]{"entity":"object"}  sinh vào ?
+    - [Lê Kính Tông]{"entity":"object"}  sinh vào ?
+    - [Mạc Kính Điển]{"entity":"object"}  sinh vào ?
+    - [Dương Vân Nga]{"entity":"object"}  sinh vào ?
+    - [Trần Nhật Duật]{"entity":"object"}  sinh vào ?
+    - [Lê Ngọc Hân]{"entity":"object"}  sinh vào ?
+    - [Mạc Thái Tông]{"entity":"object"}  sinh vào ?
+    - [Trần Anh Tông]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Thị Anh]{"entity":"object"}  sinh vào ?
+    - [Lê Văn Lương]{"entity":"object"}  sinh vào ?
+    - [Phan Bội Châu]{"entity":"object"}  sinh vào ?
+    - [Tự Đức]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Trường Tộ]{"entity":"object"}  sinh vào ?
+    - [An Dương Vương]{"entity":"object"}  sinh vào ?
+    - [Lê Oanh]{"entity":"object"}  sinh vào ?
+    - [Phạm Văn Trà]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Công Bình]{"entity":"object"}  sinh vào ?
+    - [Triệu Văn Vương]{"entity":"object"}  sinh vào ?
+    - [Lê Hy Tông]{"entity":"object"}  sinh vào ?
+    - [Lê Thánh Tôn]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Bá Cẩn]{"entity":"object"}  sinh vào ?
+    - [Khải Định]{"entity":"object"}  sinh vào ?
+    - [Trần Thiếu Đế]{"entity":"object"}  sinh vào ?
+    - [Ngô Quyền]{"entity":"object"}  sinh vào ?
+    - [Hoàng Sào]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Thị Kim Ngân]{"entity":"object"}  sinh vào ?
+    - [Vũ Văn Uyên]{"entity":"object"}  sinh vào ?
+    - [Hoàng Minh Giám]{"entity":"object"}  sinh vào ?
+    - [Võ Vương]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Phúc Thái]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Duy Hinh]{"entity":"object"}  sinh vào ?
+    - [Lê Hoàn]{"entity":"object"}  sinh vào ?
+    - [Ngô Quyền]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Phúc Dương]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Phúc Thuần]{"entity":"object"}  sinh vào ?
+    - [Đặng Thai Mai]{"entity":"object"}  sinh vào ?
+    - [Triệu Hồ]{"entity":"object"}  sinh vào ?
+    - [Trần Văn Cẩm]{"entity":"object"}  sinh vào ?
+    - [Lê Thánh Tông]{"entity":"object"}  sinh vào ?
+    - [Lê Trạc Tú]{"entity":"object"}  sinh vào ?
+    - [Phạm Hồ Đạt]{"entity":"object"}  sinh vào ?
+    - [Thiệu Trị]{"entity":"object"}  sinh vào ?
+    - [Trần Liễu]{"entity":"object"}  sinh vào ?
+    - [Lý Thánh Tông]{"entity":"object"}  sinh vào ?
+    - [Hoàng Hoa Thám]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Thiện Nhân]{"entity":"object"}  sinh vào ?
+    - [Lê Tân]{"entity":"object"}  sinh vào ?
+    - [Lý Thiên Bảo]{"entity":"object"}  sinh vào ?
+    - [Trần Nhật Duật]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Lữ]{"entity":"object"}  sinh vào ?
+    - [Ngô Miễn]{"entity":"object"}  sinh vào ?
+    - [Trần Văn Trà]{"entity":"object"}  sinh vào ?
+    - [Lê Đại Hành]{"entity":"object"}  sinh vào ?
+    - [Lý Nhật Tôn]{"entity":"object"}  sinh vào ?
+    - [Vũ Văn Cẩn]{"entity":"object"}  sinh vào ?
+    - [Tạ Đình Đề]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Phúc Ưng Lịch]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Quang Toản]{"entity":"object"}  sinh vào ?
+    - [Trịnh Tráng]{"entity":"object"}  sinh vào ?
+    - [Trịnh Giang]{"entity":"object"}  sinh vào ?
+    - [Lê Quang Đạo]{"entity":"object"}  sinh vào ?
+    - [Lý Thái Tông]{"entity":"object"}  sinh vào ?
+    - [Hồ Quý Ly]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Hữu An]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Thành Trung]{"entity":"object"}  sinh vào ?
+    - [Gia Long]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Kim]{"entity":"object"}  sinh vào ?
+    - [Trần Ngung]{"entity":"object"}  sinh vào ?
+    - [Trịnh Bồng]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Kim]{"entity":"object"}  sinh vào ?
+    - [Nguyễn An Ninh]{"entity":"object"}  sinh vào ?
+    - [Lê Thái Tông]{"entity":"object"}  sinh vào ?
+    - [Đỗ Nhuận]{"entity":"object"}  sinh vào ?
+    - [Lê Chiêu Tông]{"entity":"object"}  sinh vào ?
+    - [Trịnh Doanh]{"entity":"object"}  sinh vào ?
+    - [Trịnh Đình Cửu]{"entity":"object"}  sinh vào ?
+    - [Vũ Văn Thái]{"entity":"object"}  sinh vào ?
+    - [Lý Long Cơ]{"entity":"object"}  sinh vào ?
+    - [Bà Triệu]{"entity":"object"}  sinh vào ?
+    - [Vũ Trọng Khánh]{"entity":"object"}  sinh vào ?
+    - [Lê Hoàng Đệ Xuân]{"entity":"object"}  sinh vào ?
+    - [Dương Quảng]{"entity":"object"}  sinh vào ?
+    - [Trần Văn Lắm]{"entity":"object"}  sinh vào ?
+    - [Lê Uyên]{"entity":"object"}  sinh vào ?
+    - [Triệu Bính]{"entity":"object"}  sinh vào ?
+    - [Phan Châu Trinh]{"entity":"object"}  sinh vào ?
+    - [Lý Dương Hoán]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Du]{"entity":"object"}  sinh vào ?
+    - [Lê Huyền Tông]{"entity":"object"}  sinh vào ?
+    - [Dương Nhật Lễ]{"entity":"object"}  sinh vào ?
+    - [Tô Hiến Thành]{"entity":"object"}  sinh vào ?
+    - [Trần Thuận Tông]{"entity":"object"}  sinh vào ?
+    - [Trần Thủ Độ]{"entity":"object"}  sinh vào ?
+    - [Lý Đán]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Vĩnh Thụy]{"entity":"object"}  sinh vào ?
+    - [Khúc Hạo]{"entity":"object"}  sinh vào ?
+    - [Trần Phủ]{"entity":"object"}  sinh vào ?
+    - [Đinh Hạng Lang]{"entity":"object"}  sinh vào ?
+    - [Trần Bá Tiên]{"entity":"object"}  sinh vào ?
+    - [Lê Nguyên Khang]{"entity":"object"}  sinh vào ?
+    - [Lê Ngọc Hân]{"entity":"object"}  sinh vào ?
+    - [Dương Vân Nga]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Chí Vịnh]{"entity":"object"}  sinh vào ?
+    - [Lê Hiến Tông]{"entity":"object"}  sinh vào ?
+    - [Bùi Kỷ]{"entity":"object"}  sinh vào ?
+    - [Hoàng Minh Thảo]{"entity":"object"}  sinh vào ?
+    - [Trương Khánh Châu]{"entity":"object"}  sinh vào ?
+    - [Lê Lợi]{"entity":"object"}  sinh vào ?
+    - [Trần Duệ Tông]{"entity":"object"}  sinh vào ?
+    - [Lê Chiêu Thống]{"entity":"object"}  sinh vào ?
+    - [Lý Bôn]{"entity":"object"}  sinh vào ?
+    - [Minh Mạng]{"entity":"object"}  sinh vào ?
+    - [Lê Cung Hoàng]{"entity":"object"}  sinh vào ?
+    - [Trần Tử Bình]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Nhạc]{"entity":"object"}  sinh vào ?
+    - [Trần Cảnh]{"entity":"object"}  sinh vào ?
+    - [Đào Duy Từ]{"entity":"object"}  sinh vào ?
+    - [Lý Tư]{"entity":"object"}  sinh vào ?
+    - [Trịnh Kiểm]{"entity":"object"}  sinh vào ?
+    - [Đinh Toàn]{"entity":"object"}  sinh vào ?
+    - [Dương Tam Kha]{"entity":"object"}  sinh vào ?
+    - [Triệu Đà]{"entity":"object"}  sinh vào ?
+    - [Lê Long Thâu]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Mạnh Quân]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Đình Đầu]{"entity":"object"}  sinh vào ?
+    - [Trương Chi Động]{"entity":"object"}  sinh vào ?
+    - [Mạc Kính Khoan]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Văn Tỵ]{"entity":"object"}  sinh vào ?
+    - [Dương Hạo]{"entity":"object"}  sinh vào ?
+    - [Dương Ngọc Hoàn]{"entity":"object"}  sinh vào ?
+    - [Lý Long Cán]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Nhạc]{"entity":"object"}  sinh vào ?
+    - [Bùi Trang Chước]{"entity":"object"}  sinh vào ?
+    - [Khúc Thừa Dụ]{"entity":"object"}  sinh vào ?
+    - [Lê Đức Thọ]{"entity":"object"}  sinh vào ?
+    - [Đỗ Như Hối]{"entity":"object"}  sinh vào ?
+    - [Lê Long Tương]{"entity":"object"}  sinh vào ?
+    - [Lê Thạch]{"entity":"object"}  sinh vào ?
+    - [Bùi Thị Xuân]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Trọng Vĩnh]{"entity":"object"}  sinh vào ?
+    - [Lê Nguyên Long]{"entity":"object"}  sinh vào ?
+    - [Triệu Khuông Dận]{"entity":"object"}  sinh vào ?
+    - [Trần Hoảng]{"entity":"object"}  sinh vào ?
+    - [Mạc Thái Tông]{"entity":"object"}  sinh vào ?
+    - [Dương Văn Minh]{"entity":"object"}  sinh vào ?
+    - [Lê Đức Đạt]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Phúc Khoát]{"entity":"object"}  sinh vào ?
+    - [Trần Hiến Tông]{"entity":"object"}  sinh vào ?
+    - [Lý Hạo Sảm]{"entity":"object"}  sinh vào ?
+    - [Trịnh Tùng]{"entity":"object"}  sinh vào ?
+    - [Trịnh Tráng]{"entity":"object"}  sinh vào ?
+    - [Phan Văn Thắng]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Văn Luyện]{"entity":"object"}  sinh vào ?
+    - [Phan Huy Quát]{"entity":"object"}  sinh vào ?
+    - [Trương Tấn Sang]{"entity":"object"}  sinh vào ?
+    - [Trần Thừa]{"entity":"object"}  sinh vào ?
+    - [Lý Tồn Úc]{"entity":"object"}  sinh vào ?
+    - [Lê Thái Tông]{"entity":"object"}  sinh vào ?
+    - [Phan Thanh Giản]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Minh Không ]{"entity":"object"}  sinh vào ?
+    - [Bà Triệu]{"entity":"object"}  sinh vào ?
+    - [Trịnh Sâm]{"entity":"object"}  sinh vào ?
+    - [Tôn Đức Thắng]{"entity":"object"}  sinh vào ?
+    - [Triệu Vũ Vương]{"entity":"object"}  sinh vào ?
+    - [Ngô Sĩ Liên]{"entity":"object"}  sinh vào ?
+    - [Lê Thần Tông]{"entity":"object"}  sinh vào ?
+    - [Dương Minh Châu]{"entity":"object"}  sinh vào ?
+    - [Trần Văn Đôn]{"entity":"object"}  sinh vào ?
+    - [Trần Quốc Tuấn]{"entity":"object"}  sinh vào ?
+    - [Hoàng Quốc Việt]{"entity":"object"}  sinh vào ?
+    - [Lê Túc Tông]{"entity":"object"}  sinh vào ?
+    - [Kiến Phúc]{"entity":"object"}  sinh vào ?
+    - [Lý Tĩnh]{"entity":"object"}  sinh vào ?
+    - [Vũ Đức Đam]{"entity":"object"}  sinh vào ?
+    - [Phạm Thị Hải Chuyền]{"entity":"object"}  sinh vào ?
+    - [Phan Đình Giót]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Huy Hiệu]{"entity":"object"}  sinh vào ?
+    - [Bùi Văn Cường]{"entity":"object"}  sinh vào ?
+    - [Đinh Nhu]{"entity":"object"}  sinh vào ?
+    - [Cao Văn Viên]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Đình Trụ]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Phúc Lan]{"entity":"object"}  sinh vào ?
+    - [Đào Tấn]{"entity":"object"}  sinh vào ?
+    - [Lý Chiêu Hoàng]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Khánh]{"entity":"object"}  sinh vào ?
+    - [Bảo Đại]{"entity":"object"}  sinh vào ?
+    - [Chu Huy Mân]{"entity":"object"}  sinh vào ?
+    - [Chu Nguyên Chương]{"entity":"object"}  sinh vào ?
+    - [Lê Duy Ninh]{"entity":"object"}  sinh vào ?
+    - [Lê Duy Vũ]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Chánh Thi]{"entity":"object"}  sinh vào ?
+    - [Lý Thọ]{"entity":"object"}  sinh vào ?
+    - [An Dương Vương]{"entity":"object"}  sinh vào ?
+    - [Văn Tiến Dũng]{"entity":"object"}  sinh vào ?
+    - [Trần Hữu Dực]{"entity":"object"}  sinh vào ?
+    - [Trần Mạnh]{"entity":"object"}  sinh vào ?
+    - [Lý Mậu Trinh]{"entity":"object"}  sinh vào ?
+    - [Trần Quang Diệu]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Thị Định]{"entity":"object"}  sinh vào ?
+    - [Lý Chiêu Hoàng]{"entity":"object"}  sinh vào ?
+    - [Đặng Văn Hiếu]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Ứng Long]{"entity":"object"}  sinh vào ?
+    - [Trương Cư Chính]{"entity":"object"}  sinh vào ?
+    - [Trần Tuyên Đế]{"entity":"object"}  sinh vào ?
+    - [Hoàng Nguyên]{"entity":"object"}  sinh vào ?
+    - [Trần Tuấn Khải]{"entity":"object"}  sinh vào ?
+    - [Phùng Khắc Khoan]{"entity":"object"}  sinh vào ?
+    - [Phạm Hùng]{"entity":"object"}  sinh vào ?
+    - [Lê Uy Mục]{"entity":"object"}  sinh vào ?
+    - [Lê Xuân]{"entity":"object"}  sinh vào ?
+    - [Lê Long Việt]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Huệ Chi]{"entity":"object"}  sinh vào ?
+    - [Triệu Việt Vương]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Thánh Tổ]{"entity":"object"}  sinh vào ?
+    - [Lê Thuần Tông]{"entity":"object"}  sinh vào ?
+    - [Bùi Thị Nhạn]{"entity":"object"}  sinh vào ?
+    - [Ngô Thị Ngọc Dao]{"entity":"object"}  sinh vào ?
+    - [Lê Tuấn Mậu ]{"entity":"object"}  sinh vào ?
+    - [Lý Anh Tông]{"entity":"object"}  sinh vào ?
+    - [Triệu Vũ Đế]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Lương Bằng]{"entity":"object"}  sinh vào ?
+    - [Triệu Hằng]{"entity":"object"}  sinh vào ?
+    - [Lê Nhân Tông]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Văn Diệp]{"entity":"object"}  sinh vào ?
+    - [Lê Đức Anh]{"entity":"object"}  sinh vào ?
+    - [Trần Thuận Tông]{"entity":"object"}  sinh vào ?
+    - [Lê Thái Tổ]{"entity":"object"}  sinh vào ?
+    - [Vũ Văn Giác]{"entity":"object"}  sinh vào ?
+    - [Trần Thắng]{"entity":"object"}  sinh vào ?
+    - [Lý Thiên Tộ]{"entity":"object"}  sinh vào ?
+    - [Mạc Mậu Hợp]{"entity":"object"}  sinh vào ?
+    - [Trần Anh Tông]{"entity":"object"}  sinh vào ?
+    - [Trần Quang Cơ]{"entity":"object"}  sinh vào ?
+    - [Lê Nghi Dân]{"entity":"object"}  sinh vào ?
+    - [Trần Văn Giang]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Dực Tông]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Đình Thi]{"entity":"object"}  sinh vào ?
+    - [Lê Long Mang]{"entity":"object"}  sinh vào ?
+    - [Vũ Khiêu]{"entity":"object"}  sinh vào ?
+    - [Lê Hiến Tông]{"entity":"object"}  sinh vào ?
+    - [Trần Nhân Tông]{"entity":"object"}  sinh vào ?
+    - [Lý Nhân Tông]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Văn Tố]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Hữu Thọ]{"entity":"object"}  sinh vào ?
+    - [Trần Hoàn]{"entity":"object"}  sinh vào ?
+    - [Hoàng Xuân Hãn]{"entity":"object"}  sinh vào ?
+    - [Ngô Sĩ Liên]{"entity":"object"}  sinh vào ?
+    - [Khúc Hạo]{"entity":"object"}  sinh vào ?
+    - [Lê Văn Lan]{"entity":"object"}  sinh vào ?
+    - [Trần Minh Tông]{"entity":"object"}  sinh vào ?
+    - [Trần Văn Cẩn]{"entity":"object"}  sinh vào ?
+    - [Trương Văn Sáu]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Bá Thanh]{"entity":"object"}  sinh vào ?
+    - [Phạm Gia Khiêm]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Khắc Hiếu]{"entity":"object"}  sinh vào ?
+    - [Đặng Vũ Hiệp]{"entity":"object"}  sinh vào ?
+    - [Lý Anh Tông]{"entity":"object"}  sinh vào ?
+    - [Lê Chân Tông]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Nhạc]{"entity":"object"}  sinh vào ?
+    - [Mạc Thái Tổ]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Phúc Tần]{"entity":"object"}  sinh vào ?
+    - [Lê Mạnh Thát]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Thị Mai Hoa]{"entity":"object"}  sinh vào ?
+    - [Lê Thương]{"entity":"object"}  sinh vào ?
+    - [Trịnh Tùng]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Đức Huy]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Khoa Nam]{"entity":"object"}  sinh vào ?
+    - [Trần Quý Hai]{"entity":"object"}  sinh vào ?
+    - [Trần Hữu Lượng]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Vỹ]{"entity":"object"}  sinh vào ?
+    - [Lê Duy Phường]{"entity":"object"}  sinh vào ?
+    - [Hoàng Tích Trí]{"entity":"object"}  sinh vào ?
+    - [Phan Đình Phùng]{"entity":"object"}  sinh vào ?
+    - [Lê Đại Hành]{"entity":"object"}  sinh vào ?
+    - [Vũ Văn Xiển]{"entity":"object"}  sinh vào ?
+    - [Lê Tương Dực]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Bặc]{"entity":"object"}  sinh vào ?
+    - [Triệu Kiến Đức]{"entity":"object"}  sinh vào ?
+    - [Lê Thanh Nghị]{"entity":"object"}  sinh vào ?
+    - [Lê Sạn]{"entity":"object"}  sinh vào ?
+    - [Trịnh Văn Bô]{"entity":"object"}  sinh vào ?
+    - [Đỗ Mười]{"entity":"object"}  sinh vào ?
+    - [Đinh Phế Đế]{"entity":"object"}  sinh vào ?
+    - [Mạc Toàn]{"entity":"object"}  sinh vào ?
+    - [Lý Nguyên Cát]{"entity":"object"}  sinh vào ?
+    - [Trịnh Tráng]{"entity":"object"}  sinh vào ?
+    - [Lê Túc Tông]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Thị Bình]{"entity":"object"}  sinh vào ?
+    - [Lý Kiến Thành]{"entity":"object"}  sinh vào ?
+    - [Phạm Văn Sơn]{"entity":"object"}  sinh vào ?
+    - [Phan Kế An]{"entity":"object"}  sinh vào ?
+    - [Lê Duy Cáp]{"entity":"object"}  sinh vào ?
+    - [Phạm Chi Lan]{"entity":"object"}  sinh vào ?
+    - [Tôn Hạo]{"entity":"object"}  sinh vào ?
+    - [Dương Quảng Hàm]{"entity":"object"}  sinh vào ?
+    - [Phạm Văn Phú]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Trường Giang]{"entity":"object"}  sinh vào ?
+    - [Phan Trung Kiên]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Văn Thiệu]{"entity":"object"}  sinh vào ?
+    - [Huỳnh Tấn Phát]{"entity":"object"}  sinh vào ?
+    - [Lý Quốc Sư]{"entity":"object"}  sinh vào ?
+    - [Hoàng Văn Thái]{"entity":"object"}  sinh vào ?
+    - [Võ An Ninh]{"entity":"object"}  sinh vào ?
+    - [Trần Quốc Toản]{"entity":"object"}  sinh vào ?
+    - [Lý Công Uẩn]{"entity":"object"}  sinh vào ?
+    - [Ngô Quyền]{"entity":"object"}  sinh vào ?
+    - [Phạm Phú Quốc]{"entity":"object"}  sinh vào ?
+    - [Lê Duẩn]{"entity":"object"}  sinh vào ?
+    - [Lê Hữu Từ]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Văn Được]{"entity":"object"}  sinh vào ?
+    - [Lê Duy Đường]{"entity":"object"}  sinh vào ?
+    - [Đinh Hoàn]{"entity":"object"}  sinh vào ?
+    - [Lê Hy Tông]{"entity":"object"}  sinh vào ?
+    - [Dương Nhật Lễ]{"entity":"object"}  sinh vào ?
+    - [Võ Nguyên Giáp]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Quyết]{"entity":"object"}  sinh vào ?
+    - [Đào Duy Anh]{"entity":"object"}  sinh vào ?
+    - [Lê Trọng Tấn]{"entity":"object"}  sinh vào ?
+    - [Phan Văn Khải]{"entity":"object"}  sinh vào ?
+    - [Đặng Xuân Khu]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Thế Tổ]{"entity":"object"}  sinh vào ?
+    - [Trần Quang Khải]{"entity":"object"}  sinh vào ?
+    - [Võ Chí Công]{"entity":"object"}  sinh vào ?
+    - [Hoàng Diệu]{"entity":"object"}  sinh vào ?
+    - [Đồng Khánh]{"entity":"object"}  sinh vào ?
+    - [Trần Duệ Tông]{"entity":"object"}  sinh vào ?
+    - [Vũ Đình Hòe]{"entity":"object"}  sinh vào ?
+    - [Lê Thần Tông]{"entity":"object"}  sinh vào ?
+    - [Trần Văn Giàu]{"entity":"object"}  sinh vào ?
+    - [Lê Duy Bang]{"entity":"object"}  sinh vào ?
+    - [Lê Lai]{"entity":"object"}  sinh vào ?
+    - [Trần Đức Lương]{"entity":"object"}  sinh vào ?
+    - [Trần Hưng Đạo]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Du]{"entity":"object"}  sinh vào ?
+    - [Hoàng Diệu]{"entity":"object"}  sinh vào ?
+    - [Lê Long Tích]{"entity":"object"}  sinh vào ?
+    - [Hoàng Việt]{"entity":"object"}  sinh vào ?
+    - [Nguyễn An Ninh]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Hân]{"entity":"object"}  sinh vào ?
+    - [Trần Dụ Tông]{"entity":"object"}  sinh vào ?
+    - [Hồ Chí Minh]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Phúc Nguyên]{"entity":"object"}  sinh vào ?
+    - [Phạm Duy Tất]{"entity":"object"}  sinh vào ?
+    - [Lê Triện]{"entity":"object"}  sinh vào ?
+    - [Nguyễn Sinh Sắc]{"entity":"object"}  sinh vào ?
+    - [Trần An]{"entity":"object"}  sinh vào ?
+    - [Lê Trang Tông]{"entity":"object"}  sinh vào ?
+    - [Trần Quỳnh]{"entity":"object"}  sinh vào ?
+    - [Bảo Đại]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Kính Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Phạm Văn Trà]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Duy Hưng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Thị Anh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Thiếu Đế]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Khải Định]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Phúc Ưng Lịch]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Thuần Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Phạm Hồ Đạt]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Huy Liệu]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Triệu Anh Tề]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Vũ Văn Hóa Cập]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Chiêu Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Thiện Nhân]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Long Việt]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Phúc Thuần]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Mạc Kính Điển]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Văn Lắm]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Ngọa Triều]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Huyền Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Huệ Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Bá Thanh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trịnh Giang]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Hoàng Đệ Xuân]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Hanh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trương Khánh Châu]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Duy Tân]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Hữu Lượng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Thọ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Hiến Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Phan Văn Thắng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trịnh Tráng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Ngô Xương Xí]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Triệu Hồ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Phan Kế Toại]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Trọng Kim]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Phạm Gia Khiêm]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Triệu Hưng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Văn Tiến Dũng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Ngung]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Chân Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Văn Linh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Cảnh Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Giản Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Huy Hiệu]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Huỳnh Thúc Kháng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Phủ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Thánh Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Triệu Việt Vương]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Quang Đạo]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Hồng Phong]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Long Cơ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lạc Long Quân]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Anh Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Triệu Kiến Đức]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Phúc Tần]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Giản Hoàng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Hoàng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Triệu Bính]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trương Chi Động]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Phạm Hùng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Minh Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Hồ Chí Minh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Mạc Phúc Nguyên]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Xiển]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Hữu Dực]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Dương Quảng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Ngô Xương Ngập]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Mạc Phúc Hải]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Hoảng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Phan Khắc Sửu]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Thiên Bảo]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Phật Tử]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Đại Hành]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Ngô Phù Sai]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Mạc Kính Vũ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Dục Đức]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Bá Tiên]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Võ Văn Kiệt]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Khúc Hạo]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Đán]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Mạc Kính Chỉ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Tư Thành]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Văn Thịnh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Đế Duy Phường]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Ngô Xương Văn]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Biện]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Mạc Kính Khoan]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Thánh Tôn]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Cơ Thạch]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Thị Hoàn]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Thánh Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Mẫn Đế]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Hiến Tổ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Duy Vũ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trương Văn Sáu]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Võ Chí Công]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Tồn Úc]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Hữu Từ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Nghi Dân]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Văn Thiệu]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trịnh Bồng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Phạm Quỳnh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Hoàng Minh Giám]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Mạc Tuyên Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Sinh Hùng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Chí Vịnh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Phật Mã]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trịnh Khải]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Quang Toản]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Triệu Cấu]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Phan Văn Khải]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Triệu Minh Vương]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần An]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Dương Hoán]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Quân]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Văn Tố]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Thế Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Phùng Hưng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Anh Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Oanh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Long Cán]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Triệu Văn Vương]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Tuyên Đế]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Mạc Hiến Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Thiệu Trị]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Khúc Thừa Hạo]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Thuận Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Linh Công]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Vũ Văn Cẩn]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Đồng Khánh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Phúc Đảm]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Dương Nhật Lễ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Quý Khoáng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trương Cư Chính]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Nhật Tôn]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Phúc Khoát]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Thiên Tộ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Trang Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Đinh Toàn]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Phạm Văn Đồng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Đặng Văn Hiếu]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Phúc Nguyên]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Phạm Thị Hằng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Gia Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Dụ Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Hàm Nghi]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Thị Định]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Mạc Toàn]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Bùi Thị Nhạn]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Khúc Thừa Dụ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Chiêu Hoàng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Bùi Văn Cường]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Hiến Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trịnh Doanh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Đức Lương]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Mạc Chính Trung]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Duy Tân]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Thừa]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Hữu Thị Lan]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Duy Ninh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Tôn Đức Thắng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Uy Mục Đế]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Lương Bằng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Duy Cối]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Cung Hoàng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Dương Kiên]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Phúc Chu]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Mạc Thái Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Duy Cáp]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Ngô Đình Diệm]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Đào Lang Vương]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Nghệ Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Càn Đức]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Vũ Kỳ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Vĩnh Thụy]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Thị Kim Ngân]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Cao Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Triệu Quang Phục]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Văn Lương]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Phạm Thị Hải Chuyền]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Đức Thọ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Thế Dân]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trương Tấn Sang]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Phúc Thái]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Văn Được]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Dụ Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Mạnh Cầm]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Nhân Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Hồ Tùng Mậu]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Vũ Đức Đam]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Dực Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Tương Dực]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Thúc Bảo]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Hồ Hán Thương]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Hoàng Quốc Việt]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Thần Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Triệu Thuẫn]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Triệu Ai Vương]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Duệ Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Túc Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Hồ Hợi]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Mạc Mậu Hợp]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Nhân Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Khả Phiêu]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Thánh Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Võ Vương]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Vũ Đình Hòe]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Đặng Thai Mai]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Tôn Hạo]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Minh Mạng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Bặc]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Thị Tùng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trịnh Tùng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trịnh Tạc]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Xuân]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Mạc Đăng Doanh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Thị Phất Ngân]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Mạc Đôn Nhượng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Chiêu Thống]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Tần Thủy Hoàng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Duy Đường]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Hoàn]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Thái Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Phan Trung Kiên]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Thành Thái]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Vũ Văn Xiển]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Bang Cơ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Duy Bang]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Phúc Lan]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Vũ Văn Giác]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Hanh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Nguyên Long]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Đinh Phế Đế]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Hy Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Duy Phường]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Văn Rón]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Đặng Xuân Khu]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Thắng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Thuyên]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Dương Hạo]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Thái Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Khang]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Tự Đức]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Tôn Trung Sơn]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Hạo Sảm]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trịnh Đình Cửu]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Thái Tổ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Đỗ Bá Tỵ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lý Tư]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Bá Cẩn]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Triệu Hằng]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Ngô Thị Ngọc Dao]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Anh Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Thánh Tổ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Vũ Trọng Khánh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trịnh Sâm]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Quỳnh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Kiến Phúc]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Tô Hiến Thành]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Hữu Thọ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Ngô Xuân Lịch]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Thanh Nghị]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Duy Trinh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Vũ Văn Uyên]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Dương Đức Hiền]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Thị Bình]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Phú]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Ngô Sứ Quân]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Đức Anh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Đỗ Mười]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Phan Huy Quát]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Huệ]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Phạm Thị Liên]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Hoàng Tích Trí]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Mạnh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Uy Mục]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Mạc Kính Cung]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Nguyễn Trọng Vĩnh]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Thần Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Khâm]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Duẩn]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Quốc Hoàn]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Trọng Tấn]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Trần Nhân Tông]{"entity":"object"}  Có người tiền nhiệm ?
+    - [Lê Long Đề]{"entity":"object"}  tên khai sinh ?
+    - [Lê Nghi Dân]{"entity":"object"}  tên khai sinh ?
+    - [Trần Thiếu Đế]{"entity":"object"}  tên khai sinh ?
+    - [Ngô Sứ Quân]{"entity":"object"}  tên khai sinh ?
+    - [Phan Sào Nam]{"entity":"object"}  tên khai sinh ?
+    - [Lê Hoàn]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Phúc Khoát]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Quang Toản]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Phúc Ưng Lịch]{"entity":"object"}  tên khai sinh ?
+    - [Tự Đức]{"entity":"object"}  tên khai sinh ?
+    - [Mạc Phúc Nguyên]{"entity":"object"}  tên khai sinh ?
+    - [Trần Duệ Tông]{"entity":"object"}  tên khai sinh ?
+    - [Dương Kiên]{"entity":"object"}  tên khai sinh ?
+    - [Vũ Văn Giác]{"entity":"object"}  tên khai sinh ?
+    - [Phan Bội Châu]{"entity":"object"}  tên khai sinh ?
+    - [Lê Chân Tông]{"entity":"object"}  tên khai sinh ?
+    - [Lý Long Cán]{"entity":"object"}  tên khai sinh ?
+    - [Mạc Thái Tổ]{"entity":"object"}  tên khai sinh ?
+    - [Lê Thương]{"entity":"object"}  tên khai sinh ?
+    - [Lê Hoàng Đệ Xuân]{"entity":"object"}  tên khai sinh ?
+    - [Lê Thái Tổ]{"entity":"object"}  tên khai sinh ?
+    - [Đồng Khánh]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Cảnh Tông]{"entity":"object"}  tên khai sinh ?
+    - [Triệu Việt Vương]{"entity":"object"}  tên khai sinh ?
+    - [Lý Biện]{"entity":"object"}  tên khai sinh ?
+    - [Thiệu Trị]{"entity":"object"}  tên khai sinh ?
+    - [Mạc Hiến Tông]{"entity":"object"}  tên khai sinh ?
+    - [Ngô Xương Văn]{"entity":"object"}  tên khai sinh ?
+    - [Lê Tư Tề]{"entity":"object"}  tên khai sinh ?
+    - [Mạc Kính Chỉ]{"entity":"object"}  tên khai sinh ?
+    - [Trần Thánh Tông]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Ánh]{"entity":"object"}  tên khai sinh ?
+    - [Lê Thần Tông]{"entity":"object"}  tên khai sinh ?
+    - [Lê Duy Tân]{"entity":"object"}  tên khai sinh ?
+    - [Lý Long Cơ]{"entity":"object"}  tên khai sinh ?
+    - [Triệu Vũ Đế]{"entity":"object"}  tên khai sinh ?
+    - [Hoàng Văn Thái]{"entity":"object"}  tên khai sinh ?
+    - [Lê Nguyên Long]{"entity":"object"}  tên khai sinh ?
+    - [Lê Long Tương]{"entity":"object"}  tên khai sinh ?
+    - [Trần An]{"entity":"object"}  tên khai sinh ?
+    - [Ngô Quyền]{"entity":"object"}  tên khai sinh ?
+    - [Triệu Hằng]{"entity":"object"}  tên khai sinh ?
+    - [Lê Long Tích]{"entity":"object"}  tên khai sinh ?
+    - [Lê Túc Tông]{"entity":"object"}  tên khai sinh ?
+    - [Trần Anh Tông]{"entity":"object"}  tên khai sinh ?
+    - [Trần Thái Tổ]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Huệ]{"entity":"object"}  tên khai sinh ?
+    - [Lê Thánh Tôn]{"entity":"object"}  tên khai sinh ?
+    - [Đinh Bộ Lĩnh]{"entity":"object"}  tên khai sinh ?
+    - [Dương Vân Nga]{"entity":"object"}  tên khai sinh ?
+    - [Phạm Thị Liên]{"entity":"object"}  tên khai sinh ?
+    - [Triệu Anh Tề]{"entity":"object"}  tên khai sinh ?
+    - [Lý Công Uẩn]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Thánh Tổ]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Phúc Thuần]{"entity":"object"}  tên khai sinh ?
+    - [Triệu Quang Phục]{"entity":"object"}  tên khai sinh ?
+    - [Phùng Hưng]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Ứng Long]{"entity":"object"}  tên khai sinh ?
+    - [Trần Bá Tiên]{"entity":"object"}  tên khai sinh ?
+    - [Lý Đán]{"entity":"object"}  tên khai sinh ?
+    - [Lê Long Việt]{"entity":"object"}  tên khai sinh ?
+    - [Lê Duy Phường]{"entity":"object"}  tên khai sinh ?
+    - [Lê Thánh Tông]{"entity":"object"}  tên khai sinh ?
+    - [Lý Thiên Bảo]{"entity":"object"}  tên khai sinh ?
+    - [Mạc Phúc Hải]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Phúc Thái]{"entity":"object"}  tên khai sinh ?
+    - [Lê Cung Hoàng]{"entity":"object"}  tên khai sinh ?
+    - [Lê Huyền Tông]{"entity":"object"}  tên khai sinh ?
+    - [Lê Long Kính]{"entity":"object"}  tên khai sinh ?
+    - [Trần Giản Hoàng]{"entity":"object"}  tên khai sinh ?
+    - [Hoàng Việt]{"entity":"object"}  tên khai sinh ?
+    - [Trần Nhân Tông]{"entity":"object"}  tên khai sinh ?
+    - [Ngô Phù Sai]{"entity":"object"}  tên khai sinh ?
+    - [Trần Khâm]{"entity":"object"}  tên khai sinh ?
+    - [Mạc Mậu Hợp]{"entity":"object"}  tên khai sinh ?
+    - [Khúc Hạo]{"entity":"object"}  tên khai sinh ?
+    - [Hồ Hợi]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Phúc Lan]{"entity":"object"}  tên khai sinh ?
+    - [Thành Thái]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Hiến Tổ]{"entity":"object"}  tên khai sinh ?
+    - [Ngô Xương Ngập]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Thế Tổ]{"entity":"object"}  tên khai sinh ?
+    - [Triệu Khuông Dận]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Dực Tông]{"entity":"object"}  tên khai sinh ?
+    - [Lê Duy Đường]{"entity":"object"}  tên khai sinh ?
+    - [Lý Uyên]{"entity":"object"}  tên khai sinh ?
+    - [Lý Chiêu Hoàng]{"entity":"object"}  tên khai sinh ?
+    - [Dục Đức]{"entity":"object"}  tên khai sinh ?
+    - [Lê Tân]{"entity":"object"}  tên khai sinh ?
+    - [Lý Bôn]{"entity":"object"}  tên khai sinh ?
+    - [Lê Lợi]{"entity":"object"}  tên khai sinh ?
+    - [Triệu Cấu]{"entity":"object"}  tên khai sinh ?
+    - [Trần Hiến Tông]{"entity":"object"}  tên khai sinh ?
+    - [Lý Cao Tông]{"entity":"object"}  tên khai sinh ?
+    - [Dương Bình Vương]{"entity":"object"}  tên khai sinh ?
+    - [Chu Nguyên Chương]{"entity":"object"}  tên khai sinh ?
+    - [Kiến Phúc]{"entity":"object"}  tên khai sinh ?
+    - [Lê Duy Bang]{"entity":"object"}  tên khai sinh ?
+    - [Lý Thần Tông]{"entity":"object"}  tên khai sinh ?
+    - [Hàm Nghi]{"entity":"object"}  tên khai sinh ?
+    - [Duy Tân]{"entity":"object"}  tên khai sinh ?
+    - [Trịnh Khải]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Văn Diệp]{"entity":"object"}  tên khai sinh ?
+    - [Triệu Đà]{"entity":"object"}  tên khai sinh ?
+    - [Lý Thái Tổ]{"entity":"object"}  tên khai sinh ?
+    - [Lý Thế Dân]{"entity":"object"}  tên khai sinh ?
+    - [Mạc Kính Khoan]{"entity":"object"}  tên khai sinh ?
+    - [Hoàng Nguyên]{"entity":"object"}  tên khai sinh ?
+    - [Lê Thế Tông]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Phúc Nguyên]{"entity":"object"}  tên khai sinh ?
+    - [Lê Yên]{"entity":"object"}  tên khai sinh ?
+    - [Trần Minh Tông]{"entity":"object"}  tên khai sinh ?
+    - [Trần Ngung]{"entity":"object"}  tên khai sinh ?
+    - [Lê Quý Ly]{"entity":"object"}  tên khai sinh ?
+    - [Triệu Minh Vương]{"entity":"object"}  tên khai sinh ?
+    - [Đỗ Nhuận]{"entity":"object"}  tên khai sinh ?
+    - [Mai Hắc Đế]{"entity":"object"}  tên khai sinh ?
+    - [Trần Hoàn]{"entity":"object"}  tên khai sinh ?
+    - [Triệu Vũ Vương]{"entity":"object"}  tên khai sinh ?
+    - [Khúc Thừa Hạo]{"entity":"object"}  tên khai sinh ?
+    - [Lê Long Mang]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Phúc Đảm]{"entity":"object"}  tên khai sinh ?
+    - [Lý Càn Đức]{"entity":"object"}  tên khai sinh ?
+    - [Lý Nhân Tông]{"entity":"object"}  tên khai sinh ?
+    - [Lê Anh Tông]{"entity":"object"}  tên khai sinh ?
+    - [Lý Thiên Tộ]{"entity":"object"}  tên khai sinh ?
+    - [Hồ Quý Ly]{"entity":"object"}  tên khai sinh ?
+    - [Lê Oanh]{"entity":"object"}  tên khai sinh ?
+    - [Lê Duy Vũ]{"entity":"object"}  tên khai sinh ?
+    - [Trần Quốc Tuấn]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Phúc Tần]{"entity":"object"}  tên khai sinh ?
+    - [Trần Thị Tùng]{"entity":"object"}  tên khai sinh ?
+    - [Lê Đại Hành]{"entity":"object"}  tên khai sinh ?
+    - [Minh Mạng]{"entity":"object"}  tên khai sinh ?
+    - [Trần Văn Cẩn]{"entity":"object"}  tên khai sinh ?
+    - [Mạc Chính Trung]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Phúc Dương]{"entity":"object"}  tên khai sinh ?
+    - [Trần Hưng Đạo]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Hoàng]{"entity":"object"}  tên khai sinh ?
+    - [Lê Chiêu Tông]{"entity":"object"}  tên khai sinh ?
+    - [Lê Nhân Tông]{"entity":"object"}  tên khai sinh ?
+    - [Trần Hoảng]{"entity":"object"}  tên khai sinh ?
+    - [Lê Trang Tông]{"entity":"object"}  tên khai sinh ?
+    - [Trịnh Sâm]{"entity":"object"}  tên khai sinh ?
+    - [Lê Duy Ninh]{"entity":"object"}  tên khai sinh ?
+    - [Mạc Toàn]{"entity":"object"}  tên khai sinh ?
+    - [Lê Đế Duy Phường]{"entity":"object"}  tên khai sinh ?
+    - [Mạc Đăng Doanh]{"entity":"object"}  tên khai sinh ?
+    - [Lê Thái Tông]{"entity":"object"}  tên khai sinh ?
+    - [Lý Nhật Tôn]{"entity":"object"}  tên khai sinh ?
+    - [Trần Ngỗi]{"entity":"object"}  tên khai sinh ?
+    - [Lý Nam Đế]{"entity":"object"}  tên khai sinh ?
+    - [Võ Vương]{"entity":"object"}  tên khai sinh ?
+    - [Trần Quý Khoáng]{"entity":"object"}  tên khai sinh ?
+    - [Trần Linh Công]{"entity":"object"}  tên khai sinh ?
+    - [Trịnh Bồng]{"entity":"object"}  tên khai sinh ?
+    - [Trần Thuyên]{"entity":"object"}  tên khai sinh ?
+    - [Lê Kính Tông]{"entity":"object"}  tên khai sinh ?
+    - [Bùi Trang Chước]{"entity":"object"}  tên khai sinh ?
+    - [Lý Thánh Tông]{"entity":"object"}  tên khai sinh ?
+    - [Mạc Kính Cung]{"entity":"object"}  tên khai sinh ?
+    - [Ngô Xương Xí]{"entity":"object"}  tên khai sinh ?
+    - [Lý Dương Hoán]{"entity":"object"}  tên khai sinh ?
+    - [Trần Phủ]{"entity":"object"}  tên khai sinh ?
+    - [Trần Lý]{"entity":"object"}  tên khai sinh ?
+    - [Mạc Tuyên Tông]{"entity":"object"}  tên khai sinh ?
+    - [Trịnh Giang]{"entity":"object"}  tên khai sinh ?
+    - [Tần Thủy Hoàng]{"entity":"object"}  tên khai sinh ?
+    - [Triệu Bính]{"entity":"object"}  tên khai sinh ?
+    - [Đinh Hoàn]{"entity":"object"}  tên khai sinh ?
+    - [Lê Long Thâu]{"entity":"object"}  tên khai sinh ?
+    - [Lý Thọ]{"entity":"object"}  tên khai sinh ?
+    - [Lê Long Tung]{"entity":"object"}  tên khai sinh ?
+    - [Trần Nghệ Tông]{"entity":"object"}  tên khai sinh ?
+    - [Gia Long]{"entity":"object"}  tên khai sinh ?
+    - [Trần Thuận Tông]{"entity":"object"}  tên khai sinh ?
+    - [Bảo Đại]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Phúc Chu]{"entity":"object"}  tên khai sinh ?
+    - [Lý Phật Tử]{"entity":"object"}  tên khai sinh ?
+    - [Lê Tư Thành]{"entity":"object"}  tên khai sinh ?
+    - [Lê Thuần Tông]{"entity":"object"}  tên khai sinh ?
+    - [Khúc Thừa Dụ]{"entity":"object"}  tên khai sinh ?
+    - [Kinh Dương Vương]{"entity":"object"}  tên khai sinh ?
+    - [Trần Dụ Tông]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Vĩnh Thụy]{"entity":"object"}  tên khai sinh ?
+    - [Đinh Nhu]{"entity":"object"}  tên khai sinh ?
+    - [Lê Xuân]{"entity":"object"}  tên khai sinh ?
+    - [Lê Tương Dực]{"entity":"object"}  tên khai sinh ?
+    - [Trần Mạnh]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Kim]{"entity":"object"}  tên khai sinh ?
+    - [Dương Quảng]{"entity":"object"}  tên khai sinh ?
+    - [Trần Thừa]{"entity":"object"}  tên khai sinh ?
+    - [Đinh Tiên Hoàng]{"entity":"object"}  tên khai sinh ?
+    - [Lê Bang Cơ]{"entity":"object"}  tên khai sinh ?
+    - [Lê Uyên]{"entity":"object"}  tên khai sinh ?
+    - [Đỗ Lễ]{"entity":"object"}  tên khai sinh ?
+    - [Mạc Kính Vũ]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Giản Tông]{"entity":"object"}  tên khai sinh ?
+    - [Khải Định]{"entity":"object"}  tên khai sinh ?
+    - [Mạc Thái Tông]{"entity":"object"}  tên khai sinh ?
+    - [Lê Dụ Tông]{"entity":"object"}  tên khai sinh ?
+    - [Lý Anh Tông]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Sáng]{"entity":"object"}  tên khai sinh ?
+    - [Lê Thọ Vực]{"entity":"object"}  tên khai sinh ?
+    - [Lý Đào Lang Vương]{"entity":"object"}  tên khai sinh ?
+    - [Hồ Chí Minh]{"entity":"object"}  tên khai sinh ?
+    - [Nguyễn Phi Khanh]{"entity":"object"}  tên khai sinh ?
+    - [Trần Nhân Tông]{"entity":"object"}  có liên quan ?
+    - [Lê Lợi]{"entity":"object"}  có liên quan ?
+    - [Hồ Quý Ly]{"entity":"object"}  Nơi chôn cất ?
+    - [Hồ Quý Ly]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Uy Mục Đế]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Uy Mục Đế]{"entity":"object"}  nơi an nghỉ ?
+    - [Dương Ngọc Hoàn]{"entity":"object"}  Nơi chôn cất ?
+    - [Dương Ngọc Hoàn]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Nhân Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Nhân Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Công Uẩn]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Công Uẩn]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Thái Tổ]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Thái Tổ]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Thuyên]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Thuyên]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Cảnh]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Cảnh]{"entity":"object"}  nơi an nghỉ ?
+    - [Kinh Dương Vương]{"entity":"object"}  Nơi chôn cất ?
+    - [Kinh Dương Vương]{"entity":"object"}  nơi an nghỉ ?
+    - [Nguyễn Thị Hoàn]{"entity":"object"}  Nơi chôn cất ?
+    - [Nguyễn Thị Hoàn]{"entity":"object"}  nơi an nghỉ ?
+    - [Mạc Thái Tổ]{"entity":"object"}  Nơi chôn cất ?
+    - [Mạc Thái Tổ]{"entity":"object"}  nơi an nghỉ ?
+    - [Thành Thái]{"entity":"object"}  Nơi chôn cất ?
+    - [Thành Thái]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Thánh Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Thánh Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Đại Hành]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Đại Hành]{"entity":"object"}  nơi an nghỉ ?
+    - [Võ An Ninh]{"entity":"object"}  Nơi chôn cất ?
+    - [Võ An Ninh]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Thánh Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Thánh Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Thiệu Trị]{"entity":"object"}  Nơi chôn cất ?
+    - [Thiệu Trị]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Duệ Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Duệ Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Tồn Úc]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Tồn Úc]{"entity":"object"}  nơi an nghỉ ?
+    - [Nguyễn Ứng Long]{"entity":"object"}  Nơi chôn cất ?
+    - [Nguyễn Ứng Long]{"entity":"object"}  nơi an nghỉ ?
+    - [Vũ Văn Giác]{"entity":"object"}  Nơi chôn cất ?
+    - [Vũ Văn Giác]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Nhân Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Nhân Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Dục Đức]{"entity":"object"}  Nơi chôn cất ?
+    - [Dục Đức]{"entity":"object"}  nơi an nghỉ ?
+    - [Tần Thủy Hoàng]{"entity":"object"}  Nơi chôn cất ?
+    - [Tần Thủy Hoàng]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Ngọc Hân]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Ngọc Hân]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Nhật Tôn]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Nhật Tôn]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Oanh]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Oanh]{"entity":"object"}  nơi an nghỉ ?
+    - [Gia Long]{"entity":"object"}  Nơi chôn cất ?
+    - [Gia Long]{"entity":"object"}  nơi an nghỉ ?
+    - [Tự Đức]{"entity":"object"}  Nơi chôn cất ?
+    - [Tự Đức]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Khâm]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Khâm]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Nghệ Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Nghệ Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Thái Tổ]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Thái Tổ]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Xuân]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Xuân]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Uyên]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Uyên]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Thánh Tôn]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Thánh Tôn]{"entity":"object"}  nơi an nghỉ ?
+    - [Phạm Thị Hằng]{"entity":"object"}  Nơi chôn cất ?
+    - [Phạm Thị Hằng]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Lợi]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Lợi]{"entity":"object"}  nơi an nghỉ ?
+    - [Nguyễn Thị Anh]{"entity":"object"}  Nơi chôn cất ?
+    - [Nguyễn Thị Anh]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Thái Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Thái Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Tương Dực]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Tương Dực]{"entity":"object"}  nơi an nghỉ ?
+    - [Triệu Hằng]{"entity":"object"}  Nơi chôn cất ?
+    - [Triệu Hằng]{"entity":"object"}  nơi an nghỉ ?
+    - [Nguyễn Thế Tổ]{"entity":"object"}  Nơi chôn cất ?
+    - [Nguyễn Thế Tổ]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Trang Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Trang Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Túc Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Túc Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Hoảng]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Hoảng]{"entity":"object"}  nơi an nghỉ ?
+    - [Ngô Thì Sỹ]{"entity":"object"}  Nơi chôn cất ?
+    - [Ngô Thì Sỹ]{"entity":"object"}  nơi an nghỉ ?
+    - [Đào Tấn]{"entity":"object"}  Nơi chôn cất ?
+    - [Đào Tấn]{"entity":"object"}  nơi an nghỉ ?
+    - [Nguyễn Vĩnh Thụy]{"entity":"object"}  Nơi chôn cất ?
+    - [Nguyễn Vĩnh Thụy]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Cung Hoàng]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Cung Hoàng]{"entity":"object"}  nơi an nghỉ ?
+    - [Nguyễn Cảnh Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Nguyễn Cảnh Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Anh Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Anh Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Nguyễn Giản Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Nguyễn Giản Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Bá Tiên]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Bá Tiên]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Minh Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Minh Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Chiêu Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Chiêu Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Thế Dân]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Thế Dân]{"entity":"object"}  nơi an nghỉ ?
+    - [Bảo Đại]{"entity":"object"}  Nơi chôn cất ?
+    - [Bảo Đại]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Hạo Sảm]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Hạo Sảm]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Thái Tổ]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Thái Tổ]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Duy Bang]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Duy Bang]{"entity":"object"}  nơi an nghỉ ?
+    - [Nguyễn Phúc Đảm]{"entity":"object"}  Nơi chôn cất ?
+    - [Nguyễn Phúc Đảm]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Anh Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Anh Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Thọ]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Thọ]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Long Cơ]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Long Cơ]{"entity":"object"}  nơi an nghỉ ?
+    - [Dương Kiên]{"entity":"object"}  Nơi chôn cất ?
+    - [Dương Kiên]{"entity":"object"}  nơi an nghỉ ?
+    - [Nguyễn Hiến Tổ]{"entity":"object"}  Nơi chôn cất ?
+    - [Nguyễn Hiến Tổ]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Quang Khải]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Quang Khải]{"entity":"object"}  nơi an nghỉ ?
+    - [Triệu Cấu]{"entity":"object"}  Nơi chôn cất ?
+    - [Triệu Cấu]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Phủ]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Phủ]{"entity":"object"}  nơi an nghỉ ?
+    - [Nguyễn Hữu Thị Lan]{"entity":"object"}  Nơi chôn cất ?
+    - [Nguyễn Hữu Thị Lan]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Duy Ninh]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Duy Ninh]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Càn Đức]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Càn Đức]{"entity":"object"}  nơi an nghỉ ?
+    - [Nguyễn Phúc Ưng Lịch]{"entity":"object"}  Nơi chôn cất ?
+    - [Nguyễn Phúc Ưng Lịch]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Thánh Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Thánh Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Nguyễn Phi Khanh]{"entity":"object"}  Nơi chôn cất ?
+    - [Nguyễn Phi Khanh]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Mạnh]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Mạnh]{"entity":"object"}  nơi an nghỉ ?
+    - [Nguyễn Thị Cận]{"entity":"object"}  Nơi chôn cất ?
+    - [Nguyễn Thị Cận]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Uy Mục]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Uy Mục]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Tân]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Tân]{"entity":"object"}  nơi an nghỉ ?
+    - [Phan Châu Trinh]{"entity":"object"}  Nơi chôn cất ?
+    - [Phan Châu Trinh]{"entity":"object"}  nơi an nghỉ ?
+    - [Triệu Khuông Dận]{"entity":"object"}  Nơi chôn cất ?
+    - [Triệu Khuông Dận]{"entity":"object"}  nơi an nghỉ ?
+    - [Duy Tân]{"entity":"object"}  Nơi chôn cất ?
+    - [Duy Tân]{"entity":"object"}  nơi an nghỉ ?
+    - [Chu Nguyên Chương]{"entity":"object"}  Nơi chôn cất ?
+    - [Chu Nguyên Chương]{"entity":"object"}  nơi an nghỉ ?
+    - [Ngô Thì Sĩ]{"entity":"object"}  Nơi chôn cất ?
+    - [Ngô Thì Sĩ]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Hanh]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Hanh]{"entity":"object"}  nơi an nghỉ ?
+    - [Khải Định]{"entity":"object"}  Nơi chôn cất ?
+    - [Khải Định]{"entity":"object"}  nơi an nghỉ ?
+    - [Kiến Phúc]{"entity":"object"}  Nơi chôn cất ?
+    - [Kiến Phúc]{"entity":"object"}  nơi an nghỉ ?
+    - [Vũ Văn Xiển]{"entity":"object"}  Nơi chôn cất ?
+    - [Vũ Văn Xiển]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Long Cán]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Long Cán]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Anh Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Anh Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Ngô Thị Ngọc Dao]{"entity":"object"}  Nơi chôn cất ?
+    - [Ngô Thị Ngọc Dao]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Dương Hoán]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Dương Hoán]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Duy Cối]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Duy Cối]{"entity":"object"}  nơi an nghỉ ?
+    - [Hàm Nghi]{"entity":"object"}  Nơi chôn cất ?
+    - [Hàm Nghi]{"entity":"object"}  nơi an nghỉ ?
+    - [Nguyễn Thánh Tổ]{"entity":"object"}  Nơi chôn cất ?
+    - [Nguyễn Thánh Tổ]{"entity":"object"}  nơi an nghỉ ?
+    - [Nguyễn Dực Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Nguyễn Dực Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Thừa]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Thừa]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Hy Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Hy Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Bang Cơ]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Bang Cơ]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Thiên Tộ]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Thiên Tộ]{"entity":"object"}  nơi an nghỉ ?
+    - [Nguyễn Ánh]{"entity":"object"}  Nơi chôn cất ?
+    - [Nguyễn Ánh]{"entity":"object"}  nơi an nghỉ ?
+    - [Phùng Hưng]{"entity":"object"}  Nơi chôn cất ?
+    - [Phùng Hưng]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Chiêu Thống]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Chiêu Thống]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Hiến Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Hiến Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Minh Mạng]{"entity":"object"}  Nơi chôn cất ?
+    - [Minh Mạng]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Thái Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Thái Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Nguyên Long]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Nguyên Long]{"entity":"object"}  nơi an nghỉ ?
+    - [Triệu Bính]{"entity":"object"}  Nơi chôn cất ?
+    - [Triệu Bính]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Gia Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Gia Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Huệ Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Huệ Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Đế Duy Phường]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Đế Duy Phường]{"entity":"object"}  nơi an nghỉ ?
+    - [Đồng Khánh]{"entity":"object"}  Nơi chôn cất ?
+    - [Đồng Khánh]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Chiêu Hoàng]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Chiêu Hoàng]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Thái Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Thái Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Tư Thành]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Tư Thành]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Mẫn Đế]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Mẫn Đế]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Cao Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Cao Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Duy Cáp]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Duy Cáp]{"entity":"object"}  nơi an nghỉ ?
+    - [Đặng Thị Huệ]{"entity":"object"}  Nơi chôn cất ?
+    - [Đặng Thị Huệ]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Hoàng Đệ Xuân]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Hoàng Đệ Xuân]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Quý Ly]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Quý Ly]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Hữu Từ]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Hữu Từ]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Thần Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Thần Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Thần Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Thần Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Hiến Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Hiến Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Hưng Đạo]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Hưng Đạo]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Tuyên Đế]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Tuyên Đế]{"entity":"object"}  nơi an nghỉ ?
+    - [Dương Nhật Lễ]{"entity":"object"}  Nơi chôn cất ?
+    - [Dương Nhật Lễ]{"entity":"object"}  nơi an nghỉ ?
+    - [Lý Phật Mã]{"entity":"object"}  Nơi chôn cất ?
+    - [Lý Phật Mã]{"entity":"object"}  nơi an nghỉ ?
+    - [Trần Quốc Tuấn]{"entity":"object"}  Nơi chôn cất ?
+    - [Trần Quốc Tuấn]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Chân Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Chân Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Nhân Tông]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Nhân Tông]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Hoàn]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Hoàn]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Duy Phường]{"entity":"object"}  Nơi chôn cất ?
+    - [Lê Duy Phường]{"entity":"object"}  nơi an nghỉ ?
+    - [Lê Thuần Tông]{"entity":"object"}  có người kế vị là ?
+    - [Lý Tư]{"entity":"object"}  có người kế vị là ?
+    - [Triệu Vũ Đế]{"entity":"object"}  có người kế vị là ?
+    - [Lê Túc Tông]{"entity":"object"}  có người kế vị là ?
+    - [Lê Thánh Tôn]{"entity":"object"}  có người kế vị là ?
+    - [Vũ Đình Hòe]{"entity":"object"}  có người kế vị là ?
+    - [Trần Thừa]{"entity":"object"}  có người kế vị là ?
+    - [Lý Thánh Tông]{"entity":"object"}  có người kế vị là ?
+    - [Mạc Chính Trung]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Hữu Thị Lan]{"entity":"object"}  có người kế vị là ?
+    - [Lê Trang Tông]{"entity":"object"}  có người kế vị là ?
+    - [Trương Khánh Châu]{"entity":"object"}  có người kế vị là ?
+    - [Lê Hồng Phong]{"entity":"object"}  có người kế vị là ?
+    - [Lý Uyên]{"entity":"object"}  có người kế vị là ?
+    - [Lê Thị Phất Ngân]{"entity":"object"}  có người kế vị là ?
+    - [Lê Chiêu Tông]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Quân]{"entity":"object"}  có người kế vị là ?
+    - [Trần Thắng]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Xiển]{"entity":"object"}  có người kế vị là ?
+    - [Ngô Thị Ngọc Dao]{"entity":"object"}  có người kế vị là ?
+    - [Vũ Văn Uyên]{"entity":"object"}  có người kế vị là ?
+    - [Trần Duệ Tông]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Bá Cẩn]{"entity":"object"}  có người kế vị là ?
+    - [Tần Thủy Hoàng]{"entity":"object"}  có người kế vị là ?
+    - [Hoàng Xuân Hãn]{"entity":"object"}  có người kế vị là ?
+    - [Trần Duy Hưng]{"entity":"object"}  có người kế vị là ?
+    - [Lê Duẩn]{"entity":"object"}  có người kế vị là ?
+    - [Trần Bá Tiên]{"entity":"object"}  có người kế vị là ?
+    - [Ngô Sứ Quân]{"entity":"object"}  có người kế vị là ?
+    - [Thiệu Trị]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Phúc Nguyên]{"entity":"object"}  có người kế vị là ?
+    - [Trần Giản Hoàng]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Thị Anh]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Khang]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Trọng Vĩnh]{"entity":"object"}  có người kế vị là ?
+    - [Lê Uy Mục]{"entity":"object"}  có người kế vị là ?
+    - [Trần Hữu Lượng]{"entity":"object"}  có người kế vị là ?
+    - [Hoàng Tích Trí]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Duy Trinh]{"entity":"object"}  có người kế vị là ?
+    - [Trần Nghệ Tông]{"entity":"object"}  có người kế vị là ?
+    - [Triệu Kiến Đức]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Cơ Thạch]{"entity":"object"}  có người kế vị là ?
+    - [Mạc Thái Tổ]{"entity":"object"}  có người kế vị là ?
+    - [Trương Tấn Sang]{"entity":"object"}  có người kế vị là ?
+    - [Khúc Thừa Dụ]{"entity":"object"}  có người kế vị là ?
+    - [Lê Gia Tông]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Hiến Tổ]{"entity":"object"}  có người kế vị là ?
+    - [Lý Long Cán]{"entity":"object"}  có người kế vị là ?
+    - [Lê Nguyên Long]{"entity":"object"}  có người kế vị là ?
+    - [Trần Ngỗi]{"entity":"object"}  có người kế vị là ?
+    - [Trần Quỳnh]{"entity":"object"}  có người kế vị là ?
+    - [Lê Nghi Dân]{"entity":"object"}  có người kế vị là ?
+    - [Trương Văn Sáu]{"entity":"object"}  có người kế vị là ?
+    - [Trần Minh Tông]{"entity":"object"}  có người kế vị là ?
+    - [Lê Tương Dực]{"entity":"object"}  có người kế vị là ?
+    - [Hoàng Minh Giám]{"entity":"object"}  có người kế vị là ?
+    - [Bùi Văn Cường]{"entity":"object"}  có người kế vị là ?
+    - [Lê Anh Tông]{"entity":"object"}  có người kế vị là ?
+    - [Lý Huệ Tông]{"entity":"object"}  có người kế vị là ?
+    - [Triệu Ai Vương]{"entity":"object"}  có người kế vị là ?
+    - [Vũ Đức Đam]{"entity":"object"}  có người kế vị là ?
+    - [Lê Duy Vũ]{"entity":"object"}  có người kế vị là ?
+    - [Lý Thái Tông]{"entity":"object"}  có người kế vị là ?
+    - [Lê Duy Phường]{"entity":"object"}  có người kế vị là ?
     - [Ngô Quyền]{"entity":"object"}  có người kế vị là ?
-    - [Nguyễn Ngọc Loan]{"entity":"object"}  sinh tại ?
+    - [Mạc Phúc Hải]{"entity":"object"}  có người kế vị là ?
+    - [Vũ Văn Giác]{"entity":"object"}  có người kế vị là ?
+    - [Trịnh Đình Cửu]{"entity":"object"}  có người kế vị là ?
+    - [Trần Thiếu Đế]{"entity":"object"}  có người kế vị là ?
+    - [Văn Tiến Dũng]{"entity":"object"}  có người kế vị là ?
+    - [Mạc Kính Chỉ]{"entity":"object"}  có người kế vị là ?
+    - [Trần Hanh]{"entity":"object"}  có người kế vị là ?
+    - [Lê Lợi]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Thế Tổ]{"entity":"object"}  có người kế vị là ?
+    - [Lê Thế Tông]{"entity":"object"}  có người kế vị là ?
+    - [Trần Huy Liệu]{"entity":"object"}  có người kế vị là ?
+    - [Trịnh Sâm]{"entity":"object"}  có người kế vị là ?
+    - [Đặng Thai Mai]{"entity":"object"}  có người kế vị là ?
+    - [Lê Long Thâu]{"entity":"object"}  có người kế vị là ?
+    - [Tô Hiến Thành]{"entity":"object"}  có người kế vị là ?
+    - [Trịnh Tạc]{"entity":"object"}  có người kế vị là ?
+    - [Mạc Đăng Doanh]{"entity":"object"}  có người kế vị là ?
+    - [Ngô Đình Diệm]{"entity":"object"}  có người kế vị là ?
+    - [Triệu Vũ Vương]{"entity":"object"}  có người kế vị là ?
+    - [Phan Văn Khải]{"entity":"object"}  có người kế vị là ?
+    - [Trần Anh Tông]{"entity":"object"}  có người kế vị là ?
+    - [Triệu Thuẫn]{"entity":"object"}  có người kế vị là ?
+    - [Lý Đào Lang Vương]{"entity":"object"}  có người kế vị là ?
+    - [Trần Tuyên Đế]{"entity":"object"}  có người kế vị là ?
+    - [Triệu Quang Phục]{"entity":"object"}  có người kế vị là ?
+    - [Dương Quảng]{"entity":"object"}  có người kế vị là ?
+    - [Mạc Kính Điển]{"entity":"object"}  có người kế vị là ?
+    - [Lê Duy Bang]{"entity":"object"}  có người kế vị là ?
+    - [Lê Thái Tổ]{"entity":"object"}  có người kế vị là ?
+    - [Lý Long Cơ]{"entity":"object"}  có người kế vị là ?
+    - [Lý Càn Đức]{"entity":"object"}  có người kế vị là ?
+    - [Trịnh Tráng]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Văn Được]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Hữu Thọ]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Phúc Ưng Lịch]{"entity":"object"}  có người kế vị là ?
+    - [Vũ Văn Hóa Cập]{"entity":"object"}  có người kế vị là ?
+    - [Vũ Trọng Khánh]{"entity":"object"}  có người kế vị là ?
+    - [Khúc Thừa Hạo]{"entity":"object"}  có người kế vị là ?
+    - [Phạm Văn Trà]{"entity":"object"}  có người kế vị là ?
+    - [Lê Hoàng Đệ Xuân]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Văn Tố]{"entity":"object"}  có người kế vị là ?
+    - [Triệu Hằng]{"entity":"object"}  có người kế vị là ?
+    - [Lý Chiêu Hoàng]{"entity":"object"}  có người kế vị là ?
+    - [Tự Đức]{"entity":"object"}  có người kế vị là ?
+    - [Trịnh Khải]{"entity":"object"}  có người kế vị là ?
+    - [Lê Trọng Tấn]{"entity":"object"}  có người kế vị là ?
+    - [Trần Trọng Kim]{"entity":"object"}  có người kế vị là ?
+    - [Duy Tân]{"entity":"object"}  có người kế vị là ?
+    - [Lý Biện]{"entity":"object"}  có người kế vị là ?
+    - [Trần Đức Lương]{"entity":"object"}  có người kế vị là ?
+    - [Trịnh Giang]{"entity":"object"}  có người kế vị là ?
+    - [Dương Kiên]{"entity":"object"}  có người kế vị là ?
+    - [Trần Thuyên]{"entity":"object"}  có người kế vị là ?
+    - [Lý Đán]{"entity":"object"}  có người kế vị là ?
+    - [Lê Thái Tông]{"entity":"object"}  có người kế vị là ?
+    - [Đinh Tiên Hoàng]{"entity":"object"}  có người kế vị là ?
+    - [Lý Nhật Tôn]{"entity":"object"}  có người kế vị là ?
+    - [Ngô Xương Văn]{"entity":"object"}  có người kế vị là ?
+    - [Đặng Xuân Khu]{"entity":"object"}  có người kế vị là ?
+    - [Trần Thị Tùng]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Sinh Hùng]{"entity":"object"}  có người kế vị là ?
+    - [Phùng Hưng]{"entity":"object"}  có người kế vị là ?
+    - [Mạc Phúc Nguyên]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Thị Kim Ngân]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Phúc Đảm]{"entity":"object"}  có người kế vị là ?
+    - [Gia Long]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Giản Tông]{"entity":"object"}  có người kế vị là ?
+    - [Phạm Hồ Đạt]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Bá Thanh]{"entity":"object"}  có người kế vị là ?
+    - [Lạc Long Quân]{"entity":"object"}  có người kế vị là ?
+    - [Ngô Phù Sai]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Phúc Thuần]{"entity":"object"}  có người kế vị là ?
+    - [Mạc Kính Khoan]{"entity":"object"}  có người kế vị là ?
+    - [Phan Khắc Sửu]{"entity":"object"}  có người kế vị là ?
+    - [Dương Đức Hiền]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Quang Toản]{"entity":"object"}  có người kế vị là ?
+    - [Võ Chí Công]{"entity":"object"}  có người kế vị là ?
+    - [Trần Văn Rón]{"entity":"object"}  có người kế vị là ?
+    - [Phan Văn Thắng]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Thị Định]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Cảnh Tông]{"entity":"object"}  có người kế vị là ?
+    - [Lê Duy Tân]{"entity":"object"}  có người kế vị là ?
+    - [Lý Công Uẩn]{"entity":"object"}  có người kế vị là ?
+    - [Phạm Gia Khiêm]{"entity":"object"}  có người kế vị là ?
+    - [Trần Dụ Tông]{"entity":"object"}  có người kế vị là ?
+    - [Mạc Đôn Nhượng]{"entity":"object"}  có người kế vị là ?
+    - [Trần Quốc Hoàn]{"entity":"object"}  có người kế vị là ?
+    - [Lý Phật Mã]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Phúc Lan]{"entity":"object"}  có người kế vị là ?
+    - [Ngô Xuân Lịch]{"entity":"object"}  có người kế vị là ?
+    - [Trần Văn Lắm]{"entity":"object"}  có người kế vị là ?
+    - [Lê Bang Cơ]{"entity":"object"}  có người kế vị là ?
+    - [Phạm Hùng]{"entity":"object"}  có người kế vị là ?
+    - [Trần Hiến Tông]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Thánh Tổ]{"entity":"object"}  có người kế vị là ?
+    - [Hồ Hợi]{"entity":"object"}  có người kế vị là ?
+    - [Lê Thánh Tông]{"entity":"object"}  có người kế vị là ?
+    - [Mạc Mậu Hợp]{"entity":"object"}  có người kế vị là ?
+    - [Lê Duy Cáp]{"entity":"object"}  có người kế vị là ?
+    - [Phạm Thị Hằng]{"entity":"object"}  có người kế vị là ?
+    - [Triệu Hưng]{"entity":"object"}  có người kế vị là ?
+    - [Trần Thuận Tông]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Huy Hiệu]{"entity":"object"}  có người kế vị là ?
+    - [Lê Huyền Tông]{"entity":"object"}  có người kế vị là ?
+    - [Trịnh Bồng]{"entity":"object"}  có người kế vị là ?
+    - [Hoàng Quốc Việt]{"entity":"object"}  có người kế vị là ?
+    - [Khúc Hạo]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Hoàng]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Lương Bằng]{"entity":"object"}  có người kế vị là ?
+    - [Vũ Kỳ]{"entity":"object"}  có người kế vị là ?
+    - [Lê Hoàn]{"entity":"object"}  có người kế vị là ?
+    - [Trần An]{"entity":"object"}  có người kế vị là ?
+    - [Kiến Phúc]{"entity":"object"}  có người kế vị là ?
+    - [Lê Quý Ly]{"entity":"object"}  có người kế vị là ?
+    - [Trương Chi Động]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Chí Vịnh]{"entity":"object"}  có người kế vị là ?
+    - [Lê Hy Tông]{"entity":"object"}  có người kế vị là ?
+    - [Dương Hạo]{"entity":"object"}  có người kế vị là ?
+    - [Lê Quang Đạo]{"entity":"object"}  có người kế vị là ?
+    - [Lê Hiến Tông]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Thị Hoàn]{"entity":"object"}  có người kế vị là ?
+    - [Triệu Khuông Dận]{"entity":"object"}  có người kế vị là ?
+    - [Mạc Thái Tông]{"entity":"object"}  có người kế vị là ?
+    - [Lý Nam Đế]{"entity":"object"}  có người kế vị là ?
+    - [Hồ Chí Minh]{"entity":"object"}  có người kế vị là ?
+    - [Lý Tự Thành]{"entity":"object"}  có người kế vị là ?
+    - [Trịnh Kiểm]{"entity":"object"}  có người kế vị là ?
+    - [Lê Văn Thịnh]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Phúc Chu]{"entity":"object"}  có người kế vị là ?
+    - [Triệu Hồ]{"entity":"object"}  có người kế vị là ?
+    - [Lê Nhân Tông]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Nhạc]{"entity":"object"}  có người kế vị là ?
+    - [Trần Linh Công]{"entity":"object"}  có người kế vị là ?
+    - [Lê Đức Anh]{"entity":"object"}  có người kế vị là ?
+    - [Mạc Toàn]{"entity":"object"}  có người kế vị là ?
+    - [Lý Thái Tổ]{"entity":"object"}  có người kế vị là ?
+    - [Đặng Văn Hiếu]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Văn Thiệu]{"entity":"object"}  có người kế vị là ?
+    - [Trần Hoảng]{"entity":"object"}  có người kế vị là ?
+    - [Phan Huy Quát]{"entity":"object"}  có người kế vị là ?
+    - [Tôn Trung Sơn]{"entity":"object"}  có người kế vị là ?
+    - [Triệu Minh Vương]{"entity":"object"}  có người kế vị là ?
+    - [Lý Cao Tông]{"entity":"object"}  có người kế vị là ?
+    - [Lê Tư Thành]{"entity":"object"}  có người kế vị là ?
+    - [Trần Cảnh]{"entity":"object"}  có người kế vị là ?
+    - [Minh Mạng]{"entity":"object"}  có người kế vị là ?
+    - [Triệu Văn Vương]{"entity":"object"}  có người kế vị là ?
+    - [Mạc Hiến Tông]{"entity":"object"}  có người kế vị là ?
+    - [Lê Kính Tông]{"entity":"object"}  có người kế vị là ?
+    - [Đồng Khánh]{"entity":"object"}  có người kế vị là ?
+    - [Vũ Văn Thái]{"entity":"object"}  có người kế vị là ?
+    - [Tôn Hạo]{"entity":"object"}  có người kế vị là ?
+    - [Lê Long Việt]{"entity":"object"}  có người kế vị là ?
+    - [Trần Phú]{"entity":"object"}  có người kế vị là ?
+    - [Mạc Kính Cung]{"entity":"object"}  có người kế vị là ?
+    - [Trịnh Tùng]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Phúc Khoát]{"entity":"object"}  có người kế vị là ?
+    - [Võ Văn Kiệt]{"entity":"object"}  có người kế vị là ?
+    - [Trần Thái Tổ]{"entity":"object"}  có người kế vị là ?
+    - [Lê Cung Hoàng]{"entity":"object"}  có người kế vị là ?
+    - [Lê Xuân]{"entity":"object"}  có người kế vị là ?
+    - [Ngô Xương Ngập]{"entity":"object"}  có người kế vị là ?
+    - [Mai Hắc Đế]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Phúc Thái]{"entity":"object"}  có người kế vị là ?
+    - [Triệu Việt Vương]{"entity":"object"}  có người kế vị là ?
+    - [Trương Cư Chính]{"entity":"object"}  có người kế vị là ?
+    - [Lê Oanh]{"entity":"object"}  có người kế vị là ?
+    - [Trần Quý Khoáng]{"entity":"object"}  có người kế vị là ?
+    - [Phan Trung Kiên]{"entity":"object"}  có người kế vị là ?
+    - [Thành Thái]{"entity":"object"}  có người kế vị là ?
+    - [Dục Đức]{"entity":"object"}  có người kế vị là ?
+    - [Phạm Quỳnh]{"entity":"object"}  có người kế vị là ?
+    - [Huỳnh Thúc Kháng]{"entity":"object"}  có người kế vị là ?
+    - [Chu Nguyên Chương]{"entity":"object"}  có người kế vị là ?
+    - [Trần Thánh Tông]{"entity":"object"}  có người kế vị là ?
+    - [Lê Khả Phiêu]{"entity":"object"}  có người kế vị là ?
+    - [Đinh Hoàn]{"entity":"object"}  có người kế vị là ?
+    - [Trịnh Doanh]{"entity":"object"}  có người kế vị là ?
+    - [Trần Mạnh]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Bặc]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Mạnh Cầm]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Vĩnh Thụy]{"entity":"object"}  có người kế vị là ?
+    - [Lý Dương Hoán]{"entity":"object"}  có người kế vị là ?
+    - [Lê Đế Duy Phường]{"entity":"object"}  có người kế vị là ?
+    - [Lê Uy Mục Đế]{"entity":"object"}  có người kế vị là ?
+    - [Trần Thúc Bảo]{"entity":"object"}  có người kế vị là ?
+    - [Lý Thần Tông]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Thiện Nhân]{"entity":"object"}  có người kế vị là ?
+    - [Trần Khâm]{"entity":"object"}  có người kế vị là ?
+    - [Lý Nhân Tông]{"entity":"object"}  có người kế vị là ?
+    - [Khải Định]{"entity":"object"}  có người kế vị là ?
+    - [Lý Thế Dân]{"entity":"object"}  có người kế vị là ?
+    - [Lê Duy Cối]{"entity":"object"}  có người kế vị là ?
+    - [Đinh Bộ Lĩnh]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Thị Bình]{"entity":"object"}  có người kế vị là ?
+    - [Trần Ngung]{"entity":"object"}  có người kế vị là ?
+    - [Lê Duy Đường]{"entity":"object"}  có người kế vị là ?
+    - [Lý Thọ]{"entity":"object"}  có người kế vị là ?
+    - [Lý Thiên Tộ]{"entity":"object"}  có người kế vị là ?
+    - [Bùi Thị Nhạn]{"entity":"object"}  có người kế vị là ?
+    - [Võ Vương]{"entity":"object"}  có người kế vị là ?
+    - [Lý Bôn]{"entity":"object"}  có người kế vị là ?
+    - [Lê Chân Tông]{"entity":"object"}  có người kế vị là ?
+    - [Lý Anh Tông]{"entity":"object"}  có người kế vị là ?
+    - [Mạc Tuyên Tông]{"entity":"object"}  có người kế vị là ?
+    - [Hàm Nghi]{"entity":"object"}  có người kế vị là ?
+    - [Bảo Đại]{"entity":"object"}  có người kế vị là ?
+    - [Lý Hạo Sảm]{"entity":"object"}  có người kế vị là ?
+    - [Triệu Đà]{"entity":"object"}  có người kế vị là ?
+    - [Trần Hữu Dực]{"entity":"object"}  có người kế vị là ?
+    - [Phan Kế Toại]{"entity":"object"}  có người kế vị là ?
+    - [Kinh Dương Vương]{"entity":"object"}  có người kế vị là ?
+    - [Phạm Ngọc Thạch]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Văn Linh]{"entity":"object"}  có người kế vị là ?
+    - [Dương Bình Vương]{"entity":"object"}  có người kế vị là ?
+    - [Triệu Anh Tề]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Ánh]{"entity":"object"}  có người kế vị là ?
+    - [Ngô Xương Xí]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Huệ]{"entity":"object"}  có người kế vị là ?
+    - [Dương Nhật Lễ]{"entity":"object"}  có người kế vị là ?
+    - [Phạm Thị Liên]{"entity":"object"}  có người kế vị là ?
+    - [Hồ Quý Ly]{"entity":"object"}  có người kế vị là ?
+    - [Lý Tồn Úc]{"entity":"object"}  có người kế vị là ?
+    - [Triệu Cấu]{"entity":"object"}  có người kế vị là ?
+    - [Vũ Văn Cẩn]{"entity":"object"}  có người kế vị là ?
+    - [Lê Đức Thọ]{"entity":"object"}  có người kế vị là ?
+    - [Lê Văn Lương]{"entity":"object"}  có người kế vị là ?
+    - [Lý Hanh]{"entity":"object"}  có người kế vị là ?
+    - [Trần Phủ]{"entity":"object"}  có người kế vị là ?
+    - [Đỗ Bá Tỵ]{"entity":"object"}  có người kế vị là ?
+    - [Hồ Tùng Mậu]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Phúc Dương]{"entity":"object"}  có người kế vị là ?
+    - [Lê Dụ Tông]{"entity":"object"}  có người kế vị là ?
+    - [Lê Duy Ninh]{"entity":"object"}  có người kế vị là ?
+    - [Trần Thái Tông]{"entity":"object"}  có người kế vị là ?
+    - [Lê Thần Tông]{"entity":"object"}  có người kế vị là ?
+    - [Tôn Đức Thắng]{"entity":"object"}  có người kế vị là ?
+    - [Lê Đại Hành]{"entity":"object"}  có người kế vị là ?
+    - [Trần Nhân Tông]{"entity":"object"}  có người kế vị là ?
+    - [Phạm Văn Đồng]{"entity":"object"}  có người kế vị là ?
+    - [Lý Thiên Bảo]{"entity":"object"}  có người kế vị là ?
+    - [Đỗ Mười]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Phúc Tần]{"entity":"object"}  có người kế vị là ?
+    - [Nguyễn Dực Tông]{"entity":"object"}  có người kế vị là ?
+    - [Phạm Thị Hải Chuyền]{"entity":"object"}  có người kế vị là ?
+    - [Gia Long]{"entity":"object"}  sinh tại ?
+    - [Trần Nghệ Tông]{"entity":"object"}  sinh tại ?
+    - [Dương Vân Nga]{"entity":"object"}  sinh tại ?
+    - [Hồ Hán Thương]{"entity":"object"}  sinh tại ?
+    - [Phan Châu Trinh]{"entity":"object"}  sinh tại ?
+    - [Trần Quang Diệu]{"entity":"object"}  sinh tại ?
+    - [Ngô Sĩ Liên]{"entity":"object"}  sinh tại ?
+    - [Trần Quang Khải]{"entity":"object"}  sinh tại ?
+    - [Trần Thiếu Đế]{"entity":"object"}  sinh tại ?
+    - [Thiệu Trị]{"entity":"object"}  sinh tại ?
+    - [Lê Dụ Tông]{"entity":"object"}  sinh tại ?
+    - [Lê Thạch]{"entity":"object"}  sinh tại ?
+    - [Lê Uy Mục]{"entity":"object"}  sinh tại ?
+    - [Hồ Chí Minh]{"entity":"object"}  sinh tại ?
+    - [Nguyễn Huệ]{"entity":"object"}  sinh tại ?
+    - [Ngô Thì Sĩ]{"entity":"object"}  sinh tại ?
+    - [Lê Duy Phường]{"entity":"object"}  sinh tại ?
+    - [Mạc Mậu Hợp]{"entity":"object"}  sinh tại ?
+    - [Trần Thừa]{"entity":"object"}  sinh tại ?
+    - [Nguyễn Kim]{"entity":"object"}  sinh tại ?
+    - [Lê Thuần Tông]{"entity":"object"}  sinh tại ?
+    - [Trần Dụ Tông]{"entity":"object"}  sinh tại ?
+    - [Lê Chân Tông]{"entity":"object"}  sinh tại ?
+    - [Phùng Khắc Khoan]{"entity":"object"}  sinh tại ?
+    - [Nguyễn Du]{"entity":"object"}  sinh tại ?
+    - [Lê Ngọc Hân]{"entity":"object"}  sinh tại ?
+    - [Nguyễn Phúc Chu]{"entity":"object"}  sinh tại ?
+    - [Trần Thái Tông]{"entity":"object"}  sinh tại ?
+    - [Ngô Quyền]{"entity":"object"}  sinh tại ?
+    - [Lê Hiến Tông]{"entity":"object"}  sinh tại ?
+    - [Bùi Thị Xuân]{"entity":"object"}  sinh tại ?
+    - [Ngô Thì Sỹ]{"entity":"object"}  sinh tại ?
+    - [Khúc Thừa Dụ]{"entity":"object"}  sinh tại ?
+    - [Phan Khắc Sửu]{"entity":"object"}  sinh tại ?
+    - [Lê Ngân]{"entity":"object"}  sinh tại ?
+    - [Lý Anh Tông]{"entity":"object"}  sinh tại ?
+    - [Trần Thị Tùng]{"entity":"object"}  sinh tại ?
+    - [Tự Đức]{"entity":"object"}  sinh tại ?
+    - [Chu Văn An]{"entity":"object"}  sinh tại ?
+    - [Dương Bình Vương]{"entity":"object"}  sinh tại ?
+    - [Trần Thánh Tông]{"entity":"object"}  sinh tại ?
+    - [Trần Thuận Tông]{"entity":"object"}  sinh tại ?
+    - [Lý Cao Tông]{"entity":"object"}  sinh tại ?
+    - [Nguyễn Thị Chiên]{"entity":"object"}  sinh tại ?
+    - [Trần Minh Tông]{"entity":"object"}  sinh tại ?
+    - [Lê Gia Tông]{"entity":"object"}  sinh tại ?
+    - [Bà Triệu]{"entity":"object"}  sinh tại ?
+    - [Trần Hiến Tông]{"entity":"object"}  sinh tại ?
+    - [Phan Đình Phùng]{"entity":"object"}  sinh tại ?
+    - [Lê Hữu Từ]{"entity":"object"}  sinh tại ?
+    - [Lê Thần Tông]{"entity":"object"}  sinh tại ?
+    - [Lê Long Mang]{"entity":"object"}  sinh tại ?
+    - [Lý Huệ Tông]{"entity":"object"}  sinh tại ?
+    - [Lê Quý Đôn]{"entity":"object"}  sinh tại ?
+    - [Nguyễn Phúc Thuần]{"entity":"object"}  sinh tại ?
+    - [Trần Thủ Độ]{"entity":"object"}  sinh tại ?
+    - [Lê Trang Tông]{"entity":"object"}  sinh tại ?
+    - [Lê Tuấn Mậu ]{"entity":"object"}  sinh tại ?
+    - [Nguyễn Trường Tộ]{"entity":"object"}  sinh tại ?
+    - [Lê Thánh Tông]{"entity":"object"}  sinh tại ?
+    - [Lê Chiêu Tông]{"entity":"object"}  sinh tại ?
+    - [Tôn Đức Thắng]{"entity":"object"}  sinh tại ?
+    - [Nguyễn Đình Chiểu]{"entity":"object"}  sinh tại ?
+    - [Trần Trọng Kim]{"entity":"object"}  sinh tại ?
+    - [Lê Kính Tông]{"entity":"object"}  sinh tại ?
+    - [Kiến Phúc]{"entity":"object"}  sinh tại ?
+    - [Mạc Chính Trung]{"entity":"object"}  sinh tại ?
+    - [Phạm Quỳnh]{"entity":"object"}  sinh tại ?
+    - [Lê Văn Thịnh]{"entity":"object"}  sinh tại ?
+    - [Trần Nhật Duật]{"entity":"object"}  sinh tại ?
+    - [Nguyễn An Ninh]{"entity":"object"}  sinh tại ?
+    - [Lê Thái Tông]{"entity":"object"}  sinh tại ?
+    - [Hoàng Diệu]{"entity":"object"}  sinh tại ?
+    - [Trần Anh Tông]{"entity":"object"}  sinh tại ?
+    - [Lý Thần Tông]{"entity":"object"}  sinh tại ?
+    - [Nguyễn Hoàng]{"entity":"object"}  sinh tại ?
+    - [Nguyễn Thiện Nhân]{"entity":"object"}  sinh tại ?
+    - [Lê Cung Hoàng]{"entity":"object"}  sinh tại ?
+    - [Lý Chiêu Hoàng]{"entity":"object"}  sinh tại ?
+    - [Phan Thanh Giản]{"entity":"object"}  sinh tại ?
+    - [Nguyễn Bặc]{"entity":"object"}  sinh tại ?
+    - [Đinh Tiên Hoàng]{"entity":"object"}  sinh tại ?
+    - [Khúc Hạo]{"entity":"object"}  sinh tại ?
+    - [Nguyễn Lữ]{"entity":"object"}  sinh tại ?
+    - [Nguyễn Nhạc]{"entity":"object"}  sinh tại ?
+    - [Lê Thái Tổ]{"entity":"object"}  sinh tại ?
+    - [Bùi Thị Nhạn]{"entity":"object"}  sinh tại ?
+    - [Đinh Phế Đế]{"entity":"object"}  sinh tại ?
+    - [Trịnh Kiểm]{"entity":"object"}  sinh tại ?
+    - [Nguyễn Bỉnh Khiêm]{"entity":"object"}  sinh tại ?
+    - [Lý Nhân Tông]{"entity":"object"}  sinh tại ?
+    - [Trần Hưng Đạo]{"entity":"object"}  sinh tại ?
+    - [Minh Mạng]{"entity":"object"}  sinh tại ?
+    - [Trần Duệ Tông]{"entity":"object"}  sinh tại ?
+    - [Lý Tử Cấu]{"entity":"object"}  sinh tại ?
+    - [Lê Hy Tông]{"entity":"object"}  sinh tại ?
+    - [Ngô Quyền]{"entity":"object"}  sinh tại ?
+    - [Đào Duy Anh]{"entity":"object"}  sinh tại ?
+    - [Đào Duy Từ]{"entity":"object"}  sinh tại ?
+    - [Mạc Thái Tông]{"entity":"object"}  sinh tại ?
+    - [Lê Huyền Tông]{"entity":"object"}  sinh tại ?
+    - [Hồ Quý Ly]{"entity":"object"}  sinh tại ?
+    - [Nguyễn Khuyến]{"entity":"object"}  sinh tại ?
+    - [Nguyễn Hữu An]{"entity":"object"}  sinh tại ?
+    - [Lương Văn Can]{"entity":"object"}  sinh tại ?
+    - [Trần Thắng]{"entity":"object"}  sinh tại ?

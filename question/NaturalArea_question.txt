@@ -1,0 +1,10 @@
+    - [khu vực thiên nhiên]{"entity":"X"} nào nằm trong [Quảng Ninh]{"entity":"object"}?
+    - [danh lam thắng cảnh]{"entity":"X"} nào nằm trong [Quảng Ninh]{"entity":"object"}?
+    - [khu vực thiên nhiên]{"entity":"X"} nào nằm trong [Hà Nội]{"entity":"object"}?
+    - [danh lam thắng cảnh]{"entity":"X"} nào nằm trong [Hà Nội]{"entity":"object"}?
+    - [khu vực thiên nhiên]{"entity":"X"} nào nằm trong [Hà Nội]{"entity":"object"}?
+    - [danh lam thắng cảnh]{"entity":"X"} nào nằm trong [Hà Nội]{"entity":"object"}?
+    - [khu vực thiên nhiên]{"entity":"X"} nào nằm trong [Quảng Ninh]{"entity":"object"}?
+    - [danh lam thắng cảnh]{"entity":"X"} nào nằm trong [Quảng Ninh]{"entity":"object"}?
+    - [khu vực thiên nhiên]{"entity":"X"} nào nằm trong [Quảng Ninh]{"entity":"object"}?
+    - [danh lam thắng cảnh]{"entity":"X"} nào nằm trong [Quảng Ninh]{"entity":"object"}?

@@ -1,2 +1,0 @@
-    - [Điện Long An]{"entity":"object"}  [nằm trong]{"entity":"predicate"} ?
-    - [Điện Long An]{"entity":"object"}  nằm trong ?

@@ -1,0 +1,2 @@
+    - [đền]{"entity":"X"} nào nằm trong [Quảng Ninh]{"entity":"object"}?
+    - [đền]{"entity":"X"} nào nằm trong [Nam Định]{"entity":"object"}?
