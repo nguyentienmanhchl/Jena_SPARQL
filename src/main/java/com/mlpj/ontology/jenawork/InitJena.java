@@ -375,7 +375,7 @@ public class InitJena {
             FileReader reader = new FileReader(System.getProperty("user.dir") + "/" + filename);
             JSONArray jsonArray = (JSONArray) jsonParser.parse(reader);
             Property property1 = m.getProperty(Constant.PREFIX + "hasTimeHappen");
-            Property property2 = m.getProperty(Constant.PREFIX + "hasOrganization");
+            Property property2 = m.getProperty(Constant.PREFIX + "isHeldAt");
             for (int i = 0; i < jsonArray.size(); i++) {
                 JSONObject jsonObject = (JSONObject) jsonArray.get(i);
                 if (!jsonObject.get("name").toString().contains("(")) {
@@ -523,7 +523,7 @@ public class InitJena {
 
     }
 
-    //predicate tùy chỉnh, không mặc định prefix là foaf
+    //predicate tùy chỉnh, không mặc định prefix là vntourism
     public static void insert3(String name, String predicate, String object) throws Exception {
 
         if (name == null || object == null || predicate == null || name == "" || object == "" || predicate == "") {
@@ -546,7 +546,7 @@ public class InitJena {
 
     }
 
-    //predicate tùy chỉnh, không mặc định prefix là foaf
+    //predicate tùy chỉnh, không mặc định prefix là vntourism
     public static void insert3(OntModel m, String name, String predicate, String object) throws Exception {
 
         if (name == null || object == null || predicate == null || name == "" || object == "" || predicate == "") {
@@ -560,7 +560,7 @@ public class InitJena {
 
     }
 
-    //insert comment cho predicate tùy chỉnh, không mặc định prefix là foaf
+    //insert comment cho predicate tùy chỉnh, không mặc định prefix là vntourism
     public static void insert4(String name, String object) throws Exception {
 
         if (name == null || object == null || name == "" || object == "") {
@@ -626,6 +626,15 @@ public class InitJena {
         }
 
     }
+    public static String[] convertDate(String s){
+        String[] list = s.split("T");
+        String[] result = list[0].split("-");
+        if (!result[1].equals("10"))
+            result[1]=result[1].replaceAll("0","");
+        if(!result[2].equals("10") && !result[2].equals("20") && !result[2].equals("30"))
+            result[2]=result[2].replaceAll("0","");
+        return result;
+    }
 
     public static String upperFirstCharacter(String s) {
         String first = s.substring(0, 1);
@@ -638,14 +647,14 @@ public class InitJena {
 //            InitJena.insert("Lễ_hội_đền_Cửa_Ông", Constant.PREFIX + "Festival");
 //            InitJena.insert("Lễ_hội_Bạch_Đằng", Constant.PREFIX + "Festival");
 //            InitJena.insert("Lễ_hội_đền_Cửa_Ông", "hasTimeHappen", "tháng 2 Âm lịch");
-//            InitJena.insert2("Lễ_hội_đền_Cửa_Ông", "hasOrganization", "Quảng_Ninh");
-//            InitJena.insert2("Lễ_hội_Bạch_Đằng", "hasOrganization", "Quảng_Ninh");
+//            InitJena.insert2("Lễ_hội_đền_Cửa_Ông", "isHeldAt", "Quảng_Ninh");
+//            InitJena.insert2("Lễ_hội_Bạch_Đằng", "isHeldAt", "Quảng_Ninh");
 //            InitJena.insert("Quảng_Ninh",Constant.PREFIX+"AdministrativeDivision");
 //            InitJena.insert2("isApartOf", "nằm trong");
 //            InitJena.insert2("hasChronology", "có niên đại");
-//            InitJena.insert2("hasOrganization", "được tổ chức");
+//            InitJena.insert2("isHeldAt", "được tổ chức");
 //            InitJena.insert2("hasDescription", "được mô tả là");
-//            InitJena.insert2("hasBuildTime", "được xây dựng vào");
+//            InitJena.insert2("wasBuiltIn", "được xây dựng vào");
 //            InitJena.insert2("wasDerivedFrom", "có nguồn gốc từ");
 //            InitJena.insert2("related", "liên quan");
 //            InitJena.insert2("hasDied", "mất vào");
@@ -654,7 +663,7 @@ public class InitJena {
 //            InitJena.insert2("hasReignTo", "trị vì");
 //            InitJena.insert2("hasTimeHappen", "diễn ra vào");
 //            InitJena.insert2("hasPeriod", "ở thời kỳ là");
-//            InitJena.insert2("hasBuildBy", "được xây dựng bởi");
+//            InitJena.insert2("wasBuiltBy", "được xây dựng bởi");
 //            InitJena.insert2("hasJob", "giữ chức vụ");
 //            InitJena.insert2("hasSuccessor", "có người kế vị là");
 //            InitJena.insert2("hasBornAt", "sinh tại");
@@ -665,7 +674,7 @@ public class InitJena {
 //            InitJena.insert("Điện_Long_An", Constant.PREFIX + "CulturalHistoricalSite");
 //            InitJena.insert("quần_thể_di_tích_Cố_đô_Huế", Constant.PREFIX + "CulturalHistoricalSite");
 //            InitJena.insert("Đàn_đá_Bình_Đa", "hasChronology", "3000 năm");
-//            InitJena.insert("Kinh_thành_Huế", "hasBuildTime", "năm 1805");
+//            InitJena.insert("Kinh_thành_Huế", "wasBuiltIn", "năm 1805");
 //            InitJena.insert3("Lễ_hội_đền_Cửa_Ông", Constant.PREFIX_TIME + "hasBeginning", "3/2 Âm lịch");
 //            InitJena.insert3("Lễ_hội_đền_Cửa_Ông", Constant.PREFIX_TIME + "hasEnd", "cuối tháng 3 Âm lịch");
 //            InitJena.insert("Đàn_đá_Bình_Đa", Constant.PREFIX + "ArchaeologicalHistoricalSite");
@@ -739,12 +748,45 @@ public class InitJena {
 //            insert2(m,"Lễ_Hội_Tịch_Điền","hasCommemorate","Lê_Đại_Hành");
 //            insert2(m,"Lễ_hội_Côn_Sơn_-_Kiếp_Bạc","hasCommemorate","Trần_Hưng_Đạo");
 //            insert2(m,"Lễ_hội_đền_Cửa_Ông","hasCommemorate","Trần_Quốc_Tảng");
+
+//              insert2(m,"Hội_đền_Xuân_Lai","hasCommemorate","Thánh_Gióng");
+//              insert2(m,"Lễ_hội_Đống_Đa","hasCommemorate","Nguyễn_Huệ");
+//              insert2(m,"Hội_Gióng_đền_Sóc","hasCommemorate","Thánh_Gióng");
+//              insert2(m,"Lễ_hội_Cổ_Loa","hasCommemorate","An_Dương_Vương");
+//              insert2(m,"Hội_đình_Thượng_Lão","hasCommemorate","An_Dương_Vương");
+//              insert2(m,"Hội_Sơn_Thanh","hasCommemorate","Tô_Hiến_Thành");
+//              insert2(m,"Hội_đình_Kim_Mã_Hạ","hasCommemorate","Phùng_Hưng");
+//              insert2(m,"Hội_chợ_Chuông","hasCommemorate","Phùng_Hưng");
+//              insert2(m,"Lễ_hội_làng_Triều_Khúc","hasCommemorate","Phùng_Hưng");
+//              insert2(m,"Hội_làng_Tó","hasCommemorate","Lê_Hoàn");
+//              insert2(m,"Lễ_hội_đình_Đông_Phù","hasCommemorate","Nguyễn_Siêu");
+//              insert2(m,"Lễ_hội_làng_Bắc_Biên","hasCommemorate","Lý_Thường_Kiệt");
+//              insert(m,"Lý_Thường_Kiệt","orKnownAs","Lý Nam Đế");
+//              insert(m,"Nguyễn_Huệ","orKnownAs","Quang Trung");
+//              insert(m,"3_tháng_2_Âm_lịch",Constant.PREFIX_TIME+"DateTimeDescription");
+//              insert3(m,"3_tháng_2_Âm_lịch",Constant.PREFIX_TIME+"hasTRS","LunarCalendar");
+//              insert2(m,"Lễ_hội_đền_Cửa_Ông","hasTimeHappen","3_tháng_2_Âm_lịch");
+//            insert(m,"5_tháng_1_âm_lịch",Constant.PREFIX_TIME+"DateTimeDescription");
+//            insert3(m,"5_tháng_1_âm_lịch",Constant.PREFIX_TIME+"hasTRS","LunarCalendar");
 //
+//            insert2(m,"Lễ_hội_Đống_Đa","hasTimeHappen","5_tháng_1_âm_lịch");
 //
 //            OutputStream output = new FileOutputStream(Constant.FILE);
 //            m.write(output, "RDF/XML", null);
 //            output.close();
-//            insert("Hội_làng_Mạnh_Tân",Constant.PREFIX+"Festival");
+//            insert3("3_tháng_2_Âm_lịch",Constant.PREFIX_TIME+"month","2");
+//            insert3("3_tháng_2_Âm_lịch",Constant.PREFIX_TIME+"day","3");
+//
+//            insert3("5_tháng_1_âm_lịch",Constant.PREFIX_TIME+"month","1");
+//            insert3("5_tháng_1_âm_lịch",Constant.PREFIX_TIME+"day","5");
+//            insert("Lê_Lợi","hasJob","vua");
+//            insert3("19-5-1980",Constant.PREFIX_TIME+"month","5");
+//            insert3("19-5-1980",Constant.PREFIX_TIME+"day","19");
+//            insert3("19-5-1980",Constant.PREFIX_TIME+"year","1980");
+//            insert2("Hồ_Chí_Minh","hasBorn","19-5-1980");
+            insert("19-5-1980",Constant.PREFIX_TIME+"DateTimeDescription");
+
+
 
 
         } catch (Exception e) {

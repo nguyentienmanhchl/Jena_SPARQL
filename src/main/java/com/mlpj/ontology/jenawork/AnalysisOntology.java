@@ -85,9 +85,9 @@ public class AnalysisOntology {
     public static String answer(String predicate) {
 
         String query = Constant.PREFIX_QUERY +
-                "SELECT   ?X ?Y ?Z ?U ?U1 WHERE { {?X foaf:" + predicate + " ?Z.}union{?X time:" + predicate + " ?Z.}" +
+                "SELECT   ?X ?Y ?Z ?U ?U1 WHERE { {?X vntourism:" + predicate + " ?Z.}union{?X time:" + predicate + " ?Z.}" +
                 "?X rdf:type ?U." +
-                "{foaf:" + predicate + " rdfs:comment ?Y}union{time:" + predicate + " rdfs:comment ?Y}" +
+                "{vntourism:" + predicate + " rdfs:comment ?Y}union{time:" + predicate + " rdfs:comment ?Y}" +
                 "?U rdfs:label ?U1}";
         String results = InitJena.getItems3(query);
         FileHelper.saveToFile(results, "answer.txt");
@@ -101,8 +101,8 @@ public class AnalysisOntology {
 //            answer(s);
 //        }
         String[] list = {"isApartOf",
-                "hasOrganization",
-                "hasBuildTime",
+                "isHeldAt",
+                "wasBuiltIn",
                 "hasCommemorate",
                 "hasBeginning",
                 "hasEnd",
@@ -114,8 +114,7 @@ public class AnalysisOntology {
                 "hasBirthName",
                 "hasTimeHappen",
                 "chosenCapitalBy",
-                "related",
-                "hasBuildBy",
+                "wasBuiltBy",
                 "buriedPlace",
                 "hasSuccessor",
                 "hasBornAt"

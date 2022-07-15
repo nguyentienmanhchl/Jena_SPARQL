@@ -1,8 +1,8 @@
 isApartOf : nằm trong : Điện Long An nằm trong quần thể di tích Cố đô Huế, CulturalHistoricalSite
 hasChronology : có niên đại -> Đàn đá Bình Đa có niên đại 3000 năm
-hasOrganization : được tổ chức tại -> lễ hội
+isHeldAt : được tổ chức tại -> lễ hội
 hasDescription : được mô tả là -> all
-hasBuildTime : được xây dựng vào -> Kinh thành Huế được xây dựng vào năm 1805
+wasBuiltIn : được xây dựng vào -> Kinh thành Huế được xây dựng vào năm 1805
 wasDerivedFrom : có nguồn gốc từ -> lễ hội
 related : có liên quan
 hasDied : mất vào -> người
@@ -12,7 +12,7 @@ hasReignTo : trị vì đến -> người
 hasReignFrom : trị vì từ -> người
 hasTimeHappen : diễn ra vào -> lễ hội
 hasPeriod : ở thời kỳ là -> người
-hasBuildBy : được xây dựng bởi -> đền, chùa, kiến trúc
+wasBuiltBy : được xây dựng bởi -> đền, chùa, kiến trúc
 hasJob : làm -> người :
 hasSuccessor : có người kế vị là -> người
 hasBornAt : sinh tại -> người
