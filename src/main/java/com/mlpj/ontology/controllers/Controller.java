@@ -185,7 +185,7 @@ public class Controller {
 
         queryString = "SELECT ?X " +
                 "WHERE {" + queryResult[1] + " " + list[1] + " ?X.}";
-        String results = list[0] + " " + predicate + " " + queryResult[0];
+        String results = queryResult[1].replaceAll("vntourism:","").replaceAll("_"," ") + " " + predicate + " " + queryResult[0];
         if (!queryResult[1].equals("")) {
             jsonObject.put("SPARQL", queryString);
         } else {

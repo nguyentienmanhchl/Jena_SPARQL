@@ -166,3 +166,5 @@
 {"SPARQL":"SELECT ?X WHERE {vntourism:Lễ_hội_Đền_Hùng ?A ?X.}","Answer":"Lễ hội đền Hùng . TraditionalFestival, Phú Thọ, NamedIndividual, Festival, ","Output RASA":"Lễ hội đền Hùng~."},
 {"SPARQL":"SELECT ?X WHERE {vntourism:Lễ_hội_Đền_Hùng ?A ?X.}","Answer":"lễ hội đền Hùng . TraditionalFestival, Phú Thọ, NamedIndividual, Festival, ","Output RASA":"lễ hội đền Hùng~."},
 {"SPARQL":"SELECT distinct ?X  WHERE { ?X vntourism:hasTimeHappen ?T. ?X rdf:type vntourism:Festival . ?T rdf:type time:DateTimeDescription . ?T time:hasTRS vntourism:LunarCalendar . ?T time:month \"1\" . optional{?T time:day \"1\"}optional{?T time:year \"2023\"}}","Answer":"Đó là Lễ hội Đống Đa, ","Output RASA":"lễ hội~diễn ra vào~1\/1 âm lịch~2023-01-01T00:00:00.000+00:00"},
+{"SPARQL":"SELECT ?X WHERE {vntourism:Lễ_hội_Đền_Hùng vntourism:isHeldAt ?X.}","Answer":"Lễ hội đền Hùng được tổ chức Phú Thọ, ","Output RASA":"Lễ hội đền Hùng~được tổ chức"},
+{"SPARQL":"SELECT ?X WHERE {vntourism:Lễ_hội_Đền_Hùng vntourism:isHeldAt ?X.}","Answer":"Lễ hội Đền Hùng được tổ chức Phú Thọ, ","Output RASA":"Lễ Hội đền Hùng~được tổ chức"},

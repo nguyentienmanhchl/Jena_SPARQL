@@ -790,9 +790,9 @@ public class InitJena {
 //            insert3("19-5-1980",Constant.PREFIX_TIME+"year","1980");
 //            insert2("Hồ_Chí_Minh","hasBorn","19-5-1980");
 //            insert("19-5-1980", Constant.PREFIX_TIME + "DateTimeDescription");
-            insert("Xây_thành_Cổ_Loa",Constant.PREFIX+"HistoricEvent");
-            insert("Xây_thành_Cổ_Loa","hasDescription","Xây thành Cổ Loa");
-            insert2("Xây_thành_Cổ_Loa","related","An_Dương_Vương");
+//            insert("Xây_thành_Cổ_Loa",Constant.PREFIX+"HistoricEvent");
+//            insert("Xây_thành_Cổ_Loa","hasDescription","Xây thành Cổ Loa");
+//            insert2("Xây_thành_Cổ_Loa","related","An_Dương_Vương");
 
 
         } catch (Exception e) {
