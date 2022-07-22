@@ -69,13 +69,13 @@ public class InitJena {
                 QuerySolution solution = resultSet.nextSolution();
                 String x = solution.get("X").toString();
                 if (x.contains("#")) {
-                    insert(m,x.split("#")[1],Constant.PREFIX+"Festival");
+                    insert(m, x.split("#")[1], Constant.PREFIX + "Festival");
                 }
             }
             OutputStream output = new FileOutputStream(Constant.FILE);
             m.write(output, "RDF/XML", null);
             output.close();
-            result="ok";
+            result = "ok";
         } catch (Exception e) {
             e.printStackTrace();
         }
@@ -115,9 +115,9 @@ public class InitJena {
             String x = solution.get("X").toString();
             if (x.contains("#")) {
                 result += x.split("#")[1] + ", ";
-            }else{
-                if (!x.contains("http")){
-                    result += x+", ";
+            } else {
+                if (!x.contains("http")) {
+                    result += x + ", ";
                 }
             }
         }
@@ -126,18 +126,22 @@ public class InitJena {
     }
 
 
-    public static String getItems6(String queryString) {
+    public static String[] getItems6(String queryString) {
         ResultSet resultSet = execQuery(queryString);
-        String result = "";
+        String[] result = {"", ""};
 
         while (resultSet.hasNext()) {
 
             QuerySolution solution = resultSet.nextSolution();
+            if (result[1].equals("")) {
+                result[1] += "vntourism:" + solution.get("Z").toString().split("#")[1];
+            }
             String[] s = solution.get("X").toString().split("#");
-            result += (s.length > 1 ? s[1] : s[0]) + ", ";
+            result[0] += (s.length > 1 ? s[1] : s[0]) + ", ";
         }
+        result[0] = result[0].replaceAll("_", " ");
         qe.close();
-        return result.replaceAll("_", " ");
+        return result;
     }
 
     public static String getItems7(String queryString) {
@@ -626,13 +630,14 @@ public class InitJena {
         }
 
     }
-    public static String[] convertDate(String s){
+
+    public static String[] convertDate(String s) {
         String[] list = s.split("T");
         String[] result = list[0].split("-");
         if (!result[1].equals("10"))
-            result[1]=result[1].replaceAll("0","");
-        if(!result[2].equals("10") && !result[2].equals("20") && !result[2].equals("30"))
-            result[2]=result[2].replaceAll("0","");
+            result[1] = result[1].replaceAll("0", "");
+        if (!result[2].equals("10") && !result[2].equals("20") && !result[2].equals("30"))
+            result[2] = result[2].replaceAll("0", "");
         return result;
     }
 
@@ -784,9 +789,10 @@ public class InitJena {
 //            insert3("19-5-1980",Constant.PREFIX_TIME+"day","19");
 //            insert3("19-5-1980",Constant.PREFIX_TIME+"year","1980");
 //            insert2("Hồ_Chí_Minh","hasBorn","19-5-1980");
-            insert("19-5-1980",Constant.PREFIX_TIME+"DateTimeDescription");
-
-
+//            insert("19-5-1980", Constant.PREFIX_TIME + "DateTimeDescription");
+            insert("Xây_thành_Cổ_Loa",Constant.PREFIX+"HistoricEvent");
+            insert("Xây_thành_Cổ_Loa","hasDescription","Xây thành Cổ Loa");
+            insert2("Xây_thành_Cổ_Loa","related","An_Dương_Vương");
 
 
         } catch (Exception e) {

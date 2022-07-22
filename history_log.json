@@ -1,30 +1,5 @@
 [
   {
-    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:hasSuccessor  vntourism:Dương_Bình_Vương} union {?X vntourism:hasSuccessor \"Dương Bình Vương\"} ?X rdf:type vntourism:Person }",
-    "Answer": "Đó là Ngô Quyền, ",
-    "Output RASA": "con người~có người kế vị là~Dương Bình Vương~."
-  },
-  {
-    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:hasBornAt  vntourism:Ái_Châu} union {?X vntourism:hasBornAt \"Ái Châu\"} ?X rdf:type vntourism:Person }",
-    "Answer": "Đó là Ngô Quyền, ",
-    "Output RASA": "con người~sinh tại~Ái Châu~."
-  },
-  {
-    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:hasBornAt  vntourism:Huế} union {?X vntourism:hasBornAt \"Huế\"} ?X rdf:type vntourism:Person }",
-    "Answer": "Đó là Kiến Phúc, Gia Long, Tự Đức, Thiệu Trị, ",
-    "Output RASA": "con người~sinh tại~Huế~."
-  },
-  {
-    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:isHeldAt  vntourism:Quảng_Ninh} union {?X vntourism:isHeldAt \"Quảng Ninh\"} ?X rdf:type vntourism:Festival }",
-    "Answer": "Đó là Lễ hội Bạch Đằng, Lễ hội đền Cửa Ông, Lễ hội chùa Yên Tử - Quảng Ninh, ",
-    "Output RASA": "lễ hội~được tổ chức~Quảng Ninh~."
-  },
-  {
-    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:hasTimeHappen vntourism:tháng_2_Âm_lịch} union {?X vntourism:hasTimeHappen \"tháng 2 Âm lịch\"} {?X vntourism:isHeldAt vntourism:Quảng_Ninh} union {?X vntourism:isHeldAt \"Quảng Ninh\"} ?X rdf:type vntourism:Festival}",
-    "Answer": "Đó là Lễ hội đền Cửa Ông, ",
-    "Output RASA": "lễ hội~diễn ra vào~tháng 2 Âm lịch~được tổ chức~Quảng Ninh"
-  },
-  {
     "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:hasChronology  vntourism:3000_năm} union {?X vntourism:hasChronology \"3000 năm\"} ?X rdf:type vntourism:ArchaeologicalHistoricalSite }",
     "Answer": "Đó là Đàn đá Bình Đa, ",
     "Output RASA": "di tích khảo cổ~có niên đại~3000 năm~."
@@ -50,59 +25,19 @@
     "Output RASA": "kiến trúc thành quách~được xây dựng vào~năm 1805~1805-01-01T00:00:00.000+00:00"
   },
   {
-    "SPARQL": "SELECT distinct ?X  WHERE { {?X  time:hasBeginning vntourism:32_Âm_lịch} union {?X time:hasBeginning \"3\/2 Âm lịch\"} {?X time:hasEnd vntourism:cuối_tháng_3_Âm_lịch} union {?X time:hasEnd \"cuối tháng 3 Âm lịch\"} ?X rdf:type vntourism:Festival}",
-    "Answer": "Đó là Lễ hội đền Cửa Ông, ",
-    "Output RASA": "lễ hội~bắt đầu vào~3\/2 Âm lịch~kết thúc vào~cuối tháng 3 Âm lịch"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasChronology ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#đàn_đá_bình_đa\" )}",
-    "Answer": "Đàn đá Bình Đa có niên đại 3000 năm, ",
-    "Output RASA": "Đàn đá Bình Đa~có niên đại"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:wasBuiltIn ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#kinh_thành_huế\" )}",
-    "Answer": "Kinh thành Huế được xây dựng vào năm 1805, ",
-    "Output RASA": "Kinh thành Huế~được xây dựng vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_đền_cửa_ông\" )}",
-    "Answer": "Lễ hội đền Cửa Ông diễn ra vào tháng 2 Âm lịch, 3 tháng 2 Âm lịch, ",
-    "Output RASA": "Lễ hội đền Cửa Ông~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasBorn ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#khúc_thừa_dụ\" )}",
-    "Answer": "Khúc Thừa Dụ sinh vào 830 (theo dbpedia), 801 (theo wikidata), ",
-    "Output RASA": "Khúc Thừa Dụ~sinh vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasBorn ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#trần_anh_tông\" )}",
-    "Answer": "Trần Anh Tông sinh vào 25-10-1276 (theo nguoikesu), 17-9-1276 (theo wikidata và dbpedia), ",
-    "Output RASA": "Trần Anh Tông~sinh vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasBorn ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#trần_anh_tông\" )}",
-    "Answer": "Trần Anh Tông sinh vào 25-10-1276 (theo nguoikesu), 17-9-1276 (theo wikidata và dbpedia), ",
-    "Output RASA": "Trần Anh Tông~sinh vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasBorn ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#trần_anh_tông\" )}",
-    "Answer": "Trần Anh Tông sinh vào 25-10-1276 (theo nguoikesu), 17-9-1276 (theo wikidata và dbpedia), ",
-    "Output RASA": "Trần Anh Tông~sinh vào"
-  },
-  {
     "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:chosenCapitalBy  vntourism:Ngô_Quyền} union {?X vntourism:chosenCapitalBy \"Ngô Quyền\"} ?X rdf:type vntourism:CitadelArchitecture }",
     "Answer": "Đó là Cổ Loa Citadel, ",
     "Output RASA": "kiến trúc thành quách~được chọn làm thủ đô bởi~Ngô Quyền~."
   },
   {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasJob ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#ngô_quyền\" )}",
-    "Answer": "Ngô Quyền giữ chức vụ King Ngô Quyền, ",
-    "Output RASA": "Ngô Quyền~giữ chức vụ"
+    "SPARQL": "SELECT ?X WHERE {vntourism:Đàn_đá_Bình_Đa vntourism:hasChronology ?X.}",
+    "Answer": "Đàn đá Bình Đa có niên đại 3000 năm, ",
+    "Output RASA": "Đàn đá Bình Đa~có niên đại"
   },
   {
-    "SPARQL": "SELECT  ?X  WHERE { {?X rdf:type vntourism:Temple}union {?X rdf:type vntourism:BuddhistTemple}{?X vntourism:isApartOf \"Quảng Ninh\"}union{?X vntourism:isApartOf vntourism:Quảng_Ninh}}",
-    "Answer": "Đó là Đền Cửa Ông, Chùa Ba Vàng, Chùa Cái Bầu, Yên Tử, ",
-    "Output RASA": "Quảng Ninh"
+    "SPARQL": "SELECT ?X WHERE {vntourism:Kinh_thành_Huế vntourism:wasBuiltIn ?X.}",
+    "Answer": "Kinh thành Huế được xây dựng vào năm 1805, ",
+    "Output RASA": "Kinh thành Huế~được xây dựng vào"
   },
   {
     "SPARQL": "SELECT  ?X  WHERE { {?X rdf:type vntourism:NaturalArea}union{?X rdf:type vntourism:Landscape-Place}{?X vntourism:isApartOf \"Quảng Ninh\"}union{?X vntourism:isApartOf vntourism:Quảng_Ninh}}",
@@ -125,6 +60,26 @@
     "Output RASA": "Ninh Bình"
   },
   {
+    "SPARQL": "SELECT ?X WHERE { vntourism:related ?X.}",
+    "Answer": "Lý Thường Kiệt liên quan ",
+    "Output RASA": "Lý Thường Kiệt~liên quan"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { {?X rdf:type vntourism:NaturalArea}union{?X rdf:type vntourism:Landscape-Place}{?X vntourism:isApartOf \"kháng\"}union{?X vntourism:isApartOf vntourism:kháng}}",
+    "Answer": "Tôi không biết.",
+    "Output RASA": "kháng"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { vntourism:Bãi_biển_Trà vntourism:isApartOf ?X}",
+    "Answer": "Tôi không biết.",
+    "Output RASA": "Bãi biển Trà"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE { ?A ?X.}",
+    "Answer": "đánh . ",
+    "Output RASA": "đánh~."
+  },
+  {
     "SPARQL": "SELECT  ?X  WHERE { {?X rdf:type vntourism:NaturalArea}union{?X rdf:type vntourism:Landscape-Place}{?X vntourism:isApartOf \"Quảng Ninh\"}union{?X vntourism:isApartOf vntourism:Quảng_Ninh}}",
     "Answer": "Đó là Núi Bài Thơ, Vịnh Hạ Long, Bãi biển Trà Cổ, ",
     "Output RASA": "Quảng Ninh"
@@ -132,6 +87,11 @@
   {
     "SPARQL": "SELECT  ?X  WHERE { {?X rdf:type vntourism:NaturalArea}union{?X rdf:type vntourism:Landscape-Place}{?X vntourism:isApartOf \"Quảng Ninh\"}union{?X vntourism:isApartOf vntourism:Quảng_Ninh}}",
     "Answer": "Đó là Núi Bài Thơ, Vịnh Hạ Long, Bãi biển Trà Cổ, ",
+    "Output RASA": "Quảng Ninh"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { {?X rdf:type vntourism:Temple}union {?X rdf:type vntourism:BuddhistTemple}{?X vntourism:isApartOf \"Quảng Ninh\"}union{?X vntourism:isApartOf vntourism:Quảng_Ninh}}",
+    "Answer": "Đó là Đền Cửa Ông, Chùa Ba Vàng, Chùa Cái Bầu, Yên Tử, ",
     "Output RASA": "Quảng Ninh"
   },
   {
@@ -150,6 +110,16 @@
     "Output RASA": "Hồ Gươm"
   },
   {
+    "SPARQL": "SELECT  ?X  WHERE { vntourism:Hồ_Gươm vntourism:isApartOf ?X}",
+    "Answer": "Hồ Gươm ở Hà Nội, ",
+    "Output RASA": "Hồ Gươm"
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { vntourism:Đền_Cửa_Ông_thờ vntourism:isApartOf ?X}",
+    "Answer": "Tôi không biết.",
+    "Output RASA": "Đền Cửa Ông thờ"
+  },
+  {
     "SPARQL": "SELECT  ?X  WHERE { vntourism:Chùa_Hà vntourism:isApartOf ?X}",
     "Answer": "Chùa Hà ở Hà Nội, ",
     "Output RASA": "Chùa Hà"
@@ -170,9 +140,74 @@
     "Output RASA": "Hạ Long"
   },
   {
-    "SPARQL": "SELECT  ?X  WHERE { vntourism:Bài_Thơ vntourism:isApartOf ?X}",
+    "SPARQL": "SELECT  ?X  WHERE { vntourism:Núi_Bài_Thơ vntourism:isApartOf ?X}",
+    "Answer": "Núi Bài Thơ ở Quảng Ninh, ",
+    "Output RASA": "Núi Bài Thơ"
+  },
+  {
+    "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:Hồ_Gươm  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:Hồ_Gươm}union{?X ?Y \"Hồ Gươm\"}?Y rdfs:comment ?Z}",
+    "Answer": "Hồ Gươm : nằm trong Hà Nội,  Lê Lợi liên quan Hồ Gươm, ",
+    "Output RASA": "Hồ Gươm"
+  },
+  {
+    "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:Hồ_Tây  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:Hồ_Tây}union{?X ?Y \"Hồ Tây\"}?Y rdfs:comment ?Z}",
+    "Answer": "Hồ Tây : nằm trong Hà Nội,  ",
+    "Output RASA": "Hồ Tây"
+  },
+  {
+    "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:Quảng_Ninh  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:Quảng_Ninh}union{?X ?Y \"Quảng Ninh\"}?Y rdfs:comment ?Z}",
+    "Answer": "Quảng Ninh :  Chùa Ba Vàng nằm trong Quảng Ninh, Lễ hội Bạch Đằng được tổ chức Quảng Ninh, Núi Bài Thơ nằm trong Quảng Ninh, Vịnh Hạ Long nằm trong Quảng Ninh, Bãi biển Trà Cổ nằm trong Quảng Ninh, Chùa Cái Bầu nằm trong Quảng Ninh, Lễ hội đền Cửa Ông được tổ chức Quảng Ninh, Đền Cửa Ông nằm trong Quảng Ninh, Yên Tử nằm trong Quảng Ninh, Lễ hội chùa Yên Tử - Quảng Ninh được tổ chức Quảng Ninh, ",
+    "Output RASA": "Quảng Ninh"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Ninh_Bình ?A ?X.}",
+    "Answer": "Ninh Bình . AdministrativeDivision, ",
+    "Output RASA": "Ninh Bình~."
+  },
+  {
+    "SPARQL": "SELECT  ?X  WHERE { vntourism:Hạ_Long vntourism:isApartOf ?X}",
     "Answer": "Tôi không biết.",
-    "Output RASA": "Bài Thơ"
+    "Output RASA": "Hạ Long"
+  },
+  {
+    "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:Ninh_Bình  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:Ninh_Bình}union{?X ?Y \"Ninh Bình\"}?Y rdfs:comment ?Z}",
+    "Answer": "Ninh Bình :  Vườn quốc gia Cúc Phương nằm trong Ninh Bình, Tràng An nằm trong Ninh Bình, Chùa Bái Đính nằm trong Ninh Bình, Hoa Lư nằm trong Ninh Bình, Lễ hội đền Thái Vi được tổ chức Ninh Bình, Lễ hội đền Nguyễn Công Trứ được tổ chức Ninh Bình, Lễ hội Hoa Lư được tổ chức Ninh Bình, ",
+    "Output RASA": "Ninh Bình"
+  },
+  {
+    "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:Hà_Giang  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:Hà_Giang}union{?X ?Y \"Hà Giang\"}?Y rdfs:comment ?Z}",
+    "Answer": "Hà Giang :  Rừng thông Yên Minh nằm trong Hà Giang, Thung lũng Sủng Là nằm trong Hà Giang, Cột cờ Lũng Cú nằm trong Hà Giang, Lễ hội Gầu Tào được tổ chức Hà Giang, Lễ hội chợ tình Khâu vai được tổ chức Hà Giang, Lễ hội Cấp Sắc được tổ chức Hà Giang, ",
+    "Output RASA": "Hà Giang"
+  },
+  {
+    "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:Phú_Quốc  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:Phú_Quốc}union{?X ?Y \"Phú Quốc\"}?Y rdfs:comment ?Z}",
+    "Answer": "Phú Quốc :  Lễ hội Trai Đàn Sùng Hưng Cổ Tự được tổ chức Phú Quốc, Lễ hội Đình Thần Dương Đông được tổ chức Phú Quốc, Lễ hội Dinh Bà Ông Lang được tổ chức Phú Quốc, Lễ hội đua thuyền truyền thống được tổ chức Phú Quốc, Lễ hội Nguyễn Trung Trực được tổ chức Phú Quốc, ",
+    "Output RASA": "Phú Quốc"
+  },
+  {
+    "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:Hà_Nội  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:Hà_Nội}union{?X ?Y \"Hà Nội\"}?Y rdfs:comment ?Z}",
+    "Answer": "Hà Nội :  Trần Nghệ Tông sinh tại Hà Nội, Trần Quang Khải sinh tại Hà Nội, Trần Thiếu Đế sinh tại Hà Nội, Lê Dụ Tông sinh tại Hà Nội, Lê Duy Phường sinh tại Hà Nội, Mạc Mậu Hợp sinh tại Hà Nội, Lê Thuần Tông sinh tại Hà Nội, Trần Dụ Tông sinh tại Hà Nội, Lê Chân Tông sinh tại Hà Nội, Phùng Khắc Khoan sinh tại Hà Nội, Trần Thái Tông sinh tại Hà Nội, Ngô Quyền sinh tại Hà Nội, Lê Hiến Tông sinh tại Hà Nội, Lý Anh Tông sinh tại Hà Nội, Trần Thánh Tông sinh tại Hà Nội, Trần Thuận Tông sinh tại Hà Nội, Lý Cao Tông sinh tại Hà Nội, Văn Miếu nằm trong Hà Nội, Trần Minh Tông sinh tại Hà Nội, Lê Gia Tông sinh tại Hà Nội, Trần Hiến Tông sinh tại Hà Nội, Lê Thần Tông sinh tại Hà Nội, Lê Trang Tông sinh tại Hà Nội, Lê Thánh Tông sinh tại Hà Nội, Lê Kính Tông sinh tại Hà Nội, Phạm Quỳnh sinh tại Hà Nội, Trần Nhật Duật sinh tại Hà Nội, Lê Thái Tông sinh tại Hà Nội, Hồ Gươm nằm trong Hà Nội, Trần Anh Tông sinh tại Hà Nội, Lý Thần Tông sinh tại Hà Nội, Lý Chiêu Hoàng sinh tại Hà Nội, Hồ Tây nằm trong Hà Nội, Lý Nhân Tông sinh tại Hà Nội, Trần Duệ Tông sinh tại Hà Nội, Lăng Bác nằm trong Hà Nội, Chùa Hương nằm trong Hà Nội, Lê Hy Tông sinh tại Hà Nội, Phố cổ Hà Nội nằm trong Hà Nội, Lê Huyền Tông sinh tại Hà Nội, Chùa Hà nằm trong Hà Nội, Lương Văn Can sinh tại Hà Nội, Lễ hội làng Bát Tràng được tổ chức Hà Nội, Lễ hội đền Hai Bà Trưng Mê Linh được tổ chức Hà Nội, Lễ hội Đống Đa được tổ chức Hà Nội, hội Gióng Sóc Sơn được tổ chức Hà Nội, Lễ hội Miếu Mạch Lũng được tổ chức Hà Nội, Lễ hội đình Yên Phụ được tổ chức Hà Nội, Hội Gióng Phù Đổng được tổ chức Hà Nội, Lễ hội chùa Hương được tổ chức Hà Nội, ",
+    "Output RASA": "Hà Nội"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Trần_Nhân_Tôngvntourism:Trần_Nhân_Tôngvntourism:Trần_Nhân_Tôngvntourism:Trần_Nhân_Tôngvntourism:Trần_Nhân_Tôngvntourism:Trần_Nhân_Tôngvntourism:Trần_Nhân_Tôngvntourism:Trần_Nhân_Tôngvntourism:Trần_Nhân_Tôngvntourism:Trần_Nhân_Tôngvntourism:Trần_Nhân_Tông ?A ?X.}",
+    "Answer": "Trần Nhân Tông . Đức Lăng, 7-12-1258 (theo nguoikesu), Person, Nguyên Thánh hoàng hậu, Yên Tử, Nguyên Thánh hoàng hậu, 14 hoặc 16-12-1308 (50 tuổi) (theo nguoikesu), Trần Khâm, Trần Thánh Tông, Trần Thánh Tông, Trần Anh Tông, ",
+    "Output RASA": "Trần Nhân Tông~."
+  },
+  {
+    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:hasSuccessor  vntourism:Dương_Bình_Vương} union {?X vntourism:hasSuccessor \"Dương Bình Vương\"} ?X rdf:type vntourism:Person }",
+    "Answer": "Đó là Ngô Quyền, ",
+    "Output RASA": "con người~có người kế vị là~Dương Bình Vương~."
+  },
+  {
+    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:hasBornAt  vntourism:Ái_Châu} union {?X vntourism:hasBornAt \"Ái Châu\"} ?X rdf:type vntourism:Person }",
+    "Answer": "Đó là Ngô Quyền, ",
+    "Output RASA": "con người~sinh tại~Ái Châu~."
+  },
+  {
+    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:hasBornAt  vntourism:Huế} union {?X vntourism:hasBornAt \"Huế\"} ?X rdf:type vntourism:Person }",
+    "Answer": "Đó là Kiến Phúc, Gia Long, Tự Đức, Thiệu Trị, ",
+    "Output RASA": "con người~sinh tại~Huế~."
   },
   {
     "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:buriedPlace  vntourism:Đức_Lăng} union {?X vntourism:buriedPlace \"Đức Lăng\"} ?X rdf:type ?A }",
@@ -180,39 +215,19 @@
     "Output RASA": ".~an nghỉ~Đức Lăng~."
   },
   {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasBorn ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#ngô_quyền\" )}",
-    "Answer": "Ngô Quyền sinh vào 20-3-897 (theo wikidata), 17-4-898 (theo dbpedia), 12-3-898 (theo nguoikesu), ",
-    "Output RASA": "Ngô Quyền~sinh vào"
+    "SPARQL": "SELECT distinct ?X  WHERE { ?X vntourism:hasBorn ?T. ?X rdf:type vntourism:Person . ?T rdf:type time:DateTimeDescription . ?T time:hasTRS time:ChronometricGeologicTime . ?T time:month \"5\" . optional{?T time:day \"19\"}optional{?T time:year \"2023\"}}",
+    "Answer": "Đó là Hồ Chí Minh, ",
+    "Output RASA": "con người~sinh vào~19\/5~2023-05-19T00:00:00.000+00:00"
   },
   {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasDied ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lê_lợi\" )}",
-    "Answer": "Lê Lợi mất vào 5-10-1433 (50 tuổi) (theo nguoikesu), ",
-    "Output RASA": "Lê Lợi~mất vào"
+    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:hasBornAt vntourism:Ái_Châu} union {?X vntourism:hasBornAt \"Ái Châu\"} {?X vntourism:hasSuccessor vntourism:Dương_Bình_Vương} union {?X vntourism:hasSuccessor \"Dương Bình Vương\"} ?X rdf:type vntourism:Person}",
+    "Answer": "Đó là Ngô Quyền, ",
+    "Output RASA": "con người~sinh tại~Ái Châu~có người kế vị là~Dương Bình Vương"
   },
   {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasBorn ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#nguyễn_hoàng\" )}",
-    "Answer": "Nguyễn Hoàng sinh vào 28-8-1525 (theo wikidata và dbpedia và nguoikesu), ",
-    "Output RASA": "Nguyễn Hoàng~sinh vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasDied ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#đinh_tiên_hoàng\" )}",
-    "Answer": "Đinh Tiên Hoàng mất vào Tháng 10 năm 979 (theo nguoikesu), ",
-    "Output RASA": "Đinh Tiên Hoàng~mất vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasSuccessor ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#trần_nhân_tông\" )}",
-    "Answer": "Trần Nhân Tông có người kế vị là Trần Anh Tông, ",
-    "Output RASA": "Trần Nhân Tông~có người kế vị là"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:buriedPlace ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lê_lợi\" )}",
-    "Answer": "Lê Lợi an nghỉ Vĩnh lăng (永陵), Thanh Hóa, ",
-    "Output RASA": "Lê Lợi~an nghỉ"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:buriedPlace ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#trần_thái_tông\" )}",
-    "Answer": "Trần Thái Tông an nghỉ Chiêu Lăng (昭陵), ",
-    "Output RASA": "Trần Thái Tông~an nghỉ"
+    "SPARQL": "SELECT ?X WHERE { ?A ?X.}",
+    "Answer": "Người anh . ",
+    "Output RASA": "Người anh~."
   },
   {
     "SPARQL": "SELECT  ?X  WHERE { ?X rdf:type vntourism:Person{?X vntourism:related \"Hồ Gươm\"}union{?X vntourism:related vntourism:Hồ_Gươm}}",
@@ -225,44 +240,354 @@
     "Output RASA": "Yên Tử"
   },
   {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasJob ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#trần_hưng_đạo\" )}",
+    "SPARQL": "SELECT ?X WHERE { ?A ?X.}",
+    "Answer": "Chúa Nguyễn . ",
+    "Output RASA": "Chúa Nguyễn~."
+  },
+  {
+    "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:Trần_Nhân_Tông  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:Trần_Nhân_Tông}union{?X ?Y \"Trần Nhân Tông\"}?Y rdfs:comment ?Z}",
+    "Answer": "Trần Nhân Tông : an nghỉ Đức Lăng, sinh vào 7-12-1258 (theo nguoikesu), Được sinh ra bởi mẹ Nguyên Thánh hoàng hậu, liên quan Yên Tử, có cha mẹ là Nguyên Thánh hoàng hậu, mất vào 14 hoặc 16-12-1308 (50 tuổi) (theo nguoikesu), tên khai sinh Trần Khâm, có người tiền nhiệm Trần Thánh Tông, có cha mẹ là Trần Thánh Tông, có người kế vị là Trần Anh Tông,  Trần Thuyên có cha mẹ là Trần Nhân Tông, Trần Thuyên có người tiền nhiệm Trần Nhân Tông, Trần Hoảng có người kế vị là Trần Nhân Tông, Trần Anh Tông có người tiền nhiệm Trần Nhân Tông, Trần Thánh Tông có người kế vị là Trần Nhân Tông, Trần Anh Tông có cha mẹ là Trần Nhân Tông, ",
+    "Output RASA": "Trần Nhân Tông"
+  },
+  {
+    "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:Trần_Hưng_Đạo  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:Trần_Hưng_Đạo}union{?X ?Y \"Trần Hưng Đạo\"}?Y rdfs:comment ?Z}",
+    "Answer": "Trần Hưng Đạo : có cha mẹ là Khâm Minh đại vương , có cha mẹ là Thiện Đạo quốc mẫu, giữ chức vụ sĩ quan quân đội, an nghỉ Vườn An Lạc, Có con Tuyên Từ hoàng hậu, Có con Bảo Thánh hoàng hậu, sinh tại Thái Bình, mất vào 11-10-1300 (theo wikidata), Có con Trần Quốc Hiện, Được sinh ra bởi mẹ Thiện Đạo quốc mẫu, sinh vào còn nghi vấn (theo nguoikesu), Có vợ Nguyên Từ quốc mẫu, sinh vào 1228 (theo wikidata và dbpedia), tên khai sinh Trần Quốc Tuấn, giữ chức vụ tướng lĩnh quân đội, Có con Trần Quốc Tảng, mất vào 20-8-1300 (theo nguoikesu),  Trần Liễu Có con Trần Hưng Đạo, Lễ hội Côn Sơn - Kiếp Bạc tri ân Trần Hưng Đạo, Lễ hội Côn Sơn - Kiếp Bạc tưởng nhớ Trần Hưng Đạo, Lễ hội Côn Sơn - Kiếp Bạc kỷ niệm Trần Hưng Đạo, ",
+    "Output RASA": "Trần Hưng Đạo"
+  },
+  {
+    "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:An_Dương_Vương  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:An_Dương_Vương}union{?X ?Y \"An Dương Vương\"}?Y rdfs:comment ?Z}",
+    "Answer": "An Dương Vương : có cha mẹ là Thục Chế (theo truyền thuyết), sinh vào 25 (theo wikidata), mất vào 20 (theo wikidata), giữ chức vụ sovereign, mất vào 208 TCN \/ 179 TCN (theo nguoikesu), Có con Mỵ Châu, sinh vào không rõ (theo nguoikesu),  Cổ Loa Citadel được xây dựng bởi An Dương Vương, Cổ Loa Citadel được chọn làm thủ đô bởi An Dương Vương, Lễ hội Cổ Loa tri ân An Dương Vương, Lễ hội Cổ Loa tưởng nhớ An Dương Vương, Lễ hội Cổ Loa kỷ niệm An Dương Vương, Hội đình Thượng Lão tri ân An Dương Vương, Hội đình Thượng Lão tưởng nhớ An Dương Vương, Hội đình Thượng Lão kỷ niệm An Dương Vương, ",
+    "Output RASA": "An Dương Vương"
+  },
+  {
+    "SPARQL": "SELECT distinct ?X  WHERE { {?X  ?B vntourism:An_Dương_Vương} union {?X ?B \"An Dương Vương\"} {?X ?C vntourism:An_Dương_Vương} union {?X ?C \"An Dương Vương\"} ?X rdf:type ?A}",
+    "Answer": "Đó là Cổ Loa Citadel, Lễ hội Cổ Loa, Hội đình Thượng Lão, ",
+    "Output RASA": ".~.~An Dương Vương~.~An Dương Vương"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Ngô_Quyền vntourism:hasJob ?X.}",
+    "Answer": "Ngô Quyền giữ chức vụ King Ngô Quyền, ",
+    "Output RASA": "Ngô Quyền~giữ chức vụ"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Khúc_Thừa_Dụvntourism:Khúc_Thừa_Dụ vntourism:hasBorn ?X.}",
+    "Answer": "Khúc Thừa Dụ sinh vào 830 (theo dbpedia), 801 (theo wikidata), ",
+    "Output RASA": "Khúc Thừa Dụ~sinh vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Trần_Anh_Tôngvntourism:Trần_Anh_Tông vntourism:hasBorn ?X.}",
+    "Answer": "Trần Anh Tông sinh vào 25-10-1276 (theo nguoikesu), 17-9-1276 (theo wikidata và dbpedia), ",
+    "Output RASA": "Trần Anh Tông~sinh vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Trần_Anh_Tôngvntourism:Trần_Anh_Tông vntourism:hasBorn ?X.}",
+    "Answer": "Trần Anh Tông sinh vào 25-10-1276 (theo nguoikesu), 17-9-1276 (theo wikidata và dbpedia), ",
+    "Output RASA": "Trần Anh Tông~sinh vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyền ?A ?X.}",
+    "Answer": "Ngô Quyền . Hà Nội, 18-1-944 (45 tuổi) (theo nguoikesu), 14-2-944 (theo dbpedia), NamedIndividual, Ngô Xương Ngập, NgoDynasty, 20-3-897 (theo wikidata), Ái Châu, Ngô Xương Văn, Ngô Mân, Dương hậu, Ngô Quyền (吳權), Person, Hậu Ngô Vương, King Ngô Quyền, 12-3-898 (theo nguoikesu), Dương Bình Vương, 28-1-944 (theo wikidata), 17-4-898 (theo dbpedia), ",
+    "Output RASA": "Ngô Quyền~."
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Trần_Anh_Tôngvntourism:Trần_Anh_Tông vntourism:hasBorn ?X.}",
+    "Answer": "Trần Anh Tông sinh vào 25-10-1276 (theo nguoikesu), 17-9-1276 (theo wikidata và dbpedia), ",
+    "Output RASA": "Trần Anh Tông~sinh vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyền vntourism:hasBorn ?X.}",
+    "Answer": "Ngô Quyền sinh vào 20-3-897 (theo wikidata), 17-4-898 (theo dbpedia), 12-3-898 (theo nguoikesu), ",
+    "Output RASA": "Ngô Quyền~sinh vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lê_Lợi vntourism:hasDied ?X.}",
+    "Answer": "Lê Lợi mất vào 5-10-1433 (50 tuổi) (theo nguoikesu), ",
+    "Output RASA": "Lê Lợi~mất vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Nguyễn_Hoàng vntourism:hasBorn ?X.}",
+    "Answer": "Nguyễn Hoàng sinh vào 28-8-1525 (theo wikidata và dbpedia và nguoikesu), ",
+    "Output RASA": "Nguyễn Hoàng~sinh vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Đinh_Tiên_Hoàng vntourism:hasDied ?X.}",
+    "Answer": "Đinh Tiên Hoàng mất vào Tháng 10 năm 979 (theo nguoikesu), ",
+    "Output RASA": "Đinh Tiên Hoàng~mất vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Trần_Nhân_Tông vntourism:hasSuccessor ?X.}",
+    "Answer": "Trần Nhân Tông có người kế vị là Trần Anh Tông, ",
+    "Output RASA": "Trần Nhân Tông~có người kế vị là"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Trần_Hưng_Đạo vntourism:hasBornAt ?X.}",
+    "Answer": "Trần Hưng Đạo sinh tại Thái Bình, ",
+    "Output RASA": "Trần Hưng Đạo~sinh tại"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lê_Lợi vntourism:buriedPlace ?X.}",
+    "Answer": "Lê Lợi an nghỉ Vĩnh lăng (永陵), Thanh Hóa, ",
+    "Output RASA": "Lê Lợi~an nghỉ"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Trần_Thái_Tông vntourism:buriedPlace ?X.}",
+    "Answer": "Trần Thái Tông an nghỉ Chiêu Lăng (昭陵), ",
+    "Output RASA": "Trần Thái Tông~an nghỉ"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Trần_Hưng_Đạovntourism:Trần_Hưng_Đạo vntourism:hasJob ?X.}",
     "Answer": "Trần Hưng Đạo giữ chức vụ sĩ quan quân đội, tướng lĩnh quân đội, ",
     "Output RASA": "Trần Hưng Đạo~giữ chức vụ"
   },
   {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasJob ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lê_lợi\" )}",
-    "Answer": "Tôi không biết.",
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lê_Lợi vntourism:hasJob ?X.}",
+    "Answer": "Lê Lợi giữ chức vụ vua, ",
     "Output RASA": "Lê Lợi~giữ chức vụ"
   },
   {
-    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:hasCommemorate vntourism:Trần_Quốc_Tảng} union {?X vntourism:hasCommemorate \"Trần Quốc Tảng\"} {?X time:hasBeginning vntourism:32_Âm_lịch} union {?X time:hasBeginning \"3\/2 Âm lịch\"} ?X rdf:type vntourism:Festival}",
-    "Answer": "Đó là Lễ hội đền Cửa Ông, ",
-    "Output RASA": "lễ hội~tri ân~Trần Quốc Tảng~bắt đầu vào~3\/2 Âm lịch"
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lê_Lợivntourism:Lê_Lợivntourism:Lê_Lợivntourism:Lê_Lợivntourism:Lê_Lợivntourism:Lê_Lợivntourism:Lê_Lợivntourism:Lê_Lợivntourism:Lê_Lợivntourism:Lê_Lợivntourism:Lê_Lợivntourism:Lê_Lợi ?A ?X.}",
+    "Answer": "Lê Lợi trận Cung Từ Cao hoàng hậu, Vĩnh lăng (永陵), Thanh Hóa, Lê Khoáng, vua, Hồ Gươm, Lê Lợi (黎利), Trịnh Ngọc Thương, 5-10-1433 (50 tuổi) (theo nguoikesu), Trịnh Ngọc Thương, Lê Thái Tông, Person, 10-9-1383\/85 (theo nguoikesu), ",
+    "Output RASA": "Lê Lợi~trận"
   },
   {
-    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:isHeldAt  vntourism:Hải_Phòng} union {?X vntourism:isHeldAt \"Hải Phòng\"} ?X rdf:type vntourism:Festival }",
-    "Answer": "Đó là Lễ hội Làng cá Cát Bà, Lễ hội chọi trâu, ",
-    "Output RASA": "lễ hội~được tổ chức~Hải Phòng~."
+    "SPARQL": "SELECT ?X WHERE {vntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyềnvntourism:Ngô_Quyền ?A ?X.}",
+    "Answer": "Ngô Quyền . Hà Nội, 18-1-944 (45 tuổi) (theo nguoikesu), 14-2-944 (theo dbpedia), NamedIndividual, Ngô Xương Ngập, NgoDynasty, 20-3-897 (theo wikidata), Ái Châu, Ngô Xương Văn, Ngô Mân, Dương hậu, Ngô Quyền (吳權), Person, Hậu Ngô Vương, King Ngô Quyền, 12-3-898 (theo nguoikesu), Dương Bình Vương, 28-1-944 (theo wikidata), 17-4-898 (theo dbpedia), ",
+    "Output RASA": "Ngô Quyền~."
   },
   {
-    "SPARQL": "SELECT distinct ?X  WHERE { {?X  ?B  vntourism:Phú_Quốc} union {?X ?B \"Phú Quốc\"} ?X rdf:type vntourism:Festival }",
-    "Answer": "Đó là Lễ hội Trai Đàn Sùng Hưng Cổ Tự, Lễ hội Đình Thần Dương Đông, Lễ hội Dinh Bà Ông Lang, Lễ hội đua thuyền truyền thống, Lễ hội Nguyễn Trung Trực, ",
-    "Output RASA": "lễ hội~.~Phú Quốc~."
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_đền_Cửa_Ông time:hasEnd ?X.}",
+    "Answer": "Lễ hội đền Cửa Ông kết thúc vào cuối tháng 3 Âm lịch, ",
+    "Output RASA": "Lễ hội đền Cửa Ông~kết thúc vào"
   },
   {
-    "SPARQL": "SELECT distinct ?X  WHERE { {?X  ?B  vntourism:Phú_Thọ} union {?X ?B \"Phú Thọ\"} ?X rdf:type vntourism:Festival }",
-    "Answer": "Đó là Hội Đào Xá, Hội phết Hiền Quan, Lễ hội Đền Hùng, Hội đền Mẫu Âu Cơ, Hội Bạch Hạc, Lễ hội Xoan - Phú Thọ, ",
-    "Output RASA": "lễ hội~.~Phú Thọ~."
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#giỗ_tổ_hùng_vương\" )}",
+    "SPARQL": "SELECT ?X WHERE {vntourism:Giỗ_Tổ_Hùng_Vương vntourism:hasTimeHappen ?X.}",
     "Answer": "Giỗ Tổ Hùng Vương diễn ra vào 10\/3 Âm lịch, ",
     "Output RASA": "Giỗ Tổ Hùng Vương~diễn ra vào"
   },
   {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasCommemorate ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_đống_đa\" )}",
-    "Answer": "Lễ hội Đống Đa tưởng nhớ Nguyễn Huệ, ",
-    "Output RASA": "Lễ hội Đống Đa~tưởng nhớ"
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_Đền_Hùng vntourism:isHeldAt ?X.}",
+    "Answer": "Lễ Hội Đền Hùng được tổ chức Phú Thọ, ",
+    "Output RASA": "Lễ Hội Đền Hùng~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_Đền_Hùng vntourism:isHeldAt ?X.}",
+    "Answer": "Lễ hội Đền Hùng được tổ chức Phú Thọ, ",
+    "Output RASA": "Lễ hội Đền Hùng~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_đền_Cửa_Ôngvntourism:Lễ_hội_đền_Cửa_Ông vntourism:hasTimeHappen ?X.}",
+    "Answer": "Lễ hội đền Cửa Ông diễn ra vào tháng 2 Âm lịch, 3 tháng 2 Âm lịch, ",
+    "Output RASA": "Lễ hội đền Cửa Ông~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_Làng_Vai vntourism:isHeldAt ?X.}",
+    "Answer": "Lễ hội Làng Vai được tổ chức Hòa Bình, ",
+    "Output RASA": "Lễ hội Làng Vai~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_làng_Bồ_Đề vntourism:isHeldAt ?X.}",
+    "Answer": "Hội làng Bồ Đề được tổ chức làng Phú Viên (Bồ Đề là tên nôm của làng Phú Viên), phường Bồ Đề, quận Long Biên. , ",
+    "Output RASA": "Hội làng Bồ Đề~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_làng_chài_Vạn_Vĩ vntourism:isHeldAt ?X.}",
+    "Answer": "Hội làng chài Vạn Vĩ được tổ chức làng Vạn Vĩ, xã Trung Châu, huyện Đan Phượng., ",
+    "Output RASA": "Hội làng chài Vạn Vĩ~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_đình_Giảng_Võ vntourism:isHeldAt ?X.}",
+    "Answer": "Lễ hội đình Giảng Võ được tổ chức đình Giảng Võ, phường Giảng Võ, quận Đống Đa., ",
+    "Output RASA": "Lễ hội đình Giảng Võ~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_chùa_Thánh_Chúa vntourism:isHeldAt ?X.}",
+    "Answer": "Lễ hội chùa Thánh Chúa được tổ chức chùa Thánh Chúa, phường Dịch Vọng Hậu và Mai Dịch, quận Cầu Giấy., ",
+    "Output RASA": "Lễ hội chùa Thánh Chúa~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_đình_Thanh_Liệt vntourism:isHeldAt ?X.}",
+    "Answer": "Hội đình Thanh Liệt được tổ chức phường Thanh Liệt, huyện Thanh Trì. , ",
+    "Output RASA": "Hội đình Thanh Liệt~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_Xuân_núi_Bà vntourism:isHeldAt ?X.}",
+    "Answer": "Hội Xuân núi Bà được tổ chức Tây Ninh, ",
+    "Output RASA": "Hội Xuân núi Bà~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_Đình_Thần_Dương_Đông vntourism:isHeldAt ?X.}",
+    "Answer": "Lễ hội Đình Thần Dương Đông được tổ chức Phú Quốc, ",
+    "Output RASA": "Lễ hội Đình Thần Dương Đông~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_chùa_Cổ_Lễ vntourism:isHeldAt ?X.}",
+    "Answer": "Lễ hội chùa Cổ Lễ được tổ chức Nam Định, ",
+    "Output RASA": "Lễ hội chùa Cổ Lễ~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_chùa_Bút_Tháp vntourism:isHeldAt ?X.}",
+    "Answer": "Lễ hội chùa Bút Tháp được tổ chức Bắc Ninh, ",
+    "Output RASA": "Lễ hội chùa Bút Tháp~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_đình_Gia_Thuỵ vntourism:isHeldAt ?X.}",
+    "Answer": "Hội đình Gia Thuỵ được tổ chức đình Gia Thụy, phường Gia Thụy và đền Yên Tân, phường Ngọc Thụy, quận Long Biên. , ",
+    "Output RASA": "Hội đình Gia Thuỵ~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_chùa_Đậu vntourism:isHeldAt ?X.}",
+    "Answer": "Hội chùa Đậu được tổ chức làng Gia Phúc, xã Nguyễn Trãi, huyện Thường Tín., ",
+    "Output RASA": "Hội chùa Đậu~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_làng_Xuân_Nộn vntourism:isHeldAt ?X.}",
+    "Answer": "Hội làng Xuân Nộn được tổ chức đình Xuân Nộn, thôn Xuân Nộn, xã Xuân Nộn, huyện Đông Anh., ",
+    "Output RASA": "Hội làng Xuân Nộn~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_làng_Yên_Nội vntourism:isHeldAt ?X.}",
+    "Answer": "Hội làng Yên Nội được tổ chức xã Liên Mạc, huyện Từ Liêm., ",
+    "Output RASA": "Hội làng Yên Nội~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_văn_miếu_Mao_Điền vntourism:isHeldAt ?X.}",
+    "Answer": "Lễ hội văn miếu Mao Điền được tổ chức Hải Dương, ",
+    "Output RASA": "Lễ hội văn miếu Mao Điền~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE { vntourism:isHeldAt ?X.}",
+    "Answer": "Phú Quốc được tổ chức ",
+    "Output RASA": "Phú Quốc~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_đình_Thượng_Lão vntourism:isHeldAt ?X.}",
+    "Answer": "Hội đình Thượng Lão được tổ chức thôn Lực Canh, xã Xuân Canh, huyện Đông Anh., ",
+    "Output RASA": "Hội đình Thượng Lão~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_làng_Tó vntourism:isHeldAt ?X.}",
+    "Answer": "Hội làng Tó được tổ chức xã Tả Thanh Oai, huyện Thanh Trì. , ",
+    "Output RASA": "Hội làng Tó~được tổ chức"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_làng_Tó vntourism:hasTimeHappen ?X.}",
+    "Answer": "Hội làng Tó diễn ra vào 13-16\/1 âm lịch, ",
+    "Output RASA": "Hội làng Tó~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_vật_Mai_Động vntourism:hasTimeHappen ?X.}",
+    "Answer": "Hội vật Mai Động diễn ra vào 4\/1 âm lịch, ",
+    "Output RASA": "Hội vật Mai Động~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_Sài_Đồng vntourism:hasTimeHappen ?X.}",
+    "Answer": "Hội Sài Đồng diễn ra vào 4\/1 âm lịch, ",
+    "Output RASA": "Hội Sài Đồng~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_đền_Xuân_Lai vntourism:hasTimeHappen ?X.}",
+    "Answer": "Hội đền Xuân Lai diễn ra vào 4\/1 âm lịch, ",
+    "Output RASA": "Hội đền Xuân Lai~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_làng_Hà_Hương vntourism:hasTimeHappen ?X.}",
+    "Answer": "Hội làng Hà Hương diễn ra vào 12-15\/1 âm lịch, ",
+    "Output RASA": "Hội làng Hà Hương~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_chùa_Hương vntourism:hasTimeHappen ?X.}",
+    "Answer": "Lễ hội chùa Hương diễn ra vào 6\/1 đến hết tháng 3 âm lịch, ",
+    "Output RASA": "Lễ hội chùa Hương~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_đình_La_Dương vntourism:hasTimeHappen ?X.}",
+    "Answer": "Lễ hội đình La Dương diễn ra vào 10-15\/1 âm lịch (chính hội 11\/1), ",
+    "Output RASA": "Lễ hội đình La Dương~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_thờ_Thủy_thần vntourism:hasTimeHappen ?X.}",
+    "Answer": "Hội thờ Thủy thần diễn ra vào 10\/2 âm lịch, ",
+    "Output RASA": "Hội thờ Thủy thần~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_đình_Phú_Gia vntourism:hasTimeHappen ?X.}",
+    "Answer": "Lễ hội đình Phú Gia diễn ra vào 8-11\/1 âm lịch, ",
+    "Output RASA": "Lễ hội đình Phú Gia~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_đình_Giàn vntourism:hasTimeHappen ?X.}",
+    "Answer": "Lễ hội đình Giàn diễn ra vào 9-11\/2 âm lịch, ",
+    "Output RASA": "Lễ hội đình Giàn~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE { vntourism:hasTimeHappen ?X.}",
+    "Answer": "Hội miếu Vũ diễn ra vào ",
+    "Output RASA": "Hội miếu Vũ~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_Võng_La vntourism:hasTimeHappen ?X.}",
+    "Answer": "Lễ hội Võng La diễn ra vào 13-15\/1 âm lịch (chính hội 14\/1), ",
+    "Output RASA": "Lễ hội Võng La~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_đình_Văn_Khê vntourism:hasTimeHappen ?X.}",
+    "Answer": "Hội đình Văn Khê diễn ra vào 17-18\/5 âm lịch, ",
+    "Output RASA": "Hội đình Văn Khê~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_Cổ_Loavntourism:Lễ_hội_Cổ_Loa vntourism:hasTimeHappen ?X.}",
+    "Answer": "Lễ hội Cổ Loa diễn ra vào 6-15\/1 âm lịch, The fifth day of the fifth month of the lunar Vietnamese calendar@en, ",
+    "Output RASA": "Lễ hội Cổ Loa~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_cướp_cầu_Viên_Nội vntourism:hasTimeHappen ?X.}",
+    "Answer": "Hội cướp cầu Viên Nội diễn ra vào 8\/1 âm lịch, ",
+    "Output RASA": "Hội cướp cầu Viên Nội~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_làng_Động_Phí vntourism:hasTimeHappen ?X.}",
+    "Answer": "Hội làng Động Phí diễn ra vào 4\/1 âm lịch (3 năm tổ chức một lần)., ",
+    "Output RASA": "Hội làng Động Phí~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_chùa_Vua vntourism:hasTimeHappen ?X.}",
+    "Answer": "Lễ hội chùa Vua diễn ra vào 5-9\/1 âm lịch, ",
+    "Output RASA": "Lễ hội chùa Vua~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_chùa_Bối_Khê vntourism:hasTimeHappen ?X.}",
+    "Answer": "Hội chùa Bối Khê diễn ra vào 12\/1 âm lịch, ",
+    "Output RASA": "Hội chùa Bối Khê~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_phủ_Tây_Hồ vntourism:hasTimeHappen ?X.}",
+    "Answer": "Hội phủ Tây Hồ diễn ra vào 3-7\/3 âm lịch, ",
+    "Output RASA": "Hội phủ Tây Hồ~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_đền_Bạch_Mã vntourism:hasTimeHappen ?X.}",
+    "Answer": "Lễ hội đền Bạch Mã diễn ra vào 12-13\/2 âm lịch, ",
+    "Output RASA": "Lễ hội đền Bạch Mã~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_làng_Cán_Khê vntourism:hasTimeHappen ?X.}",
+    "Answer": "Hội làng Cán Khê diễn ra vào 16\/2 âm lịch, ",
+    "Output RASA": "Hội làng Cán Khê~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_chùa_Tây_Phương vntourism:hasTimeHappen ?X.}",
+    "Answer": "Hội chùa Tây Phương diễn ra vào 6\/3 âm lịch, ",
+    "Output RASA": "Hội chùa Tây Phương~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Hội_Đình_Mai vntourism:hasTimeHappen ?X.}",
+    "Answer": "Hội Đình Mai diễn ra vào 20\/12 âm lịch, ",
+    "Output RASA": "Hội Đình Mai~diễn ra vào"
+  },
+  {
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_Đống_Đavntourism:Lễ_hội_Đống_Đa vntourism:hasTimeHappen ?X.}",
+    "Answer": "Lễ hội Đống Đa diễn ra vào 5 tháng 1 âm lịch, 5\/1 âm lịch, ",
+    "Output RASA": "Lễ hội Đống Đa~diễn ra vào"
   },
   {
     "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:hasCommemorate  vntourism:Lý_Thường_Kiệt} union {?X vntourism:hasCommemorate \"Lý Thường Kiệt\"} ?X rdf:type vntourism:Festival }",
@@ -278,21 +603,6 @@
     "SPARQL": "SELECT distinct ?X  WHERE { {?X  ?B  vntourism:Hà_Nội} union {?X ?B \"Hà Nội\"} ?X rdf:type vntourism:Festival }",
     "Answer": "Đó là Lễ hội làng Bát Tràng, Lễ hội đền Hai Bà Trưng Mê Linh, Lễ hội Đống Đa, hội Gióng Sóc Sơn, Lễ hội Miếu Mạch Lũng, Lễ hội đình Yên Phụ, Hội Gióng Phù Đổng, Lễ hội chùa Hương, ",
     "Output RASA": "Lễ hội~.~Hà Nội~."
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_đền_hùng\" )}",
-    "Answer": "Lễ Hội Đền Hùng được tổ chức Phú Thọ, ",
-    "Output RASA": "Lễ Hội Đền Hùng~được tổ chức"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_đền_hùng\" )}",
-    "Answer": "Lễ hội Đền Hùng được tổ chức Phú Thọ, ",
-    "Output RASA": "Lễ hội Đền Hùng~được tổ chức"
-  },
-  {
-    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:hasCommemorate vntourism:Trần_Quốc_Tảng} union {?X vntourism:hasCommemorate \"Trần Quốc Tảng\"} {?X vntourism:isHeldAt vntourism:Quảng_Ninh} union {?X vntourism:isHeldAt \"Quảng Ninh\"} ?X rdf:type vntourism:Festival}",
-    "Answer": "Đó là Lễ hội đền Cửa Ông, ",
-    "Output RASA": "Lễ hội~tưởng nhớ~Trần Quốc Tảng~được tổ chức~Quảng Ninh"
   },
   {
     "SPARQL": "SELECT distinct ?X  WHERE { ?X vntourism:hasTimeHappen ?T. ?X rdf:type vntourism:Festival . ?T rdf:type time:DateTimeDescription . ?T time:hasTRS time:ChronometricGeologicTime . ?T time:month \"10\" . optional{?T time:day \"10\"}optional{?T time:year \"2022\"}}",
@@ -370,269 +680,44 @@
     "Output RASA": "lễ hội~được tổ chức~Hòa Bình~."
   },
   {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_làng_vai\" )}",
-    "Answer": "Lễ hội Làng Vai được tổ chức Hòa Bình, ",
-    "Output RASA": "Lễ hội Làng Vai~được tổ chức"
+    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:isHeldAt  vntourism:Hải_Phòng} union {?X vntourism:isHeldAt \"Hải Phòng\"} ?X rdf:type vntourism:Festival }",
+    "Answer": "Đó là Lễ hội Làng cá Cát Bà, Lễ hội chọi trâu, ",
+    "Output RASA": "lễ hội~được tổ chức~Hải Phòng~."
   },
   {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_làng_bồ_đề\" )}",
-    "Answer": "Hội làng Bồ Đề được tổ chức làng Phú Viên (Bồ Đề là tên nôm của làng Phú Viên), phường Bồ Đề, quận Long Biên. , ",
-    "Output RASA": "Hội làng Bồ Đề~được tổ chức"
+    "SPARQL": "SELECT distinct ?X  WHERE { {?X  ?B  vntourism:Phú_Quốc} union {?X ?B \"Phú Quốc\"} ?X rdf:type vntourism:Festival }",
+    "Answer": "Đó là Lễ hội Trai Đàn Sùng Hưng Cổ Tự, Lễ hội Đình Thần Dương Đông, Lễ hội Dinh Bà Ông Lang, Lễ hội đua thuyền truyền thống, Lễ hội Nguyễn Trung Trực, ",
+    "Output RASA": "lễ hội~.~Phú Quốc~."
   },
   {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_làng_chài_vạn_vĩ\" )}",
-    "Answer": "Hội làng chài Vạn Vĩ được tổ chức làng Vạn Vĩ, xã Trung Châu, huyện Đan Phượng., ",
-    "Output RASA": "Hội làng chài Vạn Vĩ~được tổ chức"
+    "SPARQL": "SELECT distinct ?X  WHERE { {?X  ?B  vntourism:Phú_Thọ} union {?X ?B \"Phú Thọ\"} ?X rdf:type vntourism:Festival }",
+    "Answer": "Đó là Hội Đào Xá, Hội phết Hiền Quan, Lễ hội Đền Hùng, Hội đền Mẫu Âu Cơ, Hội Bạch Hạc, Lễ hội Xoan - Phú Thọ, ",
+    "Output RASA": "lễ hội~.~Phú Thọ~."
   },
   {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_đình_giảng_võ\" )}",
-    "Answer": "Lễ hội đình Giảng Võ được tổ chức đình Giảng Võ, phường Giảng Võ, quận Đống Đa., ",
-    "Output RASA": "Lễ hội đình Giảng Võ~được tổ chức"
+    "SPARQL": "SELECT ?X WHERE {vntourism:Lễ_hội_Đống_Đa vntourism:hasCommemorate ?X.}",
+    "Answer": "Lễ hội Đống Đa tưởng nhớ Nguyễn Huệ, ",
+    "Output RASA": "Lễ hội Đống Đa~tưởng nhớ"
   },
   {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_chùa_thánh_chúa\" )}",
-    "Answer": "Lễ hội chùa Thánh Chúa được tổ chức chùa Thánh Chúa, phường Dịch Vọng Hậu và Mai Dịch, quận Cầu Giấy., ",
-    "Output RASA": "Lễ hội chùa Thánh Chúa~được tổ chức"
+    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:hasCommemorate  vntourism:Lý_Thường_Kiệt} union {?X vntourism:hasCommemorate \"Lý Thường Kiệt\"} ?X rdf:type vntourism:Festival }",
+    "Answer": "Đó là Lễ hội làng Bắc Biên, ",
+    "Output RASA": "Lễ hội~tưởng nhớ~Lý Thường Kiệt~."
   },
   {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_đình_thanh_liệt\" )}",
-    "Answer": "Hội đình Thanh Liệt được tổ chức phường Thanh Liệt, huyện Thanh Trì. , ",
-    "Output RASA": "Hội đình Thanh Liệt~được tổ chức"
+    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:hasCommemorate  vntourism:Trần_Hưng_Đạo} union {?X vntourism:hasCommemorate \"Trần Hưng Đạo\"} ?X rdf:type vntourism:Festival }",
+    "Answer": "Đó là Lễ hội Côn Sơn - Kiếp Bạc, ",
+    "Output RASA": "Lễ hội~tri ân~Trần Hưng Đạo~."
   },
   {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_xuân_núi_bà\" )}",
-    "Answer": "Hội Xuân núi Bà được tổ chức Tây Ninh, ",
-    "Output RASA": "Hội Xuân núi Bà~được tổ chức"
+    "SPARQL": "SELECT distinct ?X  WHERE { {?X  ?B  vntourism:Hà_Nội} union {?X ?B \"Hà Nội\"} ?X rdf:type vntourism:Festival }",
+    "Answer": "Đó là Lễ hội làng Bát Tràng, Lễ hội đền Hai Bà Trưng Mê Linh, Lễ hội Đống Đa, hội Gióng Sóc Sơn, Lễ hội Miếu Mạch Lũng, Lễ hội đình Yên Phụ, Hội Gióng Phù Đổng, Lễ hội chùa Hương, ",
+    "Output RASA": "Lễ hội~.~Hà Nội~."
   },
   {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_đình_thần_dương_đông\" )}",
-    "Answer": "Lễ hội Đình Thần Dương Đông được tổ chức Phú Quốc, ",
-    "Output RASA": "Lễ hội Đình Thần Dương Đông~được tổ chức"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_chùa_cổ_lễ\" )}",
-    "Answer": "Lễ hội chùa Cổ Lễ được tổ chức Nam Định, ",
-    "Output RASA": "Lễ hội chùa Cổ Lễ~được tổ chức"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_chùa_bút_tháp\" )}",
-    "Answer": "Lễ hội chùa Bút Tháp được tổ chức Bắc Ninh, ",
-    "Output RASA": "Lễ hội chùa Bút Tháp~được tổ chức"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_đình_gia_thuỵ\" )}",
-    "Answer": "Hội đình Gia Thuỵ được tổ chức đình Gia Thụy, phường Gia Thụy và đền Yên Tân, phường Ngọc Thụy, quận Long Biên. , ",
-    "Output RASA": "Hội đình Gia Thuỵ~được tổ chức"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_chùa_đậu\" )}",
-    "Answer": "Hội chùa Đậu được tổ chức làng Gia Phúc, xã Nguyễn Trãi, huyện Thường Tín., ",
-    "Output RASA": "Hội chùa Đậu~được tổ chức"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_làng_xuân_nộn\" )}",
-    "Answer": "Hội làng Xuân Nộn được tổ chức đình Xuân Nộn, thôn Xuân Nộn, xã Xuân Nộn, huyện Đông Anh., ",
-    "Output RASA": "Hội làng Xuân Nộn~được tổ chức"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_làng_yên_nội\" )}",
-    "Answer": "Hội làng Yên Nội được tổ chức xã Liên Mạc, huyện Từ Liêm., ",
-    "Output RASA": "Hội làng Yên Nội~được tổ chức"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_văn_miếu_mao_điền\" )}",
-    "Answer": "Lễ hội văn miếu Mao Điền được tổ chức Hải Dương, ",
-    "Output RASA": "Lễ hội văn miếu Mao Điền~được tổ chức"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#phú_quốc\" )}",
-    "Answer": "Tôi không biết.",
-    "Output RASA": "Phú Quốc~được tổ chức"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_đình_thượng_lão\" )}",
-    "Answer": "Hội đình Thượng Lão được tổ chức thôn Lực Canh, xã Xuân Canh, huyện Đông Anh., ",
-    "Output RASA": "Hội đình Thượng Lão~được tổ chức"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_làng_tó\" )}",
-    "Answer": "Hội làng Tó được tổ chức xã Tả Thanh Oai, huyện Thanh Trì. , ",
-    "Output RASA": "Hội làng Tó~được tổ chức"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:isHeldAt ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_đồng_bằng\" )}",
-    "Answer": "Hội Đồng Bằng được tổ chức Thái Bình, ",
-    "Output RASA": "Hội Đồng Bằng~được tổ chức"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#tết_hạ_nguyên\" )}",
-    "Answer": "Tết Hạ Nguyên diễn ra vào 15\/10, 15\/10 Âm lịch, ",
-    "Output RASA": "Tết Hạ Nguyên~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_làng_tó\" )}",
-    "Answer": "Hội làng Tó diễn ra vào 13-16\/1 âm lịch, ",
-    "Output RASA": "Hội làng Tó~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_vật_mai_động\" )}",
-    "Answer": "Hội vật Mai Động diễn ra vào 4\/1 âm lịch, ",
-    "Output RASA": "Hội vật Mai Động~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_sài_đồng\" )}",
-    "Answer": "Hội Sài Đồng diễn ra vào 4\/1 âm lịch, ",
-    "Output RASA": "Hội Sài Đồng~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_đền_xuân_lai\" )}",
-    "Answer": "Hội đền Xuân Lai diễn ra vào 4\/1 âm lịch, ",
-    "Output RASA": "Hội đền Xuân Lai~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_làng_hà_hương\" )}",
-    "Answer": "Hội làng Hà Hương diễn ra vào 12-15\/1 âm lịch, ",
-    "Output RASA": "Hội làng Hà Hương~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_chùa_hương\" )}",
-    "Answer": "Lễ hội chùa Hương diễn ra vào 6\/1 đến hết tháng 3 âm lịch, ",
-    "Output RASA": "Lễ hội chùa Hương~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_năm_làng_mọc\" )}",
-    "Answer": "Hội năm làng Mọc diễn ra vào 9-11\/2 âm lịch, ",
-    "Output RASA": "Hội năm làng Mọc~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_đình_la_dương\" )}",
-    "Answer": "Lễ hội đình La Dương diễn ra vào 10-15\/1 âm lịch (chính hội 11\/1), ",
-    "Output RASA": "Lễ hội đình La Dương~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_thờ_thủy_thần\" )}",
-    "Answer": "Hội thờ Thủy thần diễn ra vào 10\/2 âm lịch, ",
-    "Output RASA": "Hội thờ Thủy thần~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_đình_phú_gia\" )}",
-    "Answer": "Lễ hội đình Phú Gia diễn ra vào 8-11\/1 âm lịch, ",
-    "Output RASA": "Lễ hội đình Phú Gia~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_đình_giàn\" )}",
-    "Answer": "Lễ hội đình Giàn diễn ra vào 9-11\/2 âm lịch, ",
-    "Output RASA": "Lễ hội đình Giàn~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_miếu_vũ\" )}",
-    "Answer": "Tôi không biết.",
-    "Output RASA": "Hội miếu Vũ~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_võng_la\" )}",
-    "Answer": "Lễ hội Võng La diễn ra vào 13-15\/1 âm lịch (chính hội 14\/1), ",
-    "Output RASA": "Lễ hội Võng La~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_đình_văn_khê\" )}",
-    "Answer": "Hội đình Văn Khê diễn ra vào 17-18\/5 âm lịch, ",
-    "Output RASA": "Hội đình Văn Khê~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_cổ_loa\" )}",
-    "Answer": "Lễ hội Cổ Loa diễn ra vào 6-15\/1 âm lịch, The fifth day of the fifth month of the lunar Vietnamese calendar@en, ",
-    "Output RASA": "Lễ hội Cổ Loa~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_thập_tam_trại\" )}",
-    "Answer": "Lễ hội Thập Tam Trại diễn ra vào 21\/1 âm lịch, ",
-    "Output RASA": "Lễ hội Thập Tam Trại~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_bất_nạo\" )}",
-    "Answer": "Hội Bất Nạo diễn ra vào 15-18\/8 âm lịch, ",
-    "Output RASA": "Hội Bất Nạo~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_cướp_cầu_viên_nội\" )}",
-    "Answer": "Hội cướp cầu Viên Nội diễn ra vào 8\/1 âm lịch, ",
-    "Output RASA": "Hội cướp cầu Viên Nội~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_làng_động_phí\" )}",
-    "Answer": "Hội làng Động Phí diễn ra vào 4\/1 âm lịch (3 năm tổ chức một lần)., ",
-    "Output RASA": "Hội làng Động Phí~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_chùa_vua\" )}",
-    "Answer": "Lễ hội chùa Vua diễn ra vào 5-9\/1 âm lịch, ",
-    "Output RASA": "Lễ hội chùa Vua~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_chùa_bối_khê\" )}",
-    "Answer": "Hội chùa Bối Khê diễn ra vào 12\/1 âm lịch, ",
-    "Output RASA": "Hội chùa Bối Khê~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_phủ_tây_hồ\" )}",
-    "Answer": "Hội phủ Tây Hồ diễn ra vào 3-7\/3 âm lịch, ",
-    "Output RASA": "Hội phủ Tây Hồ~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_đền_bạch_mã\" )}",
-    "Answer": "Lễ hội đền Bạch Mã diễn ra vào 12-13\/2 âm lịch, ",
-    "Output RASA": "Lễ hội đền Bạch Mã~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_làng_cán_khê\" )}",
-    "Answer": "Hội làng Cán Khê diễn ra vào 16\/2 âm lịch, ",
-    "Output RASA": "Hội làng Cán Khê~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#tết_trung_thu\" )}",
-    "Answer": "Tết Trung Thu diễn ra vào 15\/8, 15\/8 Âm lịch, ",
-    "Output RASA": "Tết Trung Thu~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_chùa_tây_phương\" )}",
-    "Answer": "Hội chùa Tây Phương diễn ra vào 6\/3 âm lịch, ",
-    "Output RASA": "Hội chùa Tây Phương~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#tết_trùng_cửu\" )}",
-    "Answer": "Tết Trùng Cửu diễn ra vào 9\/9 Âm lịch, 9\/9, ",
-    "Output RASA": "Tết Trùng Cửu~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#hội_đình_mai\" )}",
-    "Answer": "Hội Đình Mai diễn ra vào 20\/12 âm lịch, ",
-    "Output RASA": "Hội Đình Mai~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT distinct  ?X WHERE {?Z vntourism:hasTimeHappen ?X.FILTER (lcase(str(?Z)) =\"http:\/\/www.semanticweb.org\/minhn\/ontologies\/2021\/0\/vntourism#lễ_hội_đống_đa\" )}",
-    "Answer": "Lễ hội Đống Đa diễn ra vào 5 tháng 1 âm lịch, 5\/1 âm lịch, ",
-    "Output RASA": "Lễ hội Đống Đa~diễn ra vào"
-  },
-  {
-    "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:Hồ_Gươm  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:Hồ_Gươm}union{?X ?Y \"Hồ Gươm\"}?Y rdfs:comment ?Z}",
-    "Answer": "Hồ Gươm : nằm trong Hà Nội,  Lê Lợi liên quan Hồ Gươm, ",
-    "Output RASA": "Hồ Gươm"
-  },
-  {
-    "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:Hồ_Tây  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:Hồ_Tây}union{?X ?Y \"Hồ Tây\"}?Y rdfs:comment ?Z}",
-    "Answer": "Hồ Tây : nằm trong Hà Nội,  ",
-    "Output RASA": "Hồ Tây"
-  },
-  {
-    "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:Quảng_Ninh  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:Quảng_Ninh}union{?X ?Y \"Quảng Ninh\"}?Y rdfs:comment ?Z}",
-    "Answer": "Quảng Ninh :  Chùa Ba Vàng nằm trong Quảng Ninh, Lễ hội Bạch Đằng được tổ chức Quảng Ninh, Núi Bài Thơ nằm trong Quảng Ninh, Vịnh Hạ Long nằm trong Quảng Ninh, Bãi biển Trà Cổ nằm trong Quảng Ninh, Chùa Cái Bầu nằm trong Quảng Ninh, Lễ hội đền Cửa Ông được tổ chức Quảng Ninh, Đền Cửa Ông nằm trong Quảng Ninh, Yên Tử nằm trong Quảng Ninh, Lễ hội chùa Yên Tử - Quảng Ninh được tổ chức Quảng Ninh, ",
-    "Output RASA": "Quảng Ninh"
-  },
-  {
-    "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:Trần_Nhân_Tông  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:Trần_Nhân_Tông}union{?X ?Y \"Trần Nhân Tông\"}?Y rdfs:comment ?Z}",
-    "Answer": "Trần Nhân Tông : an nghỉ Đức Lăng, sinh vào 7-12-1258 (theo nguoikesu), Được sinh ra bởi mẹ Nguyên Thánh hoàng hậu, liên quan Yên Tử, có cha mẹ là Nguyên Thánh hoàng hậu, mất vào 14 hoặc 16-12-1308 (50 tuổi) (theo nguoikesu), tên khai sinh Trần Khâm, có người tiền nhiệm Trần Thánh Tông, có cha mẹ là Trần Thánh Tông, có người kế vị là Trần Anh Tông,  Trần Thuyên có cha mẹ là Trần Nhân Tông, Trần Thuyên có người tiền nhiệm Trần Nhân Tông, Trần Hoảng có người kế vị là Trần Nhân Tông, Trần Anh Tông có người tiền nhiệm Trần Nhân Tông, Trần Thánh Tông có người kế vị là Trần Nhân Tông, Trần Anh Tông có cha mẹ là Trần Nhân Tông, ",
-    "Output RASA": "Trần Nhân Tông"
+    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:isHeldAt  vntourism:Quảng_Ninh} union {?X vntourism:isHeldAt \"Quảng Ninh\"} ?X rdf:type vntourism:Festival }",
+    "Answer": "Đó là Lễ hội Bạch Đằng, Lễ hội đền Cửa Ông, Lễ hội chùa Yên Tử - Quảng Ninh, ",
+    "Output RASA": "lễ hội~được tổ chức~Quảng Ninh~."
   },
   {
     "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:Cửa_Ông  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:Cửa_Ông}union{?X ?Y \"Cửa Ông\"}?Y rdfs:comment ?Z}",
@@ -640,18 +725,23 @@
     "Output RASA": "Cửa Ông"
   },
   {
-    "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:Ninh_Bình  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:Ninh_Bình}union{?X ?Y \"Ninh Bình\"}?Y rdfs:comment ?Z}",
-    "Answer": "Ninh Bình :  Vườn quốc gia Cúc Phương nằm trong Ninh Bình, Tràng An nằm trong Ninh Bình, Chùa Bái Đính nằm trong Ninh Bình, Hoa Lư nằm trong Ninh Bình, Lễ hội đền Thái Vi được tổ chức Ninh Bình, Lễ hội đền Nguyễn Công Trứ được tổ chức Ninh Bình, Lễ hội Hoa Lư được tổ chức Ninh Bình, ",
-    "Output RASA": "Ninh Bình"
+    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:hasTimeHappen vntourism:tháng_2_Âm_lịch} union {?X vntourism:hasTimeHappen \"tháng 2 Âm lịch\"} {?X vntourism:isHeldAt vntourism:Quảng_Ninh} union {?X vntourism:isHeldAt \"Quảng Ninh\"} ?X rdf:type vntourism:Festival}",
+    "Answer": "Đó là Lễ hội đền Cửa Ông, ",
+    "Output RASA": "lễ hội~diễn ra vào~tháng 2 Âm lịch~được tổ chức~Quảng Ninh"
   },
   {
-    "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:Hà_Giang  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:Hà_Giang}union{?X ?Y \"Hà Giang\"}?Y rdfs:comment ?Z}",
-    "Answer": "Hà Giang :  Rừng thông Yên Minh nằm trong Hà Giang, Thung lũng Sủng Là nằm trong Hà Giang, Cột cờ Lũng Cú nằm trong Hà Giang, Lễ hội Gầu Tào được tổ chức Hà Giang, Lễ hội chợ tình Khâu vai được tổ chức Hà Giang, Lễ hội Cấp Sắc được tổ chức Hà Giang, ",
-    "Output RASA": "Hà Giang"
+    "SPARQL": "SELECT distinct ?X  WHERE { {?X  time:hasBeginning vntourism:32_Âm_lịch} union {?X time:hasBeginning \"3\/2 Âm lịch\"} {?X time:hasEnd vntourism:cuối_tháng_3_Âm_lịch} union {?X time:hasEnd \"cuối tháng 3 Âm lịch\"} ?X rdf:type vntourism:Festival}",
+    "Answer": "Đó là Lễ hội đền Cửa Ông, ",
+    "Output RASA": "lễ hội~bắt đầu vào~3\/2 Âm lịch~kết thúc vào~cuối tháng 3 Âm lịch"
   },
   {
-    "SPARQL": "SELECT  ?X ?Y ?Z WHERE { vntourism:Hà_Nội  ?Y  ?X .?Y rdfs:comment ?Z}     SELECT ?X ?Y ?Z WHERE {{?X ?Y vntourism:Hà_Nội}union{?X ?Y \"Hà Nội\"}?Y rdfs:comment ?Z}",
-    "Answer": "Hà Nội :  Trần Nghệ Tông sinh tại Hà Nội, Trần Quang Khải sinh tại Hà Nội, Trần Thiếu Đế sinh tại Hà Nội, Lê Dụ Tông sinh tại Hà Nội, Lê Duy Phường sinh tại Hà Nội, Mạc Mậu Hợp sinh tại Hà Nội, Lê Thuần Tông sinh tại Hà Nội, Trần Dụ Tông sinh tại Hà Nội, Lê Chân Tông sinh tại Hà Nội, Phùng Khắc Khoan sinh tại Hà Nội, Trần Thái Tông sinh tại Hà Nội, Ngô Quyền sinh tại Hà Nội, Lê Hiến Tông sinh tại Hà Nội, Lý Anh Tông sinh tại Hà Nội, Trần Thánh Tông sinh tại Hà Nội, Trần Thuận Tông sinh tại Hà Nội, Lý Cao Tông sinh tại Hà Nội, Văn Miếu nằm trong Hà Nội, Trần Minh Tông sinh tại Hà Nội, Lê Gia Tông sinh tại Hà Nội, Trần Hiến Tông sinh tại Hà Nội, Lê Thần Tông sinh tại Hà Nội, Lê Trang Tông sinh tại Hà Nội, Lê Thánh Tông sinh tại Hà Nội, Lê Kính Tông sinh tại Hà Nội, Phạm Quỳnh sinh tại Hà Nội, Trần Nhật Duật sinh tại Hà Nội, Lê Thái Tông sinh tại Hà Nội, Hồ Gươm nằm trong Hà Nội, Trần Anh Tông sinh tại Hà Nội, Lý Thần Tông sinh tại Hà Nội, Lý Chiêu Hoàng sinh tại Hà Nội, Hồ Tây nằm trong Hà Nội, Lý Nhân Tông sinh tại Hà Nội, Trần Duệ Tông sinh tại Hà Nội, Lăng Bác nằm trong Hà Nội, Chùa Hương nằm trong Hà Nội, Lê Hy Tông sinh tại Hà Nội, Phố cổ Hà Nội nằm trong Hà Nội, Lê Huyền Tông sinh tại Hà Nội, Chùa Hà nằm trong Hà Nội, Lương Văn Can sinh tại Hà Nội, Lễ hội làng Bát Tràng được tổ chức Hà Nội, Lễ hội đền Hai Bà Trưng Mê Linh được tổ chức Hà Nội, Lễ hội Đống Đa được tổ chức Hà Nội, hội Gióng Sóc Sơn được tổ chức Hà Nội, Lễ hội Miếu Mạch Lũng được tổ chức Hà Nội, Lễ hội đình Yên Phụ được tổ chức Hà Nội, Hội Gióng Phù Đổng được tổ chức Hà Nội, Lễ hội chùa Hương được tổ chức Hà Nội, ",
-    "Output RASA": "Hà Nội"
+    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:hasCommemorate vntourism:Trần_Quốc_Tảng} union {?X vntourism:hasCommemorate \"Trần Quốc Tảng\"} {?X time:hasBeginning vntourism:32_Âm_lịch} union {?X time:hasBeginning \"3\/2 Âm lịch\"} ?X rdf:type vntourism:Festival}",
+    "Answer": "Đó là Lễ hội đền Cửa Ông, ",
+    "Output RASA": "lễ hội~tri ân~Trần Quốc Tảng~bắt đầu vào~3\/2 Âm lịch"
+  },
+  {
+    "SPARQL": "SELECT distinct ?X  WHERE { {?X  vntourism:hasCommemorate vntourism:Trần_Quốc_Tảng} union {?X vntourism:hasCommemorate \"Trần Quốc Tảng\"} {?X vntourism:isHeldAt vntourism:Quảng_Ninh} union {?X vntourism:isHeldAt \"Quảng Ninh\"} ?X rdf:type vntourism:Festival}",
+    "Answer": "Đó là Lễ hội đền Cửa Ông, ",
+    "Output RASA": "Lễ hội~tưởng nhớ~Trần Quốc Tảng~được tổ chức~Quảng Ninh"
   }
 ]

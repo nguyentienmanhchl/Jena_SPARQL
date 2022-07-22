@@ -60,15 +60,15 @@ public class Controller {
             String[] time = InitJena.convertDate(list[3]);
             String type;
             if (list[2].contains("âm lịch") || list[2].contains("Âm lịch")) {
-                type= "vntourism:LunarCalendar";
+                type = "vntourism:LunarCalendar";
             } else {
-                type="time:ChronometricGeologicTime";
+                type = "time:ChronometricGeologicTime";
             }
             String query = "SELECT distinct ?X  " +
                     "WHERE { ?X " + list[1] + " ?T. " +
                     "?X rdf:type " + list[0] + " . " +
                     "?T rdf:type time:DateTimeDescription . " +
-                    "?T time:hasTRS "+type+" . "+
+                    "?T time:hasTRS " + type + " . " +
                     "?T time:month \"" + time[1] + "\" . " +
                     "optional{?T time:day \"" + time[2] + "\"}" +
                     "optional{?T time:year \"" + time[0] + "\"}}";
@@ -175,15 +175,23 @@ public class Controller {
 //        String queryString = "SELECT distinct  ?X  " +
 //                "WHERE { vntourism:" + s + "  ?Y  ?X. " +
 //                "?Y rdfs:comment " + list[1] + "}";
-        String queryString = "SELECT distinct  ?X " +
+        String queryString = "SELECT   ?X ?Z  " +
                 "WHERE {?Z " + list[1] + " ?X." +
                 "FILTER (lcase(str(?Z)) =\"" + Constant.PREFIX + s.toLowerCase() + "\" )}";
 
-        jsonObject.put("SPARQL", queryString);
+
         queryString = Constant.PREFIX_QUERY + queryString;
-        String queryResult = InitJena.getItems6(queryString);
-        String results = list[0] + " " + predicate + " " + queryResult;
-        if (queryResult.equals("")) {
+        String[] queryResult = InitJena.getItems6(queryString);
+
+        queryString = "SELECT ?X " +
+                "WHERE {" + queryResult[1] + " " + list[1] + " ?X.}";
+        String results = list[0] + " " + predicate + " " + queryResult[0];
+        if (!queryResult[1].equals("")) {
+            jsonObject.put("SPARQL", queryString);
+        } else {
+            jsonObject.put("SPARQL", "");
+        }
+        if (queryResult[0].equals("")) {
             jsonObject.put("Answer", "Tôi không biết.");
             FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
             return "Tôi không biết." + "~" + jsonObject.get("SPARQL");
