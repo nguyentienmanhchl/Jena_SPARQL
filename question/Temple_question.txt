@@ -1,2 +1,2 @@
-    - [đền]{"entity":"X"} nào nằm trong [Quảng Ninh]{"entity":"object"}?
-    - [đền]{"entity":"X"} nào nằm trong [Nam Định]{"entity":"object"}?
+    - [đền]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"nằm trong"} [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"}?
+    - [đền]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"nằm trong"} [Nam Định]{"entity":"object","value":"vntourism:Nam_Định"}?

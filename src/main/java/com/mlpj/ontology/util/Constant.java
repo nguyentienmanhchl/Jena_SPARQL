@@ -59,6 +59,9 @@ public class Constant {
         map.put("được mô tả là", "vntourism:hasDescription");
         map.put("có nguồn gốc từ", "vntourism:wasDerivedFrom");
         map.put("hay còn được gọi là", "vntourism:orKnownAs");
+
+        map.put("cha","vntourism:hasParent");
+        map.put("mẹ","vntourism:hasParent");
     }
 
 }

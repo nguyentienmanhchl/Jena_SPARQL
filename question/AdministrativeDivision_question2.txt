@@ -1,0 +1,1 @@
+    - đơn vị hành chính nào nằm trong [Ninh Bình]{"entity":"object","value":"vntourism:Ninh_Bình"} và nằm trong [Ninh Bình]{"entity":"object","value":"vntourism:Ninh_Bình"} ?

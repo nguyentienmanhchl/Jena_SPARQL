@@ -134,12 +134,14 @@ public class AnalysisOntology {
                 data = data.replaceAll("@vn", "");
                 String[] list = data.split("~");
                 String result;
-                result = "    - [" + list[0].toLowerCase(Locale.ROOT) + "]{\"entity\":\"X\"} nào " +  list[2]  + " [" + list[3] + "]{\"entity\":\"object\"}?\n";
-
-//                result = "    - [" + list[0].toLowerCase(Locale.ROOT) + "]{\"entity\":\"X\"} nào " + "[" + list[2] + "]{\"entity\":\"predicate\"} " + "[" + list[3] + "]{\"entity\":\"object\"}?\n";
+//                result = "    - [" + list[0].toLowerCase(Locale.ROOT) + "]{\"entity\":\"class\"} nào " + list[2] +
+//                        " [" + InitJena.pretty2(list[3]) + "]{\"entity\":\"object\",\"value\":\""+list[3]+"\"}?\n";
+                result = "    - [" + list[0].toLowerCase(Locale.ROOT) + "]{\"entity\":\"class\"} nào " +
+                        "[" + list[2] + "]{\"entity\":\"predicate\",\"value\":\""+list[2]+"\"}" +
+                        " [" + InitJena.pretty2(list[3]) + "]{\"entity\":\"object\",\"value\":\""+list[3]+"\"}?\n";
                 FileHelper.saveToFile(result, "question/" + list[4] + "_question.txt");
-                result = list[0].toLowerCase(Locale.ROOT)+" nào "+list[2]+" "+list[3]+"?\n";
-                FileHelper.saveToFile(result, "question.txt");
+//                result = list[0].toLowerCase(Locale.ROOT) + " nào " + list[2] + " " + InitJena.pretty2(list[3]) + "?\n";
+//                FileHelper.saveToFile(result, "question.txt");
 
             }
             myReader.close();
@@ -169,11 +171,12 @@ public class AnalysisOntology {
                             String result;
 //                            result = "    - [" + list1[0].toLowerCase(Locale.ROOT) + "]{\"entity\":\"X\"} nào " + "[" + list1[2] + "]{\"entity\":\"predicate\"} " + "[" + list1[3] + "]{\"entity\":\"object\"} " +
 //                                    "và [" + list2[2] + "]{\"entity\":\"predicate\"} " + "[" + list2[3] + "]{\"entity\":\"object\"} ?\n";
-                            result = "    - " + list1[0].toLowerCase(Locale.ROOT) + " nào " + list1[2] + " [" + list1[3] + "]{\"entity\":\"object\"} " +
-                                    "và " + list2[2] + " [" + list2[3] + "]{\"entity\":\"object\"} ?\n";
+                            result = "    - " + list1[0].toLowerCase(Locale.ROOT) + " nào " + list1[2] +
+                                    " [" + InitJena.pretty2(list1[3]) + "]{\"entity\":\"object\",\"value\":\""+list1[3]+"\"} " +
+                                    "và " + list2[2] + " [" + InitJena.pretty2(list2[3]) + "]{\"entity\":\"object\",\"value\":\""+list2[3]+"\"} ?\n";
                             FileHelper.saveToFile(result, "question/" + list1[4] + "_question2.txt");
-                            result =  list1[0].toLowerCase(Locale.ROOT) + " nào " + list1[2] + " " + list1[3] + " và " + list2[2] + " " + list2[3] + "?\n";
-                            FileHelper.saveToFile(result, "question.txt");
+//                            result = list1[0].toLowerCase(Locale.ROOT) + " nào " + list1[2] + " " + list1[3] + " và " + list2[2] + " " + list2[3] + "?\n";
+//                            FileHelper.saveToFile(result, "question.txt");
 
                         }
                     }
@@ -197,10 +200,10 @@ public class AnalysisOntology {
                 String[] list = data.split("~");
                 String result;
 //                result = "    - [" + list[1] + "]{\"entity\":\"object\"}  " + "[" + list[2] + "]{\"entity\":\"predicate\"} " + "?\n";
-                result = "    - [" + list[1] + "]{\"entity\":\"object\"}  " + list[2] + " ?\n";
+                result = "    - [" + InitJena.pretty2(list[1]) + "]{\"entity\":\"object\",\"value\":\""+list[1]+"\"}  " + list[2] + " ?\n";
                 FileHelper.saveToFile(result, "question/about_" + list[4] + "_question.txt");
-                result =   list[1] + " " + list[2] + " ?\n";
-                FileHelper.saveToFile(result, "question.txt");
+//                result = InitJena.pretty2(list[1]) + " " + list[2] + " ?\n";
+//                FileHelper.saveToFile(result, "question.txt");
 
 
             }

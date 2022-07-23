@@ -1,0 +1,1 @@
+    - [sự kiện lịch sử]{"entity":"class"} nào [liên quan]{"entity":"predicate","value":"liên quan"} [An Dương Vương]{"entity":"object","value":"vntourism:An_Dương_Vương"}?

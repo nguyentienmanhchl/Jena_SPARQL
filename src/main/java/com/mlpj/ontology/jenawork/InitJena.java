@@ -89,7 +89,8 @@ public class InitJena {
         List<String> listClass = new ArrayList<>();
         while (resultSet.hasNext()) {
             QuerySolution solution = resultSet.nextSolution();
-            String u = pretty(solution.get("U").toString());//class
+            String u = pretty(solution.get("U").toString())
+                    .replaceAll("vntourism:", "").replaceAll("time:", "");//class
             String y = pretty(solution.get("Y").toString());//label predicate
             String u1 = pretty(solution.get("U1").toString());//label class
             String z = pretty(solution.get("Z").toString());//object
@@ -412,6 +413,47 @@ public class InitJena {
         }
 
     }
+    //insert su kien
+    public static void insert3(String filename){
+        try{
+            OntModel m = ModelFactory.createOntologyModel(OntModelSpec.OWL_MEM, null);
+            InputStream in = FileManager.get().open(Constant.FILE);
+            m.read(in, null);
+
+            JSONParser jsonParser = new JSONParser();
+            FileReader reader = new FileReader(System.getProperty("user.dir") + "/"+filename);
+            Object obj = jsonParser.parse(reader);
+            JSONArray jsonArray = (JSONArray) obj;
+
+            Resource classPerson = m.getResource(Constant.PREFIX+"Person");
+            Resource classEvent = m.getResource(Constant.PREFIX+"HistoricEvent");
+            Property moTa = m.getProperty(Constant.PREFIX+"hasDescription");
+            Property relate = m.getProperty(Constant.PREFIX+"related");
+
+            for (int i = 0; i<jsonArray.size();i++){
+                JSONObject jsonObject = (JSONObject) jsonArray.get(i);
+                String event = jsonObject.get("su_kien").toString().replaceAll(" ","_");
+                String person = jsonObject.get("name").toString().replaceAll(" ","_");
+                Resource objectEvent = m.getResource(Constant.PREFIX+event);
+                Resource objectPerson = m.getResource(Constant.PREFIX+person);
+                m.add(objectEvent,RDF.type,classEvent);
+                m.add(objectPerson,RDF.type,classPerson);
+                m.add(objectEvent,moTa,jsonObject.get("su_kien").toString());
+                m.add(objectEvent,relate,objectPerson);
+                m.add(objectPerson,relate,objectEvent);
+
+            }
+
+            OutputStream output = new FileOutputStream(Constant.FILE);
+            m.write(output, "RDF/XML", null);
+            output.close();
+
+        }catch (Exception e){
+            e.printStackTrace();
+        }
+
+
+    }
 
     //khai bao type cho instant
     public static void insert(String name, String object) throws Exception {
@@ -617,18 +659,17 @@ public class InitJena {
     }
 
     public static String pretty(String s) {
-        String[] list = s.split("#");
-        String[] list2 = s.split("\\^");
-        if (list2.length > 1) {
-            return list2[0].replaceAll("_", " ");
+        String[] list = s.split("\\^");
+        if (list.length > 1) {
+            return list[0];
         }
+        return s.replaceAll("http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#", "vntourism:")
+                .replaceAll("http://www.w3.org/2006/time#", "time:");
 
-        if (list.length == 1) {
-            return s.replaceAll("_", " ");
-        } else {
-            return list[1].replaceAll("_", " ");
-        }
+    }
 
+    public static String pretty2(String s) {
+        return s.replaceAll("vntourism:", "").replaceAll("time:", "").replaceAll("_", " ");
     }
 
     public static String[] convertDate(String s) {
@@ -794,6 +835,7 @@ public class InitJena {
 //            insert("Xây_thành_Cổ_Loa","hasDescription","Xây thành Cổ Loa");
 //            insert2("Xây_thành_Cổ_Loa","related","An_Dương_Vương");
 
+//             insert3("su_kien.json");
 
         } catch (Exception e) {
             e.printStackTrace();
