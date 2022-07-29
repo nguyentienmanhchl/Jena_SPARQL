@@ -45,7 +45,7 @@ public class Constant {
         map.put("mất vào", "vntourism:hasDied");
         map.put("sinh vào", "vntourism:hasBorn");
         map.put("diễn ra vào", "vntourism:hasTimeHappen");
-        map.put("ở thời kỳ là", "vntourism:hasPeriod");
+        map.put("ở thời kỳ", "vntourism:hasPeriod");
         map.put("được xây dựng bởi", "vntourism:wasBuiltBy");
         map.put("giữ chức vụ", "vntourism:hasJob");
         map.put("có người kế vị là", "vntourism:hasSuccessor");

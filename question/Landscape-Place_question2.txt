@@ -1,1 +1,0 @@
-    - cảnh quan, địa điểm nào nằm trong [Ninh Bình]{"entity":"object","value":"vntourism:Ninh_Bình"} và nằm trong [Ninh Bình]{"entity":"object","value":"vntourism:Ninh_Bình"} ?

@@ -1,6 +1,0 @@
-    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"nằm trong"} [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"}?
-    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"nằm trong"} [Hà Nội]{"entity":"object","value":"vntourism:Hà_Nội"}?
-    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"nằm trong"} [Hà Nội]{"entity":"object","value":"vntourism:Hà_Nội"}?
-    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"nằm trong"} [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"}?
-    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"nằm trong"} [Ninh Bình]{"entity":"object","value":"vntourism:Ninh_Bình"}?
-    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"nằm trong"} [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"}?

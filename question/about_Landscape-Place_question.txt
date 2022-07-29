@@ -1,9 +1,0 @@
-    - [Hoa Lư]{"entity":"object","value":"vntourism:Hoa_Lư"}  nằm trong ?
-    - [Cột cờ Lũng Cú]{"entity":"object","value":"vntourism:Cột_cờ_Lũng_Cú"}  nằm trong ?
-    - [Lăng Bác]{"entity":"object","value":"vntourism:Lăng_Bác"}  nằm trong ?
-    - [Vườn quốc gia Cúc Phương]{"entity":"object","value":"vntourism:Vườn_quốc_gia_Cúc_Phương"}  nằm trong ?
-    - [Rừng thông Yên Minh]{"entity":"object","value":"vntourism:Rừng_thông_Yên_Minh"}  nằm trong ?
-    - [Văn Miếu]{"entity":"object","value":"vntourism:Văn_Miếu"}  nằm trong ?
-    - [Phố cổ Hà Nội]{"entity":"object","value":"vntourism:Phố_cổ_Hà_Nội"}  nằm trong ?
-    - [Thung lũng Sủng Là]{"entity":"object","value":"vntourism:Thung_lũng_Sủng_Là"}  nằm trong ?
-    - [Tràng An]{"entity":"object","value":"vntourism:Tràng_An"}  nằm trong ?

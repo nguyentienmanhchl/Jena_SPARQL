@@ -1,2 +1,0 @@
-    - [Hoa Lư]{"entity":"object","value":"vntourism:Hoa_Lư"}  nằm trong ?
-    - [Ái Châu]{"entity":"object","value":"vntourism:Ái_Châu"}  nằm trong ?

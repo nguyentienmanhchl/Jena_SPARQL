@@ -1,2 +1,0 @@
-    - [đơn vị hành chính]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"nằm trong"} [Ninh Bình]{"entity":"object","value":"vntourism:Ninh_Bình"}?
-    - [đơn vị hành chính]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"nằm trong"} [Thanh Hóa]{"entity":"object","value":"vntourism:Thanh_Hóa"}?

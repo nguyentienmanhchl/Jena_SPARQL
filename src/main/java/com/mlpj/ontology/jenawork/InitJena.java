@@ -56,6 +56,16 @@ public class InitJena {
         }
         return null;
     }
+    public static String getItems(String queryString){
+        ResultSet resultSet = execQuery(queryString);
+        String result = "";
+        while (resultSet.hasNext()){
+            QuerySolution solution = resultSet.nextSolution();
+            result += solution.get("X").toString().split("#")[1]+"~"+solution.get("Y")+"\n";
+        }
+        return result;
+
+    }
 
     public static String getItems2(String queryString) {
         ResultSet resultSet = execQuery(queryString);
@@ -83,7 +93,7 @@ public class InitJena {
         return result;
     }
 
-    public static String getItems3(String query) {
+    public static String getItems3(String query,String predicate) {
         ResultSet resultSet = execQuery(query);
         String result = "";
         List<String> listClass = new ArrayList<>();
@@ -97,7 +107,7 @@ public class InitJena {
             if (Constant.STRING_LIST.contains(u)) continue;
             if (u1.contains("@en") || y.contains("@en") || y.contains("@es") || z.contains("@en")) continue;
             //if (listClass.contains(u1)) continue;
-            result += u1 + "~" + pretty(solution.get("X").toString()) + "~" + y + "~" + z + "~" + u + "\n";
+            result += u1 + "~" + pretty(solution.get("X").toString()) + "~" + y + "~" + z + "~" + u +"~"+predicate+ "\n";
             listClass.add(u1);
         }
         qe.close();
@@ -126,6 +136,16 @@ public class InitJena {
         return result.replaceAll("_", " ");
     }
 
+    public static String getItems5(String queryString){
+        ResultSet resultSet = execQuery(queryString);
+        while (resultSet.hasNext()){
+            QuerySolution solution = resultSet.nextSolution();
+            String predicate = solution.get("X").toString();
+            if (predicate.contains("@en")||predicate.contains("@es")) continue;
+            return predicate.replaceAll("@vn","");
+        }
+        return "";
+    }
 
     public static String[] getItems6(String queryString) {
         ResultSet resultSet = execQuery(queryString);
@@ -165,20 +185,38 @@ public class InitJena {
         return result.replaceAll("_", " ");
     }
 
-    public static String getItems8(String queryString, String object) {
+    public static String getItems8(String queryString) {
         ResultSet resultSet = execQuery(queryString);
         String result = "";
+        String result1 = "";//isApartOf
+        String result2 = "";//related
+        String result3 = "";//isHeldAt
 
         while (resultSet.hasNext()) {
 
             QuerySolution solution = resultSet.nextSolution();
-            String z = solution.get("Z").toString();
-            if (z.contains("@en") || z.contains("@es")) {
-                continue;
-            }
-            z = z.replaceAll("@vn", "");
+
             String[] s = solution.get("X").toString().split("#");
-            result += (s.length > 1 ? s[1] : s[0]) + " " + z + " " + object + ", ";
+            String y = solution.get("Y").toString();
+            if (y.equals(Constant.PREFIX+"isApartOf")){
+                result1+=(s.length > 1 ? s[1] : s[0])+", ";
+            }
+            if (y.equals(Constant.PREFIX+"related")){
+                result2+=(s.length > 1 ? s[1] : s[0])+", ";
+            }
+            if (y.equals(Constant.PREFIX+"isHeldAt")){
+                result3+=(s.length > 1 ? s[1] : s[0])+", ";
+            }
+
+        }
+        if (!result1.equals("")){
+            result+= " có điểm đến hấp dẫn như "+result1;
+        }
+        if (!result2.equals("")){
+            result+= " liên quan đến "+result2;
+        }
+        if(!result3.equals("")){
+            result+=" tổ chức "+result3;
         }
         qe.close();
         return result.replaceAll("_", " ");
@@ -708,7 +746,7 @@ public class InitJena {
 //            InitJena.insert2("orKnownAs", "hay còn được gọi là");
 //            InitJena.insert2("hasReignTo", "trị vì");
 //            InitJena.insert2("hasTimeHappen", "diễn ra vào");
-//            InitJena.insert2("hasPeriod", "ở thời kỳ là");
+//            InitJena.insert2("hasPeriod", "ở thời kỳ");
 //            InitJena.insert2("wasBuiltBy", "được xây dựng bởi");
 //            InitJena.insert2("hasJob", "giữ chức vụ");
 //            InitJena.insert2("hasSuccessor", "có người kế vị là");
@@ -736,7 +774,7 @@ public class InitJena {
 //            InitJena.insert("pretty_people_data_8.json");
 ////            InitJena.insert2("festival_combination3.json");
 
-
+//
 //            OntModel m = ModelFactory.createOntologyModel(OntModelSpec.OWL_MEM, null);
 //            InputStream in = FileManager.get().open(Constant.FILE);
 //            m.read(in, null);
@@ -816,6 +854,14 @@ public class InitJena {
 //            insert3(m,"5_tháng_1_âm_lịch",Constant.PREFIX_TIME+"hasTRS","LunarCalendar");
 //
 //            insert2(m,"Lễ_hội_Đống_Đa","hasTimeHappen","5_tháng_1_âm_lịch");
+//            insert2(m,"Đền_Cửa_Ông","isApartOf","Northern");
+//            insert2(m,"Đền_Trần","isApartOf","Northern");
+//            insert2(m,"Chùa_Cái_Bầu","isApartOf","Northern");
+//            insert2(m,"Chùa_Bái_Đính","isApartOf","Northern");
+//            insert2(m,"Chùa_Hương","isApartOf","Northern");
+//            insert2(m,"Chùa_Ba_Vàng","isApartOf","Northern");
+//            insert2(m,"Chùa_Hà","isApartOf","Northern");
+//            insert2(m,"Yên_Tử","isApartOf","Northern");
 //
 //            OutputStream output = new FileOutputStream(Constant.FILE);
 //            m.write(output, "RDF/XML", null);
@@ -836,6 +882,32 @@ public class InitJena {
 //            insert2("Xây_thành_Cổ_Loa","related","An_Dương_Vương");
 
 //             insert3("su_kien.json");
+//            insert("Yên_Tử",Constant.PREFIX+"Landscape-Place");
+//            insert("Sông_Bạch_Đằng",Constant.PREFIX+"NaturalArea");
+//            insert("Sông_Bạch_Đằng","related","Nam_Hán");
+//            insert2("Đền_Cửa_Ông","worship","Trần_Quốc_Tảng");
+//            insert2("worship","thờ");
+//            insert("Hang_Sơn_Đoòng",Constant.PREFIX+"NaturalArea");
+//            insert("Hang_Đầu_Gỗ",Constant.PREFIX+"NaturalArea");
+//            insert2("Hang_Đầu_Gỗ","isApartOf","Hạ_Long");
+//            insert("Sa_Pa",Constant.PREFIX+"Landscape-Place");
+//            insert("Đà_Lạt",Constant.PREFIX+"Landscape-Place");
+//            insert("Trần_Khát_Chân",Constant.PREFIX+"Person");
+//            insert("Nguyễn_Trãi","hasPeriod","Hậu Lê");
+//            insert("Hạ_Long","hasDescription","Hạ Long thuộc tỉnh Quảng Ninh, được mệnh danh là thiên đường " +
+//                    "du lịch phía Bắc. Đến Hạ Long, bạn sẽ được thỏa sức khám phá, trải nghiệm, vui chơi. " +
+//                    "Đừng bỏ lỡ những địa điểm tham quan hấp dẫn như: vịnh Hạ Long, Sun World, chợ đêm, Tuần Châu...");
+//            insert("Vịnh_Hạ_Long","hasDescription","Vịnh Hạ Long có nhiều điểm đến hấp dẫn như đảo Tuần Châu, " +
+//                    "Hang Sửng Sốt, Động Thiên Cung, Núi Bài Thơ...");
+//            insert("Hà_Nội","hasDescription","Hà Nội là một trong 3 khu vực tập trung nhiều lễ hội nhất" +
+//                    " tại Việt Nam. Giống như những vùng khác, các lễ hội ở Hà Nội thường diễn ra vào mùa xuân. " +
+//                    "Các lễ hội được tổ chức nhằm tưởng nhớ công lao của các anh hùng lịch sử như Thánh Gióng, Nguyễn Huệ, " +
+//                    "An Dương Vương...Ngoài ra, Hà Nội còn có nhiều điểm đến thú vị như Văn Miếu, Hồ Gươm, " +
+//                    "Hồ Tây, Lăng Bác, Chùa Hương, Phố cổ Hà Nội, Chùa Hà...  ");
+//            insert2("Lễ_hội_Cổ_Loa","isHeldAt","Hà_Nội");
+
+//            insert("Thánh_Gióng",Constant.PREFIX+"Person");
+
 
         } catch (Exception e) {
             e.printStackTrace();

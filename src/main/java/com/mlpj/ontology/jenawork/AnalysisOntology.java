@@ -85,11 +85,11 @@ public class AnalysisOntology {
     public static String answer(String predicate) {
 
         String query = Constant.PREFIX_QUERY +
-                "SELECT   ?X ?Y ?Z ?U ?U1 WHERE { {?X vntourism:" + predicate + " ?Z.}union{?X time:" + predicate + " ?Z.}" +
+                "SELECT   ?X ?Y ?Z ?U ?U1 WHERE { ?X " + predicate + " ?Z." +
                 "?X rdf:type ?U." +
-                "{vntourism:" + predicate + " rdfs:comment ?Y}union{time:" + predicate + " rdfs:comment ?Y}" +
+                predicate + " rdfs:comment ?Y." +
                 "?U rdfs:label ?U1}";
-        String results = InitJena.getItems3(query);
+        String results = InitJena.getItems3(query,predicate);
         FileHelper.saveToFile(results, "answer.txt");
 
         return results;
@@ -100,24 +100,24 @@ public class AnalysisOntology {
 //        for (String s : list) {
 //            answer(s);
 //        }
-        String[] list = {"isApartOf",
-                "isHeldAt",
-                "wasBuiltIn",
-                "hasCommemorate",
-                "hasBeginning",
-                "hasEnd",
-                "related",
-                "hasDied",
-                "hasBorn",
-                "hasPredecessor",
-                "orKnownAs",
-                "hasBirthName",
-                "hasTimeHappen",
-                "chosenCapitalBy",
-                "wasBuiltBy",
-                "buriedPlace",
-                "hasSuccessor",
-                "hasBornAt"
+        String[] list = {"vntourism:isApartOf",
+                "vntourism:isHeldAt",
+                "vntourism:wasBuiltIn",
+                "vntourism:hasCommemorate",
+                "time:hasBeginning",
+                "time:hasEnd",
+                "vntourism:related",
+                "vntourism:hasDied",
+                "vntourism:hasBorn",
+                "vntourism:hasPredecessor",
+                "vntourism:orKnownAs",
+                "vntourism:hasBirthName",
+                "vntourism:hasTimeHappen",
+                "vntourism:chosenCapitalBy",
+                "vntourism:wasBuiltBy",
+                "vntourism:buriedPlace",
+                "vntourism:hasSuccessor",
+                "vntourism:hasBornAt"
         };
         for (int i = 0; i < list.length; i++) {
             answer(list[i]);
@@ -137,7 +137,7 @@ public class AnalysisOntology {
 //                result = "    - [" + list[0].toLowerCase(Locale.ROOT) + "]{\"entity\":\"class\"} nào " + list[2] +
 //                        " [" + InitJena.pretty2(list[3]) + "]{\"entity\":\"object\",\"value\":\""+list[3]+"\"}?\n";
                 result = "    - [" + list[0].toLowerCase(Locale.ROOT) + "]{\"entity\":\"class\"} nào " +
-                        "[" + list[2] + "]{\"entity\":\"predicate\",\"value\":\""+list[2]+"\"}" +
+                        "[" + list[2] + "]{\"entity\":\"predicate\",\"value\":\""+list[5]+"\"}" +
                         " [" + InitJena.pretty2(list[3]) + "]{\"entity\":\"object\",\"value\":\""+list[3]+"\"}?\n";
                 FileHelper.saveToFile(result, "question/" + list[4] + "_question.txt");
 //                result = list[0].toLowerCase(Locale.ROOT) + " nào " + list[2] + " " + InitJena.pretty2(list[3]) + "?\n";
