@@ -1,0 +1,5 @@
+    - [Kinh thành Huế]{"entity":"object","value":"vntourism:Kinh_thành_Huế"}  được xây dựng vào ?
+    - [Cổ Loa Citadel]{"entity":"object","value":"vntourism:Cổ_Loa_Citadel"}  được chọn làm thủ đô bởi ?
+    - [Cổ Loa Citadel]{"entity":"object","value":"vntourism:Cổ_Loa_Citadel"}  được chọn làm thủ đô bởi ?
+    - [Cổ Loa Citadel]{"entity":"object","value":"vntourism:Cổ_Loa_Citadel"}  được chọn làm thủ đô bởi ?
+    - [Cổ Loa Citadel]{"entity":"object","value":"vntourism:Cổ_Loa_Citadel"}  được xây dựng bởi ?

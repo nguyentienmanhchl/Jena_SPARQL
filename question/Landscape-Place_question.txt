@@ -1,0 +1,11 @@
+    - [cảnh quan, địa điểm]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Northern]{"entity":"object","value":"vntourism:Northern"}?
+    - [cảnh quan, địa điểm]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Ninh Bình]{"entity":"object","value":"vntourism:Ninh_Bình"}?
+    - [cảnh quan, địa điểm]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Hà Giang]{"entity":"object","value":"vntourism:Hà_Giang"}?
+    - [cảnh quan, địa điểm]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Hà Nội]{"entity":"object","value":"vntourism:Hà_Nội"}?
+    - [cảnh quan, địa điểm]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Ninh Bình]{"entity":"object","value":"vntourism:Ninh_Bình"}?
+    - [cảnh quan, địa điểm]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Hà Giang]{"entity":"object","value":"vntourism:Hà_Giang"}?
+    - [cảnh quan, địa điểm]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Hà Nội]{"entity":"object","value":"vntourism:Hà_Nội"}?
+    - [cảnh quan, địa điểm]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"}?
+    - [cảnh quan, địa điểm]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Hà Nội]{"entity":"object","value":"vntourism:Hà_Nội"}?
+    - [cảnh quan, địa điểm]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Hà Giang]{"entity":"object","value":"vntourism:Hà_Giang"}?
+    - [cảnh quan, địa điểm]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Ninh Bình]{"entity":"object","value":"vntourism:Ninh_Bình"}?

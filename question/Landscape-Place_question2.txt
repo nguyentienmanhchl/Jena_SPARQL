@@ -1,0 +1,7 @@
+    - cảnh quan, địa điểm nào nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} và nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} ?
+    - cảnh quan, địa điểm nào nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} và nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} ?
+    - cảnh quan, địa điểm nào nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} và nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} ?
+    - cảnh quan, địa điểm nào nằm trong [Ninh Bình]{"entity":"object","value":"vntourism:Ninh_Bình"} và nằm trong [Ninh Bình]{"entity":"object","value":"vntourism:Ninh_Bình"} ?
+    - cảnh quan, địa điểm nào nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} và nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} ?
+    - cảnh quan, địa điểm nào nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} và nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} ?
+    - cảnh quan, địa điểm nào nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} và nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} ?

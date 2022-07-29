@@ -1,0 +1,16 @@
+    - chùa nào nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} và nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} ?
+    - chùa nào nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} và nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} ?
+    - chùa nào nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} và nằm trong [Hà Nội]{"entity":"object","value":"vntourism:Hà_Nội"} ?
+    - chùa nào nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} và nằm trong [Ninh Bình]{"entity":"object","value":"vntourism:Ninh_Bình"} ?
+    - chùa nào nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} và nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} ?
+    - chùa nào nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} và nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} ?
+    - chùa nào nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} và nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} ?
+    - chùa nào nằm trong [Hà Nội]{"entity":"object","value":"vntourism:Hà_Nội"} và nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} ?
+    - chùa nào nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} và nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} ?
+    - chùa nào nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} và nằm trong [Hà Nội]{"entity":"object","value":"vntourism:Hà_Nội"} ?
+    - chùa nào nằm trong [Hà Nội]{"entity":"object","value":"vntourism:Hà_Nội"} và nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} ?
+    - chùa nào nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} và nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} ?
+    - chùa nào nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} và nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} ?
+    - chùa nào nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} và nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} ?
+    - chùa nào nằm trong [Ninh Bình]{"entity":"object","value":"vntourism:Ninh_Bình"} và nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} ?
+    - chùa nào nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} và nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} ?

@@ -1,0 +1,5 @@
+    - [kiến trúc thành quách]{"entity":"class"} nào [được xây dựng vào]{"entity":"predicate","value":"vntourism:wasBuiltIn"} [năm 1805]{"entity":"object","value":"năm 1805"}?
+    - [kiến trúc thành quách]{"entity":"class"} nào [được chọn làm thủ đô bởi]{"entity":"predicate","value":"vntourism:chosenCapitalBy"} [Ngô Quyền]{"entity":"object","value":"vntourism:Ngô_Quyền"}?
+    - [kiến trúc thành quách]{"entity":"class"} nào [được chọn làm thủ đô bởi]{"entity":"predicate","value":"vntourism:chosenCapitalBy"} [An Dương Vương]{"entity":"object","value":"vntourism:An_Dương_Vương"}?
+    - [kiến trúc thành quách]{"entity":"class"} nào [được chọn làm thủ đô bởi]{"entity":"predicate","value":"vntourism:chosenCapitalBy"} [Ngô Xương Văn]{"entity":"object","value":"vntourism:Ngô_Xương_Văn"}?
+    - [kiến trúc thành quách]{"entity":"class"} nào [được xây dựng bởi]{"entity":"predicate","value":"vntourism:wasBuiltBy"} [An Dương Vương]{"entity":"object","value":"vntourism:An_Dương_Vương"}?

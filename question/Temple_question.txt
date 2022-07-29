@@ -1,0 +1,4 @@
+    - [đền]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Northern]{"entity":"object","value":"vntourism:Northern"}?
+    - [đền]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"}?
+    - [đền]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Nam Định]{"entity":"object","value":"vntourism:Nam_Định"}?
+    - [đền]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Northern]{"entity":"object","value":"vntourism:Northern"}?

@@ -1,0 +1,1003 @@
+    - sự kiện lịch sử nào liên quan [Nguyễn Dực Tông]{"entity":"object","value":"vntourism:Nguyễn_Dực_Tông"} và liên quan [Tự Đức]{"entity":"object","value":"vntourism:Tự_Đức"} ?
+    - sự kiện lịch sử nào liên quan [Mạc Tuyên Tông]{"entity":"object","value":"vntourism:Mạc_Tuyên_Tông"} và liên quan [Mạc Phúc Nguyên]{"entity":"object","value":"vntourism:Mạc_Phúc_Nguyên"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thái Tổ]{"entity":"object","value":"vntourism:Lý_Thái_Tổ"} và liên quan [Lý Công Uẩn]{"entity":"object","value":"vntourism:Lý_Công_Uẩn"} ?
+    - sự kiện lịch sử nào liên quan [Trần Hưng Đạo]{"entity":"object","value":"vntourism:Trần_Hưng_Đạo"} và liên quan [Trần Quốc Tuấn]{"entity":"object","value":"vntourism:Trần_Quốc_Tuấn"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Trần Nghệ Tông]{"entity":"object","value":"vntourism:Trần_Nghệ_Tông"} và liên quan [Trần Phủ]{"entity":"object","value":"vntourism:Trần_Phủ"} ?
+    - sự kiện lịch sử nào liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} và liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Ngô Tuấn]{"entity":"object","value":"vntourism:Ngô_Tuấn"} và liên quan [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Phúc Đảm]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Đảm"} và liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Phúc Đảm]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Đảm"} và liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} và liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} ?
+    - sự kiện lịch sử nào liên quan [Trần Thái Tông]{"entity":"object","value":"vntourism:Trần_Thái_Tông"} và liên quan [Trần Cảnh]{"entity":"object","value":"vntourism:Trần_Cảnh"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} và liên quan [Nguyễn Sinh Côn]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Côn"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} và liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} và liên quan [Trần Đình Long]{"entity":"object","value":"vntourism:Trần_Đình_Long"} ?
+    - sự kiện lịch sử nào liên quan [Trần Quốc Tuấn]{"entity":"object","value":"vntourism:Trần_Quốc_Tuấn"} và liên quan [Trần Hưng Đạo]{"entity":"object","value":"vntourism:Trần_Hưng_Đạo"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Vĩnh Thụy]{"entity":"object","value":"vntourism:Nguyễn_Vĩnh_Thụy"} và liên quan [Bảo Đại]{"entity":"object","value":"vntourism:Bảo_Đại"} ?
+    - sự kiện lịch sử nào liên quan [Lý Bôn]{"entity":"object","value":"vntourism:Lý_Bôn"} và liên quan [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} và liên quan [Nguyễn Phúc Đảm]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Đảm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} và liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} ?
+    - sự kiện lịch sử nào liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} và liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Lý Quốc Sư]{"entity":"object","value":"vntourism:Lý_Quốc_Sư"} và liên quan [Nguyễn Minh Không]{"entity":"object","value":"vntourism:Nguyễn_Minh_Không"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Lê Tư Thành]{"entity":"object","value":"vntourism:Lê_Tư_Thành"} và liên quan [Lê Thánh Tôn]{"entity":"object","value":"vntourism:Lê_Thánh_Tôn"} ?
+    - sự kiện lịch sử nào liên quan [Lê Tư Thành]{"entity":"object","value":"vntourism:Lê_Tư_Thành"} và liên quan [Lê Thánh Tông]{"entity":"object","value":"vntourism:Lê_Thánh_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Tố Lý]{"entity":"object","value":"vntourism:Hoàng_Tố_Lý"} và liên quan [Hoàng Đình Bảo]{"entity":"object","value":"vntourism:Hoàng_Đình_Bảo"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Tố Lý]{"entity":"object","value":"vntourism:Hoàng_Tố_Lý"} và liên quan [quận Huy]{"entity":"object","value":"vntourism:quận_Huy"} ?
+    - sự kiện lịch sử nào liên quan [Trần Mạnh]{"entity":"object","value":"vntourism:Trần_Mạnh"} và liên quan [Trần Minh Tông]{"entity":"object","value":"vntourism:Trần_Minh_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} và liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} ?
+    - sự kiện lịch sử nào liên quan [Lê Bang Cơ]{"entity":"object","value":"vntourism:Lê_Bang_Cơ"} và liên quan [Lê Nhân Tông]{"entity":"object","value":"vntourism:Lê_Nhân_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Lý Công Uẩn]{"entity":"object","value":"vntourism:Lý_Công_Uẩn"} và liên quan [Lý Thái Tổ]{"entity":"object","value":"vntourism:Lý_Thái_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} và liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} và liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Quang Phục]{"entity":"object","value":"vntourism:Triệu_Quang_Phục"} và liên quan [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Côn]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Côn"} và liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Côn]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Côn"} và liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Trương Hống]{"entity":"object","value":"vntourism:Trương_Hống"} và liên quan [Trương Hát]{"entity":"object","value":"vntourism:Trương_Hát"} ?
+    - sự kiện lịch sử nào liên quan [Dương Ngọc Hoàn]{"entity":"object","value":"vntourism:Dương_Ngọc_Hoàn"} và liên quan [Dương Quý Phi]{"entity":"object","value":"vntourism:Dương_Quý_Phi"} ?
+    - sự kiện lịch sử nào liên quan [Trần Nguyên Hãn]{"entity":"object","value":"vntourism:Trần_Nguyên_Hãn"} và liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} ?
+    - sự kiện lịch sử nào liên quan [Lê Trãi]{"entity":"object","value":"vntourism:Lê_Trãi"} và liên quan [Nguyễn Trãi]{"entity":"object","value":"vntourism:Nguyễn_Trãi"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Phúc Đảm]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Đảm"} và liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Phúc Đảm]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Đảm"} và liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} và liên quan [Lý Bôn]{"entity":"object","value":"vntourism:Lý_Bôn"} ?
+    - sự kiện lịch sử nào liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} và liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Mạc Tuyên Tông]{"entity":"object","value":"vntourism:Mạc_Tuyên_Tông"} và liên quan [Mạc Phúc Nguyên]{"entity":"object","value":"vntourism:Mạc_Phúc_Nguyên"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Lê Quý Ly]{"entity":"object","value":"vntourism:Lê_Quý_Ly"} và liên quan [Hồ Quý Ly]{"entity":"object","value":"vntourism:Hồ_Quý_Ly"} ?
+    - sự kiện lịch sử nào liên quan [Lê Khả]{"entity":"object","value":"vntourism:Lê_Khả"} và liên quan [Trịnh Khả]{"entity":"object","value":"vntourism:Trịnh_Khả"} ?
+    - sự kiện lịch sử nào liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} và liên quan [Nguyễn Phúc Đảm]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Đảm"} ?
+    - sự kiện lịch sử nào liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} và liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Trần Cảnh]{"entity":"object","value":"vntourism:Trần_Cảnh"} và liên quan [Trần Thái Tông]{"entity":"object","value":"vntourism:Trần_Thái_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Trần Phủ]{"entity":"object","value":"vntourism:Trần_Phủ"} và liên quan [Trần Nghệ Tông]{"entity":"object","value":"vntourism:Trần_Nghệ_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Trần Hưng Đạo]{"entity":"object","value":"vntourism:Trần_Hưng_Đạo"} và liên quan [Trần Quốc Tuấn]{"entity":"object","value":"vntourism:Trần_Quốc_Tuấn"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Trần Hoảng]{"entity":"object","value":"vntourism:Trần_Hoảng"} và liên quan [Trần Thánh Tông]{"entity":"object","value":"vntourism:Trần_Thánh_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} và liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} và liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} và liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Phòng Át]{"entity":"object","value":"vntourism:Phạm_Phòng_Át"} và liên quan [Phạm Bạch Hổ]{"entity":"object","value":"vntourism:Phạm_Bạch_Hổ"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Côn]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Côn"} và liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Côn]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Côn"} và liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Côn]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Côn"} và liên quan [Trần Đình Long]{"entity":"object","value":"vntourism:Trần_Đình_Long"} ?
+    - sự kiện lịch sử nào liên quan [Lý Phật Mã]{"entity":"object","value":"vntourism:Lý_Phật_Mã"} và liên quan [Lý Thái Tông]{"entity":"object","value":"vntourism:Lý_Thái_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Trần Nhân Tông]{"entity":"object","value":"vntourism:Trần_Nhân_Tông"} và liên quan [Trần Khâm]{"entity":"object","value":"vntourism:Trần_Khâm"} ?
+    - sự kiện lịch sử nào liên quan [Lý Bôn]{"entity":"object","value":"vntourism:Lý_Bôn"} và liên quan [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Lý Huệ Tông]{"entity":"object","value":"vntourism:Lý_Huệ_Tông"} và liên quan [Lý Hạo Sảm]{"entity":"object","value":"vntourism:Lý_Hạo_Sảm"} ?
+    - sự kiện lịch sử nào liên quan [Lê Đại Hành]{"entity":"object","value":"vntourism:Lê_Đại_Hành"} và liên quan [Lê Hoàn]{"entity":"object","value":"vntourism:Lê_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Trần Nhân Tông]{"entity":"object","value":"vntourism:Trần_Nhân_Tông"} và liên quan [Trần Khâm]{"entity":"object","value":"vntourism:Trần_Khâm"} ?
+    - sự kiện lịch sử nào liên quan [Phan Sào Nam]{"entity":"object","value":"vntourism:Phan_Sào_Nam"} và liên quan [Phan Bội Châu]{"entity":"object","value":"vntourism:Phan_Bội_Châu"} ?
+    - sự kiện lịch sử nào liên quan [Trần Phủ]{"entity":"object","value":"vntourism:Trần_Phủ"} và liên quan [Trần Nghệ Tông]{"entity":"object","value":"vntourism:Trần_Nghệ_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} và liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} và liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} và liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} và liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} ?
+    - sự kiện lịch sử nào liên quan [Trương Hát]{"entity":"object","value":"vntourism:Trương_Hát"} và liên quan [Trương Hống]{"entity":"object","value":"vntourism:Trương_Hống"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thái Tông]{"entity":"object","value":"vntourism:Lý_Thái_Tông"} và liên quan [Lý Phật Mã]{"entity":"object","value":"vntourism:Lý_Phật_Mã"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Lê Tương Dực]{"entity":"object","value":"vntourism:Lê_Tương_Dực"} và liên quan [Lê Oanh]{"entity":"object","value":"vntourism:Lê_Oanh"} ?
+    - sự kiện lịch sử nào liên quan [Lý Triện]{"entity":"object","value":"vntourism:Lý_Triện"} và liên quan [Lê Triện]{"entity":"object","value":"vntourism:Lê_Triện"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Lê Sát]{"entity":"object","value":"vntourism:Lê_Sát"} và liên quan [Bùi Quốc Hưng]{"entity":"object","value":"vntourism:Bùi_Quốc_Hưng"} ?
+    - sự kiện lịch sử nào liên quan [Lê Sát]{"entity":"object","value":"vntourism:Lê_Sát"} và liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} ?
+    - sự kiện lịch sử nào liên quan [Lê Sát]{"entity":"object","value":"vntourism:Lê_Sát"} và liên quan [Nguyễn Lý]{"entity":"object","value":"vntourism:Nguyễn_Lý"} ?
+    - sự kiện lịch sử nào liên quan [Lê Sát]{"entity":"object","value":"vntourism:Lê_Sát"} và liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} ?
+    - sự kiện lịch sử nào liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} và liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Lê Quý Ly]{"entity":"object","value":"vntourism:Lê_Quý_Ly"} và liên quan [Hồ Quý Ly]{"entity":"object","value":"vntourism:Hồ_Quý_Ly"} ?
+    - sự kiện lịch sử nào liên quan [Trần Khâm]{"entity":"object","value":"vntourism:Trần_Khâm"} và liên quan [Trần Nhân Tông]{"entity":"object","value":"vntourism:Trần_Nhân_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Bùi Quốc Hưng]{"entity":"object","value":"vntourism:Bùi_Quốc_Hưng"} và liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} ?
+    - sự kiện lịch sử nào liên quan [Bùi Quốc Hưng]{"entity":"object","value":"vntourism:Bùi_Quốc_Hưng"} và liên quan [Lê Sát]{"entity":"object","value":"vntourism:Lê_Sát"} ?
+    - sự kiện lịch sử nào liên quan [Bùi Quốc Hưng]{"entity":"object","value":"vntourism:Bùi_Quốc_Hưng"} và liên quan [Nguyễn Lý]{"entity":"object","value":"vntourism:Nguyễn_Lý"} ?
+    - sự kiện lịch sử nào liên quan [Bùi Quốc Hưng]{"entity":"object","value":"vntourism:Bùi_Quốc_Hưng"} và liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Lê Liệt]{"entity":"object","value":"vntourism:Lê_Liệt"} và liên quan [Đinh Liệt]{"entity":"object","value":"vntourism:Đinh_Liệt"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} và liên quan [Triệu Quang Phục]{"entity":"object","value":"vntourism:Triệu_Quang_Phục"} ?
+    - sự kiện lịch sử nào liên quan [Dương Quý Phi]{"entity":"object","value":"vntourism:Dương_Quý_Phi"} và liên quan [Đặng Siêu]{"entity":"object","value":"vntourism:Đặng_Siêu"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Mạc Phúc Nguyên]{"entity":"object","value":"vntourism:Mạc_Phúc_Nguyên"} và liên quan [Mạc Tuyên Tông]{"entity":"object","value":"vntourism:Mạc_Tuyên_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Phan Sào Nam]{"entity":"object","value":"vntourism:Phan_Sào_Nam"} và liên quan [Phan Bội Châu]{"entity":"object","value":"vntourism:Phan_Bội_Châu"} ?
+    - sự kiện lịch sử nào liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} và liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Lê Mẫn Đế]{"entity":"object","value":"vntourism:Lê_Mẫn_Đế"} và liên quan [Lê Chiêu Thống]{"entity":"object","value":"vntourism:Lê_Chiêu_Thống"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Quang Phục]{"entity":"object","value":"vntourism:Triệu_Quang_Phục"} và liên quan [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Trần Mạnh]{"entity":"object","value":"vntourism:Trần_Mạnh"} và liên quan [Trần Minh Tông]{"entity":"object","value":"vntourism:Trần_Minh_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} và liên quan [Lê Trãi]{"entity":"object","value":"vntourism:Lê_Trãi"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} và liên quan [Nguyễn Trãi]{"entity":"object","value":"vntourism:Nguyễn_Trãi"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Trãi]{"entity":"object","value":"vntourism:Nguyễn_Trãi"} và liên quan [Lê Trãi]{"entity":"object","value":"vntourism:Lê_Trãi"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Trãi]{"entity":"object","value":"vntourism:Nguyễn_Trãi"} và liên quan [Lê Trãi]{"entity":"object","value":"vntourism:Lê_Trãi"} ?
+    - sự kiện lịch sử nào liên quan [Lê Mẫn Đế]{"entity":"object","value":"vntourism:Lê_Mẫn_Đế"} và liên quan [Lê Chiêu Thống]{"entity":"object","value":"vntourism:Lê_Chiêu_Thống"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Trần Minh Tông]{"entity":"object","value":"vntourism:Trần_Minh_Tông"} và liên quan [Trần Mạnh]{"entity":"object","value":"vntourism:Trần_Mạnh"} ?
+    - sự kiện lịch sử nào liên quan [Lê Liệt]{"entity":"object","value":"vntourism:Lê_Liệt"} và liên quan [Đinh Liệt]{"entity":"object","value":"vntourism:Đinh_Liệt"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Minh Không]{"entity":"object","value":"vntourism:Nguyễn_Minh_Không"} và liên quan [Lý Quốc Sư]{"entity":"object","value":"vntourism:Lý_Quốc_Sư"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} và liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Trần Minh Tông]{"entity":"object","value":"vntourism:Trần_Minh_Tông"} và liên quan [Trần Mạnh]{"entity":"object","value":"vntourism:Trần_Mạnh"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Liệt]{"entity":"object","value":"vntourism:Đinh_Liệt"} và liên quan [Lê Liệt]{"entity":"object","value":"vntourism:Lê_Liệt"} ?
+    - sự kiện lịch sử nào liên quan [Trần Nguyên Hãn]{"entity":"object","value":"vntourism:Trần_Nguyên_Hãn"} và liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} ?
+    - sự kiện lịch sử nào liên quan [Trần Nguyên Hãn]{"entity":"object","value":"vntourism:Trần_Nguyên_Hãn"} và liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} và liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} ?
+    - sự kiện lịch sử nào liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} và liên quan [Trần Nguyên Hãn]{"entity":"object","value":"vntourism:Trần_Nguyên_Hãn"} ?
+    - sự kiện lịch sử nào liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} và liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Trần Nghệ Tông]{"entity":"object","value":"vntourism:Trần_Nghệ_Tông"} và liên quan [Trần Phủ]{"entity":"object","value":"vntourism:Trần_Phủ"} ?
+    - sự kiện lịch sử nào liên quan [Lê Hoàn]{"entity":"object","value":"vntourism:Lê_Hoàn"} và liên quan [Lê Đại Hành]{"entity":"object","value":"vntourism:Lê_Đại_Hành"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} và liên quan [Bùi Quốc Hưng]{"entity":"object","value":"vntourism:Bùi_Quốc_Hưng"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} và liên quan [Lê Sát]{"entity":"object","value":"vntourism:Lê_Sát"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} và liên quan [Nguyễn Lý]{"entity":"object","value":"vntourism:Nguyễn_Lý"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} và liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} ?
+    - sự kiện lịch sử nào liên quan [Lê Trãi]{"entity":"object","value":"vntourism:Lê_Trãi"} và liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} ?
+    - sự kiện lịch sử nào liên quan [Lê Trãi]{"entity":"object","value":"vntourism:Lê_Trãi"} và liên quan [Nguyễn Trãi]{"entity":"object","value":"vntourism:Nguyễn_Trãi"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Bùi Quốc Hưng]{"entity":"object","value":"vntourism:Bùi_Quốc_Hưng"} và liên quan [Lê Sát]{"entity":"object","value":"vntourism:Lê_Sát"} ?
+    - sự kiện lịch sử nào liên quan [Bùi Quốc Hưng]{"entity":"object","value":"vntourism:Bùi_Quốc_Hưng"} và liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} ?
+    - sự kiện lịch sử nào liên quan [Bùi Quốc Hưng]{"entity":"object","value":"vntourism:Bùi_Quốc_Hưng"} và liên quan [Nguyễn Lý]{"entity":"object","value":"vntourism:Nguyễn_Lý"} ?
+    - sự kiện lịch sử nào liên quan [Bùi Quốc Hưng]{"entity":"object","value":"vntourism:Bùi_Quốc_Hưng"} và liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} ?
+    - sự kiện lịch sử nào liên quan [Phan Bội Châu]{"entity":"object","value":"vntourism:Phan_Bội_Châu"} và liên quan [Phan Sào Nam]{"entity":"object","value":"vntourism:Phan_Sào_Nam"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Lý Quốc Sư]{"entity":"object","value":"vntourism:Lý_Quốc_Sư"} và liên quan [Nguyễn Minh Không]{"entity":"object","value":"vntourism:Nguyễn_Minh_Không"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} và liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} ?
+    - sự kiện lịch sử nào liên quan [Lê Sát]{"entity":"object","value":"vntourism:Lê_Sát"} và liên quan [Bùi Quốc Hưng]{"entity":"object","value":"vntourism:Bùi_Quốc_Hưng"} ?
+    - sự kiện lịch sử nào liên quan [Lê Sát]{"entity":"object","value":"vntourism:Lê_Sát"} và liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} ?
+    - sự kiện lịch sử nào liên quan [Lê Sát]{"entity":"object","value":"vntourism:Lê_Sát"} và liên quan [Nguyễn Lý]{"entity":"object","value":"vntourism:Nguyễn_Lý"} ?
+    - sự kiện lịch sử nào liên quan [Lê Sát]{"entity":"object","value":"vntourism:Lê_Sát"} và liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thánh Tôn]{"entity":"object","value":"vntourism:Lê_Thánh_Tôn"} và liên quan [Lê Tư Thành]{"entity":"object","value":"vntourism:Lê_Tư_Thành"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thánh Tôn]{"entity":"object","value":"vntourism:Lê_Thánh_Tôn"} và liên quan [Lê Thánh Tông]{"entity":"object","value":"vntourism:Lê_Thánh_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Trãi]{"entity":"object","value":"vntourism:Nguyễn_Trãi"} và liên quan [Lê Trãi]{"entity":"object","value":"vntourism:Lê_Trãi"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"} và liên quan [Ngô Tuấn]{"entity":"object","value":"vntourism:Ngô_Tuấn"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} và liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} và liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} và liên quan [Triệu Quang Phục]{"entity":"object","value":"vntourism:Triệu_Quang_Phục"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Tố Lý]{"entity":"object","value":"vntourism:Hoàng_Tố_Lý"} và liên quan [quận Huy]{"entity":"object","value":"vntourism:quận_Huy"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Tố Lý]{"entity":"object","value":"vntourism:Hoàng_Tố_Lý"} và liên quan [Hoàng Đình Bảo]{"entity":"object","value":"vntourism:Hoàng_Đình_Bảo"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} và liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Bảo Đại]{"entity":"object","value":"vntourism:Bảo_Đại"} và liên quan [Nguyễn Vĩnh Thụy]{"entity":"object","value":"vntourism:Nguyễn_Vĩnh_Thụy"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} và liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} ?
+    - sự kiện lịch sử nào liên quan [Mạc Phúc Nguyên]{"entity":"object","value":"vntourism:Mạc_Phúc_Nguyên"} và liên quan [Mạc Tuyên Tông]{"entity":"object","value":"vntourism:Mạc_Tuyên_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Bảo Đại]{"entity":"object","value":"vntourism:Bảo_Đại"} và liên quan [Nguyễn Vĩnh Thụy]{"entity":"object","value":"vntourism:Nguyễn_Vĩnh_Thụy"} ?
+    - sự kiện lịch sử nào liên quan [Hồ Quý Ly]{"entity":"object","value":"vntourism:Hồ_Quý_Ly"} và liên quan [Lê Quý Ly]{"entity":"object","value":"vntourism:Lê_Quý_Ly"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thánh Tông]{"entity":"object","value":"vntourism:Lê_Thánh_Tông"} và liên quan [Lê Tư Thành]{"entity":"object","value":"vntourism:Lê_Tư_Thành"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thánh Tông]{"entity":"object","value":"vntourism:Lê_Thánh_Tông"} và liên quan [Lê Thánh Tôn]{"entity":"object","value":"vntourism:Lê_Thánh_Tôn"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} và liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} và liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Lý Hạo Sảm]{"entity":"object","value":"vntourism:Lý_Hạo_Sảm"} và liên quan [Lý Huệ Tông]{"entity":"object","value":"vntourism:Lý_Huệ_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} và liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} ?
+    - sự kiện lịch sử nào liên quan [Trần Nghệ Tông]{"entity":"object","value":"vntourism:Trần_Nghệ_Tông"} và liên quan [Trần Phủ]{"entity":"object","value":"vntourism:Trần_Phủ"} ?
+    - sự kiện lịch sử nào liên quan [Trần Minh Tông]{"entity":"object","value":"vntourism:Trần_Minh_Tông"} và liên quan [Trần Mạnh]{"entity":"object","value":"vntourism:Trần_Mạnh"} ?
+    - sự kiện lịch sử nào liên quan [Trần Minh Tông]{"entity":"object","value":"vntourism:Trần_Minh_Tông"} và liên quan [Ngô Tuấn]{"entity":"object","value":"vntourism:Ngô_Tuấn"} ?
+    - sự kiện lịch sử nào liên quan [Trần Minh Tông]{"entity":"object","value":"vntourism:Trần_Minh_Tông"} và liên quan [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Đặng Siêu]{"entity":"object","value":"vntourism:Đặng_Siêu"} và liên quan [Dương Quý Phi]{"entity":"object","value":"vntourism:Dương_Quý_Phi"} ?
+    - sự kiện lịch sử nào liên quan [Đặng Siêu]{"entity":"object","value":"vntourism:Đặng_Siêu"} và liên quan [Hoàng Dũng]{"entity":"object","value":"vntourism:Hoàng_Dũng"} ?
+    - sự kiện lịch sử nào liên quan [quận Huy]{"entity":"object","value":"vntourism:quận_Huy"} và liên quan [Hoàng Tố Lý]{"entity":"object","value":"vntourism:Hoàng_Tố_Lý"} ?
+    - sự kiện lịch sử nào liên quan [quận Huy]{"entity":"object","value":"vntourism:quận_Huy"} và liên quan [Hoàng Đình Bảo]{"entity":"object","value":"vntourism:Hoàng_Đình_Bảo"} ?
+    - sự kiện lịch sử nào liên quan [Quận Việp]{"entity":"object","value":"vntourism:Quận_Việp"} và liên quan [Hoàng Ngũ Phúc]{"entity":"object","value":"vntourism:Hoàng_Ngũ_Phúc"} ?
+    - sự kiện lịch sử nào liên quan [Ngô Tuấn]{"entity":"object","value":"vntourism:Ngô_Tuấn"} và liên quan [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"} ?
+    - sự kiện lịch sử nào liên quan [Trần Mạnh]{"entity":"object","value":"vntourism:Trần_Mạnh"} và liên quan [Trần Minh Tông]{"entity":"object","value":"vntourism:Trần_Minh_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Trần Mạnh]{"entity":"object","value":"vntourism:Trần_Mạnh"} và liên quan [Ngô Tuấn]{"entity":"object","value":"vntourism:Ngô_Tuấn"} ?
+    - sự kiện lịch sử nào liên quan [Trần Mạnh]{"entity":"object","value":"vntourism:Trần_Mạnh"} và liên quan [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Phòng Át]{"entity":"object","value":"vntourism:Phạm_Phòng_Át"} và liên quan [Phạm Bạch Hổ]{"entity":"object","value":"vntourism:Phạm_Bạch_Hổ"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Lý Hạo Sảm]{"entity":"object","value":"vntourism:Lý_Hạo_Sảm"} và liên quan [Lý Huệ Tông]{"entity":"object","value":"vntourism:Lý_Huệ_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} và liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Dương Quý Phi]{"entity":"object","value":"vntourism:Dương_Quý_Phi"} và liên quan [Đặng Siêu]{"entity":"object","value":"vntourism:Đặng_Siêu"} ?
+    - sự kiện lịch sử nào liên quan [Dương Quý Phi]{"entity":"object","value":"vntourism:Dương_Quý_Phi"} và liên quan [Hoàng Dũng]{"entity":"object","value":"vntourism:Hoàng_Dũng"} ?
+    - sự kiện lịch sử nào liên quan [Dương Ngọc Hoàn]{"entity":"object","value":"vntourism:Dương_Ngọc_Hoàn"} và liên quan [Dương Quý Phi]{"entity":"object","value":"vntourism:Dương_Quý_Phi"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Ngô Tuấn]{"entity":"object","value":"vntourism:Ngô_Tuấn"} và liên quan [Trần Minh Tông]{"entity":"object","value":"vntourism:Trần_Minh_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Ngô Tuấn]{"entity":"object","value":"vntourism:Ngô_Tuấn"} và liên quan [Trần Mạnh]{"entity":"object","value":"vntourism:Trần_Mạnh"} ?
+    - sự kiện lịch sử nào liên quan [Ngô Tuấn]{"entity":"object","value":"vntourism:Ngô_Tuấn"} và liên quan [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"} ?
+    - sự kiện lịch sử nào liên quan [Lê Nhân Tông]{"entity":"object","value":"vntourism:Lê_Nhân_Tông"} và liên quan [Lê Bang Cơ]{"entity":"object","value":"vntourism:Lê_Bang_Cơ"} ?
+    - sự kiện lịch sử nào liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} và liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} ?
+    - sự kiện lịch sử nào liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} và liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} ?
+    - sự kiện lịch sử nào liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} và liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} ?
+    - sự kiện lịch sử nào liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} và mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} và mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} và có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} và có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} và tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} ?
+    - sự kiện lịch sử nào liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} và tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} ?
+    - sự kiện lịch sử nào liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} và có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} ?
+    - sự kiện lịch sử nào liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} và có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Liệt]{"entity":"object","value":"vntourism:Đinh_Liệt"} và liên quan [Lê Liệt]{"entity":"object","value":"vntourism:Lê_Liệt"} ?
+    - sự kiện lịch sử nào liên quan [Trịnh Tú]{"entity":"object","value":"vntourism:Trịnh_Tú"} và liên quan [Phạm Hạp]{"entity":"object","value":"vntourism:Phạm_Hạp"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Vũ Văn Nhậm]{"entity":"object","value":"vntourism:Vũ_Văn_Nhậm"} và liên quan [Đặng Tiến Đông]{"entity":"object","value":"vntourism:Đặng_Tiến_Đông"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Trần Thánh Tông]{"entity":"object","value":"vntourism:Trần_Thánh_Tông"} và liên quan [Trần Hoảng]{"entity":"object","value":"vntourism:Trần_Hoảng"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Ngô Viết Thụ]{"entity":"object","value":"vntourism:Ngô_Viết_Thụ"} và liên quan [Nguyễn Tài]{"entity":"object","value":"vntourism:Nguyễn_Tài"} ?
+    - sự kiện lịch sử nào liên quan [Lê Hoàn]{"entity":"object","value":"vntourism:Lê_Hoàn"} và liên quan [Lê Đại Hành]{"entity":"object","value":"vntourism:Lê_Đại_Hành"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} và liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} ?
+    - sự kiện lịch sử nào liên quan [Vũ Văn Dũng]{"entity":"object","value":"vntourism:Vũ_Văn_Dũng"} và liên quan [Lê Quí Đôn]{"entity":"object","value":"vntourism:Lê_Quí_Đôn"} ?
+    - sự kiện lịch sử nào liên quan [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} và liên quan [Lý Bôn]{"entity":"object","value":"vntourism:Lý_Bôn"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Lý Hạo Sảm]{"entity":"object","value":"vntourism:Lý_Hạo_Sảm"} và liên quan [Lý Huệ Tông]{"entity":"object","value":"vntourism:Lý_Huệ_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Trần Nhân Tông]{"entity":"object","value":"vntourism:Trần_Nhân_Tông"} và liên quan [Trần Khâm]{"entity":"object","value":"vntourism:Trần_Khâm"} ?
+    - sự kiện lịch sử nào liên quan [Dương Quý Phi]{"entity":"object","value":"vntourism:Dương_Quý_Phi"} và liên quan [Dương Ngọc Hoàn]{"entity":"object","value":"vntourism:Dương_Ngọc_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} và liên quan [Nguyễn Sinh Côn]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Côn"} ?
+    - sự kiện lịch sử nào liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} và liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} ?
+    - sự kiện lịch sử nào liên quan [Trần Anh Tông]{"entity":"object","value":"vntourism:Trần_Anh_Tông"} và liên quan [Trần Thuyên]{"entity":"object","value":"vntourism:Trần_Thuyên"} ?
+    - sự kiện lịch sử nào liên quan [Bảo Đại]{"entity":"object","value":"vntourism:Bảo_Đại"} và liên quan [Nguyễn Vĩnh Thụy]{"entity":"object","value":"vntourism:Nguyễn_Vĩnh_Thụy"} ?
+    - sự kiện lịch sử nào liên quan [Phan Sào Nam]{"entity":"object","value":"vntourism:Phan_Sào_Nam"} và liên quan [Phan Bội Châu]{"entity":"object","value":"vntourism:Phan_Bội_Châu"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Phan Sào Nam]{"entity":"object","value":"vntourism:Phan_Sào_Nam"} và liên quan [Phan Bội Châu]{"entity":"object","value":"vntourism:Phan_Bội_Châu"} ?
+    - sự kiện lịch sử nào liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} và liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} ?
+    - sự kiện lịch sử nào liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} và liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} ?
+    - sự kiện lịch sử nào liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} và liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} ?
+    - sự kiện lịch sử nào liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} và liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} ?
+    - sự kiện lịch sử nào liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} và liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} ?
+    - sự kiện lịch sử nào liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} và mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} và mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} và sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} và sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} và tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} ?
+    - sự kiện lịch sử nào liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} và tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} ?
+    - sự kiện lịch sử nào liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} và có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} và có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} và liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} và liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} ?
+    - sự kiện lịch sử nào liên quan [Ngô Tuấn]{"entity":"object","value":"vntourism:Ngô_Tuấn"} và liên quan [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} và liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} và liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Ngũ Phúc]{"entity":"object","value":"vntourism:Hoàng_Ngũ_Phúc"} và liên quan [Quận Việp]{"entity":"object","value":"vntourism:Quận_Việp"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} và liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} và liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} và liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} và liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} và liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} ?
+    - sự kiện lịch sử nào liên quan [Lê Trãi]{"entity":"object","value":"vntourism:Lê_Trãi"} và liên quan [Nguyễn Trãi]{"entity":"object","value":"vntourism:Nguyễn_Trãi"} ?
+    - sự kiện lịch sử nào liên quan [Lê Đại Hành]{"entity":"object","value":"vntourism:Lê_Đại_Hành"} và liên quan [Lê Hoàn]{"entity":"object","value":"vntourism:Lê_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Quận Việp]{"entity":"object","value":"vntourism:Quận_Việp"} và liên quan [Hoàng Ngũ Phúc]{"entity":"object","value":"vntourism:Hoàng_Ngũ_Phúc"} ?
+    - sự kiện lịch sử nào liên quan [Khúc Thừa Hạo]{"entity":"object","value":"vntourism:Khúc_Thừa_Hạo"} và liên quan [Khúc Hạo]{"entity":"object","value":"vntourism:Khúc_Hạo"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Trần Minh Tông]{"entity":"object","value":"vntourism:Trần_Minh_Tông"} và liên quan [Trần Mạnh]{"entity":"object","value":"vntourism:Trần_Mạnh"} ?
+    - sự kiện lịch sử nào liên quan [Trương Hống]{"entity":"object","value":"vntourism:Trương_Hống"} và liên quan [Trương Hát]{"entity":"object","value":"vntourism:Trương_Hát"} ?
+    - sự kiện lịch sử nào liên quan [Lý Quốc Sư]{"entity":"object","value":"vntourism:Lý_Quốc_Sư"} và liên quan [Nguyễn Minh Không]{"entity":"object","value":"vntourism:Nguyễn_Minh_Không"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Võ Vương]{"entity":"object","value":"vntourism:Võ_Vương"} và liên quan [Nguyễn Phúc Khoát]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Khoát"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Phúc Đảm]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Đảm"} và liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Phúc Đảm]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Đảm"} và liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Minh Không]{"entity":"object","value":"vntourism:Nguyễn_Minh_Không"} và liên quan [Lý Quốc Sư]{"entity":"object","value":"vntourism:Lý_Quốc_Sư"} ?
+    - sự kiện lịch sử nào liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} và liên quan [Nguyễn Phúc Đảm]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Đảm"} ?
+    - sự kiện lịch sử nào liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} và liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} và liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} và liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} và liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} và liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} và liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} và liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} và mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} và mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} và sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} và sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} và tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} và tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} và có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} và có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} và liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} ?
+    - sự kiện lịch sử nào liên quan [Trần Khâm]{"entity":"object","value":"vntourism:Trần_Khâm"} và liên quan [Trần Nhân Tông]{"entity":"object","value":"vntourism:Trần_Nhân_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Dương Ngọc Hoàn]{"entity":"object","value":"vntourism:Dương_Ngọc_Hoàn"} và liên quan [Dương Quý Phi]{"entity":"object","value":"vntourism:Dương_Quý_Phi"} ?
+    - sự kiện lịch sử nào liên quan [Lý Long Cán]{"entity":"object","value":"vntourism:Lý_Long_Cán"} và liên quan [Lý Cao Tông]{"entity":"object","value":"vntourism:Lý_Cao_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} và liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} ?
+    - sự kiện lịch sử nào liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} và liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Trần Khâm]{"entity":"object","value":"vntourism:Trần_Khâm"} và liên quan [Trần Nhân Tông]{"entity":"object","value":"vntourism:Trần_Nhân_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Đào Duy Anh]{"entity":"object","value":"vntourism:Đào_Duy_Anh"} và liên quan [Đặng Tiểu Bình]{"entity":"object","value":"vntourism:Đặng_Tiểu_Bình"} ?
+    - sự kiện lịch sử nào liên quan [Trịnh Khả]{"entity":"object","value":"vntourism:Trịnh_Khả"} và liên quan [Lê Khả]{"entity":"object","value":"vntourism:Lê_Khả"} ?
+    - sự kiện lịch sử nào liên quan [Lý Huệ Tông]{"entity":"object","value":"vntourism:Lý_Huệ_Tông"} và liên quan [Lý Hạo Sảm]{"entity":"object","value":"vntourism:Lý_Hạo_Sảm"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Lê Nhân Tông]{"entity":"object","value":"vntourism:Lê_Nhân_Tông"} và liên quan [Lê Bang Cơ]{"entity":"object","value":"vntourism:Lê_Bang_Cơ"} ?
+    - sự kiện lịch sử nào liên quan [Trần Mạnh]{"entity":"object","value":"vntourism:Trần_Mạnh"} và liên quan [Trần Minh Tông]{"entity":"object","value":"vntourism:Trần_Minh_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Lý]{"entity":"object","value":"vntourism:Nguyễn_Lý"} và liên quan [Bùi Quốc Hưng]{"entity":"object","value":"vntourism:Bùi_Quốc_Hưng"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Lý]{"entity":"object","value":"vntourism:Nguyễn_Lý"} và liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Lý]{"entity":"object","value":"vntourism:Nguyễn_Lý"} và liên quan [Lê Sát]{"entity":"object","value":"vntourism:Lê_Sát"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Lý]{"entity":"object","value":"vntourism:Nguyễn_Lý"} và liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} ?
+    - sự kiện lịch sử nào liên quan [Lê Trãi]{"entity":"object","value":"vntourism:Lê_Trãi"} và liên quan [Nguyễn Trãi]{"entity":"object","value":"vntourism:Nguyễn_Trãi"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Vĩnh Thụy]{"entity":"object","value":"vntourism:Nguyễn_Vĩnh_Thụy"} và liên quan [Bảo Đại]{"entity":"object","value":"vntourism:Bảo_Đại"} ?
+    - sự kiện lịch sử nào liên quan [Trần Thuyên]{"entity":"object","value":"vntourism:Trần_Thuyên"} và liên quan [Trần Anh Tông]{"entity":"object","value":"vntourism:Trần_Anh_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Phan Bội Châu]{"entity":"object","value":"vntourism:Phan_Bội_Châu"} và liên quan [Phan Sào Nam]{"entity":"object","value":"vntourism:Phan_Sào_Nam"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Dương Quý Phi]{"entity":"object","value":"vntourism:Dương_Quý_Phi"} và liên quan [Dương Ngọc Hoàn]{"entity":"object","value":"vntourism:Dương_Ngọc_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} và liên quan [Bùi Quốc Hưng]{"entity":"object","value":"vntourism:Bùi_Quốc_Hưng"} ?
+    - sự kiện lịch sử nào liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} và liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} ?
+    - sự kiện lịch sử nào liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} và liên quan [Lê Sát]{"entity":"object","value":"vntourism:Lê_Sát"} ?
+    - sự kiện lịch sử nào liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} và liên quan [Nguyễn Lý]{"entity":"object","value":"vntourism:Nguyễn_Lý"} ?
+    - sự kiện lịch sử nào liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} và liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Lý Hạo Sảm]{"entity":"object","value":"vntourism:Lý_Hạo_Sảm"} và liên quan [Lý Huệ Tông]{"entity":"object","value":"vntourism:Lý_Huệ_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Văn Lịch]{"entity":"object","value":"vntourism:Nguyễn_Văn_Lịch"} và liên quan [Nguyễn Trung Trực]{"entity":"object","value":"vntourism:Nguyễn_Trung_Trực"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Trần Nghệ Tông]{"entity":"object","value":"vntourism:Trần_Nghệ_Tông"} và liên quan [Trần Phủ]{"entity":"object","value":"vntourism:Trần_Phủ"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} và liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} và liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Hải Thần]{"entity":"object","value":"vntourism:Nguyễn_Hải_Thần"} và liên quan [Ngô Đình Diệm]{"entity":"object","value":"vntourism:Ngô_Đình_Diệm"} ?
+    - sự kiện lịch sử nào liên quan [Bảo Đại]{"entity":"object","value":"vntourism:Bảo_Đại"} và liên quan [Nguyễn Vĩnh Thụy]{"entity":"object","value":"vntourism:Nguyễn_Vĩnh_Thụy"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} và liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} ?
+    - sự kiện lịch sử nào liên quan [Trần Cảnh]{"entity":"object","value":"vntourism:Trần_Cảnh"} và liên quan [Trần Thái Tông]{"entity":"object","value":"vntourism:Trần_Thái_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Dực Tông]{"entity":"object","value":"vntourism:Nguyễn_Dực_Tông"} và liên quan [Tự Đức]{"entity":"object","value":"vntourism:Tự_Đức"} ?
+    - sự kiện lịch sử nào liên quan [Phan Bội Châu]{"entity":"object","value":"vntourism:Phan_Bội_Châu"} và liên quan [Phan Sào Nam]{"entity":"object","value":"vntourism:Phan_Sào_Nam"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} và liên quan [Lê Sát]{"entity":"object","value":"vntourism:Lê_Sát"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} và liên quan [Bùi Quốc Hưng]{"entity":"object","value":"vntourism:Bùi_Quốc_Hưng"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} và liên quan [Nguyễn Lý]{"entity":"object","value":"vntourism:Nguyễn_Lý"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} và liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} ?
+    - sự kiện lịch sử nào liên quan [Lê Bang Cơ]{"entity":"object","value":"vntourism:Lê_Bang_Cơ"} và liên quan [Lê Nhân Tông]{"entity":"object","value":"vntourism:Lê_Nhân_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Mạc Đăng Dung]{"entity":"object","value":"vntourism:Mạc_Đăng_Dung"} và liên quan [Mạc Thái Tổ]{"entity":"object","value":"vntourism:Mạc_Thái_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} và liên quan [Nguyễn Phúc Đảm]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Đảm"} ?
+    - sự kiện lịch sử nào liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} và liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Khúc Hạo]{"entity":"object","value":"vntourism:Khúc_Hạo"} và liên quan [Khúc Thừa Hạo]{"entity":"object","value":"vntourism:Khúc_Thừa_Hạo"} ?
+    - sự kiện lịch sử nào liên quan [Trần Thuyên]{"entity":"object","value":"vntourism:Trần_Thuyên"} và liên quan [Trần Anh Tông]{"entity":"object","value":"vntourism:Trần_Anh_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} và liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} và liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Phan Bội Châu]{"entity":"object","value":"vntourism:Phan_Bội_Châu"} và liên quan [Phan Sào Nam]{"entity":"object","value":"vntourism:Phan_Sào_Nam"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Tài]{"entity":"object","value":"vntourism:Nguyễn_Tài"} và liên quan [Ngô Viết Thụ]{"entity":"object","value":"vntourism:Ngô_Viết_Thụ"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Vĩnh Thụy]{"entity":"object","value":"vntourism:Nguyễn_Vĩnh_Thụy"} và liên quan [Bảo Đại]{"entity":"object","value":"vntourism:Bảo_Đại"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thái Tông]{"entity":"object","value":"vntourism:Lý_Thái_Tông"} và liên quan [Lý Phật Mã]{"entity":"object","value":"vntourism:Lý_Phật_Mã"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} và liên quan [Nguyễn Phúc Đảm]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Đảm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} và liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} ?
+    - sự kiện lịch sử nào liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} và liên quan [Trần Nguyên Hãn]{"entity":"object","value":"vntourism:Trần_Nguyên_Hãn"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} và liên quan [Nguyễn Sinh Côn]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Côn"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} và liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} ?
+    - sự kiện lịch sử nào liên quan [Trần Thánh Tông]{"entity":"object","value":"vntourism:Trần_Thánh_Tông"} và liên quan [Trần Hoảng]{"entity":"object","value":"vntourism:Trần_Hoảng"} ?
+    - sự kiện lịch sử nào liên quan [Trần Quốc Tuấn]{"entity":"object","value":"vntourism:Trần_Quốc_Tuấn"} và liên quan [Trần Hưng Đạo]{"entity":"object","value":"vntourism:Trần_Hưng_Đạo"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thái Tông]{"entity":"object","value":"vntourism:Lý_Thái_Tông"} và liên quan [Lý Phật Mã]{"entity":"object","value":"vntourism:Lý_Phật_Mã"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Phan Bội Châu]{"entity":"object","value":"vntourism:Phan_Bội_Châu"} và liên quan [Phan Sào Nam]{"entity":"object","value":"vntourism:Phan_Sào_Nam"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Trần Phủ]{"entity":"object","value":"vntourism:Trần_Phủ"} và liên quan [Trần Nghệ Tông]{"entity":"object","value":"vntourism:Trần_Nghệ_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Mạc Tuyên Tông]{"entity":"object","value":"vntourism:Mạc_Tuyên_Tông"} và liên quan [Mạc Phúc Nguyên]{"entity":"object","value":"vntourism:Mạc_Phúc_Nguyên"} ?
+    - sự kiện lịch sử nào liên quan [Dương Quý Phi]{"entity":"object","value":"vntourism:Dương_Quý_Phi"} và liên quan [Dương Ngọc Hoàn]{"entity":"object","value":"vntourism:Dương_Ngọc_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Đình Bảo]{"entity":"object","value":"vntourism:Hoàng_Đình_Bảo"} và liên quan [Hoàng Tố Lý]{"entity":"object","value":"vntourism:Hoàng_Tố_Lý"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Đình Bảo]{"entity":"object","value":"vntourism:Hoàng_Đình_Bảo"} và liên quan [quận Huy]{"entity":"object","value":"vntourism:quận_Huy"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Ngũ Phúc]{"entity":"object","value":"vntourism:Hoàng_Ngũ_Phúc"} và liên quan [Quận Việp]{"entity":"object","value":"vntourism:Quận_Việp"} ?
+    - sự kiện lịch sử nào liên quan [Trần Khâm]{"entity":"object","value":"vntourism:Trần_Khâm"} và liên quan [Trần Nhân Tông]{"entity":"object","value":"vntourism:Trần_Nhân_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"} và liên quan [Trần Minh Tông]{"entity":"object","value":"vntourism:Trần_Minh_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"} và liên quan [Trần Mạnh]{"entity":"object","value":"vntourism:Trần_Mạnh"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"} và liên quan [Ngô Tuấn]{"entity":"object","value":"vntourism:Ngô_Tuấn"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} và liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} và liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"} và liên quan [Ngô Tuấn]{"entity":"object","value":"vntourism:Ngô_Tuấn"} ?
+    - sự kiện lịch sử nào liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} và liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} và liên quan [Nguyễn Phúc Đảm]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Đảm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} và liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} và liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Lê Oanh]{"entity":"object","value":"vntourism:Lê_Oanh"} và liên quan [Lê Tương Dực]{"entity":"object","value":"vntourism:Lê_Tương_Dực"} ?
+    - sự kiện lịch sử nào liên quan [quận Huy]{"entity":"object","value":"vntourism:quận_Huy"} và liên quan [Hoàng Tố Lý]{"entity":"object","value":"vntourism:Hoàng_Tố_Lý"} ?
+    - sự kiện lịch sử nào liên quan [quận Huy]{"entity":"object","value":"vntourism:quận_Huy"} và liên quan [Hoàng Đình Bảo]{"entity":"object","value":"vntourism:Hoàng_Đình_Bảo"} ?
+    - sự kiện lịch sử nào liên quan [Trịnh Khả]{"entity":"object","value":"vntourism:Trịnh_Khả"} và liên quan [Lê Khả]{"entity":"object","value":"vntourism:Lê_Khả"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} và liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} và liên quan [Nguyễn Phúc Đảm]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Đảm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Lý]{"entity":"object","value":"vntourism:Nguyễn_Lý"} và liên quan [Lê Sát]{"entity":"object","value":"vntourism:Lê_Sát"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Lý]{"entity":"object","value":"vntourism:Nguyễn_Lý"} và liên quan [Bùi Quốc Hưng]{"entity":"object","value":"vntourism:Bùi_Quốc_Hưng"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Lý]{"entity":"object","value":"vntourism:Nguyễn_Lý"} và liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Lý]{"entity":"object","value":"vntourism:Nguyễn_Lý"} và liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Minh Không]{"entity":"object","value":"vntourism:Nguyễn_Minh_Không"} và liên quan [Lý Quốc Sư]{"entity":"object","value":"vntourism:Lý_Quốc_Sư"} ?
+    - sự kiện lịch sử nào liên quan [Trần Hưng Đạo]{"entity":"object","value":"vntourism:Trần_Hưng_Đạo"} và liên quan [Trần Quốc Tuấn]{"entity":"object","value":"vntourism:Trần_Quốc_Tuấn"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Trần Nhân Tông]{"entity":"object","value":"vntourism:Trần_Nhân_Tông"} và liên quan [Trần Khâm]{"entity":"object","value":"vntourism:Trần_Khâm"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} và có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Dương Quý Phi]{"entity":"object","value":"vntourism:Dương_Quý_Phi"} và liên quan [Dương Ngọc Hoàn]{"entity":"object","value":"vntourism:Dương_Ngọc_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} và liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Trần Khâm]{"entity":"object","value":"vntourism:Trần_Khâm"} và liên quan [Trần Nhân Tông]{"entity":"object","value":"vntourism:Trần_Nhân_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Lý Long Cán]{"entity":"object","value":"vntourism:Lý_Long_Cán"} và liên quan [Lý Cao Tông]{"entity":"object","value":"vntourism:Lý_Cao_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Ngũ Phúc]{"entity":"object","value":"vntourism:Hoàng_Ngũ_Phúc"} và liên quan [Quận Việp]{"entity":"object","value":"vntourism:Quận_Việp"} ?
+    - sự kiện lịch sử nào liên quan [Hồ Quý Ly]{"entity":"object","value":"vntourism:Hồ_Quý_Ly"} và liên quan [Lê Quý Ly]{"entity":"object","value":"vntourism:Lê_Quý_Ly"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thái Tông]{"entity":"object","value":"vntourism:Lý_Thái_Tông"} và liên quan [Lý Phật Mã]{"entity":"object","value":"vntourism:Lý_Phật_Mã"} ?
+    - sự kiện lịch sử nào liên quan [Lý Cao Tông]{"entity":"object","value":"vntourism:Lý_Cao_Tông"} và liên quan [Lý Long Cán]{"entity":"object","value":"vntourism:Lý_Long_Cán"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Dũng]{"entity":"object","value":"vntourism:Hoàng_Dũng"} và liên quan [Đặng Siêu]{"entity":"object","value":"vntourism:Đặng_Siêu"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Dũng]{"entity":"object","value":"vntourism:Hoàng_Dũng"} và liên quan [Dương Quý Phi]{"entity":"object","value":"vntourism:Dương_Quý_Phi"} ?
+    - sự kiện lịch sử nào liên quan [Lý Huệ Tông]{"entity":"object","value":"vntourism:Lý_Huệ_Tông"} và liên quan [Lý Hạo Sảm]{"entity":"object","value":"vntourism:Lý_Hạo_Sảm"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} và liên quan [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"} và liên quan [Ngô Tuấn]{"entity":"object","value":"vntourism:Ngô_Tuấn"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Lê Hoàn]{"entity":"object","value":"vntourism:Lê_Hoàn"} và liên quan [Lê Đại Hành]{"entity":"object","value":"vntourism:Lê_Đại_Hành"} ?
+    - sự kiện lịch sử nào liên quan [Trần Quốc Tuấn]{"entity":"object","value":"vntourism:Trần_Quốc_Tuấn"} và liên quan [Trần Hưng Đạo]{"entity":"object","value":"vntourism:Trần_Hưng_Đạo"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} và liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} và liên quan [Trần Nguyên Hãn]{"entity":"object","value":"vntourism:Trần_Nguyên_Hãn"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} và liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} và liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Quận Việp]{"entity":"object","value":"vntourism:Quận_Việp"} và liên quan [Hoàng Ngũ Phúc]{"entity":"object","value":"vntourism:Hoàng_Ngũ_Phúc"} ?
+    - sự kiện lịch sử nào liên quan [Mạc Thái Tổ]{"entity":"object","value":"vntourism:Mạc_Thái_Tổ"} và liên quan [Mạc Đăng Dung]{"entity":"object","value":"vntourism:Mạc_Đăng_Dung"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} và liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} và liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} và liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} và mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} và mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} và có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} và có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} và tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} và tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} và có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} ?
+    - sự kiện lịch sử nào liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} và có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} ?
+    - sự kiện lịch sử nào liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} và liên quan [Lê Sát]{"entity":"object","value":"vntourism:Lê_Sát"} ?
+    - sự kiện lịch sử nào liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} và liên quan [Bùi Quốc Hưng]{"entity":"object","value":"vntourism:Bùi_Quốc_Hưng"} ?
+    - sự kiện lịch sử nào liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} và liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} ?
+    - sự kiện lịch sử nào liên quan [Lê Ngân]{"entity":"object","value":"vntourism:Lê_Ngân"} và liên quan [Nguyễn Lý]{"entity":"object","value":"vntourism:Nguyễn_Lý"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Lý Cao Tông]{"entity":"object","value":"vntourism:Lý_Cao_Tông"} và liên quan [Lý Long Cán]{"entity":"object","value":"vntourism:Lý_Long_Cán"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} và liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} và liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} và liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Minh Không]{"entity":"object","value":"vntourism:Nguyễn_Minh_Không"} và liên quan [Lý Quốc Sư]{"entity":"object","value":"vntourism:Lý_Quốc_Sư"} ?
+    - sự kiện lịch sử nào liên quan [Lý Bôn]{"entity":"object","value":"vntourism:Lý_Bôn"} và liên quan [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Lý Phật Mã]{"entity":"object","value":"vntourism:Lý_Phật_Mã"} và liên quan [Lý Thái Tông]{"entity":"object","value":"vntourism:Lý_Thái_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Trần Quốc Tuấn]{"entity":"object","value":"vntourism:Trần_Quốc_Tuấn"} và liên quan [Trần Hưng Đạo]{"entity":"object","value":"vntourism:Trần_Hưng_Đạo"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} và liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} và liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Ngũ Phúc]{"entity":"object","value":"vntourism:Hoàng_Ngũ_Phúc"} và liên quan [Quận Việp]{"entity":"object","value":"vntourism:Quận_Việp"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Đặng Siêu]{"entity":"object","value":"vntourism:Đặng_Siêu"} và liên quan [Dương Quý Phi]{"entity":"object","value":"vntourism:Dương_Quý_Phi"} ?
+    - sự kiện lịch sử nào liên quan [Lý Phật Mã]{"entity":"object","value":"vntourism:Lý_Phật_Mã"} và liên quan [Lý Thái Tông]{"entity":"object","value":"vntourism:Lý_Thái_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Dương Ngọc Hoàn]{"entity":"object","value":"vntourism:Dương_Ngọc_Hoàn"} và liên quan [Dương Quý Phi]{"entity":"object","value":"vntourism:Dương_Quý_Phi"} ?
+    - sự kiện lịch sử nào liên quan [Trần Hưng Đạo]{"entity":"object","value":"vntourism:Trần_Hưng_Đạo"} và liên quan [Trần Quốc Tuấn]{"entity":"object","value":"vntourism:Trần_Quốc_Tuấn"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Trãi]{"entity":"object","value":"vntourism:Nguyễn_Trãi"} và liên quan [Nguyễn Nhữ Lãm]{"entity":"object","value":"vntourism:Nguyễn_Nhữ_Lãm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Trãi]{"entity":"object","value":"vntourism:Nguyễn_Trãi"} và liên quan [Lê Trãi]{"entity":"object","value":"vntourism:Lê_Trãi"} ?
+    - sự kiện lịch sử nào liên quan [Lê Đại Hành]{"entity":"object","value":"vntourism:Lê_Đại_Hành"} và liên quan [Lê Hoàn]{"entity":"object","value":"vntourism:Lê_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} và liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Lê Triện]{"entity":"object","value":"vntourism:Lê_Triện"} và liên quan [Lý Triện]{"entity":"object","value":"vntourism:Lý_Triện"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Nguyễn Ánh]{"entity":"object","value":"vntourism:Nguyễn_Ánh"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} và liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} ?
+    - sự kiện lịch sử nào liên quan [Lê Trãi]{"entity":"object","value":"vntourism:Lê_Trãi"} và liên quan [Nguyễn Trãi]{"entity":"object","value":"vntourism:Nguyễn_Trãi"} ?
+    - sự kiện lịch sử nào liên quan [Lê Chiêu Thống]{"entity":"object","value":"vntourism:Lê_Chiêu_Thống"} và liên quan [Lê Mẫn Đế]{"entity":"object","value":"vntourism:Lê_Mẫn_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Trần Hoảng]{"entity":"object","value":"vntourism:Trần_Hoảng"} và liên quan [Trần Thánh Tông]{"entity":"object","value":"vntourism:Trần_Thánh_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Lê Quí Đôn]{"entity":"object","value":"vntourism:Lê_Quí_Đôn"} và liên quan [Vũ Văn Dũng]{"entity":"object","value":"vntourism:Vũ_Văn_Dũng"} ?
+    - sự kiện lịch sử nào liên quan [Lý Huệ Tông]{"entity":"object","value":"vntourism:Lý_Huệ_Tông"} và liên quan [Lý Hạo Sảm]{"entity":"object","value":"vntourism:Lý_Hạo_Sảm"} ?
+    - sự kiện lịch sử nào liên quan [Trần Phủ]{"entity":"object","value":"vntourism:Trần_Phủ"} và liên quan [Trần Nghệ Tông]{"entity":"object","value":"vntourism:Trần_Nghệ_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} và liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Đặng Tiểu Bình]{"entity":"object","value":"vntourism:Đặng_Tiểu_Bình"} và liên quan [Đào Duy Anh]{"entity":"object","value":"vntourism:Đào_Duy_Anh"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Hạp]{"entity":"object","value":"vntourism:Phạm_Hạp"} và liên quan [Trịnh Tú]{"entity":"object","value":"vntourism:Trịnh_Tú"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Phúc Đảm]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Đảm"} và liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Phúc Đảm]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Đảm"} và liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} và liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Lý Phật Mã]{"entity":"object","value":"vntourism:Lý_Phật_Mã"} và liên quan [Lý Thái Tông]{"entity":"object","value":"vntourism:Lý_Thái_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Trung Trực]{"entity":"object","value":"vntourism:Nguyễn_Trung_Trực"} và liên quan [Nguyễn Văn Lịch]{"entity":"object","value":"vntourism:Nguyễn_Văn_Lịch"} ?
+    - sự kiện lịch sử nào liên quan [Trương Hát]{"entity":"object","value":"vntourism:Trương_Hát"} và liên quan [Trương Hống]{"entity":"object","value":"vntourism:Trương_Hống"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thái Tông]{"entity":"object","value":"vntourism:Lý_Thái_Tông"} và liên quan [Lý Phật Mã]{"entity":"object","value":"vntourism:Lý_Phật_Mã"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} và liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} ?
+    - sự kiện lịch sử nào liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} và liên quan [Nguyễn Sinh Côn]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Côn"} ?
+    - sự kiện lịch sử nào liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} và liên quan [Trần Đình Long]{"entity":"object","value":"vntourism:Trần_Đình_Long"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Đình Bảo]{"entity":"object","value":"vntourism:Hoàng_Đình_Bảo"} và liên quan [Hoàng Tố Lý]{"entity":"object","value":"vntourism:Hoàng_Tố_Lý"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Đình Bảo]{"entity":"object","value":"vntourism:Hoàng_Đình_Bảo"} và liên quan [quận Huy]{"entity":"object","value":"vntourism:quận_Huy"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} và liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} và liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} và liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Bạch Hổ]{"entity":"object","value":"vntourism:Phạm_Bạch_Hổ"} và liên quan [Phạm Phòng Át]{"entity":"object","value":"vntourism:Phạm_Phòng_Át"} ?
+    - sự kiện lịch sử nào liên quan [Tự Đức]{"entity":"object","value":"vntourism:Tự_Đức"} và liên quan [Nguyễn Dực Tông]{"entity":"object","value":"vntourism:Nguyễn_Dực_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Lý Phật Mã]{"entity":"object","value":"vntourism:Lý_Phật_Mã"} và liên quan [Lý Thái Tông]{"entity":"object","value":"vntourism:Lý_Thái_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Bạch Hổ]{"entity":"object","value":"vntourism:Phạm_Bạch_Hổ"} và liên quan [Phạm Phòng Át]{"entity":"object","value":"vntourism:Phạm_Phòng_Át"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} và liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} và liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} ?
+    - sự kiện lịch sử nào liên quan [Trần Đình Long]{"entity":"object","value":"vntourism:Trần_Đình_Long"} và liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} ?
+    - sự kiện lịch sử nào liên quan [Trần Đình Long]{"entity":"object","value":"vntourism:Trần_Đình_Long"} và liên quan [Nguyễn Sinh Côn]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Côn"} ?
+    - sự kiện lịch sử nào liên quan [Trần Đình Long]{"entity":"object","value":"vntourism:Trần_Đình_Long"} và liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} ?
+    - sự kiện lịch sử nào liên quan [Quận Việp]{"entity":"object","value":"vntourism:Quận_Việp"} và liên quan [Hoàng Ngũ Phúc]{"entity":"object","value":"vntourism:Hoàng_Ngũ_Phúc"} ?
+    - sự kiện lịch sử nào liên quan [Đặng Tiến Đông]{"entity":"object","value":"vntourism:Đặng_Tiến_Đông"} và liên quan [Vũ Văn Nhậm]{"entity":"object","value":"vntourism:Vũ_Văn_Nhậm"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Lê Hoàn]{"entity":"object","value":"vntourism:Lê_Hoàn"} và liên quan [Lê Đại Hành]{"entity":"object","value":"vntourism:Lê_Đại_Hành"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} và liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} ?
+    - sự kiện lịch sử nào liên quan [Lý Quốc Sư]{"entity":"object","value":"vntourism:Lý_Quốc_Sư"} và liên quan [Nguyễn Minh Không]{"entity":"object","value":"vntourism:Nguyễn_Minh_Không"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Bộ Lĩnh]{"entity":"object","value":"vntourism:Đinh_Bộ_Lĩnh"} ?
+    - sự kiện lịch sử nào liên quan [Đinh Hoàn]{"entity":"object","value":"vntourism:Đinh_Hoàn"} và liên quan [Đinh Tiên Hoàng]{"entity":"object","value":"vntourism:Đinh_Tiên_Hoàng"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} và liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thái Tông]{"entity":"object","value":"vntourism:Lý_Thái_Tông"} và liên quan [Lý Phật Mã]{"entity":"object","value":"vntourism:Lý_Phật_Mã"} ?
+    - sự kiện lịch sử nào liên quan [Lê Chiêu Thống]{"entity":"object","value":"vntourism:Lê_Chiêu_Thống"} và liên quan [Lê Mẫn Đế]{"entity":"object","value":"vntourism:Lê_Mẫn_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và mất vào [1929 (66-67 tuổi) (theo nguoikesu)]{"entity":"object","value":"1929 (66-67 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và mất vào [1929 (66-67 tuổi) (theo nguoikesu)]{"entity":"object","value":"1929 (66-67 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và sinh vào [1862 (theo nguoikesu)]{"entity":"object","value":"1862 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} và sinh vào [1862 (theo nguoikesu)]{"entity":"object","value":"1862 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} và liên quan [Nguyễn Phúc Đảm]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Đảm"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Thánh Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thánh_Tổ"} và liên quan [Minh Mạng]{"entity":"object","value":"vntourism:Minh_Mạng"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Phòng Át]{"entity":"object","value":"vntourism:Phạm_Phòng_Át"} và liên quan [Phạm Bạch Hổ]{"entity":"object","value":"vntourism:Phạm_Bạch_Hổ"} ?
+    - sự kiện lịch sử nào liên quan [Trần Nhân Tông]{"entity":"object","value":"vntourism:Trần_Nhân_Tông"} và liên quan [Trần Khâm]{"entity":"object","value":"vntourism:Trần_Khâm"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} và liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} và liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} và liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} và liên quan [Lý Bôn]{"entity":"object","value":"vntourism:Lý_Bôn"} ?
+    - sự kiện lịch sử nào liên quan [Phan Sào Nam]{"entity":"object","value":"vntourism:Phan_Sào_Nam"} và liên quan [Phan Bội Châu]{"entity":"object","value":"vntourism:Phan_Bội_Châu"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} và liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} và liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Ngô Đình Diệm]{"entity":"object","value":"vntourism:Ngô_Đình_Diệm"} và liên quan [Nguyễn Hải Thần]{"entity":"object","value":"vntourism:Nguyễn_Hải_Thần"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} và liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} và liên quan [Triệu Đà]{"entity":"object","value":"vntourism:Triệu_Đà"} ?
+    - sự kiện lịch sử nào liên quan [Triệu Vũ Vương]{"entity":"object","value":"vntourism:Triệu_Vũ_Vương"} và liên quan [Triệu Vũ Đế]{"entity":"object","value":"vntourism:Triệu_Vũ_Đế"} ?
+    - sự kiện lịch sử nào liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} và liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} ?
+    - sự kiện lịch sử nào liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} và liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} ?
+    - sự kiện lịch sử nào liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} và liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} ?
+    - sự kiện lịch sử nào liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} và liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} ?
+    - sự kiện lịch sử nào liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} và liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} ?
+    - sự kiện lịch sử nào liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} và mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} và mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} và sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} và sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} và tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} ?
+    - sự kiện lịch sử nào liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} và tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} ?
+    - sự kiện lịch sử nào liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} và có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} và có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} và liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} ?
+    - sự kiện lịch sử nào liên quan [Gia Long]{"entity":"object","value":"vntourism:Gia_Long"} và liên quan [Nguyễn Thế Tổ]{"entity":"object","value":"vntourism:Nguyễn_Thế_Tổ"} ?
+    - sự kiện lịch sử nào liên quan [Lý Thụy]{"entity":"object","value":"vntourism:Lý_Thụy"} và liên quan [Hồ Chí Minh]{"entity":"object","value":"vntourism:Hồ_Chí_Minh"} ?
+    - sự kiện lịch sử nào liên quan [Lê Thái Tổ]{"entity":"object","value":"vntourism:Lê_Thái_Tổ"} và liên quan [Lê Lợi]{"entity":"object","value":"vntourism:Lê_Lợi"} ?
+    - sự kiện lịch sử nào liên quan [Mạc Phúc Nguyên]{"entity":"object","value":"vntourism:Mạc_Phúc_Nguyên"} và liên quan [Mạc Tuyên Tông]{"entity":"object","value":"vntourism:Mạc_Tuyên_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"} và liên quan [Phạm Thị Liên]{"entity":"object","value":"vntourism:Phạm_Thị_Liên"} ?
+    - sự kiện lịch sử nào liên quan [Phạm Bạch Hổ]{"entity":"object","value":"vntourism:Phạm_Bạch_Hổ"} và liên quan [Phạm Phòng Át]{"entity":"object","value":"vntourism:Phạm_Phòng_Át"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Vĩnh Thụy]{"entity":"object","value":"vntourism:Nguyễn_Vĩnh_Thụy"} và liên quan [Bảo Đại]{"entity":"object","value":"vntourism:Bảo_Đại"} ?
+    - sự kiện lịch sử nào liên quan [Lý Phật Mã]{"entity":"object","value":"vntourism:Lý_Phật_Mã"} và liên quan [Lý Thái Tông]{"entity":"object","value":"vntourism:Lý_Thái_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Trần Thái Tông]{"entity":"object","value":"vntourism:Trần_Thái_Tông"} và liên quan [Trần Cảnh]{"entity":"object","value":"vntourism:Trần_Cảnh"} ?
+    - sự kiện lịch sử nào liên quan [Lê Khả]{"entity":"object","value":"vntourism:Lê_Khả"} và liên quan [Trịnh Khả]{"entity":"object","value":"vntourism:Trịnh_Khả"} ?
+    - sự kiện lịch sử nào liên quan [Lê Đại Hành]{"entity":"object","value":"vntourism:Lê_Đại_Hành"} và liên quan [Lê Hoàn]{"entity":"object","value":"vntourism:Lê_Hoàn"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Phúc Khoát]{"entity":"object","value":"vntourism:Nguyễn_Phúc_Khoát"} và liên quan [Võ Vương]{"entity":"object","value":"vntourism:Võ_Vương"} ?
+    - sự kiện lịch sử nào liên quan [Tự Đức]{"entity":"object","value":"vntourism:Tự_Đức"} và liên quan [Nguyễn Dực Tông]{"entity":"object","value":"vntourism:Nguyễn_Dực_Tông"} ?
+    - sự kiện lịch sử nào liên quan [Nguyễn Trãi]{"entity":"object","value":"vntourism:Nguyễn_Trãi"} và liên quan [Lê Trãi]{"entity":"object","value":"vntourism:Lê_Trãi"} ?
+    - sự kiện lịch sử nào liên quan [Trần Anh Tông]{"entity":"object","value":"vntourism:Trần_Anh_Tông"} và liên quan [Trần Thuyên]{"entity":"object","value":"vntourism:Trần_Thuyên"} ?
+    - sự kiện lịch sử nào mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} và liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} ?
+    - sự kiện lịch sử nào mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} và liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} ?
+    - sự kiện lịch sử nào mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} và liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} ?
+    - sự kiện lịch sử nào mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} và liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} ?
+    - sự kiện lịch sử nào mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} và liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} ?
+    - sự kiện lịch sử nào mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} và liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} ?
+    - sự kiện lịch sử nào mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} và mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} và sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} và sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} và tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} ?
+    - sự kiện lịch sử nào mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} và tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} ?
+    - sự kiện lịch sử nào mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} và có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} ?
+    - sự kiện lịch sử nào mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} và có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} ?
+    - sự kiện lịch sử nào mất vào [1929 (66-67 tuổi) (theo nguoikesu)]{"entity":"object","value":"1929 (66-67 tuổi) (theo nguoikesu)"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào mất vào [1929 (66-67 tuổi) (theo nguoikesu)]{"entity":"object","value":"1929 (66-67 tuổi) (theo nguoikesu)"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào mất vào [1929 (66-67 tuổi) (theo nguoikesu)]{"entity":"object","value":"1929 (66-67 tuổi) (theo nguoikesu)"} và mất vào [1929 (66-67 tuổi) (theo nguoikesu)]{"entity":"object","value":"1929 (66-67 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào mất vào [1929 (66-67 tuổi) (theo nguoikesu)]{"entity":"object","value":"1929 (66-67 tuổi) (theo nguoikesu)"} và sinh vào [1862 (theo nguoikesu)]{"entity":"object","value":"1862 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào mất vào [1929 (66-67 tuổi) (theo nguoikesu)]{"entity":"object","value":"1929 (66-67 tuổi) (theo nguoikesu)"} và sinh vào [1862 (theo nguoikesu)]{"entity":"object","value":"1862 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} và liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} ?
+    - sự kiện lịch sử nào mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} và liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} ?
+    - sự kiện lịch sử nào mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} và liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} ?
+    - sự kiện lịch sử nào mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} và liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} ?
+    - sự kiện lịch sử nào mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} và mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} và có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} ?
+    - sự kiện lịch sử nào mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} và có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} ?
+    - sự kiện lịch sử nào mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} và tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} ?
+    - sự kiện lịch sử nào mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} và tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} ?
+    - sự kiện lịch sử nào mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} và có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} ?
+    - sự kiện lịch sử nào mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} và có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} ?
+    - sự kiện lịch sử nào sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} và liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} ?
+    - sự kiện lịch sử nào sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} và liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} ?
+    - sự kiện lịch sử nào sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} và liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} ?
+    - sự kiện lịch sử nào sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} và liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} ?
+    - sự kiện lịch sử nào sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} và liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} ?
+    - sự kiện lịch sử nào sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} và liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} ?
+    - sự kiện lịch sử nào sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} và mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} và mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} và sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} và tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} ?
+    - sự kiện lịch sử nào sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} và tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} ?
+    - sự kiện lịch sử nào sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} và có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} ?
+    - sự kiện lịch sử nào sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} và có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} ?
+    - sự kiện lịch sử nào sinh vào [1862 (theo nguoikesu)]{"entity":"object","value":"1862 (theo nguoikesu)"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào sinh vào [1862 (theo nguoikesu)]{"entity":"object","value":"1862 (theo nguoikesu)"} và liên quan [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"} ?
+    - sự kiện lịch sử nào sinh vào [1862 (theo nguoikesu)]{"entity":"object","value":"1862 (theo nguoikesu)"} và mất vào [1929 (66-67 tuổi) (theo nguoikesu)]{"entity":"object","value":"1929 (66-67 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào sinh vào [1862 (theo nguoikesu)]{"entity":"object","value":"1862 (theo nguoikesu)"} và mất vào [1929 (66-67 tuổi) (theo nguoikesu)]{"entity":"object","value":"1929 (66-67 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào sinh vào [1862 (theo nguoikesu)]{"entity":"object","value":"1862 (theo nguoikesu)"} và sinh vào [1862 (theo nguoikesu)]{"entity":"object","value":"1862 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} và liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} ?
+    - sự kiện lịch sử nào có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} và liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} ?
+    - sự kiện lịch sử nào có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} và liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} ?
+    - sự kiện lịch sử nào có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} và liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} ?
+    - sự kiện lịch sử nào có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} và mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} và mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} và có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} ?
+    - sự kiện lịch sử nào có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} và tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} ?
+    - sự kiện lịch sử nào có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} và tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} ?
+    - sự kiện lịch sử nào có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} và có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} ?
+    - sự kiện lịch sử nào có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} và có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} ?
+    - sự kiện lịch sử nào tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} và liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} ?
+    - sự kiện lịch sử nào tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} và liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} ?
+    - sự kiện lịch sử nào tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} và liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} ?
+    - sự kiện lịch sử nào tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} và liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} ?
+    - sự kiện lịch sử nào tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} và mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} và mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} và có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} ?
+    - sự kiện lịch sử nào tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} và có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} ?
+    - sự kiện lịch sử nào tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} và tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} ?
+    - sự kiện lịch sử nào tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} và có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} ?
+    - sự kiện lịch sử nào tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} và có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} ?
+    - sự kiện lịch sử nào tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} và liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} ?
+    - sự kiện lịch sử nào tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} và liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} ?
+    - sự kiện lịch sử nào tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} và liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} ?
+    - sự kiện lịch sử nào tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} và liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} ?
+    - sự kiện lịch sử nào tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} và liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} ?
+    - sự kiện lịch sử nào tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} và liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} ?
+    - sự kiện lịch sử nào tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} và mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} và mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} và sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} và sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} và tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} ?
+    - sự kiện lịch sử nào tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} và có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} ?
+    - sự kiện lịch sử nào tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} và có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} ?
+    - sự kiện lịch sử nào có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} và liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} ?
+    - sự kiện lịch sử nào có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} và liên quan [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"} ?
+    - sự kiện lịch sử nào có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} và liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} ?
+    - sự kiện lịch sử nào có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} và liên quan [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"} ?
+    - sự kiện lịch sử nào có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} và mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} và mất vào [571 (theo nguoikesu)]{"entity":"object","value":"571 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} và có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} ?
+    - sự kiện lịch sử nào có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} và có người tiền nhiệm [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"} ?
+    - sự kiện lịch sử nào có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} và tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} ?
+    - sự kiện lịch sử nào có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} và tên khai sinh [Triệu Quang Phục (趙光復)]{"entity":"object","value":"Triệu Quang Phục (趙光復)"} ?
+    - sự kiện lịch sử nào có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} và có người kế vị là [Hậu]{"entity":"object","value":"vntourism:Hậu"} ?
+    - sự kiện lịch sử nào có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} và liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} ?
+    - sự kiện lịch sử nào có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} và liên quan [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"} ?
+    - sự kiện lịch sử nào có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} và liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} ?
+    - sự kiện lịch sử nào có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} và liên quan [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"} ?
+    - sự kiện lịch sử nào có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} và liên quan [Trần Bá Tiên]{"entity":"object","value":"vntourism:Trần_Bá_Tiên"} ?
+    - sự kiện lịch sử nào có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} và liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} ?
+    - sự kiện lịch sử nào có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} và liên quan [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"} ?
+    - sự kiện lịch sử nào có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} và mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} và mất vào [13-4-548 (44 tuổi) (theo nguoikesu)]{"entity":"object","value":"13-4-548 (44 tuổi) (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} và sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} và sinh vào [17-10-503 (theo nguoikesu)]{"entity":"object","value":"17-10-503 (theo nguoikesu)"} ?
+    - sự kiện lịch sử nào có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} và tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} ?
+    - sự kiện lịch sử nào có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} và tên khai sinh [Lý Bí]{"entity":"object","value":"Lý Bí"} ?
+    - sự kiện lịch sử nào có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} và có người kế vị là [Triệu Việt Vương]{"entity":"object","value":"vntourism:Triệu_Việt_Vương"} ?

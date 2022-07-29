@@ -1,0 +1,1228 @@
+    - [Chiến tranh với Cao Câu Ly lần 3]{"entity":"object","value":"vntourism:Chiến_tranh_với_Cao_Câu_Ly_lần_3"}  liên quan ?
+    - [Vua có hiếu]{"entity":"object","value":"vntourism:Vua_có_hiếu"}  liên quan ?
+    - [Vụ ly khai của hai nhà Lê, Nguyễn]{"entity":"object","value":"vntourism:Vụ_ly_khai_của_hai_nhà_Lê,_Nguyễn"}  liên quan ?
+    - [Thời Trung Hoa Dân Quốc]{"entity":"object","value":"vntourism:Thời_Trung_Hoa_Dân_Quốc"}  liên quan ?
+    - [Tham chiến Xích Bích]{"entity":"object","value":"vntourism:Tham_chiến_Xích_Bích"}  liên quan ?
+    - [Tiến binh ra Bắc giúp họ Trịnh]{"entity":"object","value":"vntourism:Tiến_binh_ra_Bắc_giúp_họ_Trịnh"}  liên quan ?
+    - [Bắt Phàn Khoái]{"entity":"object","value":"vntourism:Bắt_Phàn_Khoái"}  liên quan ?
+    - [Chống quân Tần]{"entity":"object","value":"vntourism:Chống_quân_Tần"}  liên quan ?
+    - [Phản nhà Lý]{"entity":"object","value":"vntourism:Phản_nhà_Lý"}  liên quan ?
+    - [Phân bố lại Bát kỳ]{"entity":"object","value":"vntourism:Phân_bố_lại_Bát_kỳ"}  liên quan ?
+    - [Cúc áo chạm phượng]{"entity":"object","value":"vntourism:Cúc_áo_chạm_phượng"}  liên quan ?
+    - [Lên làm thủ tướng]{"entity":"object","value":"vntourism:Lên_làm_thủ_tướng"}  liên quan ?
+    - [Dời đô về Thăng Long]{"entity":"object","value":"vntourism:Dời_đô_về_Thăng_Long"}  liên quan ?
+    - [Khởi binh chống nhà Mạc]{"entity":"object","value":"vntourism:Khởi_binh_chống_nhà_Mạc"}  liên quan ?
+    - [Tự vẫn ở cửa Hội]{"entity":"object","value":"vntourism:Tự_vẫn_ở_cửa_Hội"}  liên quan ?
+    - [Nhà ngoại giao]{"entity":"object","value":"vntourism:Nhà_ngoại_giao"}  liên quan ?
+    - [Ba lần chống quân Nguyên Mông]{"entity":"object","value":"vntourism:Ba_lần_chống_quân_Nguyên_Mông"}  liên quan ?
+    - [Củng cố quyền lực ban đầu]{"entity":"object","value":"vntourism:Củng_cố_quyền_lực_ban_đầu"}  liên quan ?
+    - [Sống ở Trung Quốc]{"entity":"object","value":"vntourism:Sống_ở_Trung_Quốc"}  liên quan ?
+    - [Loạn 12 sứ quân]{"entity":"object","value":"vntourism:Loạn_12_sứ_quân"}  liên quan ?
+    - [Họa Chiêm Thành]{"entity":"object","value":"vntourism:Họa_Chiêm_Thành"}  liên quan ?
+    - [Tấn công Yên]{"entity":"object","value":"vntourism:Tấn_công_Yên"}  liên quan ?
+    - [Chiến dịch Chi Lăng - Xương Giang]{"entity":"object","value":"vntourism:Chiến_dịch_Chi_Lăng_-_Xương_Giang"}  liên quan ?
+    - [Đánh pháp tại Sài Gòn năm 1916 và hy sinh]{"entity":"object","value":"vntourism:Đánh_pháp_tại_Sài_Gòn_năm_1916_và_hy_sinh"}  liên quan ?
+    - [Ủng hộ Nguyên phi Ỷ Lan]{"entity":"object","value":"vntourism:Ủng_hộ_Nguyên_phi_Ỷ_Lan"}  liên quan ?
+    - [Giữ chức Phó Thủ tướng Chính phủ Việt Nam]{"entity":"object","value":"vntourism:Giữ_chức_Phó_Thủ_tướng_Chính_phủ_Việt_Nam"}  liên quan ?
+    - [Tái chiếm Phú Yên]{"entity":"object","value":"vntourism:Tái_chiếm_Phú_Yên"}  liên quan ?
+    - [Hành vi của Ngô Nhật Khánh]{"entity":"object","value":"vntourism:Hành_vi_của_Ngô_Nhật_Khánh"}  liên quan ?
+    - [Quan chế và tổ chức chính quyền trung ương]{"entity":"object","value":"vntourism:Quan_chế_và_tổ_chức_chính_quyền_trung_ương"}  liên quan ?
+    - [Vây thành Đông Quan]{"entity":"object","value":"vntourism:Vây_thành_Đông_Quan"}  liên quan ?
+    - [Phế lập Hoàng hậu]{"entity":"object","value":"vntourism:Phế_lập_Hoàng_hậu"}  liên quan ?
+    - [Thỉnh kinh về Đại Cồ Việt]{"entity":"object","value":"vntourism:Thỉnh_kinh_về_Đại_Cồ_Việt"}  liên quan ?
+    - [Hợp xướng - Khí nhạc]{"entity":"object","value":"vntourism:Hợp_xướng_-_Khí_nhạc"}  liên quan ?
+    - [Tài cai trị]{"entity":"object","value":"vntourism:Tài_cai_trị"}  liên quan ?
+    - [Trở về Việt Nam]{"entity":"object","value":"vntourism:Trở_về_Việt_Nam"}  liên quan ?
+    - [Khéo tiến cử người tài giỏi, kính cẩn giữ tiết làm tôi]{"entity":"object","value":"vntourism:Khéo_tiến_cử_người_tài_giỏi,_kính_cẩn_giữ_tiết_làm_tôi"}  liên quan ?
+    - [Bỏ khỏi kinh đô]{"entity":"object","value":"vntourism:Bỏ_khỏi_kinh_đô"}  liên quan ?
+    - [Rước giặc về nhà]{"entity":"object","value":"vntourism:Rước_giặc_về_nhà"}  liên quan ?
+    - [Cải cách quân đội]{"entity":"object","value":"vntourism:Cải_cách_quân_đội"}  liên quan ?
+    - [Cuộc sống lưu vong]{"entity":"object","value":"vntourism:Cuộc_sống_lưu_vong"}  liên quan ?
+    - [Bị bắt khi hoạt động tại miền Nam]{"entity":"object","value":"vntourism:Bị_bắt_khi_hoạt_động_tại_miền_Nam"}  liên quan ?
+    - [Đùm tro áo lụa]{"entity":"object","value":"vntourism:Đùm_tro_áo_lụa"}  liên quan ?
+    - [Kinh thành khói lửa]{"entity":"object","value":"vntourism:Kinh_thành_khói_lửa"}  liên quan ?
+    - [Hoạt động trong đảng Cộng sản]{"entity":"object","value":"vntourism:Hoạt_động_trong_đảng_Cộng_sản"}  liên quan ?
+    - [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"}  liên quan ?
+    - [Quan hệ với nhà Hán]{"entity":"object","value":"vntourism:Quan_hệ_với_nhà_Hán"}  liên quan ?
+    - [Quan chế và tổ chức chính quyền trung ương]{"entity":"object","value":"vntourism:Quan_chế_và_tổ_chức_chính_quyền_trung_ương"}  liên quan ?
+    - [Làm Quản cơ]{"entity":"object","value":"vntourism:Làm_Quản_cơ"}  liên quan ?
+    - [Cai quản Lạc Dương]{"entity":"object","value":"vntourism:Cai_quản_Lạc_Dương"}  liên quan ?
+    - [Phòng thủ Hoan Ái]{"entity":"object","value":"vntourism:Phòng_thủ_Hoan_Ái"}  liên quan ?
+    - [Dẹp phản kháng trong nước, thu châu Phục Lễ]{"entity":"object","value":"vntourism:Dẹp_phản_kháng_trong_nước,_thu_châu_Phục_Lễ"}  liên quan ?
+    - [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"}  liên quan ?
+    - [Hoạt động trong Nghị viện Trung Kỳ]{"entity":"object","value":"vntourism:Hoạt_động_trong_Nghị_viện_Trung_Kỳ"}  liên quan ?
+    - [Bị giam lần thứ nhất]{"entity":"object","value":"vntourism:Bị_giam_lần_thứ_nhất"}  liên quan ?
+    - [Ông tổ nghề đúc đồng]{"entity":"object","value":"vntourism:Ông_tổ_nghề_đúc_đồng"}  liên quan ?
+    - [Lưu vong ở Xiêm và Hiệp ước với Pháp]{"entity":"object","value":"vntourism:Lưu_vong_ở_Xiêm_và_Hiệp_ước_với_Pháp"}  liên quan ?
+    - [Mở rộng Đại Việt]{"entity":"object","value":"vntourism:Mở_rộng_Đại_Việt"}  liên quan ?
+    - [Thời Trịnh Sâm]{"entity":"object","value":"vntourism:Thời_Trịnh_Sâm"}  liên quan ?
+    - [Thời Trần Dụ Tông]{"entity":"object","value":"vntourism:Thời_Trần_Dụ_Tông"}  liên quan ?
+    - [Đàn áp một số lực lượng đối lập]{"entity":"object","value":"vntourism:Đàn_áp_một_số_lực_lượng_đối_lập"}  liên quan ?
+    - [Chiến dịch Tốt Động - Chúc Động]{"entity":"object","value":"vntourism:Chiến_dịch_Tốt_Động_-_Chúc_Động"}  liên quan ?
+    - [Thái hậu nhiếp chính]{"entity":"object","value":"vntourism:Thái_hậu_nhiếp_chính"}  liên quan ?
+    - [Tham gia dẹp loạn]{"entity":"object","value":"vntourism:Tham_gia_dẹp_loạn"}  liên quan ?
+    - [Giảng hòa lần thứ hai 1897]{"entity":"object","value":"vntourism:Giảng_hòa_lần_thứ_hai_1897"}  liên quan ?
+    - [Dời đô về Thăng Long]{"entity":"object","value":"vntourism:Dời_đô_về_Thăng_Long"}  liên quan ?
+    - [Xâm lược Triều Tiên lần thứ hai]{"entity":"object","value":"vntourism:Xâm_lược_Triều_Tiên_lần_thứ_hai"}  liên quan ?
+    - [Chiến thắng đầu tiên]{"entity":"object","value":"vntourism:Chiến_thắng_đầu_tiên"}  liên quan ?
+    - [Chinh phục Âu Lạc, lên ngôi vua nước Nam Việt]{"entity":"object","value":"vntourism:Chinh_phục_Âu_Lạc,_lên_ngôi_vua_nước_Nam_Việt"}  liên quan ?
+    - [Xây thành Đông Đô, đào Đại Vận hà]{"entity":"object","value":"vntourism:Xây_thành_Đông_Đô,_đào_Đại_Vận_hà"}  liên quan ?
+    - [Chính biến xưng đế]{"entity":"object","value":"vntourism:Chính_biến_xưng_đế"}  liên quan ?
+    - [Ly gián vua tôi nhà Minh]{"entity":"object","value":"vntourism:Ly_gián_vua_tôi_nhà_Minh"}  liên quan ?
+    - [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"}  liên quan ?
+    - [Định người kế nghiệp]{"entity":"object","value":"vntourism:Định_người_kế_nghiệp"}  liên quan ?
+    - [Vụ án Nguyễn Văn Thành]{"entity":"object","value":"vntourism:Vụ_án_Nguyễn_Văn_Thành"}  liên quan ?
+    - [Đảo chính 1963 và những thăng trầm sau đó]{"entity":"object","value":"vntourism:Đảo_chính_1963_và_những_thăng_trầm_sau_đó"}  liên quan ?
+    - [Thời kỳ chiến tranh Việt Nam]{"entity":"object","value":"vntourism:Thời_kỳ_chiến_tranh_Việt_Nam"}  liên quan ?
+    - [Vụ án tướng Trần Văn Thanh]{"entity":"object","value":"vntourism:Vụ_án_tướng_Trần_Văn_Thanh"}  liên quan ?
+    - [Chiến dịch ở Thục và Nghĩa Vũ]{"entity":"object","value":"vntourism:Chiến_dịch_ở_Thục_và_Nghĩa_Vũ"}  liên quan ?
+    - [Từ bị giam ở Trung Quốc cho tới thành lập Việt Nam Dân chủ Cộng hòa]{"entity":"object","value":"vntourism:Từ_bị_giam_ở_Trung_Quốc_cho_tới_thành_lập_Việt_Nam_Dân_chủ_Cộng_hòa"}  liên quan ?
+    - [Thư mục tham khảo]{"entity":"object","value":"vntourism:Thư_mục_tham_khảo"}  liên quan ?
+    - [Hưởng ứng lời kêu gọi của Triệu Quang Phục]{"entity":"object","value":"vntourism:Hưởng_ứng_lời_kêu_gọi_của_Triệu_Quang_Phục"}  liên quan ?
+    - [Cuộc chiến 1643]{"entity":"object","value":"vntourism:Cuộc_chiến_1643"}  liên quan ?
+    - [Tranh cãi về việc giết cha]{"entity":"object","value":"vntourism:Tranh_cãi_về_việc_giết_cha"}  liên quan ?
+    - [Đại biểu Quốc hội Việt Nam khóa XII (2007-2011) tỉnh Bắc Giang]{"entity":"object","value":"vntourism:Đại_biểu_Quốc_hội_Việt_Nam_khóa_XII_(2007-2011)_tỉnh_Bắc_Giang"}  liên quan ?
+    - [Cuộc chiến 1648]{"entity":"object","value":"vntourism:Cuộc_chiến_1648"}  liên quan ?
+    - [Thương thuyết với nhà Thanh (1868-1873)]{"entity":"object","value":"vntourism:Thương_thuyết_với_nhà_Thanh_(1868-1873)"}  liên quan ?
+    - [Gia đình danh sĩ]{"entity":"object","value":"vntourism:Gia_đình_danh_sĩ"}  liên quan ?
+    - [Hoạt động trong ngành Công an]{"entity":"object","value":"vntourism:Hoạt_động_trong_ngành_Công_an"}  liên quan ?
+    - [Sự bất lực trước thời cuộc]{"entity":"object","value":"vntourism:Sự_bất_lực_trước_thời_cuộc"}  liên quan ?
+    - [Đắc sủng phong Quý phi]{"entity":"object","value":"vntourism:Đắc_sủng_phong_Quý_phi"}  liên quan ?
+    - [Các lần bị ám sát]{"entity":"object","value":"vntourism:Các_lần_bị_ám_sát"}  liên quan ?
+    - [Thái Tông chuyên chính và đảng tranh]{"entity":"object","value":"vntourism:Thái_Tông_chuyên_chính_và_đảng_tranh"}  liên quan ?
+    - [Đánh Tân Bình, Thuận Hóa]{"entity":"object","value":"vntourism:Đánh_Tân_Bình,_Thuận_Hóa"}  liên quan ?
+    - [Nghi án về cái chết]{"entity":"object","value":"vntourism:Nghi_án_về_cái_chết"}  liên quan ?
+    - [Văn thần triều Lê]{"entity":"object","value":"vntourism:Văn_thần_triều_Lê"}  liên quan ?
+    - [Giết hại đại thần và tôn thất]{"entity":"object","value":"vntourism:Giết_hại_đại_thần_và_tôn_thất"}  liên quan ?
+    - [Ứng cử và trúng cử]{"entity":"object","value":"vntourism:Ứng_cử_và_trúng_cử"}  liên quan ?
+    - [Trấn áp nổi dậy]{"entity":"object","value":"vntourism:Trấn_áp_nổi_dậy"}  liên quan ?
+    - [Thời Trang Tông]{"entity":"object","value":"vntourism:Thời_Trang_Tông"}  liên quan ?
+    - [Chủ tịch Quốc hội nhiệm kì 2016-2021]{"entity":"object","value":"vntourism:Chủ_tịch_Quốc_hội_nhiệm_kì_2016-2021"}  liên quan ?
+    - [Đứng ngoài các cuộc đảo chính]{"entity":"object","value":"vntourism:Đứng_ngoài_các_cuộc_đảo_chính"}  liên quan ?
+    - [Hết lòng vì nhà Tây Sơn]{"entity":"object","value":"vntourism:Hết_lòng_vì_nhà_Tây_Sơn"}  liên quan ?
+    - [Thủ thuật làm đẹp]{"entity":"object","value":"vntourism:Thủ_thuật_làm_đẹp"}  liên quan ?
+    - [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"}  liên quan ?
+    - [Những điểm giống với Hán Cao Tổ]{"entity":"object","value":"vntourism:Những_điểm_giống_với_Hán_Cao_Tổ"}  liên quan ?
+    - [Niên hiệu Thiệu Phong]{"entity":"object","value":"vntourism:Niên_hiệu_Thiệu_Phong"}  liên quan ?
+    - [Nghi án cung đình]{"entity":"object","value":"vntourism:Nghi_án_cung_đình"}  liên quan ?
+    - [Tác phẩm dịch]{"entity":"object","value":"vntourism:Tác_phẩm_dịch"}  liên quan ?
+    - [Phò vua chống Tây Sơn]{"entity":"object","value":"vntourism:Phò_vua_chống_Tây_Sơn"}  liên quan ?
+    - [Hồng Đức thịnh thế]{"entity":"object","value":"vntourism:Hồng_Đức_thịnh_thế"}  liên quan ?
+    - [Bắc Hải chăn dê]{"entity":"object","value":"vntourism:Bắc_Hải_chăn_dê"}  liên quan ?
+    - [Binh biến Phạm Tử Nghi]{"entity":"object","value":"vntourism:Binh_biến_Phạm_Tử_Nghi"}  liên quan ?
+    - [Cải cách nội chính]{"entity":"object","value":"vntourism:Cải_cách_nội_chính"}  liên quan ?
+    - [Hành quân về bắc]{"entity":"object","value":"vntourism:Hành_quân_về_bắc"}  liên quan ?
+    - [Bài minh cái quạt]{"entity":"object","value":"vntourism:Bài_minh_cái_quạt"}  liên quan ?
+    - [Thống nhất quốc gia]{"entity":"object","value":"vntourism:Thống_nhất_quốc_gia"}  liên quan ?
+    - [Trọng thần tại triều đình (1874-1883)]{"entity":"object","value":"vntourism:Trọng_thần_tại_triều_đình_(1874-1883)"}  liên quan ?
+    - [Cầu viện Xiêm La]{"entity":"object","value":"vntourism:Cầu_viện_Xiêm_La"}  liên quan ?
+    - [Quân Minh sang lần thứ nhất và bị thua trận]{"entity":"object","value":"vntourism:Quân_Minh_sang_lần_thứ_nhất_và_bị_thua_trận"}  liên quan ?
+    - [Giúp Dương Quảng làm ác]{"entity":"object","value":"vntourism:Giúp_Dương_Quảng_làm_ác"}  liên quan ?
+    - [Thập tam thái bảo]{"entity":"object","value":"vntourism:Thập_tam_thái_bảo"}  liên quan ?
+    - [Tấn công Triệu]{"entity":"object","value":"vntourism:Tấn_công_Triệu"}  liên quan ?
+    - [Khai quốc công thần]{"entity":"object","value":"vntourism:Khai_quốc_công_thần"}  liên quan ?
+    - [Chiến tranh Nguyên- Đại Việt lần thứ nhất, Lê Tắc đầu hàng nhà Nguyên]{"entity":"object","value":"vntourism:Chiến_tranh_Nguyên-_Đại_Việt_lần_thứ_nhất,_Lê_Tắc_đầu_hàng_nhà_Nguyên"}  liên quan ?
+    - [Quan chế và tổ chức chính quyền trung ương]{"entity":"object","value":"vntourism:Quan_chế_và_tổ_chức_chính_quyền_trung_ương"}  liên quan ?
+    - [Nông thôn mới]{"entity":"object","value":"vntourism:Nông_thôn_mới"}  liên quan ?
+    - [Bối cảnh trước cuộc chiến]{"entity":"object","value":"vntourism:Bối_cảnh_trước_cuộc_chiến"}  liên quan ?
+    - [Nước Pháp và Đạo Thiên Chúa]{"entity":"object","value":"vntourism:Nước_Pháp_và_Đạo_Thiên_Chúa"}  liên quan ?
+    - [Phế lập Hoàng hậu]{"entity":"object","value":"vntourism:Phế_lập_Hoàng_hậu"}  liên quan ?
+    - [Tranh chấp với Lý Lâm Phủ]{"entity":"object","value":"vntourism:Tranh_chấp_với_Lý_Lâm_Phủ"}  liên quan ?
+    - [An Lộc Sơn tạo phản]{"entity":"object","value":"vntourism:An_Lộc_Sơn_tạo_phản"}  liên quan ?
+    - [Sáng lập báo Tiếng Dân]{"entity":"object","value":"vntourism:Sáng_lập_báo_Tiếng_Dân"}  liên quan ?
+    - [Cầu viện Xiêm La]{"entity":"object","value":"vntourism:Cầu_viện_Xiêm_La"}  liên quan ?
+    - [Đền nợ nước]{"entity":"object","value":"vntourism:Đền_nợ_nước"}  liên quan ?
+    - [Lần đầu xuất trận]{"entity":"object","value":"vntourism:Lần_đầu_xuất_trận"}  liên quan ?
+    - [Lực lượng suy yếu]{"entity":"object","value":"vntourism:Lực_lượng_suy_yếu"}  liên quan ?
+    - [Thương nghị với người Pháp]{"entity":"object","value":"vntourism:Thương_nghị_với_người_Pháp"}  liên quan ?
+    - [Phát động phong trào]{"entity":"object","value":"vntourism:Phát_động_phong_trào"}  liên quan ?
+    - [Đối ngoại với nhà Minh]{"entity":"object","value":"vntourism:Đối_ngoại_với_nhà_Minh"}  liên quan ?
+    - [Thời kỳ vinh hiển]{"entity":"object","value":"vntourism:Thời_kỳ_vinh_hiển"}  liên quan ?
+    - [Chính biến Mã Ngôi Dịch]{"entity":"object","value":"vntourism:Chính_biến_Mã_Ngôi_Dịch"}  liên quan ?
+    - [Gạt bỏ hiềm khích riêng]{"entity":"object","value":"vntourism:Gạt_bỏ_hiềm_khích_riêng"}  liên quan ?
+    - [So sánh với đối thủ là Nguyễn Ánh]{"entity":"object","value":"vntourism:So_sánh_với_đối_thủ_là_Nguyễn_Ánh"}  liên quan ?
+    - [Thi sĩ giang hồ]{"entity":"object","value":"vntourism:Thi_sĩ_giang_hồ"}  liên quan ?
+    - [Bia tưởng niệm]{"entity":"object","value":"vntourism:Bia_tưởng_niệm"}  liên quan ?
+    - [Ổn định Nam Hà]{"entity":"object","value":"vntourism:Ổn_định_Nam_Hà"}  liên quan ?
+    - [Xa xỉ lãng phí]{"entity":"object","value":"vntourism:Xa_xỉ_lãng_phí"}  liên quan ?
+    - [Tham gia chính trường]{"entity":"object","value":"vntourism:Tham_gia_chính_trường"}  liên quan ?
+    - [Chiến dịch Điện Biên Phủ]{"entity":"object","value":"vntourism:Chiến_dịch_Điện_Biên_Phủ"}  liên quan ?
+    - [Phụng chiếu cần vương]{"entity":"object","value":"vntourism:Phụng_chiếu_cần_vương"}  liên quan ?
+    - [Mở mang cù lao Phố]{"entity":"object","value":"vntourism:Mở_mang_cù_lao_Phố"}  liên quan ?
+    - [Đường Tôn Đức Thắng tại Việt Nam]{"entity":"object","value":"vntourism:Đường_Tôn_Đức_Thắng_tại_Việt_Nam"}  liên quan ?
+    - [Lưu vong ở Xiêm và Hiệp ước với Pháp]{"entity":"object","value":"vntourism:Lưu_vong_ở_Xiêm_và_Hiệp_ước_với_Pháp"}  liên quan ?
+    - [Chiến tranh Nguyên Mông-Đại Việt (1285)]{"entity":"object","value":"vntourism:Chiến_tranh_Nguyên_Mông-Đại_Việt_(1285)"}  liên quan ?
+    - [Chôn cất và thờ cúng]{"entity":"object","value":"vntourism:Chôn_cất_và_thờ_cúng"}  liên quan ?
+    - [Thoái vị, nhường ngôi]{"entity":"object","value":"vntourism:Thoái_vị,_nhường_ngôi"}  liên quan ?
+    - [Báo Trăm hoa]{"entity":"object","value":"vntourism:Báo_Trăm_hoa"}  liên quan ?
+    - [Bị xử trị]{"entity":"object","value":"vntourism:Bị_xử_trị"}  liên quan ?
+    - [Giai đoạn lãnh đạo]{"entity":"object","value":"vntourism:Giai_đoạn_lãnh_đạo"}  liên quan ?
+    - [Phan Bội Châu và Nguyễn Ái Quốc]{"entity":"object","value":"vntourism:Phan_Bội_Châu_và_Nguyễn_Ái_Quốc"}  liên quan ?
+    - [Biếm chức và phục vị]{"entity":"object","value":"vntourism:Biếm_chức_và_phục_vị"}  liên quan ?
+    - [Giai thoại về việc ra quân]{"entity":"object","value":"vntourism:Giai_thoại_về_việc_ra_quân"}  liên quan ?
+    - [Nghi án cung đình]{"entity":"object","value":"vntourism:Nghi_án_cung_đình"}  liên quan ?
+    - [Đối phó quân Sử]{"entity":"object","value":"vntourism:Đối_phó_quân_Sử"}  liên quan ?
+    - [Hồng Thuận trung hưng và sự suy trị]{"entity":"object","value":"vntourism:Hồng_Thuận_trung_hưng_và_sự_suy_trị"}  liên quan ?
+    - [Thành lập đội Việt Nam Tuyên truyền Giải phóng quân]{"entity":"object","value":"vntourism:Thành_lập_đội_Việt_Nam_Tuyên_truyền_Giải_phóng_quân"}  liên quan ?
+    - [Đối đãi nhân từ]{"entity":"object","value":"vntourism:Đối_đãi_nhân_từ"}  liên quan ?
+    - [Hoạ Trần Cảo]{"entity":"object","value":"vntourism:Hoạ_Trần_Cảo"}  liên quan ?
+    - [Về sự hợp tác với Pháp]{"entity":"object","value":"vntourism:Về_sự_hợp_tác_với_Pháp"}  liên quan ?
+    - [Việc tiến cử nhân tài Giao Châu]{"entity":"object","value":"vntourism:Việc_tiến_cử_nhân_tài_Giao_Châu"}  liên quan ?
+    - [Tuổi trẻ nổi danh]{"entity":"object","value":"vntourism:Tuổi_trẻ_nổi_danh"}  liên quan ?
+    - [Ly khai nhà Tần]{"entity":"object","value":"vntourism:Ly_khai_nhà_Tần"}  liên quan ?
+    - [Sứ quân trấn Hải Đông]{"entity":"object","value":"vntourism:Sứ_quân_trấn_Hải_Đông"}  liên quan ?
+    - [Trở về Việt Nam]{"entity":"object","value":"vntourism:Trở_về_Việt_Nam"}  liên quan ?
+    - [Xây dựng cung điện]{"entity":"object","value":"vntourism:Xây_dựng_cung_điện"}  liên quan ?
+    - [Cuối đời lận đận]{"entity":"object","value":"vntourism:Cuối_đời_lận_đận"}  liên quan ?
+    - [Tham gia Chính phủ Liên hiệp]{"entity":"object","value":"vntourism:Tham_gia_Chính_phủ_Liên_hiệp"}  liên quan ?
+    - [Kháng chiến chống Nguyên (1285)]{"entity":"object","value":"vntourism:Kháng_chiến_chống_Nguyên_(1285)"}  liên quan ?
+    - [Hành quân về phương nam]{"entity":"object","value":"vntourism:Hành_quân_về_phương_nam"}  liên quan ?
+    - [Biên soạn sách Đại Việt sử ký]{"entity":"object","value":"vntourism:Biên_soạn_sách_Đại_Việt_sử_ký"}  liên quan ?
+    - [Tái lập quan hệ với triều đình]{"entity":"object","value":"vntourism:Tái_lập_quan_hệ_với_triều_đình"}  liên quan ?
+    - [Làm việc trong chính quyền thuộc địa Pháp]{"entity":"object","value":"vntourism:Làm_việc_trong_chính_quyền_thuộc_địa_Pháp"}  liên quan ?
+    - [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"}  liên quan ?
+    - [Đạo đức lối sống]{"entity":"object","value":"vntourism:Đạo_đức_lối_sống"}  liên quan ?
+    - [Dựa vào Nguyễn Nộn]{"entity":"object","value":"vntourism:Dựa_vào_Nguyễn_Nộn"}  liên quan ?
+    - [Các thể loại khác]{"entity":"object","value":"vntourism:Các_thể_loại_khác"}  liên quan ?
+    - [Công tác và năng khiếu khác]{"entity":"object","value":"vntourism:Công_tác_và_năng_khiếu_khác"}  liên quan ?
+    - [Bắc tiến lần thứ 2]{"entity":"object","value":"vntourism:Bắc_tiến_lần_thứ_2"}  liên quan ?
+    - [Nhà Tống xuất binh]{"entity":"object","value":"vntourism:Nhà_Tống_xuất_binh"}  liên quan ?
+    - [Làm công tác nghiên cứu]{"entity":"object","value":"vntourism:Làm_công_tác_nghiên_cứu"}  liên quan ?
+    - [Phụ chính đại thần (1883-1885)]{"entity":"object","value":"vntourism:Phụ_chính_đại_thần_(1883-1885)"}  liên quan ?
+    - [Đảm nhiệm Thứ trưởng Bộ quốc phòng]{"entity":"object","value":"vntourism:Đảm_nhiệm_Thứ_trưởng_Bộ_quốc_phòng"}  liên quan ?
+    - [Sự kiện Thượng Nguyên dịch]{"entity":"object","value":"vntourism:Sự_kiện_Thượng_Nguyên_dịch"}  liên quan ?
+    - [Trận tập kích Bắc Kinh]{"entity":"object","value":"vntourism:Trận_tập_kích_Bắc_Kinh"}  liên quan ?
+    - [Đại biểu Quốc hội Việt Nam thành phố Cần Thơ (2016-2021)]{"entity":"object","value":"vntourism:Đại_biểu_Quốc_hội_Việt_Nam_thành_phố_Cần_Thơ_(2016-2021)"}  liên quan ?
+    - [Đại biểu Quốc hội Việt Nam nhiệm kì 2016-2021]{"entity":"object","value":"vntourism:Đại_biểu_Quốc_hội_Việt_Nam_nhiệm_kì_2016-2021"}  liên quan ?
+    - [Buổi đầu trị nước]{"entity":"object","value":"vntourism:Buổi_đầu_trị_nước"}  liên quan ?
+    - [Tác phẩm về cách mạng Việt Nam]{"entity":"object","value":"vntourism:Tác_phẩm_về_cách_mạng_Việt_Nam"}  liên quan ?
+    - [Trọng dụng ngoại thích]{"entity":"object","value":"vntourism:Trọng_dụng_ngoại_thích"}  liên quan ?
+    - [Bại trận vẫn hiên ngang]{"entity":"object","value":"vntourism:Bại_trận_vẫn_hiên_ngang"}  liên quan ?
+    - [Đánh bại các đối thủ]{"entity":"object","value":"vntourism:Đánh_bại_các_đối_thủ"}  liên quan ?
+    - [Chống nhà Tùy và thành lập nhà Đường]{"entity":"object","value":"vntourism:Chống_nhà_Tùy_và_thành_lập_nhà_Đường"}  liên quan ?
+    - [Xuất thân và quê quán]{"entity":"object","value":"vntourism:Xuất_thân_và_quê_quán"}  liên quan ?
+    - [Bình định đất Lĩnh Nam]{"entity":"object","value":"vntourism:Bình_định_đất_Lĩnh_Nam"}  liên quan ?
+    - [Phi tử tiếu]{"entity":"object","value":"vntourism:Phi_tử_tiếu"}  liên quan ?
+    - [Dẹp phản kháng trong nước, thu châu Phục Lễ]{"entity":"object","value":"vntourism:Dẹp_phản_kháng_trong_nước,_thu_châu_Phục_Lễ"}  liên quan ?
+    - [Trận đầm Dạ Trạch]{"entity":"object","value":"vntourism:Trận_đầm_Dạ_Trạch"}  liên quan ?
+    - [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"}  liên quan ?
+    - [Loạn họ Nùng]{"entity":"object","value":"vntourism:Loạn_họ_Nùng"}  liên quan ?
+    - [Nguyễn Thị Thanh]{"entity":"object","value":"vntourism:Nguyễn_Thị_Thanh"}  liên quan ?
+    - [Vây thành Nghệ An]{"entity":"object","value":"vntourism:Vây_thành_Nghệ_An"}  liên quan ?
+    - [Đền thờ, tượng đài]{"entity":"object","value":"vntourism:Đền_thờ,_tượng_đài"}  liên quan ?
+    - [Trấn giữ thành Hà Nội]{"entity":"object","value":"vntourism:Trấn_giữ_thành_Hà_Nội"}  liên quan ?
+    - [Nguyễn Thị Kép]{"entity":"object","value":"vntourism:Nguyễn_Thị_Kép"}  liên quan ?
+    - [Chu Ôn mưu sát, đội mưa thoát hiểm]{"entity":"object","value":"vntourism:Chu_Ôn_mưu_sát,_đội_mưa_thoát_hiểm"}  liên quan ?
+    - [Hết lòng vì đất nước]{"entity":"object","value":"vntourism:Hết_lòng_vì_đất_nước"}  liên quan ?
+    - [Dẹp quận Hẻo]{"entity":"object","value":"vntourism:Dẹp_quận_Hẻo"}  liên quan ?
+    - [Mẹ mất, bị mù lòa]{"entity":"object","value":"vntourism:Mẹ_mất,_bị_mù_lòa"}  liên quan ?
+    - [Đại biểu Quốc hội Việt Nam khóa XIII (2011-2016) tỉnh Bắc Giang]{"entity":"object","value":"vntourism:Đại_biểu_Quốc_hội_Việt_Nam_khóa_XIII_(2011-2016)_tỉnh_Bắc_Giang"}  liên quan ?
+    - [Tiến ra Thăng Long]{"entity":"object","value":"vntourism:Tiến_ra_Thăng_Long"}  liên quan ?
+    - [Phụ mẫu, huynh đệ]{"entity":"object","value":"vntourism:Phụ_mẫu,_huynh_đệ"}  liên quan ?
+    - [Trọn vẹn đến cuối đời]{"entity":"object","value":"vntourism:Trọn_vẹn_đến_cuối_đời"}  liên quan ?
+    - [Vượt ngục Đông Quan]{"entity":"object","value":"vntourism:Vượt_ngục_Đông_Quan"}  liên quan ?
+    - [Hoạ quyền thần]{"entity":"object","value":"vntourism:Hoạ_quyền_thần"}  liên quan ?
+    - [Hết Minh nhờ Thanh]{"entity":"object","value":"vntourism:Hết_Minh_nhờ_Thanh"}  liên quan ?
+    - [Đại biểu Quốc hội Việt Nam khóa XIV Thành phố Hồ Chí Minh]{"entity":"object","value":"vntourism:Đại_biểu_Quốc_hội_Việt_Nam_khóa_XIV_Thành_phố_Hồ_Chí_Minh"}  liên quan ?
+    - [Giai đoạn 1945 - 1975]{"entity":"object","value":"vntourism:Giai_đoạn_1945_-_1975"}  liên quan ?
+    - [Bị sát hại]{"entity":"object","value":"vntourism:Bị_sát_hại"}  liên quan ?
+    - [Thống nhất quốc gia]{"entity":"object","value":"vntourism:Thống_nhất_quốc_gia"}  liên quan ?
+    - [Nội loạn Trần Tuân]{"entity":"object","value":"vntourism:Nội_loạn_Trần_Tuân"}  liên quan ?
+    - [Đình Yên Duyệt và Mộ Lý Triện, Xã Tốt Động, huyện Chương Mỹ, thành phố Hà Nội]{"entity":"object","value":"vntourism:Đình_Yên_Duyệt_và_Mộ_Lý_Triện,_Xã_Tốt_Động,_huyện_Chương_Mỹ,_thành_phố_Hà_Nội"}  liên quan ?
+    - [Tung hoành vùng quan ngoại]{"entity":"object","value":"vntourism:Tung_hoành_vùng_quan_ngoại"}  liên quan ?
+    - [Không tham gia cuộc tranh giành của các hoàng tử]{"entity":"object","value":"vntourism:Không_tham_gia_cuộc_tranh_giành_của_các_hoàng_tử"}  liên quan ?
+    - [Xưng Hoàng Đế]{"entity":"object","value":"vntourism:Xưng_Hoàng_Đế"}  liên quan ?
+    - [Triều vua Lê Thái Tổ]{"entity":"object","value":"vntourism:Triều_vua_Lê_Thái_Tổ"}  liên quan ?
+    - [Lập thái tử và qua đời]{"entity":"object","value":"vntourism:Lập_thái_tử_và_qua_đời"}  liên quan ?
+    - [Tổ chức chính quyền]{"entity":"object","value":"vntourism:Tổ_chức_chính_quyền"}  liên quan ?
+    - [Quân Minh sang lần thứ hai]{"entity":"object","value":"vntourism:Quân_Minh_sang_lần_thứ_hai"}  liên quan ?
+    - [Kháng chiến chống Nguyên (1287-1288)]{"entity":"object","value":"vntourism:Kháng_chiến_chống_Nguyên_(1287-1288)"}  liên quan ?
+    - [Phò trợ Hoàng đế]{"entity":"object","value":"vntourism:Phò_trợ_Hoàng_đế"}  liên quan ?
+    - [Đông Tác phường Trung Tự thôn địa giới kiệt]{"entity":"object","value":"vntourism:Đông_Tác_phường_Trung_Tự_thôn_địa_giới_kiệt"}  liên quan ?
+    - [Triều vua Lê Thái Tông]{"entity":"object","value":"vntourism:Triều_vua_Lê_Thái_Tông"}  liên quan ?
+    - [Xung đột với Nguyễn Nhạc]{"entity":"object","value":"vntourism:Xung_đột_với_Nguyễn_Nhạc"}  liên quan ?
+    - [Khi thăng khi giáng]{"entity":"object","value":"vntourism:Khi_thăng_khi_giáng"}  liên quan ?
+    - [Pháp Khởi Sự Tiêu Diệt Việt Nam Quốc Dân Đảng]{"entity":"object","value":"vntourism:Pháp_Khởi_Sự_Tiêu_Diệt_Việt_Nam_Quốc_Dân_Đảng"}  liên quan ?
+    - [Chôn cất và thờ cúng]{"entity":"object","value":"vntourism:Chôn_cất_và_thờ_cúng"}  liên quan ?
+    - [Đoạt binh A Tế Cách]{"entity":"object","value":"vntourism:Đoạt_binh_A_Tế_Cách"}  liên quan ?
+    - [Đánh đuổi quân Lương]{"entity":"object","value":"vntourism:Đánh_đuổi_quân_Lương"}  liên quan ?
+    - [Sách lập Dương Quý phi]{"entity":"object","value":"vntourism:Sách_lập_Dương_Quý_phi"}  liên quan ?
+    - [Một lúc giết ba con]{"entity":"object","value":"vntourism:Một_lúc_giết_ba_con"}  liên quan ?
+    - [Thành lập Đại Thuận, đánh đổ nhà Minh]{"entity":"object","value":"vntourism:Thành_lập_Đại_Thuận,_đánh_đổ_nhà_Minh"}  liên quan ?
+    - [Phim điện ảnh]{"entity":"object","value":"vntourism:Phim_điện_ảnh"}  liên quan ?
+    - [Giữ yên Giao Châu]{"entity":"object","value":"vntourism:Giữ_yên_Giao_Châu"}  liên quan ?
+    - [Lăng mộ bị phá]{"entity":"object","value":"vntourism:Lăng_mộ_bị_phá"}  liên quan ?
+    - [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"}  liên quan ?
+    - [Mỹ đưa quân vào Việt Nam]{"entity":"object","value":"vntourism:Mỹ_đưa_quân_vào_Việt_Nam"}  liên quan ?
+    - [Truyền thuyết rắn báo oán]{"entity":"object","value":"vntourism:Truyền_thuyết_rắn_báo_oán"}  liên quan ?
+    - [Mắc kế thông gia và sụp đổ]{"entity":"object","value":"vntourism:Mắc_kế_thông_gia_và_sụp_đổ"}  liên quan ?
+    - [Tứ trụ triều Đinh]{"entity":"object","value":"vntourism:Tứ_trụ_triều_Đinh"}  liên quan ?
+    - [Binh biến Phạm Tử Nghi]{"entity":"object","value":"vntourism:Binh_biến_Phạm_Tử_Nghi"}  liên quan ?
+    - [Lưu đày và cái chết nơi biệt xứ (1885-1886)]{"entity":"object","value":"vntourism:Lưu_đày_và_cái_chết_nơi_biệt_xứ_(1885-1886)"}  liên quan ?
+    - [Vị tư lệnh thận trọng]{"entity":"object","value":"vntourism:Vị_tư_lệnh_thận_trọng"}  liên quan ?
+    - [Lập Duy Tân hội, sang Nhật cầu viện]{"entity":"object","value":"vntourism:Lập_Duy_Tân_hội,_sang_Nhật_cầu_viện"}  liên quan ?
+    - [Mất ngôi chúa]{"entity":"object","value":"vntourism:Mất_ngôi_chúa"}  liên quan ?
+    - [Quốc hiệu Đại Nam]{"entity":"object","value":"vntourism:Quốc_hiệu_Đại_Nam"}  liên quan ?
+    - [Chánh biến Đường Long]{"entity":"object","value":"vntourism:Chánh_biến_Đường_Long"}  liên quan ?
+    - [Triều đại Trần Nghệ Tông]{"entity":"object","value":"vntourism:Triều_đại_Trần_Nghệ_Tông"}  liên quan ?
+    - [Chống Hòa ước Giáp Tuất]{"entity":"object","value":"vntourism:Chống_Hòa_ước_Giáp_Tuất"}  liên quan ?
+    - [Được lập kế vị]{"entity":"object","value":"vntourism:Được_lập_kế_vị"}  liên quan ?
+    - [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"}  liên quan ?
+    - [Vụ án Trần Quốc Chẩn]{"entity":"object","value":"vntourism:Vụ_án_Trần_Quốc_Chẩn"}  liên quan ?
+    - [Tham gia khởi nghĩa Lam Sơn]{"entity":"object","value":"vntourism:Tham_gia_khởi_nghĩa_Lam_Sơn"}  liên quan ?
+    - [Khai trừ khỏi Đảng]{"entity":"object","value":"vntourism:Khai_trừ_khỏi_Đảng"}  liên quan ?
+    - [Chiến tranh với Nhà Mạc]{"entity":"object","value":"vntourism:Chiến_tranh_với_Nhà_Mạc"}  liên quan ?
+    - [Mười năm phiêu dạt]{"entity":"object","value":"vntourism:Mười_năm_phiêu_dạt"}  liên quan ?
+    - [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"}  liên quan ?
+    - [Được phục hồi danh dự]{"entity":"object","value":"vntourism:Được_phục_hồi_danh_dự"}  liên quan ?
+    - [Gả Công chúa, giết lương thần]{"entity":"object","value":"vntourism:Gả_Công_chúa,_giết_lương_thần"}  liên quan ?
+    - [Mắc nạn cùng cha]{"entity":"object","value":"vntourism:Mắc_nạn_cùng_cha"}  liên quan ?
+    - [Tây Sơn suy yếu]{"entity":"object","value":"vntourism:Tây_Sơn_suy_yếu"}  liên quan ?
+    - [Ngoại thích họ Dương]{"entity":"object","value":"vntourism:Ngoại_thích_họ_Dương"}  liên quan ?
+    - [Vụ án Trần Quốc Chẩn]{"entity":"object","value":"vntourism:Vụ_án_Trần_Quốc_Chẩn"}  liên quan ?
+    - [Trọng thần thời Lê Thánh Tông]{"entity":"object","value":"vntourism:Trọng_thần_thời_Lê_Thánh_Tông"}  liên quan ?
+    - [Người Pháp giúp đỡ]{"entity":"object","value":"vntourism:Người_Pháp_giúp_đỡ"}  liên quan ?
+    - [Phục hưng nghề đúc đồng]{"entity":"object","value":"vntourism:Phục_hưng_nghề_đúc_đồng"}  liên quan ?
+    - [Kiến trúc sư trưởng Bắc Kinh]{"entity":"object","value":"vntourism:Kiến_trúc_sư_trưởng_Bắc_Kinh"}  liên quan ?
+    - [Được tôn vinh và qua đời]{"entity":"object","value":"vntourism:Được_tôn_vinh_và_qua_đời"}  liên quan ?
+    - [Kế hoạch Nam tiến dở dang]{"entity":"object","value":"vntourism:Kế_hoạch_Nam_tiến_dở_dang"}  liên quan ?
+    - [Cầu viện Xiêm La]{"entity":"object","value":"vntourism:Cầu_viện_Xiêm_La"}  liên quan ?
+    - [Viếng Quang Trung]{"entity":"object","value":"vntourism:Viếng_Quang_Trung"}  liên quan ?
+    - [Vây thành Đông Quan]{"entity":"object","value":"vntourism:Vây_thành_Đông_Quan"}  liên quan ?
+    - [Tuần du phương bắc]{"entity":"object","value":"vntourism:Tuần_du_phương_bắc"}  liên quan ?
+    - [Văn tế công chúa]{"entity":"object","value":"vntourism:Văn_tế_công_chúa"}  liên quan ?
+    - [Triều đại Trần Duệ Tông]{"entity":"object","value":"vntourism:Triều_đại_Trần_Duệ_Tông"}  liên quan ?
+    - [Hoàng Xuân Đường]{"entity":"object","value":"vntourism:Hoàng_Xuân_Đường"}  liên quan ?
+    - [Giành lại Đông Kinh]{"entity":"object","value":"vntourism:Giành_lại_Đông_Kinh"}  liên quan ?
+    - [Ý kiến nhận định của các sử gia ở Viện sử học Việt Nam và tri thức Việt Nam thời hiện đại]{"entity":"object","value":"vntourism:Ý_kiến_nhận_định_của_các_sử_gia_ở_Viện_sử_học_Việt_Nam_và_tri_thức_Việt_Nam_thời_hiện_đại"}  liên quan ?
+    - [Loạn 12 sứ quân]{"entity":"object","value":"vntourism:Loạn_12_sứ_quân"}  liên quan ?
+    - [Hội chư hầu]{"entity":"object","value":"vntourism:Hội_chư_hầu"}  liên quan ?
+    - [Tàn sát phu phen]{"entity":"object","value":"vntourism:Tàn_sát_phu_phen"}  liên quan ?
+    - [Trận Bác Vọng]{"entity":"object","value":"vntourism:Trận_Bác_Vọng"}  liên quan ?
+    - [Thời Trần Hiến Tông]{"entity":"object","value":"vntourism:Thời_Trần_Hiến_Tông"}  liên quan ?
+    - [Khi thăng khi giáng]{"entity":"object","value":"vntourism:Khi_thăng_khi_giáng"}  liên quan ?
+    - [Lần thứ nhất]{"entity":"object","value":"vntourism:Lần_thứ_nhất"}  liên quan ?
+    - [Hội thề Đông Quan]{"entity":"object","value":"vntourism:Hội_thề_Đông_Quan"}  liên quan ?
+    - [Sự nghiệp dang dở]{"entity":"object","value":"vntourism:Sự_nghiệp_dang_dở"}  liên quan ?
+    - [Làm tướng nước Ngụy]{"entity":"object","value":"vntourism:Làm_tướng_nước_Ngụy"}  liên quan ?
+    - [Tiến vào Nghệ An]{"entity":"object","value":"vntourism:Tiến_vào_Nghệ_An"}  liên quan ?
+    - [Trở thành Tổng thống]{"entity":"object","value":"vntourism:Trở_thành_Tổng_thống"}  liên quan ?
+    - [Hội thề Đông Quan]{"entity":"object","value":"vntourism:Hội_thề_Đông_Quan"}  liên quan ?
+    - [Loạn 12 sứ quân]{"entity":"object","value":"vntourism:Loạn_12_sứ_quân"}  liên quan ?
+    - [Đối ngoại với nhà Minh]{"entity":"object","value":"vntourism:Đối_ngoại_với_nhà_Minh"}  liên quan ?
+    - [Ý kiến dung hòa]{"entity":"object","value":"vntourism:Ý_kiến_dung_hòa"}  liên quan ?
+    - [Đền thờ, tượng đài]{"entity":"object","value":"vntourism:Đền_thờ,_tượng_đài"}  liên quan ?
+    - [Bị giam giữ tại Hàn Quốc]{"entity":"object","value":"vntourism:Bị_giam_giữ_tại_Hàn_Quốc"}  liên quan ?
+    - [Sau khi tách khỏi Vương Tiên Chi]{"entity":"object","value":"vntourism:Sau_khi_tách_khỏi_Vương_Tiên_Chi"}  liên quan ?
+    - [Hạ thành Xương Giang]{"entity":"object","value":"vntourism:Hạ_thành_Xương_Giang"}  liên quan ?
+    - [Ham sắc hại mình]{"entity":"object","value":"vntourism:Ham_sắc_hại_mình"}  liên quan ?
+    - [Lập Đông Kinh Nghĩa Thục]{"entity":"object","value":"vntourism:Lập_Đông_Kinh_Nghĩa_Thục"}  liên quan ?
+    - [Giữ an bờ cõi]{"entity":"object","value":"vntourism:Giữ_an_bờ_cõi"}  liên quan ?
+    - [Quan hệ với Xiêm La]{"entity":"object","value":"vntourism:Quan_hệ_với_Xiêm_La"}  liên quan ?
+    - [Đánh Bồn Man, dẹp Lão Qua]{"entity":"object","value":"vntourism:Đánh_Bồn_Man,_dẹp_Lão_Qua"}  liên quan ?
+    - [Hoạt động trong ngành công an]{"entity":"object","value":"vntourism:Hoạt_động_trong_ngành_công_an"}  liên quan ?
+    - [Xung đột 2 họ nhân danh phù Lê]{"entity":"object","value":"vntourism:Xung_đột_2_họ_nhân_danh_phù_Lê"}  liên quan ?
+    - [Cải cách hành chính]{"entity":"object","value":"vntourism:Cải_cách_hành_chính"}  liên quan ?
+    - [Triều vua Lê Thái Tông]{"entity":"object","value":"vntourism:Triều_vua_Lê_Thái_Tông"}  liên quan ?
+    - [Sang đảo La Réunion]{"entity":"object","value":"vntourism:Sang_đảo_La_Réunion"}  liên quan ?
+    - [Sự kiện Thiên An Môn]{"entity":"object","value":"vntourism:Sự_kiện_Thiên_An_Môn"}  liên quan ?
+    - [Lưu thủ Kinh sư]{"entity":"object","value":"vntourism:Lưu_thủ_Kinh_sư"}  liên quan ?
+    - [Tham gia khởi nghĩa Lam Sơn]{"entity":"object","value":"vntourism:Tham_gia_khởi_nghĩa_Lam_Sơn"}  liên quan ?
+    - [Mở nước Đại Cồ Việt]{"entity":"object","value":"vntourism:Mở_nước_Đại_Cồ_Việt"}  liên quan ?
+    - [Triều vua Lê Thái Tổ]{"entity":"object","value":"vntourism:Triều_vua_Lê_Thái_Tổ"}  liên quan ?
+    - [Phát động phong trào Đông Du]{"entity":"object","value":"vntourism:Phát_động_phong_trào_Đông_Du"}  liên quan ?
+    - [Lập mưu bắt Hàn Tín]{"entity":"object","value":"vntourism:Lập_mưu_bắt_Hàn_Tín"}  liên quan ?
+    - [Công trình tập thể]{"entity":"object","value":"vntourism:Công_trình_tập_thể"}  liên quan ?
+    - [Nguy khốn ở mạn bắc]{"entity":"object","value":"vntourism:Nguy_khốn_ở_mạn_bắc"}  liên quan ?
+    - [Thất thế trước Tây Sơn]{"entity":"object","value":"vntourism:Thất_thế_trước_Tây_Sơn"}  liên quan ?
+    - [Lập chùa, mở mang phật giáo]{"entity":"object","value":"vntourism:Lập_chùa,_mở_mang_phật_giáo"}  liên quan ?
+    - [Diệt Cống Chỉnh]{"entity":"object","value":"vntourism:Diệt_Cống_Chỉnh"}  liên quan ?
+    - [Vạn ngôn thư]{"entity":"object","value":"vntourism:Vạn_ngôn_thư"}  liên quan ?
+    - [Trận Sái Già]{"entity":"object","value":"vntourism:Trận_Sái_Già"}  liên quan ?
+    - [Chinh phạt Lưu Cầu, Tây Đột Quyết]{"entity":"object","value":"vntourism:Chinh_phạt_Lưu_Cầu,_Tây_Đột_Quyết"}  liên quan ?
+    - [Đóng đô Hoa Lư]{"entity":"object","value":"vntourism:Đóng_đô_Hoa_Lư"}  liên quan ?
+    - [Vận động chính trị tại Mỹ]{"entity":"object","value":"vntourism:Vận_động_chính_trị_tại_Mỹ"}  liên quan ?
+    - [Trấn thủ Sơn Tây]{"entity":"object","value":"vntourism:Trấn_thủ_Sơn_Tây"}  liên quan ?
+    - [Tham gia khởi nghĩa]{"entity":"object","value":"vntourism:Tham_gia_khởi_nghĩa"}  liên quan ?
+    - [Cát cứ chống nhà Ngô]{"entity":"object","value":"vntourism:Cát_cứ_chống_nhà_Ngô"}  liên quan ?
+    - [Giai đoạn 1991 - 1996]{"entity":"object","value":"vntourism:Giai_đoạn_1991_-_1996"}  liên quan ?
+    - [Trận ngày 18 tháng 12 năm 1886]{"entity":"object","value":"vntourism:Trận_ngày_18_tháng_12_năm_1886"}  liên quan ?
+    - [Lưu vong và hồi hương]{"entity":"object","value":"vntourism:Lưu_vong_và_hồi_hương"}  liên quan ?
+    - [Các câu nói nổi tiếng]{"entity":"object","value":"vntourism:Các_câu_nói_nổi_tiếng"}  liên quan ?
+    - [Cuộc chiến đầu tiên 1627]{"entity":"object","value":"vntourism:Cuộc_chiến_đầu_tiên_1627"}  liên quan ?
+    - [Diệt Phụ Công Thạch]{"entity":"object","value":"vntourism:Diệt_Phụ_Công_Thạch"}  liên quan ?
+    - [Làm hoàng đế, chống Chu Nguyên Chương]{"entity":"object","value":"vntourism:Làm_hoàng_đế,_chống_Chu_Nguyên_Chương"}  liên quan ?
+    - [Triều vua Lê Thái Tông]{"entity":"object","value":"vntourism:Triều_vua_Lê_Thái_Tông"}  liên quan ?
+    - [Mở rộng Đại Việt]{"entity":"object","value":"vntourism:Mở_rộng_Đại_Việt"}  liên quan ?
+    - [Xung đột với Hà Lan]{"entity":"object","value":"vntourism:Xung_đột_với_Hà_Lan"}  liên quan ?
+    - [Con vua Chiêu Tông]{"entity":"object","value":"vntourism:Con_vua_Chiêu_Tông"}  liên quan ?
+    - [Làm quan thời nhà Hồ]{"entity":"object","value":"vntourism:Làm_quan_thời_nhà_Hồ"}  liên quan ?
+    - [Chạy ra tới biển, định đô Hàng châu]{"entity":"object","value":"vntourism:Chạy_ra_tới_biển,_định_đô_Hàng_châu"}  liên quan ?
+    - [Khai quốc công]{"entity":"object","value":"vntourism:Khai_quốc_công"}  liên quan ?
+    - [Tham chiến ở Yên, Triệu]{"entity":"object","value":"vntourism:Tham_chiến_ở_Yên,_Triệu"}  liên quan ?
+    - [Thần phục nhà Hán]{"entity":"object","value":"vntourism:Thần_phục_nhà_Hán"}  liên quan ?
+    - [Giai đoạn chiến tranh Việt Nam]{"entity":"object","value":"vntourism:Giai_đoạn_chiến_tranh_Việt_Nam"}  liên quan ?
+    - [Thanh trừng kẻ chống đối]{"entity":"object","value":"vntourism:Thanh_trừng_kẻ_chống_đối"}  liên quan ?
+    - [Hậu duệ ở Triều Tiên]{"entity":"object","value":"vntourism:Hậu_duệ_ở_Triều_Tiên"}  liên quan ?
+    - [Chia nước với họ Lý và mất nước]{"entity":"object","value":"vntourism:Chia_nước_với_họ_Lý_và_mất_nước"}  liên quan ?
+    - [Dòng dõi Lê Trừ]{"entity":"object","value":"vntourism:Dòng_dõi_Lê_Trừ"}  liên quan ?
+    - [Quan hệ quân sự]{"entity":"object","value":"vntourism:Quan_hệ_quân_sự"}  liên quan ?
+    - [Ngồi tù lần thứ hai]{"entity":"object","value":"vntourism:Ngồi_tù_lần_thứ_hai"}  liên quan ?
+    - [Hoàng hậu, hoạn quan lộng hành]{"entity":"object","value":"vntourism:Hoàng_hậu,_hoạn_quan_lộng_hành"}  liên quan ?
+    - [Triều đại Trần Thuận Tông]{"entity":"object","value":"vntourism:Triều_đại_Trần_Thuận_Tông"}  liên quan ?
+    - [Giáo trình, công trình nghiên cứu]{"entity":"object","value":"vntourism:Giáo_trình,_công_trình_nghiên_cứu"}  liên quan ?
+    - [Phụ chính cho Trịnh Cán]{"entity":"object","value":"vntourism:Phụ_chính_cho_Trịnh_Cán"}  liên quan ?
+    - [Các hoạt động chính (1950 đến 1988)]{"entity":"object","value":"vntourism:Các_hoạt_động_chính_(1950_đến_1988)"}  liên quan ?
+    - [Đánh Tống và Chiêm]{"entity":"object","value":"vntourism:Đánh_Tống_và_Chiêm"}  liên quan ?
+    - [So sánh với đối thủ là Nguyễn Ánh]{"entity":"object","value":"vntourism:So_sánh_với_đối_thủ_là_Nguyễn_Ánh"}  liên quan ?
+    - [Lãnh đạo huyện Vũng Liêm]{"entity":"object","value":"vntourism:Lãnh_đạo_huyện_Vũng_Liêm"}  liên quan ?
+    - [Lên ngôi Hoàng đế]{"entity":"object","value":"vntourism:Lên_ngôi_Hoàng_đế"}  liên quan ?
+    - [Kết oán với Võ Tánh]{"entity":"object","value":"vntourism:Kết_oán_với_Võ_Tánh"}  liên quan ?
+    - [Cuộc sống lưu vong]{"entity":"object","value":"vntourism:Cuộc_sống_lưu_vong"}  liên quan ?
+    - [Quản lý nhân khẩu]{"entity":"object","value":"vntourism:Quản_lý_nhân_khẩu"}  liên quan ?
+    - [Cát cứ chống nhà Ngô]{"entity":"object","value":"vntourism:Cát_cứ_chống_nhà_Ngô"}  liên quan ?
+    - [Chống Viên Thế Khải]{"entity":"object","value":"vntourism:Chống_Viên_Thế_Khải"}  liên quan ?
+    - [Chinh phục Hậu Lương]{"entity":"object","value":"vntourism:Chinh_phục_Hậu_Lương"}  liên quan ?
+    - [Phong trào Phú Riềng Đỏ 1930]{"entity":"object","value":"vntourism:Phong_trào_Phú_Riềng_Đỏ_1930"}  liên quan ?
+    - [Mở nước Đại Cồ Việt]{"entity":"object","value":"vntourism:Mở_nước_Đại_Cồ_Việt"}  liên quan ?
+    - [Lĩnh vực sử học]{"entity":"object","value":"vntourism:Lĩnh_vực_sử_học"}  liên quan ?
+    - [Nỗi oan khuất]{"entity":"object","value":"vntourism:Nỗi_oan_khuất"}  liên quan ?
+    - [Theo cha vào Nam]{"entity":"object","value":"vntourism:Theo_cha_vào_Nam"}  liên quan ?
+    - [Thiên tử nghĩa nam]{"entity":"object","value":"vntourism:Thiên_tử_nghĩa_nam"}  liên quan ?
+    - [Các câu nói nổi tiếng]{"entity":"object","value":"vntourism:Các_câu_nói_nổi_tiếng"}  liên quan ?
+    - [Vụ ly khai của hai nhà Lê, Nguyễn]{"entity":"object","value":"vntourism:Vụ_ly_khai_của_hai_nhà_Lê,_Nguyễn"}  liên quan ?
+    - [Trở thành nhà bất đồng chính kiến]{"entity":"object","value":"vntourism:Trở_thành_nhà_bất_đồng_chính_kiến"}  liên quan ?
+    - [Thiết lập nền tảng độc lập]{"entity":"object","value":"vntourism:Thiết_lập_nền_tảng_độc_lập"}  liên quan ?
+    - [Quốc trưởng Quốc gia Việt Nam]{"entity":"object","value":"vntourism:Quốc_trưởng_Quốc_gia_Việt_Nam"}  liên quan ?
+    - [Thắng làm Vua, thua làm Đại sứ]{"entity":"object","value":"vntourism:Thắng_làm_Vua,_thua_làm_Đại_sứ"}  liên quan ?
+    - [Quân Minh sang lần thứ nhất và bị thua trận]{"entity":"object","value":"vntourism:Quân_Minh_sang_lần_thứ_nhất_và_bị_thua_trận"}  liên quan ?
+    - [Mở rộng Đại Việt]{"entity":"object","value":"vntourism:Mở_rộng_Đại_Việt"}  liên quan ?
+    - [Đánh Tân Bình Thuận Hóa]{"entity":"object","value":"vntourism:Đánh_Tân_Bình_Thuận_Hóa"}  liên quan ?
+    - [Nhạc trưởng Nam Bộ]{"entity":"object","value":"vntourism:Nhạc_trưởng_Nam_Bộ"}  liên quan ?
+    - [Chết ở nước Sở]{"entity":"object","value":"vntourism:Chết_ở_nước_Sở"}  liên quan ?
+    - [Mở mang văn hóa tư tưởng]{"entity":"object","value":"vntourism:Mở_mang_văn_hóa_tư_tưởng"}  liên quan ?
+    - [Thần phục nhà Hán]{"entity":"object","value":"vntourism:Thần_phục_nhà_Hán"}  liên quan ?
+    - [Tranh chấp trong cung và việc chiến tranh ở phía bắc]{"entity":"object","value":"vntourism:Tranh_chấp_trong_cung_và_việc_chiến_tranh_ở_phía_bắc"}  liên quan ?
+    - [Tiến công Gia Định]{"entity":"object","value":"vntourism:Tiến_công_Gia_Định"}  liên quan ?
+    - [Huân chương Việt Nam]{"entity":"object","value":"vntourism:Huân_chương_Việt_Nam"}  liên quan ?
+    - [Ngồi tù lần thứ tư]{"entity":"object","value":"vntourism:Ngồi_tù_lần_thứ_tư"}  liên quan ?
+    - [Quay về với họ Trần]{"entity":"object","value":"vntourism:Quay_về_với_họ_Trần"}  liên quan ?
+    - [Giết Đinh Hạng Lang]{"entity":"object","value":"vntourism:Giết_Đinh_Hạng_Lang"}  liên quan ?
+    - [Chuẩn bị lực lượng và sự tranh chấp nội bộ]{"entity":"object","value":"vntourism:Chuẩn_bị_lực_lượng_và_sự_tranh_chấp_nội_bộ"}  liên quan ?
+    - [Nguyễn Bỉnh Khiêm với tư cách một nhà dự báo, hoạch định chiến lược]{"entity":"object","value":"vntourism:Nguyễn_Bỉnh_Khiêm_với_tư_cách_một_nhà_dự_báo,_hoạch_định_chiến_lược"}  liên quan ?
+    - [Liên tục lập công]{"entity":"object","value":"vntourism:Liên_tục_lập_công"}  liên quan ?
+    - [Các câu nói khác]{"entity":"object","value":"vntourism:Các_câu_nói_khác"}  liên quan ?
+    - [Theo Hạng Vũ]{"entity":"object","value":"vntourism:Theo_Hạng_Vũ"}  liên quan ?
+    - [Sách Lam Sơn thực lục chép]{"entity":"object","value":"vntourism:Sách_Lam_Sơn_thực_lục_chép"}  liên quan ?
+    - [Bị đảo chính lần thứ hai]{"entity":"object","value":"vntourism:Bị_đảo_chính_lần_thứ_hai"}  liên quan ?
+    - [Một số tác phẩm chính]{"entity":"object","value":"vntourism:Một_số_tác_phẩm_chính"}  liên quan ?
+    - [Đảo chính và bị đảo chính]{"entity":"object","value":"vntourism:Đảo_chính_và_bị_đảo_chính"}  liên quan ?
+    - [Trọng dụng ngoại thích]{"entity":"object","value":"vntourism:Trọng_dụng_ngoại_thích"}  liên quan ?
+    - [Chiến tranh với Chiêm Thành]{"entity":"object","value":"vntourism:Chiến_tranh_với_Chiêm_Thành"}  liên quan ?
+    - [Sách Việt sử tiêu án chép]{"entity":"object","value":"vntourism:Sách_Việt_sử_tiêu_án_chép"}  liên quan ?
+    - [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"}  liên quan ?
+    - [Bắc phạt Thăng Long]{"entity":"object","value":"vntourism:Bắc_phạt_Thăng_Long"}  liên quan ?
+    - [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"}  liên quan ?
+    - [Dẹp loạn họ Lã]{"entity":"object","value":"vntourism:Dẹp_loạn_họ_Lã"}  liên quan ?
+    - [Quan nhà Hồ]{"entity":"object","value":"vntourism:Quan_nhà_Hồ"}  liên quan ?
+    - [Sách Đại Việt thông sử, phần Liệt truyện chép]{"entity":"object","value":"vntourism:Sách_Đại_Việt_thông_sử,_phần_Liệt_truyện_chép"}  liên quan ?
+    - [Các cuộc khởi nghĩa nông dân]{"entity":"object","value":"vntourism:Các_cuộc_khởi_nghĩa_nông_dân"}  liên quan ?
+    - [Phim truyền hình]{"entity":"object","value":"vntourism:Phim_truyền_hình"}  liên quan ?
+    - [Niên hiệu Đại Trị]{"entity":"object","value":"vntourism:Niên_hiệu_Đại_Trị"}  liên quan ?
+    - [Trở về nắm quyền]{"entity":"object","value":"vntourism:Trở_về_nắm_quyền"}  liên quan ?
+    - [Phụ chính cho Trịnh Cán]{"entity":"object","value":"vntourism:Phụ_chính_cho_Trịnh_Cán"}  liên quan ?
+    - [Tham gia quân ngũ]{"entity":"object","value":"vntourism:Tham_gia_quân_ngũ"}  liên quan ?
+    - [Bị nghi ngờ ở nước Lỗ]{"entity":"object","value":"vntourism:Bị_nghi_ngờ_ở_nước_Lỗ"}  liên quan ?
+    - [Sách dùng để trích dẫn tư liệu cho bài viết]{"entity":"object","value":"vntourism:Sách_dùng_để_trích_dẫn_tư_liệu_cho_bài_viết"}  liên quan ?
+    - [Thu hàng Tây Sơn]{"entity":"object","value":"vntourism:Thu_hàng_Tây_Sơn"}  liên quan ?
+    - [Đối đầu Hậu Lương, mất lãnh thổ]{"entity":"object","value":"vntourism:Đối_đầu_Hậu_Lương,_mất_lãnh_thổ"}  liên quan ?
+    - [Một mình địch lại cả một làng]{"entity":"object","value":"vntourism:Một_mình_địch_lại_cả_một_làng"}  liên quan ?
+    - [Việc đi sứ nhà Minh]{"entity":"object","value":"vntourism:Việc_đi_sứ_nhà_Minh"}  liên quan ?
+    - [Dự định khởi nghĩa với Việt Nam Quang Phục Hội]{"entity":"object","value":"vntourism:Dự_định_khởi_nghĩa_với_Việt_Nam_Quang_Phục_Hội"}  liên quan ?
+    - [Khai quốc công]{"entity":"object","value":"vntourism:Khai_quốc_công"}  liên quan ?
+    - [Mâu thuẫn với Thái Bình công chúa]{"entity":"object","value":"vntourism:Mâu_thuẫn_với_Thái_Bình_công_chúa"}  liên quan ?
+    - [Một số phát hiện]{"entity":"object","value":"vntourism:Một_số_phát_hiện"}  liên quan ?
+    - [Vào Nam, ra Bắc, sang Nhật]{"entity":"object","value":"vntourism:Vào_Nam,_ra_Bắc,_sang_Nhật"}  liên quan ?
+    - [Chiến sự thập niên 1130]{"entity":"object","value":"vntourism:Chiến_sự_thập_niên_1130"}  liên quan ?
+    - [Nghi án đạo văn]{"entity":"object","value":"vntourism:Nghi_án_đạo_văn"}  liên quan ?
+    - [Khống chế binh quyền]{"entity":"object","value":"vntourism:Khống_chế_binh_quyền"}  liên quan ?
+    - [Chiến tranh với Chiêm Thành]{"entity":"object","value":"vntourism:Chiến_tranh_với_Chiêm_Thành"}  liên quan ?
+    - [Khủng hoảng Phật giáo]{"entity":"object","value":"vntourism:Khủng_hoảng_Phật_giáo"}  liên quan ?
+    - [Những năm cuối đời]{"entity":"object","value":"vntourism:Những_năm_cuối_đời"}  liên quan ?
+    - [Trận chiến Thái Thạch]{"entity":"object","value":"vntourism:Trận_chiến_Thái_Thạch"}  liên quan ?
+    - [Ý kiến các học giả]{"entity":"object","value":"vntourism:Ý_kiến_các_học_giả"}  liên quan ?
+    - [Đại phá Vương Thông ở Tốt Động]{"entity":"object","value":"vntourism:Đại_phá_Vương_Thông_ở_Tốt_Động"}  liên quan ?
+    - [Đánh Nam Hán]{"entity":"object","value":"vntourism:Đánh_Nam_Hán"}  liên quan ?
+    - [Dẹp các sứ quân]{"entity":"object","value":"vntourism:Dẹp_các_sứ_quân"}  liên quan ?
+    - [Khởi nghĩa chống Minh]{"entity":"object","value":"vntourism:Khởi_nghĩa_chống_Minh"}  liên quan ?
+    - [Bỏ chạy lên Lạng Châu]{"entity":"object","value":"vntourism:Bỏ_chạy_lên_Lạng_Châu"}  liên quan ?
+    - [Cuộc sống cá nhân]{"entity":"object","value":"vntourism:Cuộc_sống_cá_nhân"}  liên quan ?
+    - [Đẩy Tuỳ Văn Đế vào chỗ xa xỉ]{"entity":"object","value":"vntourism:Đẩy_Tuỳ_Văn_Đế_vào_chỗ_xa_xỉ"}  liên quan ?
+    - [Lăng mộ bị phá]{"entity":"object","value":"vntourism:Lăng_mộ_bị_phá"}  liên quan ?
+    - [Phim truyền hình]{"entity":"object","value":"vntourism:Phim_truyền_hình"}  liên quan ?
+    - [Nhập cung làm Đạo cô]{"entity":"object","value":"vntourism:Nhập_cung_làm_Đạo_cô"}  liên quan ?
+    - [Can thiệp vào nội bộ Campuchia và Lào]{"entity":"object","value":"vntourism:Can_thiệp_vào_nội_bộ_Campuchia_và_Lào"}  liên quan ?
+    - [Triều Lý Cao Tông và Lý Huệ Tông]{"entity":"object","value":"vntourism:Triều_Lý_Cao_Tông_và_Lý_Huệ_Tông"}  liên quan ?
+    - [Chiến tranh với Cao Câu Ly lần 2]{"entity":"object","value":"vntourism:Chiến_tranh_với_Cao_Câu_Ly_lần_2"}  liên quan ?
+    - [Tham gia khởi nghĩa]{"entity":"object","value":"vntourism:Tham_gia_khởi_nghĩa"}  liên quan ?
+    - [Yếu khó thắng mạnh]{"entity":"object","value":"vntourism:Yếu_khó_thắng_mạnh"}  liên quan ?
+    - [Diệt Thổ Cốc Hồn]{"entity":"object","value":"vntourism:Diệt_Thổ_Cốc_Hồn"}  liên quan ?
+    - [Trở về kinh đô]{"entity":"object","value":"vntourism:Trở_về_kinh_đô"}  liên quan ?
+    - [Trong văn học, nghệ thuật]{"entity":"object","value":"vntourism:Trong_văn_học,_nghệ_thuật"}  liên quan ?
+    - [Bình định phía Nam]{"entity":"object","value":"vntourism:Bình_định_phía_Nam"}  liên quan ?
+    - [Trở thành thủ lĩnh chống Pháp]{"entity":"object","value":"vntourism:Trở_thành_thủ_lĩnh_chống_Pháp"}  liên quan ?
+    - [Chủ tịch nước Việt Nam khóa XIII]{"entity":"object","value":"vntourism:Chủ_tịch_nước_Việt_Nam_khóa_XIII"}  liên quan ?
+    - [Ngày Hàng hải]{"entity":"object","value":"vntourism:Ngày_Hàng_hải"}  liên quan ?
+    - [Chiến tranh với Chiêm Thành]{"entity":"object","value":"vntourism:Chiến_tranh_với_Chiêm_Thành"}  liên quan ?
+    - [Địa danh phiên âm]{"entity":"object","value":"vntourism:Địa_danh_phiên_âm"}  liên quan ?
+    - [Tác phẩm biên khảo, thi ca]{"entity":"object","value":"vntourism:Tác_phẩm_biên_khảo,_thi_ca"}  liên quan ?
+    - [Gặp Nguyễn Hoàng]{"entity":"object","value":"vntourism:Gặp_Nguyễn_Hoàng"}  liên quan ?
+    - [Người nối dõi]{"entity":"object","value":"vntourism:Người_nối_dõi"}  liên quan ?
+    - [Thái hậu nhiếp chính]{"entity":"object","value":"vntourism:Thái_hậu_nhiếp_chính"}  liên quan ?
+    - [Đại biểu Quốc hội Việt Nam khóa XIII tỉnh Ninh Bình]{"entity":"object","value":"vntourism:Đại_biểu_Quốc_hội_Việt_Nam_khóa_XIII_tỉnh_Ninh_Bình"}  liên quan ?
+    - [Giai đoạn Đấu tranh giành độc lập và Kháng chiến chống Pháp]{"entity":"object","value":"vntourism:Giai_đoạn_Đấu_tranh_giành_độc_lập_và_Kháng_chiến_chống_Pháp"}  liên quan ?
+    - [Tái lập trị an]{"entity":"object","value":"vntourism:Tái_lập_trị_an"}  liên quan ?
+    - [Bị thu hồi chức tước và qua đời]{"entity":"object","value":"vntourism:Bị_thu_hồi_chức_tước_và_qua_đời"}  liên quan ?
+    - [Tư thông trọng án]{"entity":"object","value":"vntourism:Tư_thông_trọng_án"}  liên quan ?
+    - [Làm chủ tập thể]{"entity":"object","value":"vntourism:Làm_chủ_tập_thể"}  liên quan ?
+    - [Triệu Quang Phục]{"entity":"object","value":"vntourism:Triệu_Quang_Phục"}  liên quan ?
+    - [Các đề nghị sửa lại lịch sử]{"entity":"object","value":"vntourism:Các_đề_nghị_sửa_lại_lịch_sử"}  liên quan ?
+    - [Bảy chuyến đi]{"entity":"object","value":"vntourism:Bảy_chuyến_đi"}  liên quan ?
+    - [Làm quan trải bốn triều]{"entity":"object","value":"vntourism:Làm_quan_trải_bốn_triều"}  liên quan ?
+    - [Trọng thần thời Lê Thánh Tông]{"entity":"object","value":"vntourism:Trọng_thần_thời_Lê_Thánh_Tông"}  liên quan ?
+    - [Tận trung với nhà Đinh]{"entity":"object","value":"vntourism:Tận_trung_với_nhà_Đinh"}  liên quan ?
+    - [Khiêm Vương phụ chính]{"entity":"object","value":"vntourism:Khiêm_Vương_phụ_chính"}  liên quan ?
+    - [Đánh thành Khâu Ôn]{"entity":"object","value":"vntourism:Đánh_thành_Khâu_Ôn"}  liên quan ?
+    - [Di lụy và phục hồi]{"entity":"object","value":"vntourism:Di_lụy_và_phục_hồi"}  liên quan ?
+    - [Thất bại ở Sở]{"entity":"object","value":"vntourism:Thất_bại_ở_Sở"}  liên quan ?
+    - [Đại tướng đầu tiên của Quân đội Nhân dân Việt Nam]{"entity":"object","value":"vntourism:Đại_tướng_đầu_tiên_của_Quân_đội_Nhân_dân_Việt_Nam"}  liên quan ?
+    - [Bỏ văn theo võ]{"entity":"object","value":"vntourism:Bỏ_văn_theo_võ"}  liên quan ?
+    - [Thống nhất nhà Tây Sơn]{"entity":"object","value":"vntourism:Thống_nhất_nhà_Tây_Sơn"}  liên quan ?
+    - [Phát triển kinh tế]{"entity":"object","value":"vntourism:Phát_triển_kinh_tế"}  liên quan ?
+    - [Đầu quân Tây Sơn]{"entity":"object","value":"vntourism:Đầu_quân_Tây_Sơn"}  liên quan ?
+    - [Mắc kẹt Hàm Dương]{"entity":"object","value":"vntourism:Mắc_kẹt_Hàm_Dương"}  liên quan ?
+    - [Công thần cần vương, vẽ tranh che khuyết]{"entity":"object","value":"vntourism:Công_thần_cần_vương,_vẽ_tranh_che_khuyết"}  liên quan ?
+    - [Cát cứ chống nhà Ngô]{"entity":"object","value":"vntourism:Cát_cứ_chống_nhà_Ngô"}  liên quan ?
+    - [Mở mang vùng Mỹ Tho]{"entity":"object","value":"vntourism:Mở_mang_vùng_Mỹ_Tho"}  liên quan ?
+    - [Đền thờ Nguyễn Biểu]{"entity":"object","value":"vntourism:Đền_thờ_Nguyễn_Biểu"}  liên quan ?
+    - [Phò trợ Nguyễn Phúc Thuần]{"entity":"object","value":"vntourism:Phò_trợ_Nguyễn_Phúc_Thuần"}  liên quan ?
+    - [Đoạt ngôi Thái tử]{"entity":"object","value":"vntourism:Đoạt_ngôi_Thái_tử"}  liên quan ?
+    - [Chiến tranh Nguyên Mông-Đại Việt (1285)]{"entity":"object","value":"vntourism:Chiến_tranh_Nguyên_Mông-Đại_Việt_(1285)"}  liên quan ?
+    - [Huynh đệ tương tàn]{"entity":"object","value":"vntourism:Huynh_đệ_tương_tàn"}  liên quan ?
+    - [Đoạn cuối cuộc khởi nghĩa]{"entity":"object","value":"vntourism:Đoạn_cuối_cuộc_khởi_nghĩa"}  liên quan ?
+    - [Làng Lũng Ngoại]{"entity":"object","value":"vntourism:Làng_Lũng_Ngoại"}  liên quan ?
+    - [Hữu nhãn vô châu]{"entity":"object","value":"vntourism:Hữu_nhãn_vô_châu"}  liên quan ?
+    - [Diệt Đông Đột Quyết]{"entity":"object","value":"vntourism:Diệt_Đông_Đột_Quyết"}  liên quan ?
+    - [Hành trạng ở Hóa châu]{"entity":"object","value":"vntourism:Hành_trạng_ở_Hóa_châu"}  liên quan ?
+    - [Nguyễn Sinh Nhậm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhậm"}  liên quan ?
+    - [Cai trị thời kì cuối]{"entity":"object","value":"vntourism:Cai_trị_thời_kì_cuối"}  liên quan ?
+    - [Hoạt động sau năm 1975]{"entity":"object","value":"vntourism:Hoạt_động_sau_năm_1975"}  liên quan ?
+    - [Bài thơ Nam quốc sơn hà]{"entity":"object","value":"vntourism:Bài_thơ_Nam_quốc_sơn_hà"}  liên quan ?
+    - [Phản quân Hưng Đường]{"entity":"object","value":"vntourism:Phản_quân_Hưng_Đường"}  liên quan ?
+    - [Tham gia bình định ở phía Nam]{"entity":"object","value":"vntourism:Tham_gia_bình_định_ở_phía_Nam"}  liên quan ?
+    - [Liên tục lập chiến công]{"entity":"object","value":"vntourism:Liên_tục_lập_chiến_công"}  liên quan ?
+    - [Truyện dài, truyện ngắn khác]{"entity":"object","value":"vntourism:Truyện_dài,_truyện_ngắn_khác"}  liên quan ?
+    - [Công thần ngậm oan]{"entity":"object","value":"vntourism:Công_thần_ngậm_oan"}  liên quan ?
+    - [Chiến dịch ban đầu chống Hậu Lương]{"entity":"object","value":"vntourism:Chiến_dịch_ban_đầu_chống_Hậu_Lương"}  liên quan ?
+    - [Lập thái tử và qua đời]{"entity":"object","value":"vntourism:Lập_thái_tử_và_qua_đời"}  liên quan ?
+    - [Đi sứ nhà Thanh]{"entity":"object","value":"vntourism:Đi_sứ_nhà_Thanh"}  liên quan ?
+    - [Theo Ngô dứt nghiệp]{"entity":"object","value":"vntourism:Theo_Ngô_dứt_nghiệp"}  liên quan ?
+    - [Khởi nghĩa đuổi Tiêu Tư]{"entity":"object","value":"vntourism:Khởi_nghĩa_đuổi_Tiêu_Tư"}  liên quan ?
+    - [Thống nhất quốc gia]{"entity":"object","value":"vntourism:Thống_nhất_quốc_gia"}  liên quan ?
+    - [Đền thờ, tượng đài]{"entity":"object","value":"vntourism:Đền_thờ,_tượng_đài"}  liên quan ?
+    - [Hòa ước Thiền Uyên]{"entity":"object","value":"vntourism:Hòa_ước_Thiền_Uyên"}  liên quan ?
+    - [Sát hại công thần]{"entity":"object","value":"vntourism:Sát_hại_công_thần"}  liên quan ?
+    - [Dựa vào Nguyễn Nộn]{"entity":"object","value":"vntourism:Dựa_vào_Nguyễn_Nộn"}  liên quan ?
+    - [Sơ tổ Trúc Lâm]{"entity":"object","value":"vntourism:Sơ_tổ_Trúc_Lâm"}  liên quan ?
+    - [Thưởng phạt bất minh]{"entity":"object","value":"vntourism:Thưởng_phạt_bất_minh"}  liên quan ?
+    - [Hiệu đính, biên dịch, chú giải]{"entity":"object","value":"vntourism:Hiệu_đính,_biên_dịch,_chú_giải"}  liên quan ?
+    - [Quý phi túy tửu]{"entity":"object","value":"vntourism:Quý_phi_túy_tửu"}  liên quan ?
+    - [Uy Mục bạo đế]{"entity":"object","value":"vntourism:Uy_Mục_bạo_đế"}  liên quan ?
+    - [Xưng Hoàng Đế]{"entity":"object","value":"vntourism:Xưng_Hoàng_Đế"}  liên quan ?
+    - [Mặt trận phía bắc]{"entity":"object","value":"vntourism:Mặt_trận_phía_bắc"}  liên quan ?
+    - [Từ bị giam ở Trung Quốc cho tới thành lập Việt Nam Dân chủ Cộng hòa]{"entity":"object","value":"vntourism:Từ_bị_giam_ở_Trung_Quốc_cho_tới_thành_lập_Việt_Nam_Dân_chủ_Cộng_hòa"}  liên quan ?
+    - [Mở rộng lãnh thổ]{"entity":"object","value":"vntourism:Mở_rộng_lãnh_thổ"}  liên quan ?
+    - [Gian nan thời loạn]{"entity":"object","value":"vntourism:Gian_nan_thời_loạn"}  liên quan ?
+    - [Tham gia Chính phủ Việt Nam Dân chủ Cộng hòa]{"entity":"object","value":"vntourism:Tham_gia_Chính_phủ_Việt_Nam_Dân_chủ_Cộng_hòa"}  liên quan ?
+    - [Xung đột với Quốc trưởng Bảo Đại]{"entity":"object","value":"vntourism:Xung_đột_với_Quốc_trưởng_Bảo_Đại"}  liên quan ?
+    - [Làm phiên dịch cho quân Pháp]{"entity":"object","value":"vntourism:Làm_phiên_dịch_cho_quân_Pháp"}  liên quan ?
+    - [Dằn lòng cứu Yên, lâm chung giao tên]{"entity":"object","value":"vntourism:Dằn_lòng_cứu_Yên,_lâm_chung_giao_tên"}  liên quan ?
+    - [Cải cách ruộng đất]{"entity":"object","value":"vntourism:Cải_cách_ruộng_đất"}  liên quan ?
+    - [Hoạt động ở Trung Quốc]{"entity":"object","value":"vntourism:Hoạt_động_ở_Trung_Quốc"}  liên quan ?
+    - [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"}  liên quan ?
+    - [Thu hồi hai kinh]{"entity":"object","value":"vntourism:Thu_hồi_hai_kinh"}  liên quan ?
+    - [Phát động phong trào Đông Du]{"entity":"object","value":"vntourism:Phát_động_phong_trào_Đông_Du"}  liên quan ?
+    - [Trận ngày 6 tháng 1 năm 1887 - 21 tháng 1 năm 1887]{"entity":"object","value":"vntourism:Trận_ngày_6_tháng_1_năm_1887_-_21_tháng_1_năm_1887"}  liên quan ?
+    - [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"}  liên quan ?
+    - [Chinh phục Âu Lạc, lên ngôi vua nước Nam Việt]{"entity":"object","value":"vntourism:Chinh_phục_Âu_Lạc,_lên_ngôi_vua_nước_Nam_Việt"}  liên quan ?
+    - [Chiến tranh với Tống]{"entity":"object","value":"vntourism:Chiến_tranh_với_Tống"}  liên quan ?
+    - [Ngoại hình và tính cách]{"entity":"object","value":"vntourism:Ngoại_hình_và_tính_cách"}  liên quan ?
+    - [Xung đột với Pháp]{"entity":"object","value":"vntourism:Xung_đột_với_Pháp"}  liên quan ?
+    - [Cuộc kinh đô quật khởi và bị thất thủ (05-7-1885)]{"entity":"object","value":"vntourism:Cuộc_kinh_đô_quật_khởi_và_bị_thất_thủ_(05-7-1885)"}  liên quan ?
+    - [Xưng đế chống Hán]{"entity":"object","value":"vntourism:Xưng_đế_chống_Hán"}  liên quan ?
+    - [Trận đánh ở ải Khả Lưu]{"entity":"object","value":"vntourism:Trận_đánh_ở_ải_Khả_Lưu"}  liên quan ?
+    - [Động viên con]{"entity":"object","value":"vntourism:Động_viên_con"}  liên quan ?
+    - [Biên soạn sách]{"entity":"object","value":"vntourism:Biên_soạn_sách"}  liên quan ?
+    - [Chính khách Đệ Nhị Cộng hòa]{"entity":"object","value":"vntourism:Chính_khách_Đệ_Nhị_Cộng_hòa"}  liên quan ?
+    - [Tôn Phan Xích Long làm thủ lĩnh]{"entity":"object","value":"vntourism:Tôn_Phan_Xích_Long_làm_thủ_lĩnh"}  liên quan ?
+    - [Lương thần triều đình]{"entity":"object","value":"vntourism:Lương_thần_triều_đình"}  liên quan ?
+    - [Bị phế truất]{"entity":"object","value":"vntourism:Bị_phế_truất"}  liên quan ?
+    - [Tham gia quân đội Quốc gia Việt Nam (thuộc Liên hiệp Pháp)]{"entity":"object","value":"vntourism:Tham_gia_quân_đội_Quốc_gia_Việt_Nam_(thuộc_Liên_hiệp_Pháp)"}  liên quan ?
+    - [Vụ khiển trách ngôn luận]{"entity":"object","value":"vntourism:Vụ_khiển_trách_ngôn_luận"}  liên quan ?
+    - [Thu hàng Tây Sơn]{"entity":"object","value":"vntourism:Thu_hàng_Tây_Sơn"}  liên quan ?
+    - [Chuyển sang công tác chính trị]{"entity":"object","value":"vntourism:Chuyển_sang_công_tác_chính_trị"}  liên quan ?
+    - [Giai thoại về việc ra quân]{"entity":"object","value":"vntourism:Giai_thoại_về_việc_ra_quân"}  liên quan ?
+    - [Loại sách sưu khảo các tỉnh thành năm xưa]{"entity":"object","value":"vntourism:Loại_sách_sưu_khảo_các_tỉnh_thành_năm_xưa"}  liên quan ?
+    - [Nhà văn, nhà kỹ thuật quân sự]{"entity":"object","value":"vntourism:Nhà_văn,_nhà_kỹ_thuật_quân_sự"}  liên quan ?
+    - [Ly khai nhà Tần]{"entity":"object","value":"vntourism:Ly_khai_nhà_Tần"}  liên quan ?
+    - [Thời kỳ đầu ở vùng núi Thanh Hóa]{"entity":"object","value":"vntourism:Thời_kỳ_đầu_ở_vùng_núi_Thanh_Hóa"}  liên quan ?
+    - [Những người con đỡ đầu]{"entity":"object","value":"vntourism:Những_người_con_đỡ_đầu"}  liên quan ?
+    - [Cuộc sống cá nhân]{"entity":"object","value":"vntourism:Cuộc_sống_cá_nhân"}  liên quan ?
+    - [Trận Chi Lăng - Xương Giang]{"entity":"object","value":"vntourism:Trận_Chi_Lăng_-_Xương_Giang"}  liên quan ?
+    - [Tiếp tục làm quan Tây Sơn]{"entity":"object","value":"vntourism:Tiếp_tục_làm_quan_Tây_Sơn"}  liên quan ?
+    - [Xây thành Cổ Loa]{"entity":"object","value":"vntourism:Xây_thành_Cổ_Loa"}  liên quan ?
+    - [Nhà xây dựng các công trình trị thủy hệ thống sông Hoàng Hà]{"entity":"object","value":"vntourism:Nhà_xây_dựng_các_công_trình_trị_thủy_hệ_thống_sông_Hoàng_Hà"}  liên quan ?
+    - [Mở nước Đại Cồ Việt]{"entity":"object","value":"vntourism:Mở_nước_Đại_Cồ_Việt"}  liên quan ?
+    - [Chinh phục Triều Tiên lần thứ nhất]{"entity":"object","value":"vntourism:Chinh_phục_Triều_Tiên_lần_thứ_nhất"}  liên quan ?
+    - [Dự thảo luật Luật sư tố giác thân chủ]{"entity":"object","value":"vntourism:Dự_thảo_luật_Luật_sư_tố_giác_thân_chủ"}  liên quan ?
+    - [Chiến tranh với họ Nguyễn]{"entity":"object","value":"vntourism:Chiến_tranh_với_họ_Nguyễn"}  liên quan ?
+    - [Xung đột với Nguyễn Nhạc]{"entity":"object","value":"vntourism:Xung_đột_với_Nguyễn_Nhạc"}  liên quan ?
+    - [Lập Trần Cảo]{"entity":"object","value":"vntourism:Lập_Trần_Cảo"}  liên quan ?
+    - [Được phục hồi danh dự]{"entity":"object","value":"vntourism:Được_phục_hồi_danh_dự"}  liên quan ?
+    - [Ngồi tù lần cuối cùng]{"entity":"object","value":"vntourism:Ngồi_tù_lần_cuối_cùng"}  liên quan ?
+    - [Lên ngôi vua]{"entity":"object","value":"vntourism:Lên_ngôi_vua"}  liên quan ?
+    - [Hoàng đế Đế quốc Việt Nam (1945)]{"entity":"object","value":"vntourism:Hoàng_đế_Đế_quốc_Việt_Nam_(1945)"}  liên quan ?
+    - [Thư mục tham khảo]{"entity":"object","value":"vntourism:Thư_mục_tham_khảo"}  liên quan ?
+    - [Sai lầm liên tiếp]{"entity":"object","value":"vntourism:Sai_lầm_liên_tiếp"}  liên quan ?
+    - [Bức tranh chim sẻ ở phủ Tể tướng]{"entity":"object","value":"vntourism:Bức_tranh_chim_sẻ_ở_phủ_Tể_tướng"}  liên quan ?
+    - [Thất thế trước Tây Sơn]{"entity":"object","value":"vntourism:Thất_thế_trước_Tây_Sơn"}  liên quan ?
+    - [Lão tướng lại ra quân]{"entity":"object","value":"vntourism:Lão_tướng_lại_ra_quân"}  liên quan ?
+    - [Kế tập chức Tiết độ sứ]{"entity":"object","value":"vntourism:Kế_tập_chức_Tiết_độ_sứ"}  liên quan ?
+    - [Trận Bô Cô]{"entity":"object","value":"vntourism:Trận_Bô_Cô"}  liên quan ?
+    - [Lần thứ hai]{"entity":"object","value":"vntourism:Lần_thứ_hai"}  liên quan ?
+    - [Kiếm Thuận Thiên]{"entity":"object","value":"vntourism:Kiếm_Thuận_Thiên"}  liên quan ?
+    - [Phù trợ Mạc Đăng Dung]{"entity":"object","value":"vntourism:Phù_trợ_Mạc_Đăng_Dung"}  liên quan ?
+    - [Thất thế trước Tây Sơn]{"entity":"object","value":"vntourism:Thất_thế_trước_Tây_Sơn"}  liên quan ?
+    - [Hợp binh cần vương]{"entity":"object","value":"vntourism:Hợp_binh_cần_vương"}  liên quan ?
+    - [Phản Trần Tự Khánh]{"entity":"object","value":"vntourism:Phản_Trần_Tự_Khánh"}  liên quan ?
+    - [Thời Trần Dụ Tông]{"entity":"object","value":"vntourism:Thời_Trần_Dụ_Tông"}  liên quan ?
+    - [Về sách in sau này ở Việt Nam]{"entity":"object","value":"vntourism:Về_sách_in_sau_này_ở_Việt_Nam"}  liên quan ?
+    - [Bình định phía Đông]{"entity":"object","value":"vntourism:Bình_định_phía_Đông"}  liên quan ?
+    - [Trận đầm Dạ Trạch]{"entity":"object","value":"vntourism:Trận_đầm_Dạ_Trạch"}  liên quan ?
+    - [Vào Nam kháng Pháp]{"entity":"object","value":"vntourism:Vào_Nam_kháng_Pháp"}  liên quan ?
+    - [Pháp sư tài danh]{"entity":"object","value":"vntourism:Pháp_sư_tài_danh"}  liên quan ?
+    - [Tài năng quân sự]{"entity":"object","value":"vntourism:Tài_năng_quân_sự"}  liên quan ?
+    - [Hành quân về phía đông]{"entity":"object","value":"vntourism:Hành_quân_về_phía_đông"}  liên quan ?
+    - [Ngoại hình và tính cách]{"entity":"object","value":"vntourism:Ngoại_hình_và_tính_cách"}  liên quan ?
+    - [Hoàn thành công cuộc Nam tiến]{"entity":"object","value":"vntourism:Hoàn_thành_công_cuộc_Nam_tiến"}  liên quan ?
+    - [Xét xử công thần quá cố]{"entity":"object","value":"vntourism:Xét_xử_công_thần_quá_cố"}  liên quan ?
+    - [Tinh thần chống Pháp]{"entity":"object","value":"vntourism:Tinh_thần_chống_Pháp"}  liên quan ?
+    - [Nắm giữ triều đình]{"entity":"object","value":"vntourism:Nắm_giữ_triều_đình"}  liên quan ?
+    - [Công thần khai quốc]{"entity":"object","value":"vntourism:Công_thần_khai_quốc"}  liên quan ?
+    - [Không vì tình riêng]{"entity":"object","value":"vntourism:Không_vì_tình_riêng"}  liên quan ?
+    - [Thần tốc bắc tiến, Chiến thắng Kỷ Dậu (1789)]{"entity":"object","value":"vntourism:Thần_tốc_bắc_tiến,_Chiến_thắng_Kỷ_Dậu_(1789)"}  liên quan ?
+    - [Pháp sư tài danh]{"entity":"object","value":"vntourism:Pháp_sư_tài_danh"}  liên quan ?
+    - [Trấn áp nổi dậy]{"entity":"object","value":"vntourism:Trấn_áp_nổi_dậy"}  liên quan ?
+    - [Người Pháp giúp đỡ]{"entity":"object","value":"vntourism:Người_Pháp_giúp_đỡ"}  liên quan ?
+    - [Trần Bình Trọng]{"entity":"object","value":"vntourism:Trần_Bình_Trọng"}  liên quan ?
+    - [Những điểm giống với Hán Cao Tổ]{"entity":"object","value":"vntourism:Những_điểm_giống_với_Hán_Cao_Tổ"}  liên quan ?
+    - [Điều hành Đàng Trong]{"entity":"object","value":"vntourism:Điều_hành_Đàng_Trong"}  liên quan ?
+    - [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"}  liên quan ?
+    - [Phò vua Cảnh Thịnh]{"entity":"object","value":"vntourism:Phò_vua_Cảnh_Thịnh"}  liên quan ?
+    - [Gian lao với phong trào Tây Sơn]{"entity":"object","value":"vntourism:Gian_lao_với_phong_trào_Tây_Sơn"}  liên quan ?
+    - [Mở mang bờ cõi về phía Nam]{"entity":"object","value":"vntourism:Mở_mang_bờ_cõi_về_phía_Nam"}  liên quan ?
+    - [Đánh chiếm Phú Xuân]{"entity":"object","value":"vntourism:Đánh_chiếm_Phú_Xuân"}  liên quan ?
+    - [Hoạt động ở nước ngoài]{"entity":"object","value":"vntourism:Hoạt_động_ở_nước_ngoài"}  liên quan ?
+    - [Bộ trưởng Bộ Giáo dục và Đào tạo]{"entity":"object","value":"vntourism:Bộ_trưởng_Bộ_Giáo_dục_và_Đào_tạo"}  liên quan ?
+    - [Buổi đầu trị nước]{"entity":"object","value":"vntourism:Buổi_đầu_trị_nước"}  liên quan ?
+    - [Làm quan cho nhà Nguyên và giai đoạn cuối đời]{"entity":"object","value":"vntourism:Làm_quan_cho_nhà_Nguyên_và_giai_đoạn_cuối_đời"}  liên quan ?
+    - [Hải chiến Trường Sa 1988]{"entity":"object","value":"vntourism:Hải_chiến_Trường_Sa_1988"}  liên quan ?
+    - [Kháng chỉ phạm kinh, từ quân thành giặc]{"entity":"object","value":"vntourism:Kháng_chỉ_phạm_kinh,_từ_quân_thành_giặc"}  liên quan ?
+    - [Hai lần xuất cung]{"entity":"object","value":"vntourism:Hai_lần_xuất_cung"}  liên quan ?
+    - [Trở thành nhà cách mạng chuyên nghiệp]{"entity":"object","value":"vntourism:Trở_thành_nhà_cách_mạng_chuyên_nghiệp"}  liên quan ?
+    - [Theo Kitô giáo]{"entity":"object","value":"vntourism:Theo_Kitô_giáo"}  liên quan ?
+    - [Hoạt động trong Đảng Cộng sản Việt Nam]{"entity":"object","value":"vntourism:Hoạt_động_trong_Đảng_Cộng_sản_Việt_Nam"}  liên quan ?
+    - [Loạn Quách Bốc]{"entity":"object","value":"vntourism:Loạn_Quách_Bốc"}  liên quan ?
+    - [Quốc hiệu Đại Nam]{"entity":"object","value":"vntourism:Quốc_hiệu_Đại_Nam"}  liên quan ?
+    - [Chiến dịch Tốt Động - Chúc Động]{"entity":"object","value":"vntourism:Chiến_dịch_Tốt_Động_-_Chúc_Động"}  liên quan ?
+    - [Những năm sau này]{"entity":"object","value":"vntourism:Những_năm_sau_này"}  liên quan ?
+    - [Dẹp đảo chính lần đầu]{"entity":"object","value":"vntourism:Dẹp_đảo_chính_lần_đầu"}  liên quan ?
+    - [Gửi thư mượn nhạn]{"entity":"object","value":"vntourism:Gửi_thư_mượn_nhạn"}  liên quan ?
+    - [Nghênh giá hồi kinh]{"entity":"object","value":"vntourism:Nghênh_giá_hồi_kinh"}  liên quan ?
+    - [Những năm cuối trị vì]{"entity":"object","value":"vntourism:Những_năm_cuối_trị_vì"}  liên quan ?
+    - [Thống nhất nhà Tây Sơn]{"entity":"object","value":"vntourism:Thống_nhất_nhà_Tây_Sơn"}  liên quan ?
+    - [Đi nam tiến]{"entity":"object","value":"vntourism:Đi_nam_tiến"}  liên quan ?
+    - [Thời niên thiếu]{"entity":"object","value":"vntourism:Thời_niên_thiếu"}  liên quan ?
+    - [Cập bến Đàng Trong]{"entity":"object","value":"vntourism:Cập_bến_Đàng_Trong"}  liên quan ?
+    - [Nhà nghiên cứu]{"entity":"object","value":"vntourism:Nhà_nghiên_cứu"}  liên quan ?
+    - [Chuyện thiên thư và phong thiền]{"entity":"object","value":"vntourism:Chuyện_thiên_thư_và_phong_thiền"}  liên quan ?
+    - [Công trình cá nhân]{"entity":"object","value":"vntourism:Công_trình_cá_nhân"}  liên quan ?
+    - [Kết oán với Lý Tài]{"entity":"object","value":"vntourism:Kết_oán_với_Lý_Tài"}  liên quan ?
+    - [Làm quan dưới triều vua Trần Nghệ Tông]{"entity":"object","value":"vntourism:Làm_quan_dưới_triều_vua_Trần_Nghệ_Tông"}  liên quan ?
+    - [Trong vòng xoáy quyền lực]{"entity":"object","value":"vntourism:Trong_vòng_xoáy_quyền_lực"}  liên quan ?
+    - [Dạy người quan trọng hơn giết người]{"entity":"object","value":"vntourism:Dạy_người_quan_trọng_hơn_giết_người"}  liên quan ?
+    - [Chính biến Miêu, Lưu]{"entity":"object","value":"vntourism:Chính_biến_Miêu,_Lưu"}  liên quan ?
+    - [Kháng chiến chống Pháp, Nhật trong Chiến tranh thế giới thứ hai]{"entity":"object","value":"vntourism:Kháng_chiến_chống_Pháp,_Nhật_trong_Chiến_tranh_thế_giới_thứ_hai"}  liên quan ?
+    - [Bỏ chạy lên Lạng Châu]{"entity":"object","value":"vntourism:Bỏ_chạy_lên_Lạng_Châu"}  liên quan ?
+    - [Hậu cung Lưu hoàng hậu]{"entity":"object","value":"vntourism:Hậu_cung_Lưu_hoàng_hậu"}  liên quan ?
+    - [Trong văn học, nghệ thuật]{"entity":"object","value":"vntourism:Trong_văn_học,_nghệ_thuật"}  liên quan ?
+    - [Nhà Hậu Lê]{"entity":"object","value":"vntourism:Nhà_Hậu_Lê"}  liên quan ?
+    - [Triều nhà Trần, nhà Hồ]{"entity":"object","value":"vntourism:Triều_nhà_Trần,_nhà_Hồ"}  liên quan ?
+    - [Huân, huy chương nước ngoài]{"entity":"object","value":"vntourism:Huân,_huy_chương_nước_ngoài"}  liên quan ?
+    - [Trận Sách Khôi]{"entity":"object","value":"vntourism:Trận_Sách_Khôi"}  liên quan ?
+    - [Bãi bỏ phân biệt sắc tộc]{"entity":"object","value":"vntourism:Bãi_bỏ_phân_biệt_sắc_tộc"}  liên quan ?
+    - [Đích thân chấp chính]{"entity":"object","value":"vntourism:Đích_thân_chấp_chính"}  liên quan ?
+    - [Bị Việt Minh bắt]{"entity":"object","value":"vntourism:Bị_Việt_Minh_bắt"}  liên quan ?
+    - [Dẹp tàn dư họ Mạc]{"entity":"object","value":"vntourism:Dẹp_tàn_dư_họ_Mạc"}  liên quan ?
+    - [Vụ Tống Thị]{"entity":"object","value":"vntourism:Vụ_Tống_Thị"}  liên quan ?
+    - [Đại biểu Quốc hội Việt Nam khóa X (1997-2002) Thành phố Hồ Chí Minh]{"entity":"object","value":"vntourism:Đại_biểu_Quốc_hội_Việt_Nam_khóa_X_(1997-2002)_Thành_phố_Hồ_Chí_Minh"}  liên quan ?
+    - [Chống Tần Ngạn và Tất Sư Đạc]{"entity":"object","value":"vntourism:Chống_Tần_Ngạn_và_Tất_Sư_Đạc"}  liên quan ?
+    - [Khiếu nại và tố cáo]{"entity":"object","value":"vntourism:Khiếu_nại_và_tố_cáo"}  liên quan ?
+    - [Thời Trần Hiến Tông]{"entity":"object","value":"vntourism:Thời_Trần_Hiến_Tông"}  liên quan ?
+    - [Giai đoạn 1976 - 1990]{"entity":"object","value":"vntourism:Giai_đoạn_1976_-_1990"}  liên quan ?
+    - [Lập vua Lê Trang Tông]{"entity":"object","value":"vntourism:Lập_vua_Lê_Trang_Tông"}  liên quan ?
+    - [Triều vua Lê Thái Tông]{"entity":"object","value":"vntourism:Triều_vua_Lê_Thái_Tông"}  liên quan ?
+    - [Bí thư Thành ủy Thành phố Hồ Chí Minh]{"entity":"object","value":"vntourism:Bí_thư_Thành_ủy_Thành_phố_Hồ_Chí_Minh"}  liên quan ?
+    - [Mười năm phiêu dạt]{"entity":"object","value":"vntourism:Mười_năm_phiêu_dạt"}  liên quan ?
+    - [Người Pháp giúp đỡ]{"entity":"object","value":"vntourism:Người_Pháp_giúp_đỡ"}  liên quan ?
+    - [Hoàng đế Đại Nam (1925 - 1945)]{"entity":"object","value":"vntourism:Hoàng_đế_Đại_Nam_(1925_-_1945)"}  liên quan ?
+    - [Mở rộng lãnh thổ]{"entity":"object","value":"vntourism:Mở_rộng_lãnh_thổ"}  liên quan ?
+    - [Bị Pháp bắt và an trí]{"entity":"object","value":"vntourism:Bị_Pháp_bắt_và_an_trí"}  liên quan ?
+    - [Bị nội phản]{"entity":"object","value":"vntourism:Bị_nội_phản"}  liên quan ?
+    - [Dẹp các sứ quân]{"entity":"object","value":"vntourism:Dẹp_các_sứ_quân"}  liên quan ?
+    - [Tổ tư vấn nhiệm kì 2011-2016]{"entity":"object","value":"vntourism:Tổ_tư_vấn_nhiệm_kì_2011-2016"}  liên quan ?
+    - [Hai lần xuất cung]{"entity":"object","value":"vntourism:Hai_lần_xuất_cung"}  liên quan ?
+    - [Triều vua Lê Thái Tông]{"entity":"object","value":"vntourism:Triều_vua_Lê_Thái_Tông"}  liên quan ?
+    - [Tiến vào Nghệ An]{"entity":"object","value":"vntourism:Tiến_vào_Nghệ_An"}  liên quan ?
+    - [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"}  liên quan ?
+    - [Giao lại quyền lực và qua đời]{"entity":"object","value":"vntourism:Giao_lại_quyền_lực_và_qua_đời"}  liên quan ?
+    - [Bị lưu đày]{"entity":"object","value":"vntourism:Bị_lưu_đày"}  liên quan ?
+    - [Lưu vong ở Xiêm và Hiệp ước với Pháp]{"entity":"object","value":"vntourism:Lưu_vong_ở_Xiêm_và_Hiệp_ước_với_Pháp"}  liên quan ?
+    - [Lập con thay ngôi]{"entity":"object","value":"vntourism:Lập_con_thay_ngôi"}  liên quan ?
+    - [Chiến tranh Nguyên- Đại Việt lần hai, Lê Tắc bỏ chạy sang Trung Quốc]{"entity":"object","value":"vntourism:Chiến_tranh_Nguyên-_Đại_Việt_lần_hai,_Lê_Tắc_bỏ_chạy_sang_Trung_Quốc"}  liên quan ?
+    - [Nghi án tiết lộ bí mật quốc gia]{"entity":"object","value":"vntourism:Nghi_án_tiết_lộ_bí_mật_quốc_gia"}  liên quan ?
+    - [Chủ tịch nước Việt Nam khóa XIV nhiệm kì 2016-2021]{"entity":"object","value":"vntourism:Chủ_tịch_nước_Việt_Nam_khóa_XIV_nhiệm_kì_2016-2021"}  liên quan ?
+    - [Dẹp Án Đô vương]{"entity":"object","value":"vntourism:Dẹp_Án_Đô_vương"}  liên quan ?
+    - [Ngả theo họ Đoàn]{"entity":"object","value":"vntourism:Ngả_theo_họ_Đoàn"}  liên quan ?
+    - [Ra Phú Quốc và bị bắt]{"entity":"object","value":"vntourism:Ra_Phú_Quốc_và_bị_bắt"}  liên quan ?
+    - [Diệt Tiêu Tiển]{"entity":"object","value":"vntourism:Diệt_Tiêu_Tiển"}  liên quan ?
+    - [Đánh lui quân Tào]{"entity":"object","value":"vntourism:Đánh_lui_quân_Tào"}  liên quan ?
+    - [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"}  liên quan ?
+    - [Dung túng quyền thần]{"entity":"object","value":"vntourism:Dung_túng_quyền_thần"}  liên quan ?
+    - [Nguyễn Sinh Nhuận]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Nhuận"}  liên quan ?
+    - [Bị lật đổ]{"entity":"object","value":"vntourism:Bị_lật_đổ"}  liên quan ?
+    - [Quan hệ với Xiêm La]{"entity":"object","value":"vntourism:Quan_hệ_với_Xiêm_La"}  liên quan ?
+    - [Lời bình của Trần Quốc Vượng]{"entity":"object","value":"vntourism:Lời_bình_của_Trần_Quốc_Vượng"}  liên quan ?
+    - [Lý Lâm Phủ lộng quyền]{"entity":"object","value":"vntourism:Lý_Lâm_Phủ_lộng_quyền"}  liên quan ?
+    - [Tham gia đánh bại viện binh nhà Minh]{"entity":"object","value":"vntourism:Tham_gia_đánh_bại_viện_binh_nhà_Minh"}  liên quan ?
+    - [Phó tổng thống]{"entity":"object","value":"vntourism:Phó_tổng_thống"}  liên quan ?
+    - [Nỗ lực đến giây phút cuối cùng]{"entity":"object","value":"vntourism:Nỗ_lực_đến_giây_phút_cuối_cùng"}  liên quan ?
+    - [Xưng đế chống Hán]{"entity":"object","value":"vntourism:Xưng_đế_chống_Hán"}  liên quan ?
+    - [Những hành động tàn bạo]{"entity":"object","value":"vntourism:Những_hành_động_tàn_bạo"}  liên quan ?
+    - [Tiến sĩ khai khoa]{"entity":"object","value":"vntourism:Tiến_sĩ_khai_khoa"}  liên quan ?
+    - [Tiến quân từ Hóa châu ra Nghệ An phò Giản Định đế]{"entity":"object","value":"vntourism:Tiến_quân_từ_Hóa_châu_ra_Nghệ_An_phò_Giản_Định_đế"}  liên quan ?
+    - [Giải tán Chính phủ Việt Nam Tự do]{"entity":"object","value":"vntourism:Giải_tán_Chính_phủ_Việt_Nam_Tự_do"}  liên quan ?
+    - [Ra làm quan]{"entity":"object","value":"vntourism:Ra_làm_quan"}  liên quan ?
+    - [Dưới thời Cảnh Thịnh]{"entity":"object","value":"vntourism:Dưới_thời_Cảnh_Thịnh"}  liên quan ?
+    - [Hoạt động chính trị]{"entity":"object","value":"vntourism:Hoạt_động_chính_trị"}  liên quan ?
+    - [Nhậm chức Đô thống Thượng tướng quân]{"entity":"object","value":"vntourism:Nhậm_chức_Đô_thống_Thượng_tướng_quân"}  liên quan ?
+    - [Là thầy giỏi, là viên quan tốt]{"entity":"object","value":"vntourism:Là_thầy_giỏi,_là_viên_quan_tốt"}  liên quan ?
+    - [Vụ Thị Thừa]{"entity":"object","value":"vntourism:Vụ_Thị_Thừa"}  liên quan ?
+    - [Hoàng đế Đại Nam (1925 - 1945)]{"entity":"object","value":"vntourism:Hoàng_đế_Đại_Nam_(1925_-_1945)"}  liên quan ?
+    - [Các câu nói khác]{"entity":"object","value":"vntourism:Các_câu_nói_khác"}  liên quan ?
+    - [Kháng chiến chống Mông Cổ]{"entity":"object","value":"vntourism:Kháng_chiến_chống_Mông_Cổ"}  liên quan ?
+    - [Lập đại công]{"entity":"object","value":"vntourism:Lập_đại_công"}  liên quan ?
+    - [Bị tru di cửu tộc, một họ thành bốn mươi họ]{"entity":"object","value":"vntourism:Bị_tru_di_cửu_tộc,_một_họ_thành_bốn_mươi_họ"}  liên quan ?
+    - [Các cuộc khởi nghĩa nông dân]{"entity":"object","value":"vntourism:Các_cuộc_khởi_nghĩa_nông_dân"}  liên quan ?
+    - [Tên Trường đại học và phổ thông]{"entity":"object","value":"vntourism:Tên_Trường_đại_học_và_phổ_thông"}  liên quan ?
+    - [Khởi binh chống nhà Nguyễn]{"entity":"object","value":"vntourism:Khởi_binh_chống_nhà_Nguyễn"}  liên quan ?
+    - [Tư lệnh các chiến dịch trong Chiến tranh Việt Nam]{"entity":"object","value":"vntourism:Tư_lệnh_các_chiến_dịch_trong_Chiến_tranh_Việt_Nam"}  liên quan ?
+    - [Việc cấm đạo Công giáo]{"entity":"object","value":"vntourism:Việc_cấm_đạo_Công_giáo"}  liên quan ?
+    - [Phục chức, làm quan lần thứ nhì]{"entity":"object","value":"vntourism:Phục_chức,_làm_quan_lần_thứ_nhì"}  liên quan ?
+    - [Hoạt động ở Trung Quốc]{"entity":"object","value":"vntourism:Hoạt_động_ở_Trung_Quốc"}  liên quan ?
+    - [Triều vua Lê Thái Tổ]{"entity":"object","value":"vntourism:Triều_vua_Lê_Thái_Tổ"}  liên quan ?
+    - [Tham mưu các chiến dịch trong Chiến tranh Đông Dương]{"entity":"object","value":"vntourism:Tham_mưu_các_chiến_dịch_trong_Chiến_tranh_Đông_Dương"}  liên quan ?
+    - [Chính quyền tàn vong]{"entity":"object","value":"vntourism:Chính_quyền_tàn_vong"}  liên quan ?
+    - [Đích thân chấp chính]{"entity":"object","value":"vntourism:Đích_thân_chấp_chính"}  liên quan ?
+    - [Lên ngôi vua, thành lập nhà Mạc]{"entity":"object","value":"vntourism:Lên_ngôi_vua,_thành_lập_nhà_Mạc"}  liên quan ?
+    - [Đuổi trung thần, dùng gian thần]{"entity":"object","value":"vntourism:Đuổi_trung_thần,_dùng_gian_thần"}  liên quan ?
+    - [Học theo Mạc Đĩnh Chi]{"entity":"object","value":"vntourism:Học_theo_Mạc_Đĩnh_Chi"}  liên quan ?
+    - [Phá quân Minh]{"entity":"object","value":"vntourism:Phá_quân_Minh"}  liên quan ?
+    - [Đánh Chiêm Thành]{"entity":"object","value":"vntourism:Đánh_Chiêm_Thành"}  liên quan ?
+    - [Tái tổ chức quân đội chính quy]{"entity":"object","value":"vntourism:Tái_tổ_chức_quân_đội_chính_quy"}  liên quan ?
+    - [Xét xử công thần quá cố]{"entity":"object","value":"vntourism:Xét_xử_công_thần_quá_cố"}  liên quan ?
+    - [Phố Lê Lai]{"entity":"object","value":"vntourism:Phố_Lê_Lai"}  liên quan ?
+    - [Kế tập chức Tiết độ sứ]{"entity":"object","value":"vntourism:Kế_tập_chức_Tiết_độ_sứ"}  liên quan ?
+    - [Câu chuyện về Ông Vò]{"entity":"object","value":"vntourism:Câu_chuyện_về_Ông_Vò"}  liên quan ?
+    - [Chiếm Lạc Dương và Trường An]{"entity":"object","value":"vntourism:Chiếm_Lạc_Dương_và_Trường_An"}  liên quan ?
+    - [Chiến tranh với Ai Lao]{"entity":"object","value":"vntourism:Chiến_tranh_với_Ai_Lao"}  liên quan ?
+    - [Nam Việt vương]{"entity":"object","value":"vntourism:Nam_Việt_vương"}  liên quan ?
+    - [Giết cha đoạt ngôi]{"entity":"object","value":"vntourism:Giết_cha_đoạt_ngôi"}  liên quan ?
+    - [Giao chiến với Tôn Nho]{"entity":"object","value":"vntourism:Giao_chiến_với_Tôn_Nho"}  liên quan ?
+    - [Lại thần phục nhà Hán]{"entity":"object","value":"vntourism:Lại_thần_phục_nhà_Hán"}  liên quan ?
+    - [Tác phẩm về cách mạng Việt Nam]{"entity":"object","value":"vntourism:Tác_phẩm_về_cách_mạng_Việt_Nam"}  liên quan ?
+    - [Khoanh tay rủ áo]{"entity":"object","value":"vntourism:Khoanh_tay_rủ_áo"}  liên quan ?
+    - [Thần Khổng Lồ]{"entity":"object","value":"vntourism:Thần_Khổng_Lồ"}  liên quan ?
+    - [Hà Thị Hy]{"entity":"object","value":"vntourism:Hà_Thị_Hy"}  liên quan ?
+    - [Cai quản đại quân]{"entity":"object","value":"vntourism:Cai_quản_đại_quân"}  liên quan ?
+    - [Hoạt động sau năm 1975]{"entity":"object","value":"vntourism:Hoạt_động_sau_năm_1975"}  liên quan ?
+    - [Tài năng quân sự]{"entity":"object","value":"vntourism:Tài_năng_quân_sự"}  liên quan ?
+    - [Giao lưu với sứ thần Đại Việt]{"entity":"object","value":"vntourism:Giao_lưu_với_sứ_thần_Đại_Việt"}  liên quan ?
+    - [Quan Đông khởi nghĩa]{"entity":"object","value":"vntourism:Quan_Đông_khởi_nghĩa"}  liên quan ?
+    - [Quốc trưởng Quốc gia Việt Nam]{"entity":"object","value":"vntourism:Quốc_trưởng_Quốc_gia_Việt_Nam"}  liên quan ?
+    - [Xưng thần, cắt đất]{"entity":"object","value":"vntourism:Xưng_thần,_cắt_đất"}  liên quan ?
+    - [Xây dựng chùa Diên Hựu]{"entity":"object","value":"vntourism:Xây_dựng_chùa_Diên_Hựu"}  liên quan ?
+    - [Xét xử công thần quá cố]{"entity":"object","value":"vntourism:Xét_xử_công_thần_quá_cố"}  liên quan ?
+    - [Đánh Tân Bình, Thuận Hóa]{"entity":"object","value":"vntourism:Đánh_Tân_Bình,_Thuận_Hóa"}  liên quan ?
+    - [Dẹp Lê Duy Mật]{"entity":"object","value":"vntourism:Dẹp_Lê_Duy_Mật"}  liên quan ?
+    - [Trong văn học, nghệ thuật]{"entity":"object","value":"vntourism:Trong_văn_học,_nghệ_thuật"}  liên quan ?
+    - [Sách Đại Việt thông sử, phần Đế Kỷ Đệ nhất chép]{"entity":"object","value":"vntourism:Sách_Đại_Việt_thông_sử,_phần_Đế_Kỷ_Đệ_nhất_chép"}  liên quan ?
+    - [Những năm cuối]{"entity":"object","value":"vntourism:Những_năm_cuối"}  liên quan ?
+    - [Loạn Thân Lợi]{"entity":"object","value":"vntourism:Loạn_Thân_Lợi"}  liên quan ?
+    - [Từ bị giam ở Trung Quốc cho tới thành lập Việt Nam Dân chủ Cộng hòa]{"entity":"object","value":"vntourism:Từ_bị_giam_ở_Trung_Quốc_cho_tới_thành_lập_Việt_Nam_Dân_chủ_Cộng_hòa"}  liên quan ?
+    - [Trịnh Kiểm bình định đất Thuận Quảng và trao quyền cho Nguyễn Hoàng]{"entity":"object","value":"vntourism:Trịnh_Kiểm_bình_định_đất_Thuận_Quảng_và_trao_quyền_cho_Nguyễn_Hoàng"}  liên quan ?
+    - [Triệu Quang Phục]{"entity":"object","value":"vntourism:Triệu_Quang_Phục"}  liên quan ?
+    - [Loạn Đỗ Anh Vũ]{"entity":"object","value":"vntourism:Loạn_Đỗ_Anh_Vũ"}  liên quan ?
+    - [Chiến tranh Nguyên Mông-Đại Việt (1288)]{"entity":"object","value":"vntourism:Chiến_tranh_Nguyên_Mông-Đại_Việt_(1288)"}  liên quan ?
+    - [Khởi nghĩa Yên Bái]{"entity":"object","value":"vntourism:Khởi_nghĩa_Yên_Bái"}  liên quan ?
+    - [Ba lần chống quân Nguyên Mông]{"entity":"object","value":"vntourism:Ba_lần_chống_quân_Nguyên_Mông"}  liên quan ?
+    - [Bị gán tội chết]{"entity":"object","value":"vntourism:Bị_gán_tội_chết"}  liên quan ?
+    - [Vụ nổi loạn của nông dân xã Đồng Tâm]{"entity":"object","value":"vntourism:Vụ_nổi_loạn_của_nông_dân_xã_Đồng_Tâm"}  liên quan ?
+    - [Ban sách Hình thư]{"entity":"object","value":"vntourism:Ban_sách_Hình_thư"}  liên quan ?
+    - [Quan hệ ngoại giao với Trung Quốc]{"entity":"object","value":"vntourism:Quan_hệ_ngoại_giao_với_Trung_Quốc"}  liên quan ?
+    - [Đóng đô Hoa Lư]{"entity":"object","value":"vntourism:Đóng_đô_Hoa_Lư"}  liên quan ?
+    - [Là một nhà thơ có tài]{"entity":"object","value":"vntourism:Là_một_nhà_thơ_có_tài"}  liên quan ?
+    - [Lập Duy Tân hội, sang Nhật cầu viện]{"entity":"object","value":"vntourism:Lập_Duy_Tân_hội,_sang_Nhật_cầu_viện"}  liên quan ?
+    - [Quang Trung lên ngôi Hoàng đế]{"entity":"object","value":"vntourism:Quang_Trung_lên_ngôi_Hoàng_đế"}  liên quan ?
+    - [Triều đại Trần Phế Đế]{"entity":"object","value":"vntourism:Triều_đại_Trần_Phế_Đế"}  liên quan ?
+    - [Thành Phiên An thất thủ]{"entity":"object","value":"vntourism:Thành_Phiên_An_thất_thủ"}  liên quan ?
+    - [Chết trong cung Vọng Di]{"entity":"object","value":"vntourism:Chết_trong_cung_Vọng_Di"}  liên quan ?
+    - [Họa Chiêm Thành]{"entity":"object","value":"vntourism:Họa_Chiêm_Thành"}  liên quan ?
+    - [Dẹp các sứ quân]{"entity":"object","value":"vntourism:Dẹp_các_sứ_quân"}  liên quan ?
+    - [Là lính, trở thành võ quan]{"entity":"object","value":"vntourism:Là_lính,_trở_thành_võ_quan"}  liên quan ?
+    - [Danh tướng Nam triều]{"entity":"object","value":"vntourism:Danh_tướng_Nam_triều"}  liên quan ?
+    - [Giằng co với quân Lê - Trịnh]{"entity":"object","value":"vntourism:Giằng_co_với_quân_Lê_-_Trịnh"}  liên quan ?
+    - [Sau Cách mạng tháng Tám]{"entity":"object","value":"vntourism:Sau_Cách_mạng_tháng_Tám"}  liên quan ?
+    - [Những người con]{"entity":"object","value":"vntourism:Những_người_con"}  liên quan ?
+    - [Đắc sủng phong Quý phi]{"entity":"object","value":"vntourism:Đắc_sủng_phong_Quý_phi"}  liên quan ?
+    - [Thời Cộng hòa Nhân dân Trung Hoa]{"entity":"object","value":"vntourism:Thời_Cộng_hòa_Nhân_dân_Trung_Hoa"}  liên quan ?
+    - [Tổ chức hành chính]{"entity":"object","value":"vntourism:Tổ_chức_hành_chính"}  liên quan ?
+    - [Khi Đường Hy Tông ở Thành Đô]{"entity":"object","value":"vntourism:Khi_Đường_Hy_Tông_ở_Thành_Đô"}  liên quan ?
+    - [Giúp trị an trong và ngoài nước]{"entity":"object","value":"vntourism:Giúp_trị_an_trong_và_ngoài_nước"}  liên quan ?
+    - [Theo sắp đặt của cha]{"entity":"object","value":"vntourism:Theo_sắp_đặt_của_cha"}  liên quan ?
+    - [Hồ ly phu nhân]{"entity":"object","value":"vntourism:Hồ_ly_phu_nhân"}  liên quan ?
+    - [Chiến dịch diệt Lương]{"entity":"object","value":"vntourism:Chiến_dịch_diệt_Lương"}  liên quan ?
+    - [Thời Trịnh Sâm]{"entity":"object","value":"vntourism:Thời_Trịnh_Sâm"}  liên quan ?
+    - [Khu lưu niệm Giáo sư - Viện sĩ Trần Đại Nghĩa]{"entity":"object","value":"vntourism:Khu_lưu_niệm_Giáo_sư_-_Viện_sĩ_Trần_Đại_Nghĩa"}  liên quan ?
+    - [Vây thành Tây Đô]{"entity":"object","value":"vntourism:Vây_thành_Tây_Đô"}  liên quan ?
+    - [Lời bình trong truyện]{"entity":"object","value":"vntourism:Lời_bình_trong_truyện"}  liên quan ?
+    - [Bỏ Trần theo Hồ]{"entity":"object","value":"vntourism:Bỏ_Trần_theo_Hồ"}  liên quan ?
+    - [Hưởng ứng dụ Cần Vương]{"entity":"object","value":"vntourism:Hưởng_ứng_dụ_Cần_Vương"}  liên quan ?
+    - [Hai chiêu bài, một mục tiêu]{"entity":"object","value":"vntourism:Hai_chiêu_bài,_một_mục_tiêu"}  liên quan ?
+    - [Kháng chiến chống Nguyên (1285)]{"entity":"object","value":"vntourism:Kháng_chiến_chống_Nguyên_(1285)"}  liên quan ?
+    - [Chiến tranh với Chiêm Thành]{"entity":"object","value":"vntourism:Chiến_tranh_với_Chiêm_Thành"}  liên quan ?
+    - [Bình định đất Lĩnh Nam]{"entity":"object","value":"vntourism:Bình_định_đất_Lĩnh_Nam"}  liên quan ?
+    - [Sau năm 1945]{"entity":"object","value":"vntourism:Sau_năm_1945"}  liên quan ?
+    - [Đối phó với Hậu Lương và Khiết Đan]{"entity":"object","value":"vntourism:Đối_phó_với_Hậu_Lương_và_Khiết_Đan"}  liên quan ?
+    - [Vu cáo và qua đời]{"entity":"object","value":"vntourism:Vu_cáo_và_qua_đời"}  liên quan ?
+    - [Tước quyền Đại Thiện]{"entity":"object","value":"vntourism:Tước_quyền_Đại_Thiện"}  liên quan ?
+    - [Quang Trung lên ngôi Hoàng đế]{"entity":"object","value":"vntourism:Quang_Trung_lên_ngôi_Hoàng_đế"}  liên quan ?
+    - [Tổng khởi nghĩa]{"entity":"object","value":"vntourism:Tổng_khởi_nghĩa"}  liên quan ?
+    - [Đi sứ sang Âu châu]{"entity":"object","value":"vntourism:Đi_sứ_sang_Âu_châu"}  liên quan ?
+    - [Làm quan ở Huế]{"entity":"object","value":"vntourism:Làm_quan_ở_Huế"}  liên quan ?
+    - [Ủng hộ Nguyên phi Ỷ Lan]{"entity":"object","value":"vntourism:Ủng_hộ_Nguyên_phi_Ỷ_Lan"}  liên quan ?
+    - [Đinh điền và thuế khóa]{"entity":"object","value":"vntourism:Đinh_điền_và_thuế_khóa"}  liên quan ?
+    - [Đền thờ Lê Lai]{"entity":"object","value":"vntourism:Đền_thờ_Lê_Lai"}  liên quan ?
+    - [Nguyễn Sinh Khiêm]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Khiêm"}  liên quan ?
+    - [Phát động khởi nghĩa]{"entity":"object","value":"vntourism:Phát_động_khởi_nghĩa"}  liên quan ?
+    - [Thành lập Bộ Tham mưu]{"entity":"object","value":"vntourism:Thành_lập_Bộ_Tham_mưu"}  liên quan ?
+    - [Đi sứ nhà Nguyên]{"entity":"object","value":"vntourism:Đi_sứ_nhà_Nguyên"}  liên quan ?
+    - [Trận Mô Độ]{"entity":"object","value":"vntourism:Trận_Mô_Độ"}  liên quan ?
+    - [Trả thù Tây Sơn]{"entity":"object","value":"vntourism:Trả_thù_Tây_Sơn"}  liên quan ?
+    - [Bình định đất Lĩnh Nam]{"entity":"object","value":"vntourism:Bình_định_đất_Lĩnh_Nam"}  liên quan ?
+    - [Đức Thánh Nguyễn]{"entity":"object","value":"vntourism:Đức_Thánh_Nguyễn"}  liên quan ?
+    - [Tham chiến tại Việt Nam]{"entity":"object","value":"vntourism:Tham_chiến_tại_Việt_Nam"}  liên quan ?
+    - [Nhân loạn phản Đường, lánh nạn Thát Đát]{"entity":"object","value":"vntourism:Nhân_loạn_phản_Đường,_lánh_nạn_Thát_Đát"}  liên quan ?
+    - [Tái chiếm Phú Yên]{"entity":"object","value":"vntourism:Tái_chiếm_Phú_Yên"}  liên quan ?
+    - [Bị vây bắt]{"entity":"object","value":"vntourism:Bị_vây_bắt"}  liên quan ?
+    - [Câu đố chết người]{"entity":"object","value":"vntourism:Câu_đố_chết_người"}  liên quan ?
+    - [Về văn hóa]{"entity":"object","value":"vntourism:Về_văn_hóa"}  liên quan ?
+    - [Diệt Ngư Tinh]{"entity":"object","value":"vntourism:Diệt_Ngư_Tinh"}  liên quan ?
+    - [Tham gia khởi nghĩa và chiến công ở Lạc Thủy]{"entity":"object","value":"vntourism:Tham_gia_khởi_nghĩa_và_chiến_công_ở_Lạc_Thủy"}  liên quan ?
+    - [Nội loạn Trần Tuân]{"entity":"object","value":"vntourism:Nội_loạn_Trần_Tuân"}  liên quan ?
+    - [Hoạt động trong lĩnh vực giáo dục]{"entity":"object","value":"vntourism:Hoạt_động_trong_lĩnh_vực_giáo_dục"}  liên quan ?
+    - [Cuộc chiến thứ hai 1633]{"entity":"object","value":"vntourism:Cuộc_chiến_thứ_hai_1633"}  liên quan ?
+    - [Bắc tiến lần thứ nhất]{"entity":"object","value":"vntourism:Bắc_tiến_lần_thứ_nhất"}  liên quan ?
+    - [Thời Trịnh Sâm]{"entity":"object","value":"vntourism:Thời_Trịnh_Sâm"}  liên quan ?
+    - [Chiếm lĩnh đồn Dương Liễu]{"entity":"object","value":"vntourism:Chiếm_lĩnh_đồn_Dương_Liễu"}  liên quan ?
+    - [Khai quốc công thần]{"entity":"object","value":"vntourism:Khai_quốc_công_thần"}  liên quan ?
+    - [Chiến tranh với Khiết Đan, Tây Hạ]{"entity":"object","value":"vntourism:Chiến_tranh_với_Khiết_Đan,_Tây_Hạ"}  liên quan ?
+    - [Đinh điền và thuế khóa]{"entity":"object","value":"vntourism:Đinh_điền_và_thuế_khóa"}  liên quan ?
+    - [Vẽ bản đồ bãi cát vàng (Hoàng Sa)]{"entity":"object","value":"vntourism:Vẽ_bản_đồ_bãi_cát_vàng_(Hoàng_Sa)"}  liên quan ?
+    - [Mâu thuẫn Thái Bình - Long Cơ]{"entity":"object","value":"vntourism:Mâu_thuẫn_Thái_Bình_-_Long_Cơ"}  liên quan ?
+    - [Mặt trận phía nam]{"entity":"object","value":"vntourism:Mặt_trận_phía_nam"}  liên quan ?
+    - [Các cuộc khởi nghĩa bất thành]{"entity":"object","value":"vntourism:Các_cuộc_khởi_nghĩa_bất_thành"}  liên quan ?
+    - [Lưu lạc đất khách]{"entity":"object","value":"vntourism:Lưu_lạc_đất_khách"}  liên quan ?
+    - [Triều vua Lê Thái Tổ]{"entity":"object","value":"vntourism:Triều_vua_Lê_Thái_Tổ"}  liên quan ?
+    - [Trận chiến núi Định Quân]{"entity":"object","value":"vntourism:Trận_chiến_núi_Định_Quân"}  liên quan ?
+    - [Huy hiệu Việt Nam]{"entity":"object","value":"vntourism:Huy_hiệu_Việt_Nam"}  liên quan ?
+    - [Kế hoạch Nam tiến dở dang]{"entity":"object","value":"vntourism:Kế_hoạch_Nam_tiến_dở_dang"}  liên quan ?
+    - [Trận Nghệ An]{"entity":"object","value":"vntourism:Trận_Nghệ_An"}  liên quan ?
+    - [Chiến tranh Minh- Đại Ngu]{"entity":"object","value":"vntourism:Chiến_tranh_Minh-_Đại_Ngu"}  liên quan ?
+    - [Kết tinh Tam giáo Nho-Lão-Phật trong nhân cách và tư tưởng của Nguyễn Bỉnh Khiêm]{"entity":"object","value":"vntourism:Kết_tinh_Tam_giáo_Nho-Lão-Phật_trong_nhân_cách_và_tư_tưởng_của_Nguyễn_Bỉnh_Khiêm"}  liên quan ?
+    - [Thua trận bỏ chạy]{"entity":"object","value":"vntourism:Thua_trận_bỏ_chạy"}  liên quan ?
+    - [Đường quan lộ]{"entity":"object","value":"vntourism:Đường_quan_lộ"}  liên quan ?
+    - [Ông tổ nghề đúc đồng]{"entity":"object","value":"vntourism:Ông_tổ_nghề_đúc_đồng"}  liên quan ?
+    - [Viếng tang Hồ Chí Minh]{"entity":"object","value":"vntourism:Viếng_tang_Hồ_Chí_Minh"}  liên quan ?
+    - [Lui về Vạn Kiếp]{"entity":"object","value":"vntourism:Lui_về_Vạn_Kiếp"}  liên quan ?
+    - [Dẹp loạn Tam Vương]{"entity":"object","value":"vntourism:Dẹp_loạn_Tam_Vương"}  liên quan ?
+    - [Thần tốc bắc tiến, Chiến thắng Kỷ Dậu (1789)]{"entity":"object","value":"vntourism:Thần_tốc_bắc_tiến,_Chiến_thắng_Kỷ_Dậu_(1789)"}  liên quan ?
+    - [Từ chối tổng tuyển cử]{"entity":"object","value":"vntourism:Từ_chối_tổng_tuyển_cử"}  liên quan ?
+    - [Bảo vật sinh thiên tử]{"entity":"object","value":"vntourism:Bảo_vật_sinh_thiên_tử"}  liên quan ?
+    - [Ngoại giao với nhà Minh]{"entity":"object","value":"vntourism:Ngoại_giao_với_nhà_Minh"}  liên quan ?
+    - [Kháng chiến chống Nguyên (1287-1288)]{"entity":"object","value":"vntourism:Kháng_chiến_chống_Nguyên_(1287-1288)"}  liên quan ?
+    - [Đối đầu với Chu Toàn Trung và phục hồi]{"entity":"object","value":"vntourism:Đối_đầu_với_Chu_Toàn_Trung_và_phục_hồi"}  liên quan ?
+    - [Kiểm soát Quan Trung]{"entity":"object","value":"vntourism:Kiểm_soát_Quan_Trung"}  liên quan ?
+    - [Tham gia lật đổ vua Lê Nghi Dân]{"entity":"object","value":"vntourism:Tham_gia_lật_đổ_vua_Lê_Nghi_Dân"}  liên quan ?
+    - [Những công việc đầu tiên]{"entity":"object","value":"vntourism:Những_công_việc_đầu_tiên"}  liên quan ?
+    - [Tham mưu cho Giản Định Đế]{"entity":"object","value":"vntourism:Tham_mưu_cho_Giản_Định_Đế"}  liên quan ?
+    - [Phim tài liệu]{"entity":"object","value":"vntourism:Phim_tài_liệu"}  liên quan ?
+    - [Âm mưu thay thế Ngô Đình Diệm của Mỹ]{"entity":"object","value":"vntourism:Âm_mưu_thay_thế_Ngô_Đình_Diệm_của_Mỹ"}  liên quan ?
+    - [Thời thanh niên sôi nổi]{"entity":"object","value":"vntourism:Thời_thanh_niên_sôi_nổi"}  liên quan ?
+    - [Tranh giành quyền lực]{"entity":"object","value":"vntourism:Tranh_giành_quyền_lực"}  liên quan ?
+    - [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"}  liên quan ?
+    - [Buổi tiếp kiến đầu tiên]{"entity":"object","value":"vntourism:Buổi_tiếp_kiến_đầu_tiên"}  liên quan ?
+    - [Lính thú trễ hẹn]{"entity":"object","value":"vntourism:Lính_thú_trễ_hẹn"}  liên quan ?
+    - [Trấn thủ Thuận Hóa - đúc tiền Cảnh Hưng Thuận Bảo]{"entity":"object","value":"vntourism:Trấn_thủ_Thuận_Hóa_-_đúc_tiền_Cảnh_Hưng_Thuận_Bảo"}  liên quan ?
+    - [Vây thành Xương Giang, Đông Quan, phá tan viện binh]{"entity":"object","value":"vntourism:Vây_thành_Xương_Giang,_Đông_Quan,_phá_tan_viện_binh"}  liên quan ?
+    - [Mưu đoạt ngôi chính]{"entity":"object","value":"vntourism:Mưu_đoạt_ngôi_chính"}  liên quan ?
+    - [Nhập cung làm Đạo cô]{"entity":"object","value":"vntourism:Nhập_cung_làm_Đạo_cô"}  liên quan ?
+    - [Dời thủ phủ]{"entity":"object","value":"vntourism:Dời_thủ_phủ"}  liên quan ?
+    - [Quân sự và ngoại giao]{"entity":"object","value":"vntourism:Quân_sự_và_ngoại_giao"}  liên quan ?
+    - [Tham gia thành lập Việt Nam Dân chủ Cộng hòa]{"entity":"object","value":"vntourism:Tham_gia_thành_lập_Việt_Nam_Dân_chủ_Cộng_hòa"}  liên quan ?
+    - [Đảm nhiệm cương vị Tổng tham mưu trưởng]{"entity":"object","value":"vntourism:Đảm_nhiệm_cương_vị_Tổng_tham_mưu_trưởng"}  liên quan ?
+    - [Gươm thần Thuận Thiên]{"entity":"object","value":"vntourism:Gươm_thần_Thuận_Thiên"}  liên quan ?
+    - [Đến trại Kim nghị hòa]{"entity":"object","value":"vntourism:Đến_trại_Kim_nghị_hòa"}  liên quan ?
+    - [Gia nhập quân Tây Sơn]{"entity":"object","value":"vntourism:Gia_nhập_quân_Tây_Sơn"}  liên quan ?
+    - [Chinh phục Yên]{"entity":"object","value":"vntourism:Chinh_phục_Yên"}  liên quan ?
+    - [Sau khi Đường Hy Tông rời Thành Đô]{"entity":"object","value":"vntourism:Sau_khi_Đường_Hy_Tông_rời_Thành_Đô"}  liên quan ?
+    - [Ổn định Nam Hà]{"entity":"object","value":"vntourism:Ổn_định_Nam_Hà"}  liên quan ?
+    - [Sơ tổ Trúc Lâm]{"entity":"object","value":"vntourism:Sơ_tổ_Trúc_Lâm"}  liên quan ?
+    - [Đại biểu Quốc hội Việt Nam khóa XIV (2016-2021) tỉnh Trà Vinh]{"entity":"object","value":"vntourism:Đại_biểu_Quốc_hội_Việt_Nam_khóa_XIV_(2016-2021)_tỉnh_Trà_Vinh"}  liên quan ?
+    - [Tại Việt Nam]{"entity":"object","value":"vntourism:Tại_Việt_Nam"}  liên quan ?
+    - [Công nhận Túc Tông]{"entity":"object","value":"vntourism:Công_nhận_Túc_Tông"}  liên quan ?
+    - [Hợp nhất Triệu và Nghĩa Vũ vào Tấn]{"entity":"object","value":"vntourism:Hợp_nhất_Triệu_và_Nghĩa_Vũ_vào_Tấn"}  liên quan ?
+    - [Trấn giữ các địa phương]{"entity":"object","value":"vntourism:Trấn_giữ_các_địa_phương"}  liên quan ?
+    - [Cứu vãn nghiệp tổ tiên]{"entity":"object","value":"vntourism:Cứu_vãn_nghiệp_tổ_tiên"}  liên quan ?
+    - [Gian thần Phạm Du]{"entity":"object","value":"vntourism:Gian_thần_Phạm_Du"}  liên quan ?
+    - [Ba lần hội nghị tại Chợ Đệm]{"entity":"object","value":"vntourism:Ba_lần_hội_nghị_tại_Chợ_Đệm"}  liên quan ?
+    - [Không ra làm quan, chỉ ở nhà dạy học]{"entity":"object","value":"vntourism:Không_ra_làm_quan,_chỉ_ở_nhà_dạy_học"}  liên quan ?
+    - [Văn chương trào phúng]{"entity":"object","value":"vntourism:Văn_chương_trào_phúng"}  liên quan ?
+    - [Thua trận mất con, nhún mình cầu hòa]{"entity":"object","value":"vntourism:Thua_trận_mất_con,_nhún_mình_cầu_hòa"}  liên quan ?
+    - [Tăng cường cho mặt trận miền Nam]{"entity":"object","value":"vntourism:Tăng_cường_cho_mặt_trận_miền_Nam"}  liên quan ?
+    - [Tổ chức chính quyền]{"entity":"object","value":"vntourism:Tổ_chức_chính_quyền"}  liên quan ?
+    - [Ngựa ký già về bắc]{"entity":"object","value":"vntourism:Ngựa_ký_già_về_bắc"}  liên quan ?
+    - [Kết cục của Khúc Thừa Mỹ]{"entity":"object","value":"vntourism:Kết_cục_của_Khúc_Thừa_Mỹ"}  liên quan ?
+    - [Quân Minh sang lần thứ hai]{"entity":"object","value":"vntourism:Quân_Minh_sang_lần_thứ_hai"}  liên quan ?
+    - [Chuyển nguy thành an]{"entity":"object","value":"vntourism:Chuyển_nguy_thành_an"}  liên quan ?
+    - [Công tác dân sự]{"entity":"object","value":"vntourism:Công_tác_dân_sự"}  liên quan ?
+    - [Con rồng cháu tiên]{"entity":"object","value":"vntourism:Con_rồng_cháu_tiên"}  liên quan ?
+    - [Đối đầu với triều đình]{"entity":"object","value":"vntourism:Đối_đầu_với_triều_đình"}  liên quan ?
+    - [Xây dựng cung điện]{"entity":"object","value":"vntourism:Xây_dựng_cung_điện"}  liên quan ?
+    - [Gian thần Phạm Du]{"entity":"object","value":"vntourism:Gian_thần_Phạm_Du"}  liên quan ?
+    - [Thu phục lòng dân]{"entity":"object","value":"vntourism:Thu_phục_lòng_dân"}  liên quan ?
+    - [Có tấm lòng thương dân]{"entity":"object","value":"vntourism:Có_tấm_lòng_thương_dân"}  liên quan ?
+    - [Vụ án Đặng Trần Thường]{"entity":"object","value":"vntourism:Vụ_án_Đặng_Trần_Thường"}  liên quan ?
+    - [Phim truyền hình]{"entity":"object","value":"vntourism:Phim_truyền_hình"}  liên quan ?
+    - [Ngả theo họ Đoàn]{"entity":"object","value":"vntourism:Ngả_theo_họ_Đoàn"}  liên quan ?
+    - [Lãnh đạo chớp thời cơ]{"entity":"object","value":"vntourism:Lãnh_đạo_chớp_thời_cơ"}  liên quan ?
+    - [Hoàng Thị Loan]{"entity":"object","value":"vntourism:Hoàng_Thị_Loan"}  liên quan ?
+    - [Chiến tranh với Tống]{"entity":"object","value":"vntourism:Chiến_tranh_với_Tống"}  liên quan ?
+    - [Can gián đánh Ngô]{"entity":"object","value":"vntourism:Can_gián_đánh_Ngô"}  liên quan ?
+    - [Vụ án Đặng Trần Thường]{"entity":"object","value":"vntourism:Vụ_án_Đặng_Trần_Thường"}  liên quan ?
+    - [Lên ngôi vua]{"entity":"object","value":"vntourism:Lên_ngôi_vua"}  liên quan ?
+    - [Phụng sự hôn quân]{"entity":"object","value":"vntourism:Phụng_sự_hôn_quân"}  liên quan ?
+    - [Đi đến Giang Đô]{"entity":"object","value":"vntourism:Đi_đến_Giang_Đô"}  liên quan ?
+    - [Lui về Vạn Kiếp]{"entity":"object","value":"vntourism:Lui_về_Vạn_Kiếp"}  liên quan ?
+    - [Cuộc sống khi lưu vong]{"entity":"object","value":"vntourism:Cuộc_sống_khi_lưu_vong"}  liên quan ?
+    - [Thời gian đầu tiên sau khi Gia Long mất (1820)]{"entity":"object","value":"vntourism:Thời_gian_đầu_tiên_sau_khi_Gia_Long_mất_(1820)"}  liên quan ?
+    - [Hội thề Đông Quan]{"entity":"object","value":"vntourism:Hội_thề_Đông_Quan"}  liên quan ?
+    - [Trấn thủ Thuận Hóa-Quảng Nam]{"entity":"object","value":"vntourism:Trấn_thủ_Thuận_Hóa-Quảng_Nam"}  liên quan ?
+    - [Đánh bại quân Ai Lao]{"entity":"object","value":"vntourism:Đánh_bại_quân_Ai_Lao"}  liên quan ?
+    - [Vụ án Nguyễn Văn Thành]{"entity":"object","value":"vntourism:Vụ_án_Nguyễn_Văn_Thành"}  liên quan ?
+    - [Đánh chiếm Phú Xuân]{"entity":"object","value":"vntourism:Đánh_chiếm_Phú_Xuân"}  liên quan ?
+    - [Sự biến Diên Ninh]{"entity":"object","value":"vntourism:Sự_biến_Diên_Ninh"}  liên quan ?
+    - [Trong văn hóa đại chúng]{"entity":"object","value":"vntourism:Trong_văn_hóa_đại_chúng"}  liên quan ?
+    - [Tiến ra Thăng Long lần thứ nhất]{"entity":"object","value":"vntourism:Tiến_ra_Thăng_Long_lần_thứ_nhất"}  liên quan ?
+    - [Là một viên quan tốt]{"entity":"object","value":"vntourism:Là_một_viên_quan_tốt"}  liên quan ?
+    - [Trả thù Lý Tài]{"entity":"object","value":"vntourism:Trả_thù_Lý_Tài"}  liên quan ?
+    - [Đối đầu Tiền Thục, Mất Tĩnh Nan và Thiên Hùng]{"entity":"object","value":"vntourism:Đối_đầu_Tiền_Thục,_Mất_Tĩnh_Nan_và_Thiên_Hùng"}  liên quan ?
+    - [Tham gia Quân đội Pháp]{"entity":"object","value":"vntourism:Tham_gia_Quân_đội_Pháp"}  liên quan ?
+    - [Ngựa ký già về bắc]{"entity":"object","value":"vntourism:Ngựa_ký_già_về_bắc"}  liên quan ?
+    - [Trước khi Đường Hy Tông đến Thành Đô]{"entity":"object","value":"vntourism:Trước_khi_Đường_Hy_Tông_đến_Thành_Đô"}  liên quan ?
+    - [Về nước rồi qua đời]{"entity":"object","value":"vntourism:Về_nước_rồi_qua_đời"}  liên quan ?
+    - [Dẹp loạn Phạm Tử Nghi]{"entity":"object","value":"vntourism:Dẹp_loạn_Phạm_Tử_Nghi"}  liên quan ?
+    - [Chiến tranh với Cao Câu Ly lần 1]{"entity":"object","value":"vntourism:Chiến_tranh_với_Cao_Câu_Ly_lần_1"}  liên quan ?
+    - [Lên ngôi vua, thành lập nhà Mạc]{"entity":"object","value":"vntourism:Lên_ngôi_vua,_thành_lập_nhà_Mạc"}  liên quan ?
+    - [Triệu Quang Phục]{"entity":"object","value":"vntourism:Triệu_Quang_Phục"}  liên quan ?
+    - [Triều vua Lê Thái Tổ]{"entity":"object","value":"vntourism:Triều_vua_Lê_Thái_Tổ"}  liên quan ?
+    - [Ổn định Nam Hà]{"entity":"object","value":"vntourism:Ổn_định_Nam_Hà"}  liên quan ?
+    - [Loạn Quách Bốc]{"entity":"object","value":"vntourism:Loạn_Quách_Bốc"}  liên quan ?
+    - [Mất tại quân thứ]{"entity":"object","value":"vntourism:Mất_tại_quân_thứ"}  liên quan ?
+    - [Hoạt động ở Âu châu]{"entity":"object","value":"vntourism:Hoạt_động_ở_Âu_châu"}  liên quan ?
+    - [Quan hệ với Hưng Đạo Vương]{"entity":"object","value":"vntourism:Quan_hệ_với_Hưng_Đạo_Vương"}  liên quan ?
+    - [Chính biến chống Vi hậu]{"entity":"object","value":"vntourism:Chính_biến_chống_Vi_hậu"}  liên quan ?
+    - [Trả thù Tây Sơn]{"entity":"object","value":"vntourism:Trả_thù_Tây_Sơn"}  liên quan ?
+    - [Xuất thân và quê quán]{"entity":"object","value":"vntourism:Xuất_thân_và_quê_quán"}  liên quan ?
+    - [Nội bộ lục đục, bị dìm chết]{"entity":"object","value":"vntourism:Nội_bộ_lục_đục,_bị_dìm_chết"}  liên quan ?
+    - [Vụ án Nguyễn Văn Thành]{"entity":"object","value":"vntourism:Vụ_án_Nguyễn_Văn_Thành"}  liên quan ?
+    - [Ba lần đỗ đầu]{"entity":"object","value":"vntourism:Ba_lần_đỗ_đầu"}  liên quan ?
+    - [Vợ và các con]{"entity":"object","value":"vntourism:Vợ_và_các_con"}  liên quan ?
+    - [Lập Trần Cảo]{"entity":"object","value":"vntourism:Lập_Trần_Cảo"}  liên quan ?
+    - [Tranh chấp với An Lộc Sơn]{"entity":"object","value":"vntourism:Tranh_chấp_với_An_Lộc_Sơn"}  liên quan ?
+    - [Những ngày tháng cuối cùng]{"entity":"object","value":"vntourism:Những_ngày_tháng_cuối_cùng"}  liên quan ?
+    - [Tiến về Lạc Dương và xưng đế]{"entity":"object","value":"vntourism:Tiến_về_Lạc_Dương_và_xưng_đế"}  liên quan ?
+    - [Binh biến và qua đời]{"entity":"object","value":"vntourism:Binh_biến_và_qua_đời"}  liên quan ?
+    - [Văn du ký]{"entity":"object","value":"vntourism:Văn_du_ký"}  liên quan ?
+    - [Những năm tiếp theo]{"entity":"object","value":"vntourism:Những_năm_tiếp_theo"}  liên quan ?
+    - [Giai đoạn lãnh đạo]{"entity":"object","value":"vntourism:Giai_đoạn_lãnh_đạo"}  liên quan ?
+    - [Tham dự triều chính]{"entity":"object","value":"vntourism:Tham_dự_triều_chính"}  liên quan ?
+    - [Lập chùa, mở mang phật giáo]{"entity":"object","value":"vntourism:Lập_chùa,_mở_mang_phật_giáo"}  liên quan ?
+    - [Đánh lui cuộc phản công của nhà Lương]{"entity":"object","value":"vntourism:Đánh_lui_cuộc_phản_công_của_nhà_Lương"}  liên quan ?
+    - [Tài cai trị]{"entity":"object","value":"vntourism:Tài_cai_trị"}  liên quan ?
+    - [Thu phục Chiêm Thành, Ai Lao]{"entity":"object","value":"vntourism:Thu_phục_Chiêm_Thành,_Ai_Lao"}  liên quan ?
+    - [Mạc Đăng Dung soán vị]{"entity":"object","value":"vntourism:Mạc_Đăng_Dung_soán_vị"}  liên quan ?
+    - [Vụ án Đặng Trần Thường]{"entity":"object","value":"vntourism:Vụ_án_Đặng_Trần_Thường"}  liên quan ?
+    - [Nhà văn giao thời]{"entity":"object","value":"vntourism:Nhà_văn_giao_thời"}  liên quan ?
+    - [Triều Lý Chiêu Hoàng]{"entity":"object","value":"vntourism:Triều_Lý_Chiêu_Hoàng"}  liên quan ?
+    - [Văn thần chí tận]{"entity":"object","value":"vntourism:Văn_thần_chí_tận"}  liên quan ?
+    - [Gạt bỏ hiềm khích riêng]{"entity":"object","value":"vntourism:Gạt_bỏ_hiềm_khích_riêng"}  liên quan ?
+    - [Thần phục nhà Hán]{"entity":"object","value":"vntourism:Thần_phục_nhà_Hán"}  liên quan ?
+    - [Chu Ôn uy hiếp]{"entity":"object","value":"vntourism:Chu_Ôn_uy_hiếp"}  liên quan ?
+    - [Hòa ước Giáp Tuất (1874)]{"entity":"object","value":"vntourism:Hòa_ước_Giáp_Tuất_(1874)"}  liên quan ?
+    - [Lão tướng lại ra quân]{"entity":"object","value":"vntourism:Lão_tướng_lại_ra_quân"}  liên quan ?
+    - [Quan hệ với Đông Ngô]{"entity":"object","value":"vntourism:Quan_hệ_với_Đông_Ngô"}  liên quan ?
+    - [Làm quan thời Lê-Trịnh]{"entity":"object","value":"vntourism:Làm_quan_thời_Lê-Trịnh"}  liên quan ?
+    - [Tình chị em thân thiết]{"entity":"object","value":"vntourism:Tình_chị_em_thân_thiết"}  liên quan ?
+    - [Đại biểu Quốc hội Việt Nam khóa 14 Bình Dương]{"entity":"object","value":"vntourism:Đại_biểu_Quốc_hội_Việt_Nam_khóa_14_Bình_Dương"}  liên quan ?
+    - [Quản lý nhân khẩu]{"entity":"object","value":"vntourism:Quản_lý_nhân_khẩu"}  liên quan ?
+    - [Ngoại hình và tính cách]{"entity":"object","value":"vntourism:Ngoại_hình_và_tính_cách"}  liên quan ?
+    - [Bãi bỏ chế độ Nghị chính vương]{"entity":"object","value":"vntourism:Bãi_bỏ_chế_độ_Nghị_chính_vương"}  liên quan ?
+    - [Quan thần dưới thời Tự Đức]{"entity":"object","value":"vntourism:Quan_thần_dưới_thời_Tự_Đức"}  liên quan ?
+    - [Phim điện ảnh]{"entity":"object","value":"vntourism:Phim_điện_ảnh"}  liên quan ?
+    - [Dân tộc độc lập]{"entity":"object","value":"vntourism:Dân_tộc_độc_lập"}  liên quan ?
+    - [Theo chúa Nguyễn]{"entity":"object","value":"vntourism:Theo_chúa_Nguyễn"}  liên quan ?
+    - [Chăm lo quốc lực]{"entity":"object","value":"vntourism:Chăm_lo_quốc_lực"}  liên quan ?
+    - [Lên làm Thái tử]{"entity":"object","value":"vntourism:Lên_làm_Thái_tử"}  liên quan ?
+    - [Quý phi túy tửu]{"entity":"object","value":"vntourism:Quý_phi_túy_tửu"}  liên quan ?
+    - [Cải cách điền địa]{"entity":"object","value":"vntourism:Cải_cách_điền_địa"}  liên quan ?
+    - [Nhạc cho phim]{"entity":"object","value":"vntourism:Nhạc_cho_phim"}  liên quan ?
+    - [Tử trận tại Đại chiến hồ Bà Dương]{"entity":"object","value":"vntourism:Tử_trận_tại_Đại_chiến_hồ_Bà_Dương"}  liên quan ?
+    - [Khéo tiến cử người tài giỏi, kính cẩn giữ tiết làm tôi]{"entity":"object","value":"vntourism:Khéo_tiến_cử_người_tài_giỏi,_kính_cẩn_giữ_tiết_làm_tôi"}  liên quan ?
+    - [Tham gia khởi nghĩa Lam Sơn]{"entity":"object","value":"vntourism:Tham_gia_khởi_nghĩa_Lam_Sơn"}  liên quan ?
+    - [Bài thơ Nam quốc sơn hà]{"entity":"object","value":"vntourism:Bài_thơ_Nam_quốc_sơn_hà"}  liên quan ?
+    - [Vây đánh thành Nghệ An]{"entity":"object","value":"vntourism:Vây_đánh_thành_Nghệ_An"}  liên quan ?
+    - [Cải cách chế độ quan lại]{"entity":"object","value":"vntourism:Cải_cách_chế_độ_quan_lại"}  liên quan ?
+    - [Góp phần tiêu diệt Nông Văn Vân]{"entity":"object","value":"vntourism:Góp_phần_tiêu_diệt_Nông_Văn_Vân"}  liên quan ?
+    - [Quy hàng Lưu Bị]{"entity":"object","value":"vntourism:Quy_hàng_Lưu_Bị"}  liên quan ?
+    - [Cái chết thảm khốc]{"entity":"object","value":"vntourism:Cái_chết_thảm_khốc"}  liên quan ?
+    - [Đình Yên Duyệt và Mộ Lý Triện, Xã Tốt Động, huyện Chương Mỹ, thành phố Hà Nội]{"entity":"object","value":"vntourism:Đình_Yên_Duyệt_và_Mộ_Lý_Triện,_Xã_Tốt_Động,_huyện_Chương_Mỹ,_thành_phố_Hà_Nội"}  liên quan ?
+    - [Trận Bồ Ải]{"entity":"object","value":"vntourism:Trận_Bồ_Ải"}  liên quan ?
+    - [Trả thù Tây Sơn]{"entity":"object","value":"vntourism:Trả_thù_Tây_Sơn"}  liên quan ?
+    - [Làm quan thời nhà Hồ]{"entity":"object","value":"vntourism:Làm_quan_thời_nhà_Hồ"}  liên quan ?
+    - [Cậy tài kiêu ngạo]{"entity":"object","value":"vntourism:Cậy_tài_kiêu_ngạo"}  liên quan ?
+    - [Các trường hợp khác]{"entity":"object","value":"vntourism:Các_trường_hợp_khác"}  liên quan ?
+    - [Là dân chài]{"entity":"object","value":"vntourism:Là_dân_chài"}  liên quan ?
+    - [Bất hiếu ngang với bất trung]{"entity":"object","value":"vntourism:Bất_hiếu_ngang_với_bất_trung"}  liên quan ?
+    - [Mắc nạn cùng cha]{"entity":"object","value":"vntourism:Mắc_nạn_cùng_cha"}  liên quan ?
+    - [Làm Lễ nghi học sĩ]{"entity":"object","value":"vntourism:Làm_Lễ_nghi_học_sĩ"}  liên quan ?
+    - [Đánh pháp tại Sài Gòn năm 1913]{"entity":"object","value":"vntourism:Đánh_pháp_tại_Sài_Gòn_năm_1913"}  liên quan ?
+    - [Chiến tranh Nguyên Mông-Đại Việt (1288)]{"entity":"object","value":"vntourism:Chiến_tranh_Nguyên_Mông-Đại_Việt_(1288)"}  liên quan ?
+    - [Chiến dịch Ninh Viễn lần hai]{"entity":"object","value":"vntourism:Chiến_dịch_Ninh_Viễn_lần_hai"}  liên quan ?
+    - [Đi sứ nhà Thanh]{"entity":"object","value":"vntourism:Đi_sứ_nhà_Thanh"}  liên quan ?
+    - [Quay về với họ Trần]{"entity":"object","value":"vntourism:Quay_về_với_họ_Trần"}  liên quan ?
+    - [Dung túng quyền thần]{"entity":"object","value":"vntourism:Dung_túng_quyền_thần"}  liên quan ?
+    - [Thời gian đầu tiên sau khi Gia Long mất (1820)]{"entity":"object","value":"vntourism:Thời_gian_đầu_tiên_sau_khi_Gia_Long_mất_(1820)"}  liên quan ?
+    - [Trận Bạch Đằng]{"entity":"object","value":"vntourism:Trận_Bạch_Đằng"}  liên quan ?
+    - [Bị đảo chính lần thứ nhất]{"entity":"object","value":"vntourism:Bị_đảo_chính_lần_thứ_nhất"}  liên quan ?
+    - [Thời niên thiếu]{"entity":"object","value":"vntourism:Thời_niên_thiếu"}  liên quan ?
+    - [Các truyền thuyết khác]{"entity":"object","value":"vntourism:Các_truyền_thuyết_khác"}  liên quan ?
+    - [Tận trung với nhà Đinh]{"entity":"object","value":"vntourism:Tận_trung_với_nhà_Đinh"}  liên quan ?
+    - [Đinh điền và thuế khóa]{"entity":"object","value":"vntourism:Đinh_điền_và_thuế_khóa"}  liên quan ?
+    - [Gươm thần Thuận Thiên]{"entity":"object","value":"vntourism:Gươm_thần_Thuận_Thiên"}  liên quan ?
+    - [Đại biểu Quốc hội Việt Nam khóa 13 Bình Dương]{"entity":"object","value":"vntourism:Đại_biểu_Quốc_hội_Việt_Nam_khóa_13_Bình_Dương"}  liên quan ?
+    - [Gian thần nắm quyền]{"entity":"object","value":"vntourism:Gian_thần_nắm_quyền"}  liên quan ?
+    - [Trong hậu cung]{"entity":"object","value":"vntourism:Trong_hậu_cung"}  liên quan ?
+    - [Những năm đầu tiên]{"entity":"object","value":"vntourism:Những_năm_đầu_tiên"}  liên quan ?
+    - [Ban sách Hình thư]{"entity":"object","value":"vntourism:Ban_sách_Hình_thư"}  liên quan ?
+    - [Công tác trong Quân đội]{"entity":"object","value":"vntourism:Công_tác_trong_Quân_đội"}  liên quan ?
+    - [Mất trên đường đi ra Huế]{"entity":"object","value":"vntourism:Mất_trên_đường_đi_ra_Huế"}  liên quan ?
+    - [Khuất phục Mông Cổ]{"entity":"object","value":"vntourism:Khuất_phục_Mông_Cổ"}  liên quan ?
+    - [Ra Phú Quốc và bị bắt]{"entity":"object","value":"vntourism:Ra_Phú_Quốc_và_bị_bắt"}  liên quan ?
+    - [Công thần nhà Mạc]{"entity":"object","value":"vntourism:Công_thần_nhà_Mạc"}  liên quan ?
+    - [Hưởng ứng lời kêu gọi của Triệu Quang Phục]{"entity":"object","value":"vntourism:Hưởng_ứng_lời_kêu_gọi_của_Triệu_Quang_Phục"}  liên quan ?
+    - [Lãnh đạo phong trào Duy Tân]{"entity":"object","value":"vntourism:Lãnh_đạo_phong_trào_Duy_Tân"}  liên quan ?
+    - [Ta không nhận sắc]{"entity":"object","value":"vntourism:Ta_không_nhận_sắc"}  liên quan ?
+    - [Đóng góp cho văn học, sử học]{"entity":"object","value":"vntourism:Đóng_góp_cho_văn_học,_sử_học"}  liên quan ?
+    - [Mưu sĩ của các cuộc đảo chính]{"entity":"object","value":"vntourism:Mưu_sĩ_của_các_cuộc_đảo_chính"}  liên quan ?
+    - [Thu phục Chiêm Thành, Ai Lao]{"entity":"object","value":"vntourism:Thu_phục_Chiêm_Thành,_Ai_Lao"}  liên quan ?
+    - [Hai lần đoạt lại A Đẩu]{"entity":"object","value":"vntourism:Hai_lần_đoạt_lại_A_Đẩu"}  liên quan ?
+    - [Đánh hạ thành Hà Tĩnh]{"entity":"object","value":"vntourism:Đánh_hạ_thành_Hà_Tĩnh"}  liên quan ?
+    - [Gia nhập nghĩa quân]{"entity":"object","value":"vntourism:Gia_nhập_nghĩa_quân"}  liên quan ?
+    - [Xưng Hoàng Đế]{"entity":"object","value":"vntourism:Xưng_Hoàng_Đế"}  liên quan ?
+    - [Giảng hòa lần thứ nhất 1894]{"entity":"object","value":"vntourism:Giảng_hòa_lần_thứ_nhất_1894"}  liên quan ?
+    - [Diệt Thái Bình công chúa]{"entity":"object","value":"vntourism:Diệt_Thái_Bình_công_chúa"}  liên quan ?
+    - [Nguyễn Bỉnh Khiêm trong sự chuyển biến về nhận thức và ứng xử chính trị của giới trí thức phong kiến Việt Nam]{"entity":"object","value":"vntourism:Nguyễn_Bỉnh_Khiêm_trong_sự_chuyển_biến_về_nhận_thức_và_ứng_xử_chính_trị_của_giới_trí_thức_phong_kiến_Việt_Nam"}  liên quan ?
+    - [Chương trình truyền hình]{"entity":"object","value":"vntourism:Chương_trình_truyền_hình"}  liên quan ?
+    - [Hoạt động thời Việt Nam Cộng hòa]{"entity":"object","value":"vntourism:Hoạt_động_thời_Việt_Nam_Cộng_hòa"}  liên quan ?
+    - [Trở về Việt Nam]{"entity":"object","value":"vntourism:Trở_về_Việt_Nam"}  liên quan ?
+    - [Hoang dâm vô độ]{"entity":"object","value":"vntourism:Hoang_dâm_vô_độ"}  liên quan ?
+    - [Cách chức Mãng Cổ Nhĩ Thái]{"entity":"object","value":"vntourism:Cách_chức_Mãng_Cổ_Nhĩ_Thái"}  liên quan ?
+    - [Trù bị chiến đấu]{"entity":"object","value":"vntourism:Trù_bị_chiến_đấu"}  liên quan ?
+    - [Tiến quân về nước]{"entity":"object","value":"vntourism:Tiến_quân_về_nước"}  liên quan ?
+    - [Con đường đến với sử học]{"entity":"object","value":"vntourism:Con_đường_đến_với_sử_học"}  liên quan ?
+    - [Cuộc đàn áp sinh viên năm 1950]{"entity":"object","value":"vntourism:Cuộc_đàn_áp_sinh_viên_năm_1950"}  liên quan ?
+    - [Bình định phía Tây]{"entity":"object","value":"vntourism:Bình_định_phía_Tây"}  liên quan ?
+    - [Quan điểm của các nhà nghiên cứu về công và tội của người sáng lập triều Mạc]{"entity":"object","value":"vntourism:Quan_điểm_của_các_nhà_nghiên_cứu_về_công_và_tội_của_người_sáng_lập_triều_Mạc"}  liên quan ?
+    - [Nam Hán xâm lược]{"entity":"object","value":"vntourism:Nam_Hán_xâm_lược"}  liên quan ?
+    - [Phụ chính cho Trịnh Cán]{"entity":"object","value":"vntourism:Phụ_chính_cho_Trịnh_Cán"}  liên quan ?
+    - [Lại thần phục nhà Hán]{"entity":"object","value":"vntourism:Lại_thần_phục_nhà_Hán"}  liên quan ?
+    - [Nghi án cung đình]{"entity":"object","value":"vntourism:Nghi_án_cung_đình"}  liên quan ?
+    - [Lập Thái tử]{"entity":"object","value":"vntourism:Lập_Thái_tử"}  liên quan ?
+    - [Đối đầu với Lý Khắc Dụng và phục hồi]{"entity":"object","value":"vntourism:Đối_đầu_với_Lý_Khắc_Dụng_và_phục_hồi"}  liên quan ?
+    - [Hàng phục nhà Đinh]{"entity":"object","value":"vntourism:Hàng_phục_nhà_Đinh"}  liên quan ?
+    - [Thu phục các đối thủ]{"entity":"object","value":"vntourism:Thu_phục_các_đối_thủ"}  liên quan ?
+    - [Vua có hiếu]{"entity":"object","value":"vntourism:Vua_có_hiếu"}  liên quan ?
+    - [Bị giam và qua đời]{"entity":"object","value":"vntourism:Bị_giam_và_qua_đời"}  liên quan ?
+    - [Những năm đầu khởi nghĩa]{"entity":"object","value":"vntourism:Những_năm_đầu_khởi_nghĩa"}  liên quan ?
+    - [Xây dựng chùa Diên Hựu]{"entity":"object","value":"vntourism:Xây_dựng_chùa_Diên_Hựu"}  liên quan ?
+    - [Tiến ra Thăng Long lần thứ nhất]{"entity":"object","value":"vntourism:Tiến_ra_Thăng_Long_lần_thứ_nhất"}  liên quan ?
+    - [Chủ tịch Ủy ban Trung ương Mặt trận Tổ quốc Việt Nam]{"entity":"object","value":"vntourism:Chủ_tịch_Ủy_ban_Trung_ương_Mặt_trận_Tổ_quốc_Việt_Nam"}  liên quan ?
+    - [Dẹp yên Vũ Lăng]{"entity":"object","value":"vntourism:Dẹp_yên_Vũ_Lăng"}  liên quan ?
+    - [Mệnh trời là ở lòng dân]{"entity":"object","value":"vntourism:Mệnh_trời_là_ở_lòng_dân"}  liên quan ?
+    - [Đánh Nam Hán]{"entity":"object","value":"vntourism:Đánh_Nam_Hán"}  liên quan ?
+    - [Thành lập Việt Nam Quốc Dân Đảng]{"entity":"object","value":"vntourism:Thành_lập_Việt_Nam_Quốc_Dân_Đảng"}  liên quan ?
+    - [Sau hiệp định Genève 1954]{"entity":"object","value":"vntourism:Sau_hiệp_định_Genève_1954"}  liên quan ?
+    - [Hy vọng trở lại chính trường]{"entity":"object","value":"vntourism:Hy_vọng_trở_lại_chính_trường"}  liên quan ?
+    - [Kỹ thuật công nghệ]{"entity":"object","value":"vntourism:Kỹ_thuật_công_nghệ"}  liên quan ?
+    - [Tương quan truyền thuyết]{"entity":"object","value":"vntourism:Tương_quan_truyền_thuyết"}  liên quan ?
+    - [Thi hành chính sách chống Cộng]{"entity":"object","value":"vntourism:Thi_hành_chính_sách_chống_Cộng"}  liên quan ?
+    - [Xưng đế chống Hán]{"entity":"object","value":"vntourism:Xưng_đế_chống_Hán"}  liên quan ?
+    - [An Lộc Sơn phát triển thế lực]{"entity":"object","value":"vntourism:An_Lộc_Sơn_phát_triển_thế_lực"}  liên quan ?
+    - [Trở về Việt Nam]{"entity":"object","value":"vntourism:Trở_về_Việt_Nam"}  liên quan ?
+    - [Hai chiêu bài, một mục tiêu]{"entity":"object","value":"vntourism:Hai_chiêu_bài,_một_mục_tiêu"}  liên quan ?
+    - [Tên giải thưởng]{"entity":"object","value":"vntourism:Tên_giải_thưởng"}  liên quan ?
+    - [Đầu quân Tây Sơn]{"entity":"object","value":"vntourism:Đầu_quân_Tây_Sơn"}  liên quan ?
+    - [Gia nhập quân Nguyễn]{"entity":"object","value":"vntourism:Gia_nhập_quân_Nguyễn"}  liên quan ?
+    - [Quan hệ ngoại giao với Trung Quốc]{"entity":"object","value":"vntourism:Quan_hệ_ngoại_giao_với_Trung_Quốc"}  liên quan ?
+    - [Trấn áp các đảng phái đối lập]{"entity":"object","value":"vntourism:Trấn_áp_các_đảng_phái_đối_lập"}  liên quan ?
+    - [Nhà Tống xuất binh]{"entity":"object","value":"vntourism:Nhà_Tống_xuất_binh"}  liên quan ?
+    - [Tài năng chính trị]{"entity":"object","value":"vntourism:Tài_năng_chính_trị"}  liên quan ?
+    - [Làm sư chẳng thoát]{"entity":"object","value":"vntourism:Làm_sư_chẳng_thoát"}  liên quan ?
+    - [Thần phục chúa Nguyễn]{"entity":"object","value":"vntourism:Thần_phục_chúa_Nguyễn"}  liên quan ?
+    - [Phục hưng nghề đúc đồng]{"entity":"object","value":"vntourism:Phục_hưng_nghề_đúc_đồng"}  liên quan ?
+    - [Hữu dũng vô mưu]{"entity":"object","value":"vntourism:Hữu_dũng_vô_mưu"}  liên quan ?
+    - [Tham gia khởi nghĩa và chiến công ở Lỗi Giang]{"entity":"object","value":"vntourism:Tham_gia_khởi_nghĩa_và_chiến_công_ở_Lỗi_Giang"}  liên quan ?
+    - [Đóng đô Hoa Lư]{"entity":"object","value":"vntourism:Đóng_đô_Hoa_Lư"}  liên quan ?
+    - [Vây đánh thành Nghệ An]{"entity":"object","value":"vntourism:Vây_đánh_thành_Nghệ_An"}  liên quan ?
+    - [Tài năng chính trị]{"entity":"object","value":"vntourism:Tài_năng_chính_trị"}  liên quan ?
+    - [Giúp Lưu Bang]{"entity":"object","value":"vntourism:Giúp_Lưu_Bang"}  liên quan ?
+    - [Làm vợ thứ Nguyễn Trãi]{"entity":"object","value":"vntourism:Làm_vợ_thứ_Nguyễn_Trãi"}  liên quan ?
+    - [Tấn công cung uyển]{"entity":"object","value":"vntourism:Tấn_công_cung_uyển"}  liên quan ?
+    - [Chăm lo quốc lực]{"entity":"object","value":"vntourism:Chăm_lo_quốc_lực"}  liên quan ?
+    - [Lãnh đạo tỉnh Vĩnh Long]{"entity":"object","value":"vntourism:Lãnh_đạo_tỉnh_Vĩnh_Long"}  liên quan ?
+    - [Được lập kế vị]{"entity":"object","value":"vntourism:Được_lập_kế_vị"}  liên quan ?
+    - [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"}  liên quan ?
+    - [Những tờ báo mà Nguyễn Phan Long từng làm việc]{"entity":"object","value":"vntourism:Những_tờ_báo_mà_Nguyễn_Phan_Long_từng_làm_việc"}  liên quan ?
+    - [Trận đồn Mã Cao]{"entity":"object","value":"vntourism:Trận_đồn_Mã_Cao"}  liên quan ?
+    - [Diệt Bùi Đắc Tuyên]{"entity":"object","value":"vntourism:Diệt_Bùi_Đắc_Tuyên"}  liên quan ?
+    - [Giúp nhà Đinh]{"entity":"object","value":"vntourism:Giúp_nhà_Đinh"}  liên quan ?
+    - [Trấn áp nổi dậy]{"entity":"object","value":"vntourism:Trấn_áp_nổi_dậy"}  liên quan ?
+    - [Giam cầm A Mẫn]{"entity":"object","value":"vntourism:Giam_cầm_A_Mẫn"}  liên quan ?
+    - [Mất nước và qua đời]{"entity":"object","value":"vntourism:Mất_nước_và_qua_đời"}  liên quan ?
+    - [Đại biểu Quốc hội Việt Nam nhiệm kì 2011-2016]{"entity":"object","value":"vntourism:Đại_biểu_Quốc_hội_Việt_Nam_nhiệm_kì_2011-2016"}  liên quan ?
+    - [Hàng phục nhà Đinh]{"entity":"object","value":"vntourism:Hàng_phục_nhà_Đinh"}  liên quan ?
+    - [Những năm cuối trị vì]{"entity":"object","value":"vntourism:Những_năm_cuối_trị_vì"}  liên quan ?
+    - [Lại thần phục nhà Hán]{"entity":"object","value":"vntourism:Lại_thần_phục_nhà_Hán"}  liên quan ?
+    - [Đánh bại quân Ai Lao]{"entity":"object","value":"vntourism:Đánh_bại_quân_Ai_Lao"}  liên quan ?
+    - [Giai đoạn 1997 - 2001]{"entity":"object","value":"vntourism:Giai_đoạn_1997_-_2001"}  liên quan ?
+    - [Đánh đuổi Lâm Ấp]{"entity":"object","value":"vntourism:Đánh_đuổi_Lâm_Ấp"}  liên quan ?
+    - [Tuần du Giang Đô]{"entity":"object","value":"vntourism:Tuần_du_Giang_Đô"}  liên quan ?
+    - [Nịnh họ Lã, cứu họ Lưu]{"entity":"object","value":"vntourism:Nịnh_họ_Lã,_cứu_họ_Lưu"}  liên quan ?
+    - [Bị Pháp bắt và an trí]{"entity":"object","value":"vntourism:Bị_Pháp_bắt_và_an_trí"}  liên quan ?
+    - [Lê Lợi sáng lập]{"entity":"object","value":"vntourism:Lê_Lợi_sáng_lập"}  liên quan ?
+    - [Đại biểu Quốc hội Việt Nam khóa 14 nhiệm kì 2016-2021]{"entity":"object","value":"vntourism:Đại_biểu_Quốc_hội_Việt_Nam_khóa_14_nhiệm_kì_2016-2021"}  liên quan ?
+    - [Tiến công Gia Định]{"entity":"object","value":"vntourism:Tiến_công_Gia_Định"}  liên quan ?
+    - [Trở thành Thủ tướng]{"entity":"object","value":"vntourism:Trở_thành_Thủ_tướng"}  liên quan ?
+    - [Triều Trần Thái Tông]{"entity":"object","value":"vntourism:Triều_Trần_Thái_Tông"}  liên quan ?
+    - [Chinh phục Âu Lạc, lên ngôi vua nước Nam Việt]{"entity":"object","value":"vntourism:Chinh_phục_Âu_Lạc,_lên_ngôi_vua_nước_Nam_Việt"}  liên quan ?
+    - [Đón vua Hưng Khánh]{"entity":"object","value":"vntourism:Đón_vua_Hưng_Khánh"}  liên quan ?
+    - [Hoạt động chính trị]{"entity":"object","value":"vntourism:Hoạt_động_chính_trị"}  liên quan ?
+    - [Từ bên ngoài]{"entity":"object","value":"vntourism:Từ_bên_ngoài"}  liên quan ?
+    - [Lên ngôi, thanh trừng phe đảng]{"entity":"object","value":"vntourism:Lên_ngôi,_thanh_trừng_phe_đảng"}  liên quan ?
+    - [Chiến dịch Chi Lăng - Xương Giang]{"entity":"object","value":"vntourism:Chiến_dịch_Chi_Lăng_-_Xương_Giang"}  liên quan ?
+    - [Kế lạ cứu vua]{"entity":"object","value":"vntourism:Kế_lạ_cứu_vua"}  liên quan ?
+    - [Được Mỹ ủng hộ]{"entity":"object","value":"vntourism:Được_Mỹ_ủng_hộ"}  liên quan ?
+    - [Làm quan lần thứ nhất]{"entity":"object","value":"vntourism:Làm_quan_lần_thứ_nhất"}  liên quan ?
+    - [Bị hạ bệ]{"entity":"object","value":"vntourism:Bị_hạ_bệ"}  liên quan ?
+    - [Qua đời trong uất hận]{"entity":"object","value":"vntourism:Qua_đời_trong_uất_hận"}  liên quan ?
+    - [Ly khai nhà Tần]{"entity":"object","value":"vntourism:Ly_khai_nhà_Tần"}  liên quan ?
+    - [Hợp binh với Vương Tiên Chi]{"entity":"object","value":"vntourism:Hợp_binh_với_Vương_Tiên_Chi"}  liên quan ?
+    - [Phát triển kinh tế - xã hội]{"entity":"object","value":"vntourism:Phát_triển_kinh_tế_-_xã_hội"}  liên quan ?
+    - [Bị voi giày]{"entity":"object","value":"vntourism:Bị_voi_giày"}  liên quan ?
+    - [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"}  liên quan ?
+    - [Đánh phá bốn mặt, từ giặc thành quân]{"entity":"object","value":"vntourism:Đánh_phá_bốn_mặt,_từ_giặc_thành_quân"}  liên quan ?
+    - [Thời kỳ đầu]{"entity":"object","value":"vntourism:Thời_kỳ_đầu"}  liên quan ?
+    - [Làm Trấn thủ trấn Vĩnh Thanh]{"entity":"object","value":"vntourism:Làm_Trấn_thủ_trấn_Vĩnh_Thanh"}  liên quan ?
+    - [Gia nhập quân Lam Sơn]{"entity":"object","value":"vntourism:Gia_nhập_quân_Lam_Sơn"}  liên quan ?
+    - [Triều vua Lê Thánh Tông]{"entity":"object","value":"vntourism:Triều_vua_Lê_Thánh_Tông"}  liên quan ?
+    - [Thời kỳ đầu ở vùng núi Thanh Hóa]{"entity":"object","value":"vntourism:Thời_kỳ_đầu_ở_vùng_núi_Thanh_Hóa"}  liên quan ?
+    - [Tây Sơn suy yếu]{"entity":"object","value":"vntourism:Tây_Sơn_suy_yếu"}  liên quan ?
+    - [Hoạt động ở nước ngoài]{"entity":"object","value":"vntourism:Hoạt_động_ở_nước_ngoài"}  liên quan ?
+    - [Phát triển thế lực]{"entity":"object","value":"vntourism:Phát_triển_thế_lực"}  liên quan ?
+    - [Lĩnh vực nghiên cứu]{"entity":"object","value":"vntourism:Lĩnh_vực_nghiên_cứu"}  liên quan ?
+    - [Cầu sông Hàn]{"entity":"object","value":"vntourism:Cầu_sông_Hàn"}  liên quan ?
+    - [Sang Pháp, bị giam lần thứ hai]{"entity":"object","value":"vntourism:Sang_Pháp,_bị_giam_lần_thứ_hai"}  liên quan ?
+    - [Lập địa bạ, đinh bạ Nam Kỳ năm 1836]{"entity":"object","value":"vntourism:Lập_địa_bạ,_đinh_bạ_Nam_Kỳ_năm_1836"}  liên quan ?
+    - [Lên ngôi Hoàng đế]{"entity":"object","value":"vntourism:Lên_ngôi_Hoàng_đế"}  liên quan ?
+    - [Bức tử A Ba Hợi]{"entity":"object","value":"vntourism:Bức_tử_A_Ba_Hợi"}  liên quan ?
+    - [Xông pha nhiều trận mạc]{"entity":"object","value":"vntourism:Xông_pha_nhiều_trận_mạc"}  liên quan ?
+    - [Chủ nghĩa hiện thực về người nông dân]{"entity":"object","value":"vntourism:Chủ_nghĩa_hiện_thực_về_người_nông_dân"}  liên quan ?
+    - [Giằng co với quân Lê - Trịnh]{"entity":"object","value":"vntourism:Giằng_co_với_quân_Lê_-_Trịnh"}  liên quan ?
+    - [Đại biểu Quốc hội Việt Nam khóa XIV (2016-2021) Thành phố Hồ Chí Minh]{"entity":"object","value":"vntourism:Đại_biểu_Quốc_hội_Việt_Nam_khóa_XIV_(2016-2021)_Thành_phố_Hồ_Chí_Minh"}  liên quan ?
+    - [Viếng Quang Trung]{"entity":"object","value":"vntourism:Viếng_Quang_Trung"}  liên quan ?
+    - [Sứ quân trấn Hải Đông]{"entity":"object","value":"vntourism:Sứ_quân_trấn_Hải_Đông"}  liên quan ?
+    - [Đổi quốc hiệu]{"entity":"object","value":"vntourism:Đổi_quốc_hiệu"}  liên quan ?
+    - [Lần nữa công Yên]{"entity":"object","value":"vntourism:Lần_nữa_công_Yên"}  liên quan ?
+    - [Tượng quan Đô]{"entity":"object","value":"vntourism:Tượng_quan_Đô"}  liên quan ?
+    - [Tham gia dẹp loạn ba vương]{"entity":"object","value":"vntourism:Tham_gia_dẹp_loạn_ba_vương"}  liên quan ?
+    - [Tham gia Chính phủ Việt Nam Dân chủ Cộng hòa]{"entity":"object","value":"vntourism:Tham_gia_Chính_phủ_Việt_Nam_Dân_chủ_Cộng_hòa"}  liên quan ?
+    - [Trận chiến tại Thiên Đăng Sơn]{"entity":"object","value":"vntourism:Trận_chiến_tại_Thiên_Đăng_Sơn"}  liên quan ?
+    - [Phòng thủ ở Thanh Hóa]{"entity":"object","value":"vntourism:Phòng_thủ_ở_Thanh_Hóa"}  liên quan ?
+    - [Nhà tưởng niệm, trường học]{"entity":"object","value":"vntourism:Nhà_tưởng_niệm,_trường_học"}  liên quan ?
+    - [Ngồi tù lần thứ ba]{"entity":"object","value":"vntourism:Ngồi_tù_lần_thứ_ba"}  liên quan ?
+    - [Ngồi tù lần thứ nhất]{"entity":"object","value":"vntourism:Ngồi_tù_lần_thứ_nhất"}  liên quan ?
+    - [Loạn họ Nùng]{"entity":"object","value":"vntourism:Loạn_họ_Nùng"}  liên quan ?
+    - [Kháng chiến chống Mông Cổ]{"entity":"object","value":"vntourism:Kháng_chiến_chống_Mông_Cổ"}  liên quan ?
+    - [Giai đoạn nước nhà thống nhất (sau 1975)]{"entity":"object","value":"vntourism:Giai_đoạn_nước_nhà_thống_nhất_(sau_1975)"}  liên quan ?
+    - [Trong vòng xoáy quyền lực]{"entity":"object","value":"vntourism:Trong_vòng_xoáy_quyền_lực"}  liên quan ?
+    - [Thi cử và làm quan dưới triều Mạc]{"entity":"object","value":"vntourism:Thi_cử_và_làm_quan_dưới_triều_Mạc"}  liên quan ?
+    - [Ý kiến dung hòa]{"entity":"object","value":"vntourism:Ý_kiến_dung_hòa"}  liên quan ?
+    - [Bị giết chết]{"entity":"object","value":"vntourism:Bị_giết_chết"}  liên quan ?
+    - [Hoàn thành công cuộc Nam tiến]{"entity":"object","value":"vntourism:Hoàn_thành_công_cuộc_Nam_tiến"}  liên quan ?
+    - [Việc cấm đạo Công giáo]{"entity":"object","value":"vntourism:Việc_cấm_đạo_Công_giáo"}  liên quan ?
+    - [Tổng thống cuối cùng của Việt Nam Cộng hòa]{"entity":"object","value":"vntourism:Tổng_thống_cuối_cùng_của_Việt_Nam_Cộng_hòa"}  liên quan ?
+    - [Văn thần triều Lê]{"entity":"object","value":"vntourism:Văn_thần_triều_Lê"}  liên quan ?
+    - [Chiến tranh với Ai Lao]{"entity":"object","value":"vntourism:Chiến_tranh_với_Ai_Lao"}  liên quan ?
+    - [Dạy học, làm thuốc và sáng tác thơ văn yêu nước]{"entity":"object","value":"vntourism:Dạy_học,_làm_thuốc_và_sáng_tác_thơ_văn_yêu_nước"}  liên quan ?
+    - [Tạm thời hòa hoãn]{"entity":"object","value":"vntourism:Tạm_thời_hòa_hoãn"}  liên quan ?
+    - [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"}  mất vào ?
+    - [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"}  mất vào ?
+    - [Triệu Quang Phục]{"entity":"object","value":"vntourism:Triệu_Quang_Phục"}  mất vào ?
+    - [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"}  sinh vào ?
+    - [Nguyễn Sinh Sắc]{"entity":"object","value":"vntourism:Nguyễn_Sinh_Sắc"}  sinh vào ?
+    - [Triệu Quang Phục]{"entity":"object","value":"vntourism:Triệu_Quang_Phục"}  có người tiền nhiệm ?
+    - [Triệu Quang Phục]{"entity":"object","value":"vntourism:Triệu_Quang_Phục"}  tên khai sinh ?
+    - [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"}  tên khai sinh ?
+    - [Triệu Quang Phục]{"entity":"object","value":"vntourism:Triệu_Quang_Phục"}  có người kế vị là ?
+    - [Lý Nam Đế]{"entity":"object","value":"vntourism:Lý_Nam_Đế"}  có người kế vị là ?

@@ -1,0 +1,12 @@
+    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"}?
+    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Northern]{"entity":"object","value":"vntourism:Northern"}?
+    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Northern]{"entity":"object","value":"vntourism:Northern"}?
+    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Northern]{"entity":"object","value":"vntourism:Northern"}?
+    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Northern]{"entity":"object","value":"vntourism:Northern"}?
+    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Hà Nội]{"entity":"object","value":"vntourism:Hà_Nội"}?
+    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Northern]{"entity":"object","value":"vntourism:Northern"}?
+    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Northern]{"entity":"object","value":"vntourism:Northern"}?
+    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Hà Nội]{"entity":"object","value":"vntourism:Hà_Nội"}?
+    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"}?
+    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Ninh Bình]{"entity":"object","value":"vntourism:Ninh_Bình"}?
+    - [chùa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"}?

@@ -1,0 +1,1 @@
+    - [di tích lịch sử văn hóa]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [quần thể di tích Cố đô Huế]{"entity":"object","value":"vntourism:quần_thể_di_tích_Cố_đô_Huế"}?

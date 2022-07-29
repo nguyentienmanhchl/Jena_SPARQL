@@ -1,0 +1,14 @@
+    - [danh lam thắng cảnh]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"}?
+    - [khu vực thiên nhiên]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"}?
+    - [danh lam thắng cảnh]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Hà Nội]{"entity":"object","value":"vntourism:Hà_Nội"}?
+    - [khu vực thiên nhiên]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Hà Nội]{"entity":"object","value":"vntourism:Hà_Nội"}?
+    - [danh lam thắng cảnh]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Hà Nội]{"entity":"object","value":"vntourism:Hà_Nội"}?
+    - [khu vực thiên nhiên]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Hà Nội]{"entity":"object","value":"vntourism:Hà_Nội"}?
+    - [danh lam thắng cảnh]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"}?
+    - [khu vực thiên nhiên]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"}?
+    - [danh lam thắng cảnh]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Hạ Long]{"entity":"object","value":"vntourism:Hạ_Long"}?
+    - [khu vực thiên nhiên]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Hạ Long]{"entity":"object","value":"vntourism:Hạ_Long"}?
+    - [danh lam thắng cảnh]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"}?
+    - [khu vực thiên nhiên]{"entity":"class"} nào [nằm trong]{"entity":"predicate","value":"vntourism:isApartOf"} [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"}?
+    - [danh lam thắng cảnh]{"entity":"class"} nào [liên quan]{"entity":"predicate","value":"vntourism:related"} [Nam Hán]{"entity":"object","value":"Nam Hán"}?
+    - [khu vực thiên nhiên]{"entity":"class"} nào [liên quan]{"entity":"predicate","value":"vntourism:related"} [Nam Hán]{"entity":"object","value":"Nam Hán"}?

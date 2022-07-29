@@ -1,0 +1,4 @@
+    - đền nào nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} và nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} ?
+    - đền nào nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} và nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} ?
+    - đền nào nằm trong [Nam Định]{"entity":"object","value":"vntourism:Nam_Định"} và nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} ?
+    - đền nào nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} và nằm trong [Nam Định]{"entity":"object","value":"vntourism:Nam_Định"} ?
