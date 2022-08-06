@@ -1,11 +1,15 @@
 package com.mlpj.ontology.controllers;
 
 import com.mlpj.ontology.file.FileHelper;
+import com.mlpj.ontology.jenawork.AnalysisOntology;
 import com.mlpj.ontology.jenawork.InitJena;
 import com.mlpj.ontology.util.Constant;
+import org.apache.jena.vocabulary.RDFS;
 import org.json.simple.JSONObject;
 
 import org.springframework.web.bind.annotation.*;
+
+import java.util.Random;
 
 
 @RestController
@@ -174,6 +178,8 @@ public class Controller {
 
     @GetMapping("/all")
     public String all(@RequestBody String data) {
+        Random random = new Random();
+        int temp;
         JSONObject jsonObject = new JSONObject();
         jsonObject.put("Output RASA", data);
 
@@ -184,50 +190,74 @@ public class Controller {
         if (!list[0].contains(":")) {
             list[0] = "vntourism:" + list[0];
         }
-        String queryString,queryString1,queryString2,queryResult1,queryResult2,results;
-        if (list[0].equals("vntourism:Hà_Nội")){
+        String queryString, queryString1, queryString2, queryResult1, queryResult2, results;
+        if (list[0].equals("vntourism:Hà_Nội")) {
             queryString1 = "SELECT distinct ?X " +
                     "WHERE { ?X rdf:type vntourism:Person." +
                     "?Y rdf:type vntourism:Festival." +
                     "?Y vntourism:hasCommemorate ?X." +
-                    "?Y vntourism:isHeldAt "+ list[0]+"}";
+                    "?Y vntourism:isHeldAt " + list[0] + "}";
             queryString2 = "SELECT  ?X  " +
                     "WHERE { {?X rdf:type vntourism:NaturalArea}union{?X rdf:type vntourism:Landscape-Place}" +
                     "?X vntourism:isApartOf " + list[0] + "}";
-            jsonObject.put("SPARQL",queryString1+"      "+queryString2);
-            queryString1=Constant.PREFIX_QUERY+queryString1;
-            queryString2=Constant.PREFIX_QUERY+queryString2;
-            queryResult1=InitJena.getItems4(queryString1);
-            queryResult2=InitJena.getItems4(queryString2);
-            results = InitJena.pretty2(list[0])+" có các lễ hội được tổ chức nhằm tưởng nhớ công lao của các " +
-                    "anh hùng lịch sử như "+queryResult1+
-                    "... Ngoài ra, "+ InitJena.pretty2(list[0])+" còn có nhiều điểm đến thú vị như "+queryResult2+"...  ";
-            jsonObject.put("Answer",results);
+            jsonObject.put("SPARQL", queryString1 + "      " + queryString2);
+            queryString1 = Constant.PREFIX_QUERY + queryString1;
+            queryString2 = Constant.PREFIX_QUERY + queryString2;
+            queryResult1 = InitJena.getItems4(queryString1);
+            queryResult2 = InitJena.getItems4(queryString2);
+            results = InitJena.pretty2(list[0]) + " có các lễ hội được tổ chức nhằm tưởng nhớ công lao của các " +
+                    "anh hùng lịch sử như " + queryResult1 +
+                    "... Ngoài ra, " + InitJena.pretty2(list[0]) + " còn có nhiều điểm đến thú vị như " + queryResult2 + "...  ";
+            jsonObject.put("Answer", results);
             FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
-            return results+"~"+jsonObject.get("SPARQL");
+            temp = random.nextInt(2);
+            return results +(temp==0?" Hãy đến đây ngay nhé!":"") + "~" + jsonObject.get("SPARQL");
         }
 
-        if (list[1].contains(":")){
+        boolean check = false;
+        if (list[1].contains(":")) {
             queryString = "SELECT ?X " +
-                    "WHERE { "+list[1]+" vntourism:hasDescription ?X}";
-            jsonObject.put("SPARQL",queryString);
-            queryString = Constant.PREFIX_QUERY+queryString;
+                    "WHERE { " + list[1] + " vntourism:hasDescription ?X}";
+            jsonObject.put("SPARQL", queryString);
+            queryString = Constant.PREFIX_QUERY + queryString;
             results = InitJena.getItems4(queryString);
-            if (!results.equals("")&&!results.contains("description")){
+            if (!results.equals("") && !results.contains("description")) {
                 jsonObject.put("Answer", results);
                 FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
-                return results+"~"+jsonObject.get("SPARQL");
+                check = true;
+                //return results+"~"+jsonObject.get("SPARQL");
+
             }
         }
         queryString = "SELECT ?X " +
-                "WHERE { "+list[0]+" vntourism:hasDescription ?X}";
-        jsonObject.put("SPARQL",queryString);
-        queryString = Constant.PREFIX_QUERY+queryString;
+                "WHERE { " + list[0] + " vntourism:hasDescription ?X}";
+
+        queryString = Constant.PREFIX_QUERY + queryString;
         results = InitJena.getItems4(queryString);
-        if (!results.equals("")&&!results.contains("description")){
-            jsonObject.put("Answer", results);
-            FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
-            return results+"~"+jsonObject.get("SPARQL");
+        if (!results.equals("") && !results.contains("description")) {
+            if (check == false) {
+                jsonObject.put("SPARQL",queryString.replaceAll(Constant.PREFIX_QUERY,""));
+                jsonObject.put("Answer", results);
+                FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+                temp = random.nextInt(2);
+                return results+(temp==0?" Hãy đến đây ngay nhé!":"") + "~" + jsonObject.get("SPARQL");
+            } else {
+                jsonObject.put("SPARQL",jsonObject.get("SPARQL")+ "   "+queryString.replaceAll(Constant.PREFIX_QUERY,""));
+                jsonObject.put("Answer","Nếu bạn hỏi về "+InitJena.pretty2(list[0]) +" thì nơi đây "+
+                        results.replaceFirst(InitJena.pretty2(list[0]),"") +
+                        " Nếu bạn muốn biết về "+
+                        InitJena.pretty2(list[1])+", ở đó " +
+                        jsonObject.get("Answer").toString().replaceFirst(InitJena.pretty2(list[1]),""));
+                FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+                temp = random.nextInt(2);
+                return jsonObject.get("Answer") +(temp==0?" Hãy đến đây ngay nhé!":"")+ "~" + jsonObject.get("SPARQL");
+            }
+        }else{
+            if (check == true){
+                temp = random.nextInt(2);
+                return jsonObject.get("Answer")+(temp==0?" Hãy đến đây ngay nhé!":"")+"~"+jsonObject.get("SPARQL");
+            }
+
         }
         queryString1 = "SELECT  ?X ?Y ?Z " +
                 "WHERE { " + list[0] + "  ?Y  ?X ." +
@@ -240,20 +270,20 @@ public class Controller {
         queryString2 = Constant.PREFIX_QUERY + queryString2;
         queryResult1 = InitJena.getItems7(queryString1);
         queryResult2 = InitJena.getItems8(queryString2);
-        if (!queryResult1.equals("")){
-            results += InitJena.pretty2(s)+ " "+ queryResult1;
+        if (!queryResult1.equals("")) {
+            results += InitJena.pretty2(s) + " " + queryResult1;
         }
-        if (!queryResult2.equals("")){
-            results += InitJena.pretty2(s)+" "+ queryResult2;
+        if (!queryResult2.equals("")) {
+            results += InitJena.pretty2(s) + " " + queryResult2;
         }
         if (queryResult1.equals("") && queryResult2.equals("")) {
             jsonObject.put("Answer", "Tôi không biết.");
             FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
             return "Tôi không biết." + "~" + jsonObject.get("SPARQL");
         }
-        jsonObject.put("Answer",results);
+        jsonObject.put("Answer", results);
         FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
-        return  results + "~" + jsonObject.get("SPARQL");
+        return results + "~" + jsonObject.get("SPARQL");
     }
 
     @GetMapping("/ask_den_chua")
@@ -339,10 +369,10 @@ public class Controller {
         String results;
         if (list[2].equals("vntourism:isApartOf")) {
             results = InitJena.pretty2(list[0]) + " ở " + queryResult;
-        }else{
+        } else {
             String queryString2 = Constant.PREFIX_QUERY + " SELECT ?X WHERE {" + list[2] + " rdfs:comment ?X}";
             String queryResult2 = InitJena.getItems5(queryString2);
-            results = InitJena.pretty2(list[0]) + " "+queryResult2+" " + queryResult;
+            results = InitJena.pretty2(list[0]) + " " + queryResult2 + " " + queryResult;
         }
         if (queryResult.equals("")) {
             if (!list[1].equals("vntourism:x")) {
@@ -405,15 +435,28 @@ public class Controller {
     }
 
 
-    @GetMapping("/test2")
-    public String test2() {
+    @GetMapping("/test")
+    public String test() {
+
         String query = Constant.PREFIX_QUERY +
-                "SELECT distinct ?X  WHERE { vntourism:Lễ_hội_Cổ_Loa vntourism:isHeldAt  ?X }";
+                "SELECT distinct ?X  WHERE { ?X rdf:type ?Y. ?Y rdfs:subClassOf vntourism:HeritageSite }";
 
         String results = InitJena.getItems4(query);
 
         return results;
     }
+
+    @GetMapping("/test2")
+    public String test2() {
+
+        String query = Constant.PREFIX_QUERY +
+                "SELECT distinct ?X  WHERE { ?X rdf:type vntourism:Person }";
+
+        String results = InitJena.getItems4(query);
+
+        return results.replaceAll(",","\n");
+    }
+
     @GetMapping("/rule_temple")
     public String ruleTemple() {
         String query = Constant.PREFIX_QUERY +
@@ -432,6 +475,19 @@ public class Controller {
         String results = InitJena.getItems2(query);
 
         return results;
+    }
+
+    @GetMapping("/data_train")
+    public String getDataTrain() {
+
+        boolean b1 = AnalysisOntology.createAnswer();
+        boolean b2 = AnalysisOntology.genQuestion();
+        boolean b3 = AnalysisOntology.genQuestion2();
+        boolean b4 = AnalysisOntology.genQuestion3();
+        if (b1 && b2 && b3 && b4) {
+            return "success";
+        }
+        return "fail";
     }
 
 

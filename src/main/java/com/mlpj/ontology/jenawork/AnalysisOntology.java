@@ -95,7 +95,7 @@ public class AnalysisOntology {
         return results;
     }
 
-    public static void createAnswer() {
+    public static boolean createAnswer() {
 //        List<String> list = getProperties();
 //        for (String s : list) {
 //            answer(s);
@@ -122,9 +122,10 @@ public class AnalysisOntology {
         for (int i = 0; i < list.length; i++) {
             answer(list[i]);
         }
+        return true;
     }
 
-    public static void genQuestion() {
+    public static boolean genQuestion() {
         try {
             File myObj = new File("answer.txt");
             Scanner myReader = new Scanner(myObj);
@@ -145,13 +146,15 @@ public class AnalysisOntology {
 
             }
             myReader.close();
+            return true;
         } catch (FileNotFoundException e) {
             System.out.println("An error occurred.");
             e.printStackTrace();
         }
+        return false;
     }
 
-    public static void genQuestion2() {
+    public static boolean genQuestion2() {
         try {
             File myObj = new File("answer.txt");
             Scanner myReader = new Scanner(myObj);
@@ -183,13 +186,15 @@ public class AnalysisOntology {
                 }
             }
             myReader.close();
+            return true;
         } catch (FileNotFoundException e) {
             System.out.println("An error occurred.");
             e.printStackTrace();
         }
+        return false;
     }
 
-    public static void genQuestion3() {
+    public static boolean genQuestion3() {
         try {
             File myObj = new File("answer.txt");
             Scanner myReader = new Scanner(myObj);
@@ -208,10 +213,12 @@ public class AnalysisOntology {
 
             }
             myReader.close();
+            return true;
         } catch (FileNotFoundException e) {
             System.out.println("An error occurred.");
             e.printStackTrace();
         }
+        return false;
     }
 
 

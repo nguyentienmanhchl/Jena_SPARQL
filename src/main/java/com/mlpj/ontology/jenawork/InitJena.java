@@ -147,23 +147,23 @@ public class InitJena {
         return "";
     }
 
-    public static String[] getItems6(String queryString) {
-        ResultSet resultSet = execQuery(queryString);
-        String[] result = {"", ""};
-
-        while (resultSet.hasNext()) {
-
-            QuerySolution solution = resultSet.nextSolution();
-            if (result[1].equals("")) {
-                result[1] += "vntourism:" + solution.get("Z").toString().split("#")[1];
-            }
-            String[] s = solution.get("X").toString().split("#");
-            result[0] += (s.length > 1 ? s[1] : s[0]) + ", ";
-        }
-        result[0] = result[0].replaceAll("_", " ");
-        qe.close();
-        return result;
-    }
+//    public static String[] getItems6(String queryString) {
+//        ResultSet resultSet = execQuery(queryString);
+//        String[] result = {"", ""};
+//
+//        while (resultSet.hasNext()) {
+//
+//            QuerySolution solution = resultSet.nextSolution();
+//            if (result[1].equals("")) {
+//                result[1] += "vntourism:" + solution.get("Z").toString().split("#")[1];
+//            }
+//            String[] s = solution.get("X").toString().split("#");
+//            result[0] += (s.length > 1 ? s[1] : s[0]) + ", ";
+//        }
+//        result[0] = result[0].replaceAll("_", " ");
+//        qe.close();
+//        return result;
+//    }
 
     public static String getItems7(String queryString) {
         ResultSet resultSet = execQuery(queryString);
@@ -905,9 +905,12 @@ public class InitJena {
 //                    "An Dương Vương...Ngoài ra, Hà Nội còn có nhiều điểm đến thú vị như Văn Miếu, Hồ Gươm, " +
 //                    "Hồ Tây, Lăng Bác, Chùa Hương, Phố cổ Hà Nội, Chùa Hà...  ");
 //            insert2("Lễ_hội_Cổ_Loa","isHeldAt","Hà_Nội");
-
 //            insert("Thánh_Gióng",Constant.PREFIX+"Person");
 
+//            insert("Sông_Như_Nguyệt",Constant.PREFIX+"NaturalArea");
+//            insert2("Sông_Như_Nguyệt","related","Lý_Thường_Kiệt");
+//            insert("Lễ_hội_đền_Đức_Thánh_Cả_Lê_Uy",Constant.PREFIX+"Festival");
+//            insert2("Lễ_hội_đền_Đức_Thánh_Cả_Lê_Uy","hasCommemorate","Trần_Khát_Chân");
 
         } catch (Exception e) {
             e.printStackTrace();

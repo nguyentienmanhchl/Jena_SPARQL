@@ -696,7 +696,6 @@
             </vntourism:related>
           </vntourism:HistoricEvent>
         </vntourism:related>
-        <vntourism:hasPeriod>Nhà Trần</vntourism:hasPeriod>
         <vntourism:hasParent rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Khâm_Minh_đại_vương_"/>
         <vntourism:hasParent rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Thiện_Đạo_quốc_mẫu"/>
         <vntourism:hasJob>
@@ -730,6 +729,7 @@
         <vntourism:hasChild>
           <vntourism:Person rdf:about="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Trần_Quốc_Tảng"/>
         </vntourism:hasChild>
+        <vntourism:hasPeriod>Nhà Trần</vntourism:hasPeriod>
         <vntourism:hasDied>20-8-1300 (theo nguoikesu)</vntourism:hasDied>
       </vntourism:Person>
     </vntourism:hasCommemorate>
@@ -917,7 +917,6 @@
                                             </vntourism:related>
                                             <vntourism:hasJob
                                             >vua</vntourism:hasJob>
-                                            <vntourism:hasPeriod>Nhà Hậu Lê</vntourism:hasPeriod>
                                             <vntourism:related>
                                               <vntourism:NaturalArea rdf:about="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Hồ_Gươm">
                                                 <vntourism:isApartOf>
@@ -979,6 +978,8 @@
                                             <vntourism:byMother>
                                               <vntourism:Person rdf:about="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Trịnh_Ngọc_Thương"/>
                                             </vntourism:byMother>
+                                            <vntourism:hasPeriod
+                                            >Nhà Hậu Lê</vntourism:hasPeriod>
                                             <vntourism:related>
                                               <vntourism:HistoricEvent rdf:about="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Gươm_thần_Thuận_Thiên">
                                                 <vntourism:hasDescription
@@ -1699,10 +1700,10 @@
                             <vntourism:hasPredecessor>
                               <vntourism:Person rdf:about="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Trần_Anh_Tông">
                                 <vntourism:hasBorn>25-10-1276 (theo nguoikesu)</vntourism:hasBorn>
-                                <vntourism:hasPeriod>Nhà Trần</vntourism:hasPeriod>
                                 <vntourism:hasBornAt rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Hà_Nội"/>
                                 <vntourism:byMother rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Bảo_Thánh_hoàng_hậu"/>
                                 <vntourism:hasDied>21/4/1320.Hưởng dương 45 tuổi. (theo nguoikesu)</vntourism:hasDied>
+                                <vntourism:hasPeriod>Nhà Trần</vntourism:hasPeriod>
                                 <vntourism:hasJob rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#nhà_thơ"/>
                                 <vntourism:hasSuccessor rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Trần_Minh_Tông"/>
                                 <vntourism:related>
@@ -7449,21 +7450,6 @@
     <vntourism:hasDied>31-7-1994 (83 tuổi) (theo nguoikesu)</vntourism:hasDied>
     <vntourism:hasBirthName>Trần Văn Cẩn</vntourism:hasBirthName>
   </vntourism:Person>
-  <owl:Axiom>
-    <owl:annotatedSource>
-      <owl:NamedIndividual rdf:about="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#King_Ngô_Quyền">
-        <vntourism:hasReignFrom xml:lang="en">Year 938</vntourism:hasReignFrom>
-        <vntourism:hasReignTo xml:lang="en">Year 939</vntourism:hasReignTo>
-        <skos:related rdf:resource="http://www.w3.org/2006/time#hasDateTimeDescription"/>
-        <rdf:type rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#King"/>
-      </owl:NamedIndividual>
-    </owl:annotatedSource>
-    <owl:annotatedProperty>
-      <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#related"/>
-    </owl:annotatedProperty>
-    <owl:annotatedTarget rdf:resource="http://www.w3.org/2006/time#hasDateTimeDescription"/>
-    <rdfs:comment rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#&apos;has_end&apos;"/>
-  </owl:Axiom>
   <vntourism:Festival rdf:about="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Ngày_giỗ_Cô_Sáu">
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
     <vntourism:isHeldAt>Côn Đảo</vntourism:isHeldAt>
@@ -9319,6 +9305,9 @@
     <vntourism:isHeldAt>Thành phố Hồ Chí Minh</vntourism:isHeldAt>
     <rdf:type rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#TraditionalFestival"/>
   </vntourism:Festival>
+  <vntourism:NaturalArea rdf:about="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Sông_Như_Nguyệt">
+    <vntourism:related rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Lý_Thường_Kiệt"/>
+  </vntourism:NaturalArea>
   <vntourism:Festival rdf:about="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Lễ_hội_đình_Yên_Phụ">
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
     <vntourism:isHeldAt>đình Yên Phụ, phường Yên Phụ, quận Tây Hồ. </vntourism:isHeldAt>
@@ -9948,6 +9937,21 @@
     <vntourism:hasJob rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#nhập_nội_kiểm_hiệu"/>
     <vntourism:hasJob rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#bình_chương_quân_quốc_trọng_sự"/>
   </vntourism:Person>
+  <owl:Axiom>
+    <owl:annotatedSource>
+      <owl:NamedIndividual rdf:about="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#King_Ngô_Quyền">
+        <vntourism:hasReignFrom xml:lang="en">Year 938</vntourism:hasReignFrom>
+        <vntourism:hasReignTo xml:lang="en">Year 939</vntourism:hasReignTo>
+        <skos:related rdf:resource="http://www.w3.org/2006/time#hasDateTimeDescription"/>
+        <rdf:type rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#King"/>
+      </owl:NamedIndividual>
+    </owl:annotatedSource>
+    <owl:annotatedProperty>
+      <owl:AnnotationProperty rdf:about="http://www.w3.org/2004/02/skos/core#related"/>
+    </owl:annotatedProperty>
+    <owl:annotatedTarget rdf:resource="http://www.w3.org/2006/time#hasDateTimeDescription"/>
+    <rdfs:comment rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#&apos;has_end&apos;"/>
+  </owl:Axiom>
   <vntourism:Festival rdf:about="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Lễ_hội_chùa_Dâu">
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
     <rdf:type rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#TraditionalFestival"/>
@@ -10954,7 +10958,6 @@
     <vntourism:hasDescription rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#description"/>
     <rdf:type rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#TraditionalFestival"/>
   </vntourism:Festival>
-  <vntourism:Person rdf:about="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Trần_Khát_Chân"/>
   <vntourism:Festival rdf:about="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Ngày_Quốc_tế_Lao_động">
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
     <vntourism:hasTimeHappen>1/5</vntourism:hasTimeHappen>
@@ -11419,6 +11422,11 @@
   <vntourism:Festival rdf:about="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Lễ_hội_Yên_Tử_–_Quảng_Ninh_(Từ_mùng_10_tháng_giêng)">
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
     <rdf:type rdf:resource="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#TraditionalFestival"/>
+  </vntourism:Festival>
+  <vntourism:Festival rdf:about="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Lễ_hội_đền_Đức_Thánh_Cả_Lê_Uy">
+    <vntourism:hasCommemorate>
+      <vntourism:Person rdf:about="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Trần_Khát_Chân"/>
+    </vntourism:hasCommemorate>
   </vntourism:Festival>
   <vntourism:Festival rdf:about="http://www.semanticweb.org/minhn/ontologies/2021/0/vntourism#Ngày_thành_lập_Quân_đội_nhân_dân_Việt_Nam">
     <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
