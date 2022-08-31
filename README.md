@@ -30,4 +30,12 @@ GET http://localhost:8080/two_conditions -> Action cho câu hỏi tìm X t/m 2 �
 
 GET http://localhost:8080/one_property -> Action cho câu hỏi tìm 1 thông tin về X cho trước
 
+<<<<<<< HEAD
 GET http://localhost:8080/all -> Action cho câu hỏi giới thiệu X
+=======
+GET http://localhost:8080/all -> Action cho câu hỏi giới thiệu X
+>>>>>>> 4b0da33e835f0e1bf7fb4d25a478798112c003bc
+
+***
+
+GET http://localhost:8080/data_train   -> Sinh tập câu hỏi huấn luyện
