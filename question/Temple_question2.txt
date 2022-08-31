@@ -1,4 +1,8 @@
     - đền nào nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} và nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} ?
+    - đền nào nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} và thờ [Trần Quốc Tảng]{"entity":"object","value":"vntourism:Trần_Quốc_Tảng"} ?
     - đền nào nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} và nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} ?
+    - đền nào nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} và thờ [Trần Quốc Tảng]{"entity":"object","value":"vntourism:Trần_Quốc_Tảng"} ?
     - đền nào nằm trong [Nam Định]{"entity":"object","value":"vntourism:Nam_Định"} và nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} ?
     - đền nào nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} và nằm trong [Nam Định]{"entity":"object","value":"vntourism:Nam_Định"} ?
+    - đền nào thờ [Trần Quốc Tảng]{"entity":"object","value":"vntourism:Trần_Quốc_Tảng"} và nằm trong [Northern]{"entity":"object","value":"vntourism:Northern"} ?
+    - đền nào thờ [Trần Quốc Tảng]{"entity":"object","value":"vntourism:Trần_Quốc_Tảng"} và nằm trong [Quảng Ninh]{"entity":"object","value":"vntourism:Quảng_Ninh"} ?

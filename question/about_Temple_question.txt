@@ -2,3 +2,4 @@
     - [Đền Cửa Ông]{"entity":"object","value":"vntourism:Đền_Cửa_Ông"}  nằm trong ?
     - [Đền Trần]{"entity":"object","value":"vntourism:Đền_Trần"}  nằm trong ?
     - [Đền Trần]{"entity":"object","value":"vntourism:Đền_Trần"}  nằm trong ?
+    - [Đền Cửa Ông]{"entity":"object","value":"vntourism:Đền_Cửa_Ông"}  thờ ?

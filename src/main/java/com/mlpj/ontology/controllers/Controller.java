@@ -9,6 +9,7 @@ import org.json.simple.JSONObject;
 
 import org.springframework.web.bind.annotation.*;
 
+import java.io.File;
 import java.util.Random;
 
 
@@ -19,9 +20,12 @@ public class Controller {
     @GetMapping("/one_condition")
     public String oneCondition(@RequestBody String data) {
         JSONObject jsonObject = new JSONObject();
-        jsonObject.put("Output RASA", data);
+        //jsonObject.put("Output RASA", data);
         String[] list = data.split("~");
-
+        jsonObject.put("Question",list[list.length-2]);
+        jsonObject.put("Intent",list[list.length-1]);
+        jsonObject.put("Entity",data.replaceAll(list[list.length-2],"")
+                .replaceAll(list[list.length-1],"").replaceAll("~"," "));
         if (!list[2].contains(":")) {
             list[2] = "\"" + list[2] + "\"";
         }
@@ -77,17 +81,20 @@ public class Controller {
         }
 
 
-        FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+       // FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+        FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
         return "Đó là " + results + "~" + jsonObject.get("SPARQL");
     }
 
     @GetMapping("/two_conditions")
     public String twoConditions(@RequestBody String data) {
         JSONObject jsonObject = new JSONObject();
-        jsonObject.put("Output RASA", data);
+        //jsonObject.put("Output RASA", data);
         String[] list = data.split("~");
-
-
+        jsonObject.put("Question",list[list.length-2]);
+        jsonObject.put("Intent",list[list.length-1]);
+        jsonObject.put("Entity",data.replaceAll(list[list.length-2],"")
+                .replaceAll(list[list.length-1],"").replaceAll("~"," "));
         if (!list[2].contains(":")) {
             list[2] = "\"" + list[2] + "\"";
         }
@@ -115,20 +122,27 @@ public class Controller {
 
         if (results.equals("")) {
             jsonObject.put("Answer", "Không tìm được");
-            FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+            //FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+            FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
+
             return "Không tìm được" + "~" + jsonObject.get("SPARQL");
         }
         jsonObject.put("Answer", "Đó là " + results);
-        FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+        //FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+        FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
+
         return "Đó là " + results + "~" + jsonObject.get("SPARQL");
     }
 
     @GetMapping("/ask_one_property")
     public String askOneProperty(@RequestBody String data) {
         JSONObject jsonObject = new JSONObject();
-        jsonObject.put("Output RASA", data);
+        //jsonObject.put("Output RASA", data);
         String[] list = data.split("~");
-
+        jsonObject.put("Question",list[list.length-2]);
+        jsonObject.put("Intent",list[list.length-1]);
+        jsonObject.put("Entity",data.replaceAll(list[list.length-2],"")
+                .replaceAll(list[list.length-1],"").replaceAll("~"," "));
         if (!list[1].contains(":")) {
             list[1] = "?A";
         }
@@ -165,14 +179,18 @@ public class Controller {
             }
             if (queryResult1.equals("")) {
                 jsonObject.put("Answer", "Tôi không biết.");
-                FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+                //FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+                FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
+
                 return "Tôi không biết." + "~" + jsonObject.get("SPARQL");
             } else {
                 results = InitJena.pretty2(list[2]) + " " + queryResult2 + " " + queryResult1;
             }
         }
         jsonObject.put("Answer", results);
-        FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+       // FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+        FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
+
         return results + "~" + jsonObject.get("SPARQL");
     }
 
@@ -181,9 +199,13 @@ public class Controller {
         Random random = new Random();
         int temp;
         JSONObject jsonObject = new JSONObject();
-        jsonObject.put("Output RASA", data);
+       // jsonObject.put("Output RASA", data);
 
         String[] list = data.split("~");
+        jsonObject.put("Question",list[list.length-2]);
+        jsonObject.put("Intent",list[list.length-1]);
+        jsonObject.put("Entity",data.replaceAll(list[list.length-2],"")
+                .replaceAll(list[list.length-1],"").replaceAll("~"," "));
         String s = list[0];
         list[0] = list[0].replaceAll(" ", "_");
         list[0] = list[0].replaceAll("/", "");
@@ -209,9 +231,11 @@ public class Controller {
                     "anh hùng lịch sử như " + queryResult1 +
                     "... Ngoài ra, " + InitJena.pretty2(list[0]) + " còn có nhiều điểm đến thú vị như " + queryResult2 + "...  ";
             jsonObject.put("Answer", results);
-            FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+            //FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+            FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
+
             temp = random.nextInt(2);
-            return results +(temp==0?" Hãy đến đây ngay nhé!":"") + "~" + jsonObject.get("SPARQL");
+            return results + (temp == 0 ? " Hãy đến đây ngay nhé!" : "") + "~" + jsonObject.get("SPARQL");
         }
 
         boolean check = false;
@@ -223,7 +247,9 @@ public class Controller {
             results = InitJena.getItems4(queryString);
             if (!results.equals("") && !results.contains("description")) {
                 jsonObject.put("Answer", results);
-                FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+                //FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+                FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
+
                 check = true;
                 //return results+"~"+jsonObject.get("SPARQL");
 
@@ -236,26 +262,30 @@ public class Controller {
         results = InitJena.getItems4(queryString);
         if (!results.equals("") && !results.contains("description")) {
             if (check == false) {
-                jsonObject.put("SPARQL",queryString.replaceAll(Constant.PREFIX_QUERY,""));
+                jsonObject.put("SPARQL", queryString.replaceAll(Constant.PREFIX_QUERY, ""));
                 jsonObject.put("Answer", results);
-                FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+                //FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+                FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
+
                 temp = random.nextInt(2);
-                return results+(temp==0?" Hãy đến đây ngay nhé!":"") + "~" + jsonObject.get("SPARQL");
+                return results + (temp == 0 ? " Hãy đến đây ngay nhé!" : "") + "~" + jsonObject.get("SPARQL");
             } else {
-                jsonObject.put("SPARQL",jsonObject.get("SPARQL")+ "   "+queryString.replaceAll(Constant.PREFIX_QUERY,""));
-                jsonObject.put("Answer","Nếu bạn hỏi về "+InitJena.pretty2(list[0]) +" thì nơi đây "+
-                        results.replaceFirst(InitJena.pretty2(list[0]),"") +
-                        " Nếu bạn muốn biết về "+
-                        InitJena.pretty2(list[1])+", ở đó " +
-                        jsonObject.get("Answer").toString().replaceFirst(InitJena.pretty2(list[1]),""));
-                FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+                jsonObject.put("SPARQL", jsonObject.get("SPARQL") + "   " + queryString.replaceAll(Constant.PREFIX_QUERY, ""));
+                jsonObject.put("Answer", "Nếu bạn hỏi về " + InitJena.pretty2(list[0]) + " thì nơi đây " +
+                        results.replaceFirst(InitJena.pretty2(list[0]), "") +
+                        " Nếu bạn muốn biết về " +
+                        InitJena.pretty2(list[1]) + ", ở đó " +
+                        jsonObject.get("Answer").toString().replaceFirst(InitJena.pretty2(list[1]), ""));
+                //FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+                FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
+
                 temp = random.nextInt(2);
-                return jsonObject.get("Answer") +(temp==0?" Hãy đến đây ngay nhé!":"")+ "~" + jsonObject.get("SPARQL");
+                return jsonObject.get("Answer") + (temp == 0 ? " Hãy đến đây ngay nhé!" : "") + "~" + jsonObject.get("SPARQL");
             }
-        }else{
-            if (check == true){
+        } else {
+            if (check == true) {
                 temp = random.nextInt(2);
-                return jsonObject.get("Answer")+(temp==0?" Hãy đến đây ngay nhé!":"")+"~"+jsonObject.get("SPARQL");
+                return jsonObject.get("Answer") + (temp == 0 ? " Hãy đến đây ngay nhé!" : "") + "~" + jsonObject.get("SPARQL");
             }
 
         }
@@ -278,20 +308,25 @@ public class Controller {
         }
         if (queryResult1.equals("") && queryResult2.equals("")) {
             jsonObject.put("Answer", "Tôi không biết.");
-            FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+           // FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+            FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
             return "Tôi không biết." + "~" + jsonObject.get("SPARQL");
         }
         jsonObject.put("Answer", results);
-        FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+        //FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+        FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
         return results + "~" + jsonObject.get("SPARQL");
     }
 
     @GetMapping("/ask_den_chua")
     public String askTemple(@RequestBody String data) {
         JSONObject jsonObject = new JSONObject();
-        jsonObject.put("Output RASA", data);
+        //jsonObject.put("Output RASA", data);
         String[] list = data.split("~");
-
+        jsonObject.put("Question",list[list.length-2]);
+        jsonObject.put("Intent",list[list.length-1]);
+        jsonObject.put("Entity",data.replaceAll(list[list.length-2],"")
+                .replaceAll(list[list.length-1],"").replaceAll("~"," "));
         if (!list[0].contains(":")) {
             list[0] = "\"" + list[0] + "\"";
         }
@@ -305,20 +340,25 @@ public class Controller {
         String results = "Đó là " + queryResult;
         if (queryResult.equals("")) {
             jsonObject.put("Answer", "Tôi không biết.");
-            FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+           // FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+            FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
             return "Tôi không biết." + "~" + jsonObject.get("SPARQL");
         }
         jsonObject.put("Answer", results);
-        FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+       // FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+        FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
         return results + "~" + jsonObject.get("SPARQL");
     }
 
     @GetMapping("/ask_area")
     public String askArea(@RequestBody String data) {
         JSONObject jsonObject = new JSONObject();
-        jsonObject.put("Output RASA", data);
+       // jsonObject.put("Output RASA", data);
         String[] list = data.split("~");
-
+        jsonObject.put("Question",list[list.length-2]);
+        jsonObject.put("Intent",list[list.length-1]);
+        jsonObject.put("Entity",data.replaceAll(list[list.length-2],"")
+                .replaceAll(list[list.length-1],"").replaceAll("~"," "));
         if (!list[0].contains(":")) {
             list[0] = "\"" + list[0] + "\"";
         }
@@ -333,21 +373,25 @@ public class Controller {
         String results = "Đó là " + queryResult;
         if (queryResult.equals("")) {
             jsonObject.put("Answer", "Tôi không biết.");
-            FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+           // FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+            FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
             return "Tôi không biết." + "~" + jsonObject.get("SPARQL");
         }
         jsonObject.put("Answer", results);
-        FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+        //FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+        FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
         return results + "~" + jsonObject.get("SPARQL");
     }
 
     @GetMapping("/ask_about_area")
     public String askAboutArea(@RequestBody String data) {
         JSONObject jsonObject = new JSONObject();
-        jsonObject.put("Output RASA", data);
+       // jsonObject.put("Output RASA", data);
         String[] list = data.split("~");
-
-
+        jsonObject.put("Question",list[list.length-2]);
+        jsonObject.put("Intent",list[list.length-1]);
+        jsonObject.put("Entity",data.replaceAll(list[list.length-2],"")
+                .replaceAll(list[list.length-1],"").replaceAll("~"," "));
         if (!list[0].contains(":")) {
             list[0] = list[0].replaceAll(" ", "_");
             list[0] = "vntourism:" + list[0];
@@ -384,24 +428,28 @@ public class Controller {
             }
             if (queryResult.equals("")) {
                 jsonObject.put("Answer", "Tôi không biết.");
-                FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+              //  FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+                FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
                 return "Tôi không biết." + "~" + jsonObject.get("SPARQL");
             } else {
                 results = InitJena.pretty2(list[1]) + " ở " + queryResult;
             }
         }
         jsonObject.put("Answer", results);
-        FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+       // FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+        FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
         return results + "~" + jsonObject.get("SPARQL");
     }
 
     @GetMapping("/ask_relate")
     public String askRelate(@RequestBody String data) {
         JSONObject jsonObject = new JSONObject();
-        jsonObject.put("Output RASA", data);
+       // jsonObject.put("Output RASA", data);
         String[] list = data.split("~");
-
-
+        jsonObject.put("Question",list[list.length-2]);
+        jsonObject.put("Intent",list[list.length-1]);
+        jsonObject.put("Entity",data.replaceAll(list[list.length-2],"")
+                .replaceAll(list[list.length-1],"").replaceAll("~"," "));
         if (!list[0].contains(":")) {
             list[0] = "\"" + list[0] + "\"";
         }
@@ -426,11 +474,13 @@ public class Controller {
         String results = "Đó là " + queryResult;
         if (queryResult.equals("")) {
             jsonObject.put("Answer", "Tôi không biết.");
-            FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+            //FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+            FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
             return "Tôi không biết." + "~" + jsonObject.get("SPARQL");
         }
         jsonObject.put("Answer", results);
-        FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt");
+        //FileHelper.saveToFile(jsonObject + ",\n", "history_log.txt",true);
+        FileHelper.saveToJSONFile(jsonObject,"share_folder/answer.json");
         return results + "~" + jsonObject.get("SPARQL");
     }
 
@@ -454,7 +504,7 @@ public class Controller {
 
         String results = InitJena.getItems4(query);
 
-        return results.replaceAll(",","\n");
+        return results.replaceAll(",", "\n");
     }
 
     @GetMapping("/rule_temple")
@@ -480,12 +530,42 @@ public class Controller {
     @GetMapping("/data_train")
     public String getDataTrain() {
 
+        File answer = new File(System.getProperty("user.dir") + "/answer.txt");
+        answer.delete();
+        File dir = new File(System.getProperty("user.dir") + "/question");
+        File[] listFile = dir.listFiles();
+        for (File file:listFile){
+            file.delete();
+        }
+
         boolean b1 = AnalysisOntology.createAnswer();
         boolean b2 = AnalysisOntology.genQuestion();
         boolean b3 = AnalysisOntology.genQuestion2();
         boolean b4 = AnalysisOntology.genQuestion3();
-        if (b1 && b2 && b3 && b4) {
-            return "success";
+        try {
+            if (b1 && b2 && b3 && b4) {
+                File fileDst = new File(System.getProperty("user.dir") + "/share_folder/" + System.currentTimeMillis() + "_nlu.yml");
+                if (!fileDst.exists()) {
+                    fileDst.createNewFile();
+                }
+                FileHelper.saveToFile("version: \"3.1\"\n", fileDst.getName(),true);
+                FileHelper.saveToFile("nlu:\n", fileDst.getName(),true);
+
+                if (dir.isDirectory()) {
+                    listFile = dir.listFiles();
+                    for (File file : listFile) {
+                        if (file.isFile()) {
+                            FileHelper.saveToFile("\n- intent: " + file.getName().split("\\.")[0] + "\n" +
+                                    "  examples: |\n", fileDst.getName(),true);
+                            FileHelper.copyFile(file, fileDst);
+                        }
+                    }
+                }
+                return fileDst.getAbsolutePath();
+
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
         }
         return "fail";
     }

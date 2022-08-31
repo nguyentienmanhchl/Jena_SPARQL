@@ -1,0 +1,16 @@
+[
+  {
+    "Entity": "vntourism:Festival . vntourism:Quảng_Ninh .  ",
+    "SPARQL": "SELECT distinct ?X  WHERE { ?X  ?B vntourism:Quảng_Ninh. ?X rdf:type vntourism:Festival }",
+    "Answer": "Đó là Lễ hội chùa Yên Tử - Quảng Ninh, Lễ hội đền Cửa Ông, Lễ hội Bạch Đằng, ",
+    "Question": "Quảng Ninh có lễ hội gì",
+    "Intent": "Festival_question"
+  },
+  {
+    "Entity": "vntourism:Festival vntourism:hasTimeHappen 5\/1 Âm lịch 2023-01-05T00:00:00.000+00:00  ",
+    "SPARQL": "SELECT distinct ?X  WHERE { ?X vntourism:hasTimeHappen ?T. ?X rdf:type vntourism:Festival . ?T rdf:type time:DateTimeDescription . ?T time:hasTRS vntourism:LunarCalendar . ?T time:month \"1\" . optional{?T time:day \"5\"}optional{?T time:year \"2023\"}}",
+    "Answer": "Đó là Lễ hội Đống Đa, ",
+    "Question": "lễ hội diễn ra vào ngày 5\/1 Âm lịch",
+    "Intent": "Festival_question"
+  }
+]

@@ -1,3 +1,549 @@
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [được mô tả là]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [Có mô tả]{"entity":"predicate","value":"vntourism:hasDescription"} [description]{"entity":"object","value":"vntourism:description"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Thánh Gióng]{"entity":"object","value":"vntourism:Thánh_Gióng"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [An Dương Vương]{"entity":"object","value":"vntourism:An_Dương_Vương"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lê Hoàn]{"entity":"object","value":"vntourism:Lê_Hoàn"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [An Dương Vương]{"entity":"object","value":"vntourism:An_Dương_Vương"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Thánh Gióng]{"entity":"object","value":"vntourism:Thánh_Gióng"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Trần Hưng Đạo]{"entity":"object","value":"vntourism:Trần_Hưng_Đạo"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Tô Hiến Thành]{"entity":"object","value":"vntourism:Tô_Hiến_Thành"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Nguyễn Siêu]{"entity":"object","value":"vntourism:Nguyễn_Siêu"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lê Đại Hành]{"entity":"object","value":"vntourism:Lê_Đại_Hành"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Thánh Gióng]{"entity":"object","value":"vntourism:Thánh_Gióng"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [An Dương Vương]{"entity":"object","value":"vntourism:An_Dương_Vương"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lê Hoàn]{"entity":"object","value":"vntourism:Lê_Hoàn"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [An Dương Vương]{"entity":"object","value":"vntourism:An_Dương_Vương"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Thánh Gióng]{"entity":"object","value":"vntourism:Thánh_Gióng"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Trần Hưng Đạo]{"entity":"object","value":"vntourism:Trần_Hưng_Đạo"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Tô Hiến Thành]{"entity":"object","value":"vntourism:Tô_Hiến_Thành"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Nguyễn Siêu]{"entity":"object","value":"vntourism:Nguyễn_Siêu"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lê Đại Hành]{"entity":"object","value":"vntourism:Lê_Đại_Hành"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Thánh Gióng]{"entity":"object","value":"vntourism:Thánh_Gióng"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [An Dương Vương]{"entity":"object","value":"vntourism:An_Dương_Vương"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lê Hoàn]{"entity":"object","value":"vntourism:Lê_Hoàn"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [An Dương Vương]{"entity":"object","value":"vntourism:An_Dương_Vương"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Thánh Gióng]{"entity":"object","value":"vntourism:Thánh_Gióng"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Trần Hưng Đạo]{"entity":"object","value":"vntourism:Trần_Hưng_Đạo"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Tô Hiến Thành]{"entity":"object","value":"vntourism:Tô_Hiến_Thành"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Nguyễn Siêu]{"entity":"object","value":"vntourism:Nguyễn_Siêu"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"}?
+    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lê Đại Hành]{"entity":"object","value":"vntourism:Lê_Đại_Hành"}?
     - [lễ hội dân gian]{"entity":"class"} nào [được tổ chức]{"entity":"predicate","value":"vntourism:isHeldAt"} [Trà Vinh]{"entity":"object","value":"Trà Vinh"}?
     - [lễ hội dân gian]{"entity":"class"} nào [được tổ chức]{"entity":"predicate","value":"vntourism:isHeldAt"} [thôn Giáp Lục, phường Thịnh Liệt, quận Hoàng Mai. ]{"entity":"object","value":"thôn Giáp Lục, phường Thịnh Liệt, quận Hoàng Mai. "}?
     - [lễ hội dân gian]{"entity":"class"} nào [được tổ chức]{"entity":"predicate","value":"vntourism:isHeldAt"} [Núi Sưa (Công viên Bách Thảo), phường Ngọc Hà, quận Ba Đình.]{"entity":"object","value":"Núi Sưa (Công viên Bách Thảo), phường Ngọc Hà, quận Ba Đình."}?
@@ -312,48 +858,6 @@
     - [lễ hội dân gian]{"entity":"class"} nào [được tổ chức]{"entity":"predicate","value":"vntourism:isHeldAt"} [xã Liên Hà, huyện Đông Anh.]{"entity":"object","value":"xã Liên Hà, huyện Đông Anh."}?
     - [lễ hội dân gian]{"entity":"class"} nào [được tổ chức]{"entity":"predicate","value":"vntourism:isHeldAt"} [đình Vạn Phúc, làng Vạn Phúc, quận Ba Đình ]{"entity":"object","value":"đình Vạn Phúc, làng Vạn Phúc, quận Ba Đình "}?
     - [lễ hội dân gian]{"entity":"class"} nào [được tổ chức]{"entity":"predicate","value":"vntourism:isHeldAt"} [phường Bưởi, quận Tây Hồ.]{"entity":"object","value":"phường Bưởi, quận Tây Hồ."}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Thánh Gióng]{"entity":"object","value":"vntourism:Thánh_Gióng"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [An Dương Vương]{"entity":"object","value":"vntourism:An_Dương_Vương"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lê Hoàn]{"entity":"object","value":"vntourism:Lê_Hoàn"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [An Dương Vương]{"entity":"object","value":"vntourism:An_Dương_Vương"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Thánh Gióng]{"entity":"object","value":"vntourism:Thánh_Gióng"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Trần Hưng Đạo]{"entity":"object","value":"vntourism:Trần_Hưng_Đạo"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Tô Hiến Thành]{"entity":"object","value":"vntourism:Tô_Hiến_Thành"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Nguyễn Siêu]{"entity":"object","value":"vntourism:Nguyễn_Siêu"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tri ân]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lê Đại Hành]{"entity":"object","value":"vntourism:Lê_Đại_Hành"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Thánh Gióng]{"entity":"object","value":"vntourism:Thánh_Gióng"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [An Dương Vương]{"entity":"object","value":"vntourism:An_Dương_Vương"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lê Hoàn]{"entity":"object","value":"vntourism:Lê_Hoàn"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [An Dương Vương]{"entity":"object","value":"vntourism:An_Dương_Vương"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Thánh Gióng]{"entity":"object","value":"vntourism:Thánh_Gióng"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Trần Hưng Đạo]{"entity":"object","value":"vntourism:Trần_Hưng_Đạo"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Tô Hiến Thành]{"entity":"object","value":"vntourism:Tô_Hiến_Thành"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Nguyễn Siêu]{"entity":"object","value":"vntourism:Nguyễn_Siêu"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [tưởng nhớ]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lê Đại Hành]{"entity":"object","value":"vntourism:Lê_Đại_Hành"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Thánh Gióng]{"entity":"object","value":"vntourism:Thánh_Gióng"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [An Dương Vương]{"entity":"object","value":"vntourism:An_Dương_Vương"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lê Hoàn]{"entity":"object","value":"vntourism:Lê_Hoàn"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [An Dương Vương]{"entity":"object","value":"vntourism:An_Dương_Vương"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Thánh Gióng]{"entity":"object","value":"vntourism:Thánh_Gióng"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Nguyễn Huệ]{"entity":"object","value":"vntourism:Nguyễn_Huệ"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Trần Hưng Đạo]{"entity":"object","value":"vntourism:Trần_Hưng_Đạo"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Tô Hiến Thành]{"entity":"object","value":"vntourism:Tô_Hiến_Thành"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Nguyễn Siêu]{"entity":"object","value":"vntourism:Nguyễn_Siêu"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Phùng Hưng]{"entity":"object","value":"vntourism:Phùng_Hưng"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lý Thường Kiệt]{"entity":"object","value":"vntourism:Lý_Thường_Kiệt"}?
-    - [lễ hội dân gian]{"entity":"class"} nào [kỷ niệm]{"entity":"predicate","value":"vntourism:hasCommemorate"} [Lê Đại Hành]{"entity":"object","value":"vntourism:Lê_Đại_Hành"}?
     - [lễ hội dân gian]{"entity":"class"} nào [diễn ra vào]{"entity":"predicate","value":"vntourism:hasTimeHappen"} [5/5 Âm lịch]{"entity":"object","value":"5/5 Âm lịch"}?
     - [lễ hội dân gian]{"entity":"class"} nào [diễn ra vào]{"entity":"predicate","value":"vntourism:hasTimeHappen"} [6/12]{"entity":"object","value":"6/12"}?
     - [lễ hội dân gian]{"entity":"class"} nào [diễn ra vào]{"entity":"predicate","value":"vntourism:hasTimeHappen"} [7-9/1 âm lịch]{"entity":"object","value":"7-9/1 âm lịch"}?

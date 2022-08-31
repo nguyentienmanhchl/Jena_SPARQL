@@ -10,5 +10,11 @@
     - [Hang Đầu Gỗ]{"entity":"object","value":"vntourism:Hang_Đầu_Gỗ"}  nằm trong ?
     - [Núi Bài Thơ]{"entity":"object","value":"vntourism:Núi_Bài_Thơ"}  nằm trong ?
     - [Núi Bài Thơ]{"entity":"object","value":"vntourism:Núi_Bài_Thơ"}  nằm trong ?
+    - [Vịnh Hạ Long]{"entity":"object","value":"vntourism:Vịnh_Hạ_Long"}  được mô tả là ?
+    - [Vịnh Hạ Long]{"entity":"object","value":"vntourism:Vịnh_Hạ_Long"}  được mô tả là ?
+    - [Vịnh Hạ Long]{"entity":"object","value":"vntourism:Vịnh_Hạ_Long"}  Có mô tả ?
+    - [Vịnh Hạ Long]{"entity":"object","value":"vntourism:Vịnh_Hạ_Long"}  Có mô tả ?
     - [Sông Bạch Đằng]{"entity":"object","value":"vntourism:Sông_Bạch_Đằng"}  liên quan ?
     - [Sông Bạch Đằng]{"entity":"object","value":"vntourism:Sông_Bạch_Đằng"}  liên quan ?
+    - [Sông Như Nguyệt]{"entity":"object","value":"vntourism:Sông_Như_Nguyệt"}  liên quan ?
+    - [Sông Như Nguyệt]{"entity":"object","value":"vntourism:Sông_Như_Nguyệt"}  liên quan ?

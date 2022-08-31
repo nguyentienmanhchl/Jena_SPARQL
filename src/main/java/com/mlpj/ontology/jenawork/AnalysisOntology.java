@@ -36,10 +36,10 @@ public class AnalysisOntology {
                     while (extendedIterator.hasNext()) {
                         Object i = extendedIterator.next();
                         if (i.toString().contains("#")) {
-                            FileHelper.saveToFile(i.toString().split("#")[1] + "\n", "property.txt");
+                            FileHelper.saveToFile(i.toString().split("#")[1] + "\n", "property.txt",true);
                         }
                     }
-                    FileHelper.saveToFile("---------------------------\n", "property.txt");
+                    FileHelper.saveToFile("---------------------------\n", "property.txt",true);
                 }
             } catch (Exception e) {
                 e.printStackTrace();
@@ -63,10 +63,11 @@ public class AnalysisOntology {
 
 
                 while (iterator.hasNext()) {
-                    Object i = iterator.next();
-                    if (i.toString().contains("#")) {
-                        results.add(i.toString().split("#")[1].replaceAll("'", ""));
-                    }
+                    String i = iterator.next().toString();
+                    String [] temp = i.split("/");
+
+                    results.add(temp[temp.length-1].replaceAll("#",":"));
+
 
                 }
                 return results;
@@ -90,38 +91,42 @@ public class AnalysisOntology {
                 predicate + " rdfs:comment ?Y." +
                 "?U rdfs:label ?U1}";
         String results = InitJena.getItems3(query,predicate);
-        FileHelper.saveToFile(results, "answer.txt");
+        FileHelper.saveToFile(results, "answer.txt",true);
 
         return results;
     }
 
     public static boolean createAnswer() {
-//        List<String> list = getProperties();
-//        for (String s : list) {
-//            answer(s);
-//        }
-        String[] list = {"vntourism:isApartOf",
-                "vntourism:isHeldAt",
-                "vntourism:wasBuiltIn",
-                "vntourism:hasCommemorate",
-                "time:hasBeginning",
-                "time:hasEnd",
-                "vntourism:related",
-                "vntourism:hasDied",
-                "vntourism:hasBorn",
-                "vntourism:hasPredecessor",
-                "vntourism:orKnownAs",
-                "vntourism:hasBirthName",
-                "vntourism:hasTimeHappen",
-                "vntourism:chosenCapitalBy",
-                "vntourism:wasBuiltBy",
-                "vntourism:buriedPlace",
-                "vntourism:hasSuccessor",
-                "vntourism:hasBornAt"
-        };
-        for (int i = 0; i < list.length; i++) {
-            answer(list[i]);
+        List<String> list = getProperties();
+        for (String s : list) {
+            if (s.contains("core")||s.contains("belongEthnic")||s.contains("hasCountry")||
+            s.contains("hasSameEducationDegreeLevel")||s.contains("wasDerivedFrom")){
+                continue;
+            }
+            answer(s);
         }
+//        String[] list = {"vntourism:isApartOf",
+//                "vntourism:isHeldAt",
+//                "vntourism:wasBuiltIn",
+//                "vntourism:hasCommemorate",
+//                "time:hasBeginning",
+//                "time:hasEnd",
+//                "vntourism:related",
+//                "vntourism:hasDied",
+//                "vntourism:hasBorn",
+//                "vntourism:hasPredecessor",
+//                "vntourism:orKnownAs",
+//                "vntourism:hasBirthName",
+//                "vntourism:hasTimeHappen",
+//                "vntourism:chosenCapitalBy",
+//                "vntourism:wasBuiltBy",
+//                "vntourism:buriedPlace",
+//                "vntourism:hasSuccessor",
+//                "vntourism:hasBornAt"
+//        };
+//        for (int i = 0; i < list.length; i++) {
+//            answer(list[i]);
+//        }
         return true;
     }
 
@@ -140,9 +145,9 @@ public class AnalysisOntology {
                 result = "    - [" + list[0].toLowerCase(Locale.ROOT) + "]{\"entity\":\"class\"} nào " +
                         "[" + list[2] + "]{\"entity\":\"predicate\",\"value\":\""+list[5]+"\"}" +
                         " [" + InitJena.pretty2(list[3]) + "]{\"entity\":\"object\",\"value\":\""+list[3]+"\"}?\n";
-                FileHelper.saveToFile(result, "question/" + list[4] + "_question.txt");
+                FileHelper.saveToFile(result, "question/" + list[4] + "_question.txt",true);
 //                result = list[0].toLowerCase(Locale.ROOT) + " nào " + list[2] + " " + InitJena.pretty2(list[3]) + "?\n";
-//                FileHelper.saveToFile(result, "question.txt");
+//                FileHelper.saveToFile(result, "question.txt",true);
 
             }
             myReader.close();
@@ -177,9 +182,9 @@ public class AnalysisOntology {
                             result = "    - " + list1[0].toLowerCase(Locale.ROOT) + " nào " + list1[2] +
                                     " [" + InitJena.pretty2(list1[3]) + "]{\"entity\":\"object\",\"value\":\""+list1[3]+"\"} " +
                                     "và " + list2[2] + " [" + InitJena.pretty2(list2[3]) + "]{\"entity\":\"object\",\"value\":\""+list2[3]+"\"} ?\n";
-                            FileHelper.saveToFile(result, "question/" + list1[4] + "_question2.txt");
+                            FileHelper.saveToFile(result, "question/" + list1[4] + "_question2.txt",true);
 //                            result = list1[0].toLowerCase(Locale.ROOT) + " nào " + list1[2] + " " + list1[3] + " và " + list2[2] + " " + list2[3] + "?\n";
-//                            FileHelper.saveToFile(result, "question.txt");
+//                            FileHelper.saveToFile(result, "question.txt",true);
 
                         }
                     }
@@ -206,9 +211,9 @@ public class AnalysisOntology {
                 String result;
 //                result = "    - [" + list[1] + "]{\"entity\":\"object\"}  " + "[" + list[2] + "]{\"entity\":\"predicate\"} " + "?\n";
                 result = "    - [" + InitJena.pretty2(list[1]) + "]{\"entity\":\"object\",\"value\":\""+list[1]+"\"}  " + list[2] + " ?\n";
-                FileHelper.saveToFile(result, "question/about_" + list[4] + "_question.txt");
+                FileHelper.saveToFile(result, "question/about_" + list[4] + "_question.txt",true);
 //                result = InitJena.pretty2(list[1]) + " " + list[2] + " ?\n";
-//                FileHelper.saveToFile(result, "question.txt");
+//                FileHelper.saveToFile(result, "question.txt",true);
 
 
             }
@@ -223,10 +228,11 @@ public class AnalysisOntology {
 
 
     public static void main(String[] args) {
-//        List<String> list = getProperties();
-//        for (String i : list) {
-//            System.out.println(i);
-//        }
+
+        List<String> list = getProperties();
+        for (String i : list) {
+            System.out.println(i);
+        }
 //        AnalysisOntology.getOntologyInfomation();
 
 

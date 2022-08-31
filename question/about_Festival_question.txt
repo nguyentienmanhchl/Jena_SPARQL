@@ -1,3 +1,557 @@
+    - [Ngày thành lập Hội Liên hiệp Thanh niên Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Hội_Liên_hiệp_Thanh_niên_Việt_Nam"}  được mô tả là ?
+    - [Hội đình Gừng Khương Hạ]{"entity":"object","value":"vntourism:Hội_đình_Gừng_Khương_Hạ"}  được mô tả là ?
+    - [Hội miếu Vũ, Xuân Đỉnh]{"entity":"object","value":"vntourism:Hội_miếu_Vũ,_Xuân_Đỉnh"}  được mô tả là ?
+    - [Lễ hội đình Giảng Võ]{"entity":"object","value":"vntourism:Lễ_hội_đình_Giảng_Võ"}  được mô tả là ?
+    - [Hội đình Vẽ]{"entity":"object","value":"vntourism:Hội_đình_Vẽ"}  được mô tả là ?
+    - [Hội Dịch Vọng Trung]{"entity":"object","value":"vntourism:Hội_Dịch_Vọng_Trung"}  được mô tả là ?
+    - [Hội Sơn Thanh]{"entity":"object","value":"vntourism:Hội_Sơn_Thanh"}  được mô tả là ?
+    - [Ngày thành lập Đoàn TNCS Hồ Chí Minh]{"entity":"object","value":"vntourism:Ngày_thành_lập_Đoàn_TNCS_Hồ_Chí_Minh"}  được mô tả là ?
+    - [Hội làng Vo]{"entity":"object","value":"vntourism:Hội_làng_Vo"}  được mô tả là ?
+    - [Lễ hội đền Cống Yên]{"entity":"object","value":"vntourism:Lễ_hội_đền_Cống_Yên"}  được mô tả là ?
+    - [Lễ hội chùa Thánh Chúa]{"entity":"object","value":"vntourism:Lễ_hội_chùa_Thánh_Chúa"}  được mô tả là ?
+    - [Hội Sài Đồng]{"entity":"object","value":"vntourism:Hội_Sài_Đồng"}  được mô tả là ?
+    - [Lễ hội đình Ứng Thiên]{"entity":"object","value":"vntourism:Lễ_hội_đình_Ứng_Thiên"}  được mô tả là ?
+    - [Lễ Hội Tịch Điền]{"entity":"object","value":"vntourism:Lễ_Hội_Tịch_Điền"}  được mô tả là ?
+    - [Hội làng Đông Dư]{"entity":"object","value":"vntourism:Hội_làng_Đông_Dư"}  được mô tả là ?
+    - [Hội làng Yên Thái]{"entity":"object","value":"vntourism:Hội_làng_Yên_Thái"}  được mô tả là ?
+    - [Ngày Quốc tế Thể thao]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_Thể_thao"}  được mô tả là ?
+    - [Hội đua thuyền Yên Duyên]{"entity":"object","value":"vntourism:Hội_đua_thuyền_Yên_Duyên"}  được mô tả là ?
+    - [Lễ hội làng Huỳnh Cung]{"entity":"object","value":"vntourism:Lễ_hội_làng_Huỳnh_Cung"}  được mô tả là ?
+    - [Hội làng Lê Xá]{"entity":"object","value":"vntourism:Hội_làng_Lê_Xá"}  được mô tả là ?
+    - [Lễ Vu Lan]{"entity":"object","value":"vntourism:Lễ_Vu_Lan"}  được mô tả là ?
+    - [Ngày thầy thuốc Việt Nam]{"entity":"object","value":"vntourism:Ngày_thầy_thuốc_Việt_Nam"}  được mô tả là ?
+    - [Hội chùa Tây Phương]{"entity":"object","value":"vntourism:Hội_chùa_Tây_Phương"}  được mô tả là ?
+    - [Hội Bạch Trữ (Kẻ Bạch)]{"entity":"object","value":"vntourism:Hội_Bạch_Trữ_(Kẻ_Bạch)"}  được mô tả là ?
+    - [Hội làng Hải Bối]{"entity":"object","value":"vntourism:Hội_làng_Hải_Bối"}  được mô tả là ?
+    - [Hội làng Bồ Đề]{"entity":"object","value":"vntourism:Hội_làng_Bồ_Đề"}  được mô tả là ?
+    - [Lễ hội Đống Đa]{"entity":"object","value":"vntourism:Lễ_hội_Đống_Đa"}  được mô tả là ?
+    - [Ngày thế giới phòng chống AIDS]{"entity":"object","value":"vntourism:Ngày_thế_giới_phòng_chống_AIDS"}  được mô tả là ?
+    - [Ngày Valentine Trắng(White day).]{"entity":"object","value":"vntourism:Ngày_Valentine_Trắng(White_day)."}  được mô tả là ?
+    - [Ngày thành lập Hội chữ thập đỏ Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Hội_chữ_thập_đỏ_Việt_Nam"}  được mô tả là ?
+    - [Hội làng Tó]{"entity":"object","value":"vntourism:Hội_làng_Tó"}  được mô tả là ?
+    - [Hội làng Ngọc Trì]{"entity":"object","value":"vntourism:Hội_làng_Ngọc_Trì"}  được mô tả là ?
+    - [Hội đình Thượng Lão]{"entity":"object","value":"vntourism:Hội_đình_Thượng_Lão"}  được mô tả là ?
+    - [Hội chùa Trầm]{"entity":"object","value":"vntourism:Hội_chùa_Trầm"}  được mô tả là ?
+    - [Hội làng Đa Sĩ]{"entity":"object","value":"vntourism:Hội_làng_Đa_Sĩ"}  được mô tả là ?
+    - [Hội đình Gia Thuỵ]{"entity":"object","value":"vntourism:Hội_đình_Gia_Thuỵ"}  được mô tả là ?
+    - [Hội làng chài Vạn Vĩ]{"entity":"object","value":"vntourism:Hội_làng_chài_Vạn_Vĩ"}  được mô tả là ?
+    - [Lễ hội đình An Hòa]{"entity":"object","value":"vntourism:Lễ_hội_đình_An_Hòa"}  được mô tả là ?
+    - [Hội chùa Đậu]{"entity":"object","value":"vntourism:Hội_chùa_Đậu"}  được mô tả là ?
+    - [Hội làng Bà Già]{"entity":"object","value":"vntourism:Hội_làng_Bà_Già"}  được mô tả là ?
+    - [Lễ hội đền Đồng Nhân]{"entity":"object","value":"vntourism:Lễ_hội_đền_Đồng_Nhân"}  được mô tả là ?
+    - [Ngày dân số thế giới]{"entity":"object","value":"vntourism:Ngày_dân_số_thế_giới"}  được mô tả là ?
+    - [Hội đình Thanh Liệt]{"entity":"object","value":"vntourism:Hội_đình_Thanh_Liệt"}  được mô tả là ?
+    - [Hội cướp cầu Viên Nội]{"entity":"object","value":"vntourism:Hội_cướp_cầu_Viên_Nội"}  được mô tả là ?
+    - [Lễ hội Gióng]{"entity":"object","value":"vntourism:Lễ_hội_Gióng"}  được mô tả là ?
+    - [Hội Ninh Hiệp]{"entity":"object","value":"vntourism:Hội_Ninh_Hiệp"}  được mô tả là ?
+    - [Ngày Thể thao Việt Nam]{"entity":"object","value":"vntourism:Ngày_Thể_thao_Việt_Nam"}  được mô tả là ?
+    - [Ngày Quốc Khánh]{"entity":"object","value":"vntourism:Ngày_Quốc_Khánh"}  được mô tả là ?
+    - [Lễ hội chùa Vua]{"entity":"object","value":"vntourism:Lễ_hội_chùa_Vua"}  được mô tả là ?
+    - [Ngày Phụ nữ Việt Nam]{"entity":"object","value":"vntourism:Ngày_Phụ_nữ_Việt_Nam"}  được mô tả là ?
+    - [Tết Dương lịch]{"entity":"object","value":"vntourism:Tết_Dương_lịch"}  được mô tả là ?
+    - [Lễ hội Thập Tam Trại]{"entity":"object","value":"vntourism:Lễ_hội_Thập_Tam_Trại"}  được mô tả là ?
+    - [Hội Ngũ Xã]{"entity":"object","value":"vntourism:Hội_Ngũ_Xã"}  được mô tả là ?
+    - [Hội đền Thanh Nhàn]{"entity":"object","value":"vntourism:Hội_đền_Thanh_Nhàn"}  được mô tả là ?
+    - [Hội làng Ruộng]{"entity":"object","value":"vntourism:Hội_làng_Ruộng"}  được mô tả là ?
+    - [Hội đền Dầm]{"entity":"object","value":"vntourism:Hội_đền_Dầm"}  được mô tả là ?
+    - [Hội đánh cá làng Me - Tường Phiêu]{"entity":"object","value":"vntourism:Hội_đánh_cá_làng_Me_-_Tường_Phiêu"}  được mô tả là ?
+    - [Lễ hội làng Chàng Sơn]{"entity":"object","value":"vntourism:Lễ_hội_làng_Chàng_Sơn"}  được mô tả là ?
+    - [Hội làng Phú Mỹ— Kiều Mai]{"entity":"object","value":"vntourism:Hội_làng_Phú_Mỹ—_Kiều_Mai"}  được mô tả là ?
+    - [Lễ hội đình Đông Phù]{"entity":"object","value":"vntourism:Lễ_hội_đình_Đông_Phù"}  được mô tả là ?
+    - [Ngày Trái Đất]{"entity":"object","value":"vntourism:Ngày_Trái_Đất"}  được mô tả là ?
+    - [Lễ hội đình Giàn]{"entity":"object","value":"vntourism:Lễ_hội_đình_Giàn"}  được mô tả là ?
+    - [Lễ hội làng Triều Khúc]{"entity":"object","value":"vntourism:Lễ_hội_làng_Triều_Khúc"}  được mô tả là ?
+    - [Hội làng Mạnh Tân]{"entity":"object","value":"vntourism:Hội_làng_Mạnh_Tân"}  được mô tả là ?
+    - [Lễ hội làng Bát Tràng]{"entity":"object","value":"vntourism:Lễ_hội_làng_Bát_Tràng"}  được mô tả là ?
+    - [Lễ hội đình làng Trung Kính Thượng]{"entity":"object","value":"vntourism:Lễ_hội_đình_làng_Trung_Kính_Thượng"}  được mô tả là ?
+    - [Ngày chiến thắng Điện Biên Phủ]{"entity":"object","value":"vntourism:Ngày_chiến_thắng_Điện_Biên_Phủ"}  được mô tả là ?
+    - [Hội Bất Nạo]{"entity":"object","value":"vntourism:Hội_Bất_Nạo"}  được mô tả là ?
+    - [Hội chợ Chuông]{"entity":"object","value":"vntourism:Hội_chợ_Chuông"}  được mô tả là ?
+    - [Hội đình Quảng Bá]{"entity":"object","value":"vntourism:Hội_đình_Quảng_Bá"}  được mô tả là ?
+    - [Hội Lỗ Khê]{"entity":"object","value":"vntourism:Hội_Lỗ_Khê"}  được mô tả là ?
+    - [Hội làng Nghi Tàm]{"entity":"object","value":"vntourism:Hội_làng_Nghi_Tàm"}  được mô tả là ?
+    - [Lễ hội chọi trâu]{"entity":"object","value":"vntourism:Lễ_hội_chọi_trâu"}  được mô tả là ?
+    - [Hội làng Quậy]{"entity":"object","value":"vntourism:Hội_làng_Quậy"}  được mô tả là ?
+    - [Hội đình Văn Khê]{"entity":"object","value":"vntourism:Hội_đình_Văn_Khê"}  được mô tả là ?
+    - [Hội làng Thúy Lĩnh]{"entity":"object","value":"vntourism:Hội_làng_Thúy_Lĩnh"}  được mô tả là ?
+    - [Ngày thành lập Quân đội nhân dân Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Quân_đội_nhân_dân_Việt_Nam"}  được mô tả là ?
+    - [Hội làng Đại Lan]{"entity":"object","value":"vntourism:Hội_làng_Đại_Lan"}  được mô tả là ?
+    - [Hội làng Khê Thượng]{"entity":"object","value":"vntourism:Hội_làng_Khê_Thượng"}  được mô tả là ?
+    - [Hội làng Lệ Mật]{"entity":"object","value":"vntourism:Hội_làng_Lệ_Mật"}  được mô tả là ?
+    - [Hội Quất Động]{"entity":"object","value":"vntourism:Hội_Quất_Động"}  được mô tả là ?
+    - [Hội đền Đồng Cổ (hội thề Đồng Cổ)]{"entity":"object","value":"vntourism:Hội_đền_Đồng_Cổ_(hội_thề_Đồng_Cổ)"}  được mô tả là ?
+    - [Hội miếu Mèn]{"entity":"object","value":"vntourism:Hội_miếu_Mèn"}  được mô tả là ?
+    - [Lễ hội đền Quán Đôi]{"entity":"object","value":"vntourism:Lễ_hội_đền_Quán_Đôi"}  được mô tả là ?
+    - [Hội năm làng Mọc]{"entity":"object","value":"vntourism:Hội_năm_làng_Mọc"}  được mô tả là ?
+    - [Hội đền Sái (Hội rước vua sống)]{"entity":"object","value":"vntourism:Hội_đền_Sái_(Hội_rước_vua_sống)"}  được mô tả là ?
+    - [Hội đền Thụy Khuê]{"entity":"object","value":"vntourism:Hội_đền_Thụy_Khuê"}  được mô tả là ?
+    - [Ngày thành lập Đài Truyền hình Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Đài_Truyền_hình_Việt_Nam"}  được mô tả là ?
+    - [Hội phủ Tây Hồ]{"entity":"object","value":"vntourism:Hội_phủ_Tây_Hồ"}  được mô tả là ?
+    - [Hội thả chim làng Dục Tú]{"entity":"object","value":"vntourism:Hội_thả_chim_làng_Dục_Tú"}  được mô tả là ?
+    - [Ngày truyền thống Luật sư Việt Nam]{"entity":"object","value":"vntourism:Ngày_truyền_thống_Luật_sư_Việt_Nam"}  được mô tả là ?
+    - [Ngày thành lập Đảng Cộng sản Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Đảng_Cộng_sản_Việt_Nam"}  được mô tả là ?
+    - [Hội làng Thổ Khối]{"entity":"object","value":"vntourism:Hội_làng_Thổ_Khối"}  được mô tả là ?
+    - [Hội đền Hữu Vĩnh]{"entity":"object","value":"vntourism:Hội_đền_Hữu_Vĩnh"}  được mô tả là ?
+    - [Lễ hội đền Măng Sơn]{"entity":"object","value":"vntourism:Lễ_hội_đền_Măng_Sơn"}  được mô tả là ?
+    - [Ngày thành lập lực lượng Dân quân tự vệ]{"entity":"object","value":"vntourism:Ngày_thành_lập_lực_lượng_Dân_quân_tự_vệ"}  được mô tả là ?
+    - [Hội làng Cán Khê]{"entity":"object","value":"vntourism:Hội_làng_Cán_Khê"}  được mô tả là ?
+    - [Hội vật Mai Động]{"entity":"object","value":"vntourism:Hội_vật_Mai_Động"}  được mô tả là ?
+    - [Lễ hội đền Và]{"entity":"object","value":"vntourism:Lễ_hội_đền_Và"}  được mô tả là ?
+    - [Ngày thành lập Công đoàn Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Công_đoàn_Việt_Nam"}  được mô tả là ?
+    - [Ngày Pháp luật Việt Nam]{"entity":"object","value":"vntourism:Ngày_Pháp_luật_Việt_Nam"}  được mô tả là ?
+    - [Ngày Cá tháng Tư]{"entity":"object","value":"vntourism:Ngày_Cá_tháng_Tư"}  được mô tả là ?
+    - [Lễ hội kén rể]{"entity":"object","value":"vntourism:Lễ_hội_kén_rể"}  được mô tả là ?
+    - [Hội đình Nội Bình Đà]{"entity":"object","value":"vntourism:Hội_đình_Nội_Bình_Đà"}  được mô tả là ?
+    - [Hội làng An Cốc (Kẻ Quán)]{"entity":"object","value":"vntourism:Hội_làng_An_Cốc_(Kẻ_Quán)"}  được mô tả là ?
+    - [Lễ hội đình Vạn Phúc]{"entity":"object","value":"vntourism:Lễ_hội_đình_Vạn_Phúc"}  được mô tả là ?
+    - [Hội đình Trần Đăng]{"entity":"object","value":"vntourism:Hội_đình_Trần_Đăng"}  được mô tả là ?
+    - [Ngày sinh chủ tịch Hồ Chí Minh]{"entity":"object","value":"vntourism:Ngày_sinh_chủ_tịch_Hồ_Chí_Minh"}  được mô tả là ?
+    - [Ngày Cách mạng tháng Tám thành công và ngày truyền thống Công an nhân dân.]{"entity":"object","value":"vntourism:Ngày_Cách_mạng_tháng_Tám_thành_công_và_ngày_truyền_thống_Công_an_nhân_dân."}  được mô tả là ?
+    - [Hội đền Nguyễn Trãi]{"entity":"object","value":"vntourism:Hội_đền_Nguyễn_Trãi"}  được mô tả là ?
+    - [Ngày Nước sạch Thế giới]{"entity":"object","value":"vntourism:Ngày_Nước_sạch_Thế_giới"}  được mô tả là ?
+    - [Hội chùa Bối Khê]{"entity":"object","value":"vntourism:Hội_chùa_Bối_Khê"}  được mô tả là ?
+    - [Lễ hội núi Sưa]{"entity":"object","value":"vntourism:Lễ_hội_núi_Sưa"}  được mô tả là ?
+    - [Ngày Điều dưỡng Việt Nam]{"entity":"object","value":"vntourism:Ngày_Điều_dưỡng_Việt_Nam"}  được mô tả là ?
+    - [Hội Chi Nam (hội Phù Gióng)]{"entity":"object","value":"vntourism:Hội_Chi_Nam_(hội_Phù_Gióng)"}  được mô tả là ?
+    - [Lễ hội đền Đại Lộ (đền Mẫu)]{"entity":"object","value":"vntourism:Lễ_hội_đền_Đại_Lộ_(đền_Mẫu)"}  được mô tả là ?
+    - [Hội Gióng đền Sóc]{"entity":"object","value":"vntourism:Hội_Gióng_đền_Sóc"}  được mô tả là ?
+    - [Hội làng Vải (hội Tầm Xá)]{"entity":"object","value":"vntourism:Hội_làng_Vải_(hội_Tầm_Xá)"}  được mô tả là ?
+    - [Lễ hội chùa Nành]{"entity":"object","value":"vntourism:Lễ_hội_chùa_Nành"}  được mô tả là ?
+    - [Ngày Quốc tế Hòa bình]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_Hòa_bình"}  được mô tả là ?
+    - [Lễ hội đền Voi Phục]{"entity":"object","value":"vntourism:Lễ_hội_đền_Voi_Phục"}  được mô tả là ?
+    - [Hội làng Thượng Phúc]{"entity":"object","value":"vntourism:Hội_làng_Thượng_Phúc"}  được mô tả là ?
+    - [Hội Quán Thánh]{"entity":"object","value":"vntourism:Hội_Quán_Thánh"}  được mô tả là ?
+    - [Lễ hội đình làng Nam Đồng]{"entity":"object","value":"vntourism:Lễ_hội_đình_làng_Nam_Đồng"}  được mô tả là ?
+    - [Lễ hội đền Bà Chúa]{"entity":"object","value":"vntourism:Lễ_hội_đền_Bà_Chúa"}  được mô tả là ?
+    - [Ngày Quốc tế Phụ nữ]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_Phụ_nữ"}  được mô tả là ?
+    - [Hội làng Mạch Lũng]{"entity":"object","value":"vntourism:Hội_làng_Mạch_Lũng"}  được mô tả là ?
+    - [Hội điện Thái Bình]{"entity":"object","value":"vntourism:Hội_điện_Thái_Bình"}  được mô tả là ?
+    - [Lễ hội Tổng Nam Phù]{"entity":"object","value":"vntourism:Lễ_hội_Tổng_Nam_Phù"}  được mô tả là ?
+    - [Lễ hội chùa Trăm Gian]{"entity":"object","value":"vntourism:Lễ_hội_chùa_Trăm_Gian"}  được mô tả là ?
+    - [Hội làng Xuân Nộn]{"entity":"object","value":"vntourism:Hội_làng_Xuân_Nộn"}  được mô tả là ?
+    - [Giỗ Tổ Hùng Vương]{"entity":"object","value":"vntourism:Giỗ_Tổ_Hùng_Vương"}  được mô tả là ?
+    - [Tết Nguyên Đán]{"entity":"object","value":"vntourism:Tết_Nguyên_Đán"}  được mô tả là ?
+    - [Hội bơi Thượng Cát]{"entity":"object","value":"vntourism:Hội_bơi_Thượng_Cát"}  được mô tả là ?
+    - [Ngày Giải phóng Thủ đô và ngày truyền thống Luật sư Việt Nam]{"entity":"object","value":"vntourism:Ngày_Giải_phóng_Thủ_đô_và_ngày_truyền_thống_Luật_sư_Việt_Nam"}  được mô tả là ?
+    - [Lễ hội đình Bái Ân]{"entity":"object","value":"vntourism:Lễ_hội_đình_Bái_Ân"}  được mô tả là ?
+    - [Ngày Gia đình Việt Nam]{"entity":"object","value":"vntourism:Ngày_Gia_đình_Việt_Nam"}  được mô tả là ?
+    - [Hội đền Ninh Xá]{"entity":"object","value":"vntourism:Hội_đền_Ninh_Xá"}  được mô tả là ?
+    - [Ngày Quốc tế Nụ hôn]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_Nụ_hôn"}  được mô tả là ?
+    - [Hội chùa Hoa Lăng]{"entity":"object","value":"vntourism:Hội_chùa_Hoa_Lăng"}  được mô tả là ?
+    - [Đêm hội Rã La]{"entity":"object","value":"vntourism:Đêm_hội_Rã_La"}  được mô tả là ?
+    - [Hội bơi trải Vĩnh Tuy]{"entity":"object","value":"vntourism:Hội_bơi_trải_Vĩnh_Tuy"}  được mô tả là ?
+    - [Hội Quán Giá]{"entity":"object","value":"vntourism:Hội_Quán_Giá"}  được mô tả là ?
+    - [Hội làng Hà Hương]{"entity":"object","value":"vntourism:Hội_làng_Hà_Hương"}  được mô tả là ?
+    - [Ngày Doanh nhân Việt Nam]{"entity":"object","value":"vntourism:Ngày_Doanh_nhân_Việt_Nam"}  được mô tả là ?
+    - [Lễ hội đình Kim Giang]{"entity":"object","value":"vntourism:Lễ_hội_đình_Kim_Giang"}  được mô tả là ?
+    - [Hội chùa Tam Huyền]{"entity":"object","value":"vntourism:Hội_chùa_Tam_Huyền"}  được mô tả là ?
+    - [Lễ hội đình Vĩnh Ninh]{"entity":"object","value":"vntourism:Lễ_hội_đình_Vĩnh_Ninh"}  được mô tả là ?
+    - [Hội làng Nhị Khê]{"entity":"object","value":"vntourism:Hội_làng_Nhị_Khê"}  được mô tả là ?
+    - [Lễ hội làng Đăm]{"entity":"object","value":"vntourism:Lễ_hội_làng_Đăm"}  được mô tả là ?
+    - [Lễ hội làng Thọ Am]{"entity":"object","value":"vntourism:Lễ_hội_làng_Thọ_Am"}  được mô tả là ?
+    - [Hội đình Bà Tía]{"entity":"object","value":"vntourism:Hội_đình_Bà_Tía"}  được mô tả là ?
+    - [Hội đền Hạ Lôi]{"entity":"object","value":"vntourism:Hội_đền_Hạ_Lôi"}  được mô tả là ?
+    - [Lễ hội đền Ba Xã]{"entity":"object","value":"vntourism:Lễ_hội_đền_Ba_Xã"}  được mô tả là ?
+    - [Lễ hội đình Tứ Liên (đình Ngọc Xuyên)]{"entity":"object","value":"vntourism:Lễ_hội_đình_Tứ_Liên_(đình_Ngọc_Xuyên)"}  được mô tả là ?
+    - [Ngày Nhà giáo Việt Nam]{"entity":"object","value":"vntourism:Ngày_Nhà_giáo_Việt_Nam"}  được mô tả là ?
+    - [Lễ hội đền Bích Câu]{"entity":"object","value":"vntourism:Lễ_hội_đền_Bích_Câu"}  được mô tả là ?
+    - [Hội Đình Mai]{"entity":"object","value":"vntourism:Hội_Đình_Mai"}  được mô tả là ?
+    - [Valentine Đen (Black Day)]{"entity":"object","value":"vntourism:Valentine_Đen_(Black_Day)"}  được mô tả là ?
+    - [Tiết Thanh minh]{"entity":"object","value":"vntourism:Tiết_Thanh_minh"}  được mô tả là ?
+    - [Hội đền Đông Bộ Đầu]{"entity":"object","value":"vntourism:Hội_đền_Đông_Bộ_Đầu"}  được mô tả là ?
+    - [Hội An Sơn]{"entity":"object","value":"vntourism:Hội_An_Sơn"}  được mô tả là ?
+    - [Ngày Báo chí Việt Nam]{"entity":"object","value":"vntourism:Ngày_Báo_chí_Việt_Nam"}  được mô tả là ?
+    - [Hội Lim]{"entity":"object","value":"vntourism:Hội_Lim"}  được mô tả là ?
+    - [Hội đình Phú Diễn (Hữu Hoà)]{"entity":"object","value":"vntourism:Hội_đình_Phú_Diễn_(Hữu_Hoà)"}  được mô tả là ?
+    - [Hội đình Kim Mã Hạ]{"entity":"object","value":"vntourism:Hội_đình_Kim_Mã_Hạ"}  được mô tả là ?
+    - [Tết Trung Thu]{"entity":"object","value":"vntourism:Tết_Trung_Thu"}  được mô tả là ?
+    - [Hội thổi cơm thi ở Đồng Vân]{"entity":"object","value":"vntourism:Hội_thổi_cơm_thi_ở_Đồng_Vân"}  được mô tả là ?
+    - [Lễ hội chùa Thầy]{"entity":"object","value":"vntourism:Lễ_hội_chùa_Thầy"}  được mô tả là ?
+    - [Ngày Quốc tế Người cao tuổi]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_Người_cao_tuổi"}  được mô tả là ?
+    - [Hội thờ Thủy thần]{"entity":"object","value":"vntourism:Hội_thờ_Thủy_thần"}  được mô tả là ?
+    - [Lễ hội đình Ngũ Giáp]{"entity":"object","value":"vntourism:Lễ_hội_đình_Ngũ_Giáp"}  được mô tả là ?
+    - [Hội chùa Hàm Long]{"entity":"object","value":"vntourism:Hội_chùa_Hàm_Long"}  được mô tả là ?
+    - [Lễ hội đình và đền Kim Liên (Cao Sơn)]{"entity":"object","value":"vntourism:Lễ_hội_đình_và_đền_Kim_Liên_(Cao_Sơn)"}  được mô tả là ?
+    - [Ngày lễ Giáng sinh]{"entity":"object","value":"vntourism:Ngày_lễ_Giáng_sinh"}  được mô tả là ?
+    - [Lễ hội đình La Dương]{"entity":"object","value":"vntourism:Lễ_hội_đình_La_Dương"}  được mô tả là ?
+    - [Hội đền Cai Công]{"entity":"object","value":"vntourism:Hội_đền_Cai_Công"}  được mô tả là ?
+    - [Lễ hội đình Mông Phụ]{"entity":"object","value":"vntourism:Lễ_hội_đình_Mông_Phụ"}  được mô tả là ?
+    - [Hội đền Xuân Lai]{"entity":"object","value":"vntourism:Hội_đền_Xuân_Lai"}  được mô tả là ?
+    - [Hội làng Lai Tảo]{"entity":"object","value":"vntourism:Hội_làng_Lai_Tảo"}  được mô tả là ?
+    - [Ngày Quốc tế Nam giới]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_Nam_giới"}  được mô tả là ?
+    - [Hội làng Giáp Lục]{"entity":"object","value":"vntourism:Hội_làng_Giáp_Lục"}  được mô tả là ?
+    - [Lễ hội làng Hạ Thái]{"entity":"object","value":"vntourism:Lễ_hội_làng_Hạ_Thái"}  được mô tả là ?
+    - [Hội làng Phú Đô]{"entity":"object","value":"vntourism:Hội_làng_Phú_Đô"}  được mô tả là ?
+    - [Ngày sinh của Chủ tịch Hồ Chí Minh]{"entity":"object","value":"vntourism:Ngày_sinh_của_Chủ_tịch_Hồ_Chí_Minh"}  được mô tả là ?
+    - [Hội làng Thanh Am]{"entity":"object","value":"vntourism:Hội_làng_Thanh_Am"}  được mô tả là ?
+    - [Lễ hội Vân Sa]{"entity":"object","value":"vntourism:Lễ_hội_Vân_Sa"}  được mô tả là ?
+    - [Hội đình Nhật Tảo]{"entity":"object","value":"vntourism:Hội_đình_Nhật_Tảo"}  được mô tả là ?
+    - [Ngày Quốc tế thiếu nhi]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_thiếu_nhi"}  được mô tả là ?
+    - [Hội đình Trường Lâm]{"entity":"object","value":"vntourism:Hội_đình_Trường_Lâm"}  được mô tả là ?
+    - [Ngày thành lập Hội Phụ nữ Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Hội_Phụ_nữ_Việt_Nam"}  được mô tả là ?
+    - [Hội làng Yên Nội]{"entity":"object","value":"vntourism:Hội_làng_Yên_Nội"}  được mô tả là ?
+    - [Ngày giải phóng miền Nam]{"entity":"object","value":"vntourism:Ngày_giải_phóng_miền_Nam"}  được mô tả là ?
+    - [Lễ hội thổi cơm thi Thị Cấm]{"entity":"object","value":"vntourism:Lễ_hội_thổi_cơm_thi_Thị_Cấm"}  được mô tả là ?
+    - [Lễ tình nhân (Valentine)]{"entity":"object","value":"vntourism:Lễ_tình_nhân_(Valentine)"}  được mô tả là ?
+    - [Hội Phủ Đức]{"entity":"object","value":"vntourism:Hội_Phủ_Đức"}  được mô tả là ?
+    - [Lễ hội chùa Duệ Tú]{"entity":"object","value":"vntourism:Lễ_hội_chùa_Duệ_Tú"}  được mô tả là ?
+    - [Lễ hội đền Lư Giang]{"entity":"object","value":"vntourism:Lễ_hội_đền_Lư_Giang"}  được mô tả là ?
+    - [Hội đền Hát Môn]{"entity":"object","value":"vntourism:Hội_đền_Hát_Môn"}  được mô tả là ?
+    - [Hội làng Khê Hồi]{"entity":"object","value":"vntourism:Hội_làng_Khê_Hồi"}  được mô tả là ?
+    - [Lễ hội đình-đền Chèm]{"entity":"object","value":"vntourism:Lễ_hội_đình-đền_Chèm"}  được mô tả là ?
+    - [Hội làng Hồ Khẩu]{"entity":"object","value":"vntourism:Hội_làng_Hồ_Khẩu"}  được mô tả là ?
+    - [Lễ hội làng Sơn Đồng]{"entity":"object","value":"vntourism:Lễ_hội_làng_Sơn_Đồng"}  được mô tả là ?
+    - [Hội làng Canh Hoạch (làng Vác)]{"entity":"object","value":"vntourism:Hội_làng_Canh_Hoạch_(làng_Vác)"}  được mô tả là ?
+    - [Hội tế Trung Đồ]{"entity":"object","value":"vntourism:Hội_tế_Trung_Đồ"}  được mô tả là ?
+    - [Ngày Sức khỏe Thế giới]{"entity":"object","value":"vntourism:Ngày_Sức_khỏe_Thế_giới"}  được mô tả là ?
+    - [Hội làng Xuân Dục]{"entity":"object","value":"vntourism:Hội_làng_Xuân_Dục"}  được mô tả là ?
+    - [Hội đền bà Tấm]{"entity":"object","value":"vntourism:Hội_đền_bà_Tấm"}  được mô tả là ?
+    - [Lễ hội Cổ Loa]{"entity":"object","value":"vntourism:Lễ_hội_Cổ_Loa"}  được mô tả là ?
+    - [Ngày thành lập Mặt trận Tổ quốc Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Mặt_trận_Tổ_quốc_Việt_Nam"}  được mô tả là ?
+    - [Hội rước thành hoàng tổng Hà Hồi]{"entity":"object","value":"vntourism:Hội_rước_thành_hoàng_tổng_Hà_Hồi"}  được mô tả là ?
+    - [Hội đền Ghềnh (Hà Nội)]{"entity":"object","value":"vntourism:Hội_đền_Ghềnh_(Hà_Nội)"}  được mô tả là ?
+    - [Hội làng Phú Xá]{"entity":"object","value":"vntourism:Hội_làng_Phú_Xá"}  được mô tả là ?
+    - [Lễ hội làng Sủi]{"entity":"object","value":"vntourism:Lễ_hội_làng_Sủi"}  được mô tả là ?
+    - [Hội xã Tự Nhiên]{"entity":"object","value":"vntourism:Hội_xã_Tự_Nhiên"}  được mô tả là ?
+    - [Lễ hội đình Nhật Tân]{"entity":"object","value":"vntourism:Lễ_hội_đình_Nhật_Tân"}  được mô tả là ?
+    - [Lễ hội chùa Hương]{"entity":"object","value":"vntourism:Lễ_hội_chùa_Hương"}  được mô tả là ?
+    - [Ngày toàn quốc kháng chiến]{"entity":"object","value":"vntourism:Ngày_toàn_quốc_kháng_chiến"}  được mô tả là ?
+    - [Lễ cúng Ông Táo]{"entity":"object","value":"vntourism:Lễ_cúng_Ông_Táo"}  được mô tả là ?
+    - [Hội Sốm]{"entity":"object","value":"vntourism:Hội_Sốm"}  được mô tả là ?
+    - [Ngày Quốc tế Hạnh phúc]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_Hạnh_phúc"}  được mô tả là ?
+    - [Lễ tình nhân (Valentine, Valentine đỏ)]{"entity":"object","value":"vntourism:Lễ_tình_nhân_(Valentine,_Valentine_đỏ)"}  được mô tả là ?
+    - [Lễ hội đền Bạch Mã]{"entity":"object","value":"vntourism:Lễ_hội_đền_Bạch_Mã"}  được mô tả là ?
+    - [Hội Đại Mỗ]{"entity":"object","value":"vntourism:Hội_Đại_Mỗ"}  được mô tả là ?
+    - [Ngày thành lập Hội Cựu chiến binh Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Hội_Cựu_chiến_binh_Việt_Nam"}  được mô tả là ?
+    - [Ngày thành lập Đoàn Thanh niên Cộng sản Hồ Chí Minh]{"entity":"object","value":"vntourism:Ngày_thành_lập_Đoàn_Thanh_niên_Cộng_sản_Hồ_Chí_Minh"}  được mô tả là ?
+    - [Ngày thành lập Đội Thiếu niên Tiền phong Hồ Chí Minh]{"entity":"object","value":"vntourism:Ngày_thành_lập_Đội_Thiếu_niên_Tiền_phong_Hồ_Chí_Minh"}  được mô tả là ?
+    - [Hội thả diều Bá Giang]{"entity":"object","value":"vntourism:Hội_thả_diều_Bá_Giang"}  được mô tả là ?
+    - [Hội làng Nghè]{"entity":"object","value":"vntourism:Hội_làng_Nghè"}  được mô tả là ?
+    - [Ngày thành lập Hội Nông dân Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Hội_Nông_dân_Việt_Nam"}  được mô tả là ?
+    - [Ngày Học sinh – Sinh viên Việt Nam]{"entity":"object","value":"vntourism:Ngày_Học_sinh_–_Sinh_viên_Việt_Nam"}  được mô tả là ?
+    - [Ngày Bác Hồ ra đi tìm đường cứu nước và ngày Môi trường Thế giới]{"entity":"object","value":"vntourism:Ngày_Bác_Hồ_ra_đi_tìm_đường_cứu_nước_và_ngày_Môi_trường_Thế_giới"}  được mô tả là ?
+    - [Hội vật làng Yên Nội]{"entity":"object","value":"vntourism:Hội_vật_làng_Yên_Nội"}  được mô tả là ?
+    - [Lễ hội làng Bắc Biên]{"entity":"object","value":"vntourism:Lễ_hội_làng_Bắc_Biên"}  được mô tả là ?
+    - [Lễ hội Võng La]{"entity":"object","value":"vntourism:Lễ_hội_Võng_La"}  được mô tả là ?
+    - [Hội làng Hậu Ái]{"entity":"object","value":"vntourism:Hội_làng_Hậu_Ái"}  được mô tả là ?
+    - [Lễ hội đình Phú Gia]{"entity":"object","value":"vntourism:Lễ_hội_đình_Phú_Gia"}  được mô tả là ?
+    - [Ngày Sách Việt Nam]{"entity":"object","value":"vntourism:Ngày_Sách_Việt_Nam"}  được mô tả là ?
+    - [Hội làng Động Phí]{"entity":"object","value":"vntourism:Hội_làng_Động_Phí"}  được mô tả là ?
+    - [Hội làng Cót]{"entity":"object","value":"vntourism:Hội_làng_Cót"}  được mô tả là ?
+    - [Hội làng Liên Bạt]{"entity":"object","value":"vntourism:Hội_làng_Liên_Bạt"}  được mô tả là ?
+    - [Lễ hội chùa Láng]{"entity":"object","value":"vntourism:Lễ_hội_chùa_Láng"}  được mô tả là ?
+    - [Lễ hội đình Yên Phụ]{"entity":"object","value":"vntourism:Lễ_hội_đình_Yên_Phụ"}  được mô tả là ?
+    - [Hội Hoa Sơn]{"entity":"object","value":"vntourism:Hội_Hoa_Sơn"}  được mô tả là ?
+    - [Tết Hàn Thực]{"entity":"object","value":"vntourism:Tết_Hàn_Thực"}  được mô tả là ?
+    - [Hội đình An Phú]{"entity":"object","value":"vntourism:Hội_đình_An_Phú"}  được mô tả là ?
+    - [Ngày Halloween]{"entity":"object","value":"vntourism:Ngày_Halloween"}  được mô tả là ?
+    - [Ngày Thương binh liệt sĩ]{"entity":"object","value":"vntourism:Ngày_Thương_binh_liệt_sĩ"}  được mô tả là ?
+    - [Hội Võng Thị]{"entity":"object","value":"vntourism:Hội_Võng_Thị"}  được mô tả là ?
+    - [Ngày Quốc tế Lao động]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_Lao_động"}  được mô tả là ?
+    - [Hội Nghiềm]{"entity":"object","value":"vntourism:Hội_Nghiềm"}  được mô tả là ?
+    - [Lễ hội đình Đại Yên]{"entity":"object","value":"vntourism:Lễ_hội_đình_Đại_Yên"}  được mô tả là ?
+    - [Ngày thành lập Hội Liên hiệp Thanh niên Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Hội_Liên_hiệp_Thanh_niên_Việt_Nam"}  Có mô tả ?
+    - [Hội đình Gừng Khương Hạ]{"entity":"object","value":"vntourism:Hội_đình_Gừng_Khương_Hạ"}  Có mô tả ?
+    - [Hội miếu Vũ, Xuân Đỉnh]{"entity":"object","value":"vntourism:Hội_miếu_Vũ,_Xuân_Đỉnh"}  Có mô tả ?
+    - [Lễ hội đình Giảng Võ]{"entity":"object","value":"vntourism:Lễ_hội_đình_Giảng_Võ"}  Có mô tả ?
+    - [Hội đình Vẽ]{"entity":"object","value":"vntourism:Hội_đình_Vẽ"}  Có mô tả ?
+    - [Hội Dịch Vọng Trung]{"entity":"object","value":"vntourism:Hội_Dịch_Vọng_Trung"}  Có mô tả ?
+    - [Hội Sơn Thanh]{"entity":"object","value":"vntourism:Hội_Sơn_Thanh"}  Có mô tả ?
+    - [Ngày thành lập Đoàn TNCS Hồ Chí Minh]{"entity":"object","value":"vntourism:Ngày_thành_lập_Đoàn_TNCS_Hồ_Chí_Minh"}  Có mô tả ?
+    - [Hội làng Vo]{"entity":"object","value":"vntourism:Hội_làng_Vo"}  Có mô tả ?
+    - [Lễ hội đền Cống Yên]{"entity":"object","value":"vntourism:Lễ_hội_đền_Cống_Yên"}  Có mô tả ?
+    - [Lễ hội chùa Thánh Chúa]{"entity":"object","value":"vntourism:Lễ_hội_chùa_Thánh_Chúa"}  Có mô tả ?
+    - [Hội Sài Đồng]{"entity":"object","value":"vntourism:Hội_Sài_Đồng"}  Có mô tả ?
+    - [Lễ hội đình Ứng Thiên]{"entity":"object","value":"vntourism:Lễ_hội_đình_Ứng_Thiên"}  Có mô tả ?
+    - [Lễ Hội Tịch Điền]{"entity":"object","value":"vntourism:Lễ_Hội_Tịch_Điền"}  Có mô tả ?
+    - [Hội làng Đông Dư]{"entity":"object","value":"vntourism:Hội_làng_Đông_Dư"}  Có mô tả ?
+    - [Hội làng Yên Thái]{"entity":"object","value":"vntourism:Hội_làng_Yên_Thái"}  Có mô tả ?
+    - [Ngày Quốc tế Thể thao]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_Thể_thao"}  Có mô tả ?
+    - [Hội đua thuyền Yên Duyên]{"entity":"object","value":"vntourism:Hội_đua_thuyền_Yên_Duyên"}  Có mô tả ?
+    - [Lễ hội làng Huỳnh Cung]{"entity":"object","value":"vntourism:Lễ_hội_làng_Huỳnh_Cung"}  Có mô tả ?
+    - [Hội làng Lê Xá]{"entity":"object","value":"vntourism:Hội_làng_Lê_Xá"}  Có mô tả ?
+    - [Lễ Vu Lan]{"entity":"object","value":"vntourism:Lễ_Vu_Lan"}  Có mô tả ?
+    - [Ngày thầy thuốc Việt Nam]{"entity":"object","value":"vntourism:Ngày_thầy_thuốc_Việt_Nam"}  Có mô tả ?
+    - [Hội chùa Tây Phương]{"entity":"object","value":"vntourism:Hội_chùa_Tây_Phương"}  Có mô tả ?
+    - [Hội Bạch Trữ (Kẻ Bạch)]{"entity":"object","value":"vntourism:Hội_Bạch_Trữ_(Kẻ_Bạch)"}  Có mô tả ?
+    - [Hội làng Hải Bối]{"entity":"object","value":"vntourism:Hội_làng_Hải_Bối"}  Có mô tả ?
+    - [Hội làng Bồ Đề]{"entity":"object","value":"vntourism:Hội_làng_Bồ_Đề"}  Có mô tả ?
+    - [Lễ hội Đống Đa]{"entity":"object","value":"vntourism:Lễ_hội_Đống_Đa"}  Có mô tả ?
+    - [Ngày thế giới phòng chống AIDS]{"entity":"object","value":"vntourism:Ngày_thế_giới_phòng_chống_AIDS"}  Có mô tả ?
+    - [Ngày Valentine Trắng(White day).]{"entity":"object","value":"vntourism:Ngày_Valentine_Trắng(White_day)."}  Có mô tả ?
+    - [Ngày thành lập Hội chữ thập đỏ Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Hội_chữ_thập_đỏ_Việt_Nam"}  Có mô tả ?
+    - [Hội làng Tó]{"entity":"object","value":"vntourism:Hội_làng_Tó"}  Có mô tả ?
+    - [Hội làng Ngọc Trì]{"entity":"object","value":"vntourism:Hội_làng_Ngọc_Trì"}  Có mô tả ?
+    - [Hội đình Thượng Lão]{"entity":"object","value":"vntourism:Hội_đình_Thượng_Lão"}  Có mô tả ?
+    - [Hội chùa Trầm]{"entity":"object","value":"vntourism:Hội_chùa_Trầm"}  Có mô tả ?
+    - [Hội làng Đa Sĩ]{"entity":"object","value":"vntourism:Hội_làng_Đa_Sĩ"}  Có mô tả ?
+    - [Hội đình Gia Thuỵ]{"entity":"object","value":"vntourism:Hội_đình_Gia_Thuỵ"}  Có mô tả ?
+    - [Hội làng chài Vạn Vĩ]{"entity":"object","value":"vntourism:Hội_làng_chài_Vạn_Vĩ"}  Có mô tả ?
+    - [Lễ hội đình An Hòa]{"entity":"object","value":"vntourism:Lễ_hội_đình_An_Hòa"}  Có mô tả ?
+    - [Hội chùa Đậu]{"entity":"object","value":"vntourism:Hội_chùa_Đậu"}  Có mô tả ?
+    - [Hội làng Bà Già]{"entity":"object","value":"vntourism:Hội_làng_Bà_Già"}  Có mô tả ?
+    - [Lễ hội đền Đồng Nhân]{"entity":"object","value":"vntourism:Lễ_hội_đền_Đồng_Nhân"}  Có mô tả ?
+    - [Ngày dân số thế giới]{"entity":"object","value":"vntourism:Ngày_dân_số_thế_giới"}  Có mô tả ?
+    - [Hội đình Thanh Liệt]{"entity":"object","value":"vntourism:Hội_đình_Thanh_Liệt"}  Có mô tả ?
+    - [Hội cướp cầu Viên Nội]{"entity":"object","value":"vntourism:Hội_cướp_cầu_Viên_Nội"}  Có mô tả ?
+    - [Lễ hội Gióng]{"entity":"object","value":"vntourism:Lễ_hội_Gióng"}  Có mô tả ?
+    - [Hội Ninh Hiệp]{"entity":"object","value":"vntourism:Hội_Ninh_Hiệp"}  Có mô tả ?
+    - [Ngày Thể thao Việt Nam]{"entity":"object","value":"vntourism:Ngày_Thể_thao_Việt_Nam"}  Có mô tả ?
+    - [Ngày Quốc Khánh]{"entity":"object","value":"vntourism:Ngày_Quốc_Khánh"}  Có mô tả ?
+    - [Lễ hội chùa Vua]{"entity":"object","value":"vntourism:Lễ_hội_chùa_Vua"}  Có mô tả ?
+    - [Ngày Phụ nữ Việt Nam]{"entity":"object","value":"vntourism:Ngày_Phụ_nữ_Việt_Nam"}  Có mô tả ?
+    - [Tết Dương lịch]{"entity":"object","value":"vntourism:Tết_Dương_lịch"}  Có mô tả ?
+    - [Lễ hội Thập Tam Trại]{"entity":"object","value":"vntourism:Lễ_hội_Thập_Tam_Trại"}  Có mô tả ?
+    - [Hội Ngũ Xã]{"entity":"object","value":"vntourism:Hội_Ngũ_Xã"}  Có mô tả ?
+    - [Hội đền Thanh Nhàn]{"entity":"object","value":"vntourism:Hội_đền_Thanh_Nhàn"}  Có mô tả ?
+    - [Hội làng Ruộng]{"entity":"object","value":"vntourism:Hội_làng_Ruộng"}  Có mô tả ?
+    - [Hội đền Dầm]{"entity":"object","value":"vntourism:Hội_đền_Dầm"}  Có mô tả ?
+    - [Hội đánh cá làng Me - Tường Phiêu]{"entity":"object","value":"vntourism:Hội_đánh_cá_làng_Me_-_Tường_Phiêu"}  Có mô tả ?
+    - [Lễ hội làng Chàng Sơn]{"entity":"object","value":"vntourism:Lễ_hội_làng_Chàng_Sơn"}  Có mô tả ?
+    - [Hội làng Phú Mỹ— Kiều Mai]{"entity":"object","value":"vntourism:Hội_làng_Phú_Mỹ—_Kiều_Mai"}  Có mô tả ?
+    - [Lễ hội đình Đông Phù]{"entity":"object","value":"vntourism:Lễ_hội_đình_Đông_Phù"}  Có mô tả ?
+    - [Ngày Trái Đất]{"entity":"object","value":"vntourism:Ngày_Trái_Đất"}  Có mô tả ?
+    - [Lễ hội đình Giàn]{"entity":"object","value":"vntourism:Lễ_hội_đình_Giàn"}  Có mô tả ?
+    - [Lễ hội làng Triều Khúc]{"entity":"object","value":"vntourism:Lễ_hội_làng_Triều_Khúc"}  Có mô tả ?
+    - [Hội làng Mạnh Tân]{"entity":"object","value":"vntourism:Hội_làng_Mạnh_Tân"}  Có mô tả ?
+    - [Lễ hội làng Bát Tràng]{"entity":"object","value":"vntourism:Lễ_hội_làng_Bát_Tràng"}  Có mô tả ?
+    - [Lễ hội đình làng Trung Kính Thượng]{"entity":"object","value":"vntourism:Lễ_hội_đình_làng_Trung_Kính_Thượng"}  Có mô tả ?
+    - [Ngày chiến thắng Điện Biên Phủ]{"entity":"object","value":"vntourism:Ngày_chiến_thắng_Điện_Biên_Phủ"}  Có mô tả ?
+    - [Hội Bất Nạo]{"entity":"object","value":"vntourism:Hội_Bất_Nạo"}  Có mô tả ?
+    - [Hội chợ Chuông]{"entity":"object","value":"vntourism:Hội_chợ_Chuông"}  Có mô tả ?
+    - [Hội đình Quảng Bá]{"entity":"object","value":"vntourism:Hội_đình_Quảng_Bá"}  Có mô tả ?
+    - [Hội Lỗ Khê]{"entity":"object","value":"vntourism:Hội_Lỗ_Khê"}  Có mô tả ?
+    - [Hội làng Nghi Tàm]{"entity":"object","value":"vntourism:Hội_làng_Nghi_Tàm"}  Có mô tả ?
+    - [Lễ hội chọi trâu]{"entity":"object","value":"vntourism:Lễ_hội_chọi_trâu"}  Có mô tả ?
+    - [Hội làng Quậy]{"entity":"object","value":"vntourism:Hội_làng_Quậy"}  Có mô tả ?
+    - [Hội đình Văn Khê]{"entity":"object","value":"vntourism:Hội_đình_Văn_Khê"}  Có mô tả ?
+    - [Hội làng Thúy Lĩnh]{"entity":"object","value":"vntourism:Hội_làng_Thúy_Lĩnh"}  Có mô tả ?
+    - [Ngày thành lập Quân đội nhân dân Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Quân_đội_nhân_dân_Việt_Nam"}  Có mô tả ?
+    - [Hội làng Đại Lan]{"entity":"object","value":"vntourism:Hội_làng_Đại_Lan"}  Có mô tả ?
+    - [Hội làng Khê Thượng]{"entity":"object","value":"vntourism:Hội_làng_Khê_Thượng"}  Có mô tả ?
+    - [Hội làng Lệ Mật]{"entity":"object","value":"vntourism:Hội_làng_Lệ_Mật"}  Có mô tả ?
+    - [Hội Quất Động]{"entity":"object","value":"vntourism:Hội_Quất_Động"}  Có mô tả ?
+    - [Hội đền Đồng Cổ (hội thề Đồng Cổ)]{"entity":"object","value":"vntourism:Hội_đền_Đồng_Cổ_(hội_thề_Đồng_Cổ)"}  Có mô tả ?
+    - [Hội miếu Mèn]{"entity":"object","value":"vntourism:Hội_miếu_Mèn"}  Có mô tả ?
+    - [Lễ hội đền Quán Đôi]{"entity":"object","value":"vntourism:Lễ_hội_đền_Quán_Đôi"}  Có mô tả ?
+    - [Hội năm làng Mọc]{"entity":"object","value":"vntourism:Hội_năm_làng_Mọc"}  Có mô tả ?
+    - [Hội đền Sái (Hội rước vua sống)]{"entity":"object","value":"vntourism:Hội_đền_Sái_(Hội_rước_vua_sống)"}  Có mô tả ?
+    - [Hội đền Thụy Khuê]{"entity":"object","value":"vntourism:Hội_đền_Thụy_Khuê"}  Có mô tả ?
+    - [Ngày thành lập Đài Truyền hình Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Đài_Truyền_hình_Việt_Nam"}  Có mô tả ?
+    - [Hội phủ Tây Hồ]{"entity":"object","value":"vntourism:Hội_phủ_Tây_Hồ"}  Có mô tả ?
+    - [Hội thả chim làng Dục Tú]{"entity":"object","value":"vntourism:Hội_thả_chim_làng_Dục_Tú"}  Có mô tả ?
+    - [Ngày truyền thống Luật sư Việt Nam]{"entity":"object","value":"vntourism:Ngày_truyền_thống_Luật_sư_Việt_Nam"}  Có mô tả ?
+    - [Ngày thành lập Đảng Cộng sản Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Đảng_Cộng_sản_Việt_Nam"}  Có mô tả ?
+    - [Hội làng Thổ Khối]{"entity":"object","value":"vntourism:Hội_làng_Thổ_Khối"}  Có mô tả ?
+    - [Hội đền Hữu Vĩnh]{"entity":"object","value":"vntourism:Hội_đền_Hữu_Vĩnh"}  Có mô tả ?
+    - [Lễ hội đền Măng Sơn]{"entity":"object","value":"vntourism:Lễ_hội_đền_Măng_Sơn"}  Có mô tả ?
+    - [Ngày thành lập lực lượng Dân quân tự vệ]{"entity":"object","value":"vntourism:Ngày_thành_lập_lực_lượng_Dân_quân_tự_vệ"}  Có mô tả ?
+    - [Hội làng Cán Khê]{"entity":"object","value":"vntourism:Hội_làng_Cán_Khê"}  Có mô tả ?
+    - [Hội vật Mai Động]{"entity":"object","value":"vntourism:Hội_vật_Mai_Động"}  Có mô tả ?
+    - [Lễ hội đền Và]{"entity":"object","value":"vntourism:Lễ_hội_đền_Và"}  Có mô tả ?
+    - [Ngày thành lập Công đoàn Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Công_đoàn_Việt_Nam"}  Có mô tả ?
+    - [Ngày Pháp luật Việt Nam]{"entity":"object","value":"vntourism:Ngày_Pháp_luật_Việt_Nam"}  Có mô tả ?
+    - [Ngày Cá tháng Tư]{"entity":"object","value":"vntourism:Ngày_Cá_tháng_Tư"}  Có mô tả ?
+    - [Lễ hội kén rể]{"entity":"object","value":"vntourism:Lễ_hội_kén_rể"}  Có mô tả ?
+    - [Hội đình Nội Bình Đà]{"entity":"object","value":"vntourism:Hội_đình_Nội_Bình_Đà"}  Có mô tả ?
+    - [Hội làng An Cốc (Kẻ Quán)]{"entity":"object","value":"vntourism:Hội_làng_An_Cốc_(Kẻ_Quán)"}  Có mô tả ?
+    - [Lễ hội đình Vạn Phúc]{"entity":"object","value":"vntourism:Lễ_hội_đình_Vạn_Phúc"}  Có mô tả ?
+    - [Hội đình Trần Đăng]{"entity":"object","value":"vntourism:Hội_đình_Trần_Đăng"}  Có mô tả ?
+    - [Ngày sinh chủ tịch Hồ Chí Minh]{"entity":"object","value":"vntourism:Ngày_sinh_chủ_tịch_Hồ_Chí_Minh"}  Có mô tả ?
+    - [Ngày Cách mạng tháng Tám thành công và ngày truyền thống Công an nhân dân.]{"entity":"object","value":"vntourism:Ngày_Cách_mạng_tháng_Tám_thành_công_và_ngày_truyền_thống_Công_an_nhân_dân."}  Có mô tả ?
+    - [Hội đền Nguyễn Trãi]{"entity":"object","value":"vntourism:Hội_đền_Nguyễn_Trãi"}  Có mô tả ?
+    - [Ngày Nước sạch Thế giới]{"entity":"object","value":"vntourism:Ngày_Nước_sạch_Thế_giới"}  Có mô tả ?
+    - [Hội chùa Bối Khê]{"entity":"object","value":"vntourism:Hội_chùa_Bối_Khê"}  Có mô tả ?
+    - [Lễ hội núi Sưa]{"entity":"object","value":"vntourism:Lễ_hội_núi_Sưa"}  Có mô tả ?
+    - [Ngày Điều dưỡng Việt Nam]{"entity":"object","value":"vntourism:Ngày_Điều_dưỡng_Việt_Nam"}  Có mô tả ?
+    - [Hội Chi Nam (hội Phù Gióng)]{"entity":"object","value":"vntourism:Hội_Chi_Nam_(hội_Phù_Gióng)"}  Có mô tả ?
+    - [Lễ hội đền Đại Lộ (đền Mẫu)]{"entity":"object","value":"vntourism:Lễ_hội_đền_Đại_Lộ_(đền_Mẫu)"}  Có mô tả ?
+    - [Hội Gióng đền Sóc]{"entity":"object","value":"vntourism:Hội_Gióng_đền_Sóc"}  Có mô tả ?
+    - [Hội làng Vải (hội Tầm Xá)]{"entity":"object","value":"vntourism:Hội_làng_Vải_(hội_Tầm_Xá)"}  Có mô tả ?
+    - [Lễ hội chùa Nành]{"entity":"object","value":"vntourism:Lễ_hội_chùa_Nành"}  Có mô tả ?
+    - [Ngày Quốc tế Hòa bình]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_Hòa_bình"}  Có mô tả ?
+    - [Lễ hội đền Voi Phục]{"entity":"object","value":"vntourism:Lễ_hội_đền_Voi_Phục"}  Có mô tả ?
+    - [Hội làng Thượng Phúc]{"entity":"object","value":"vntourism:Hội_làng_Thượng_Phúc"}  Có mô tả ?
+    - [Hội Quán Thánh]{"entity":"object","value":"vntourism:Hội_Quán_Thánh"}  Có mô tả ?
+    - [Lễ hội đình làng Nam Đồng]{"entity":"object","value":"vntourism:Lễ_hội_đình_làng_Nam_Đồng"}  Có mô tả ?
+    - [Lễ hội đền Bà Chúa]{"entity":"object","value":"vntourism:Lễ_hội_đền_Bà_Chúa"}  Có mô tả ?
+    - [Ngày Quốc tế Phụ nữ]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_Phụ_nữ"}  Có mô tả ?
+    - [Hội làng Mạch Lũng]{"entity":"object","value":"vntourism:Hội_làng_Mạch_Lũng"}  Có mô tả ?
+    - [Hội điện Thái Bình]{"entity":"object","value":"vntourism:Hội_điện_Thái_Bình"}  Có mô tả ?
+    - [Lễ hội Tổng Nam Phù]{"entity":"object","value":"vntourism:Lễ_hội_Tổng_Nam_Phù"}  Có mô tả ?
+    - [Lễ hội chùa Trăm Gian]{"entity":"object","value":"vntourism:Lễ_hội_chùa_Trăm_Gian"}  Có mô tả ?
+    - [Hội làng Xuân Nộn]{"entity":"object","value":"vntourism:Hội_làng_Xuân_Nộn"}  Có mô tả ?
+    - [Giỗ Tổ Hùng Vương]{"entity":"object","value":"vntourism:Giỗ_Tổ_Hùng_Vương"}  Có mô tả ?
+    - [Tết Nguyên Đán]{"entity":"object","value":"vntourism:Tết_Nguyên_Đán"}  Có mô tả ?
+    - [Hội bơi Thượng Cát]{"entity":"object","value":"vntourism:Hội_bơi_Thượng_Cát"}  Có mô tả ?
+    - [Ngày Giải phóng Thủ đô và ngày truyền thống Luật sư Việt Nam]{"entity":"object","value":"vntourism:Ngày_Giải_phóng_Thủ_đô_và_ngày_truyền_thống_Luật_sư_Việt_Nam"}  Có mô tả ?
+    - [Lễ hội đình Bái Ân]{"entity":"object","value":"vntourism:Lễ_hội_đình_Bái_Ân"}  Có mô tả ?
+    - [Ngày Gia đình Việt Nam]{"entity":"object","value":"vntourism:Ngày_Gia_đình_Việt_Nam"}  Có mô tả ?
+    - [Hội đền Ninh Xá]{"entity":"object","value":"vntourism:Hội_đền_Ninh_Xá"}  Có mô tả ?
+    - [Ngày Quốc tế Nụ hôn]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_Nụ_hôn"}  Có mô tả ?
+    - [Hội chùa Hoa Lăng]{"entity":"object","value":"vntourism:Hội_chùa_Hoa_Lăng"}  Có mô tả ?
+    - [Đêm hội Rã La]{"entity":"object","value":"vntourism:Đêm_hội_Rã_La"}  Có mô tả ?
+    - [Hội bơi trải Vĩnh Tuy]{"entity":"object","value":"vntourism:Hội_bơi_trải_Vĩnh_Tuy"}  Có mô tả ?
+    - [Hội Quán Giá]{"entity":"object","value":"vntourism:Hội_Quán_Giá"}  Có mô tả ?
+    - [Hội làng Hà Hương]{"entity":"object","value":"vntourism:Hội_làng_Hà_Hương"}  Có mô tả ?
+    - [Ngày Doanh nhân Việt Nam]{"entity":"object","value":"vntourism:Ngày_Doanh_nhân_Việt_Nam"}  Có mô tả ?
+    - [Lễ hội đình Kim Giang]{"entity":"object","value":"vntourism:Lễ_hội_đình_Kim_Giang"}  Có mô tả ?
+    - [Hội chùa Tam Huyền]{"entity":"object","value":"vntourism:Hội_chùa_Tam_Huyền"}  Có mô tả ?
+    - [Lễ hội đình Vĩnh Ninh]{"entity":"object","value":"vntourism:Lễ_hội_đình_Vĩnh_Ninh"}  Có mô tả ?
+    - [Hội làng Nhị Khê]{"entity":"object","value":"vntourism:Hội_làng_Nhị_Khê"}  Có mô tả ?
+    - [Lễ hội làng Đăm]{"entity":"object","value":"vntourism:Lễ_hội_làng_Đăm"}  Có mô tả ?
+    - [Lễ hội làng Thọ Am]{"entity":"object","value":"vntourism:Lễ_hội_làng_Thọ_Am"}  Có mô tả ?
+    - [Hội đình Bà Tía]{"entity":"object","value":"vntourism:Hội_đình_Bà_Tía"}  Có mô tả ?
+    - [Hội đền Hạ Lôi]{"entity":"object","value":"vntourism:Hội_đền_Hạ_Lôi"}  Có mô tả ?
+    - [Lễ hội đền Ba Xã]{"entity":"object","value":"vntourism:Lễ_hội_đền_Ba_Xã"}  Có mô tả ?
+    - [Lễ hội đình Tứ Liên (đình Ngọc Xuyên)]{"entity":"object","value":"vntourism:Lễ_hội_đình_Tứ_Liên_(đình_Ngọc_Xuyên)"}  Có mô tả ?
+    - [Ngày Nhà giáo Việt Nam]{"entity":"object","value":"vntourism:Ngày_Nhà_giáo_Việt_Nam"}  Có mô tả ?
+    - [Lễ hội đền Bích Câu]{"entity":"object","value":"vntourism:Lễ_hội_đền_Bích_Câu"}  Có mô tả ?
+    - [Hội Đình Mai]{"entity":"object","value":"vntourism:Hội_Đình_Mai"}  Có mô tả ?
+    - [Valentine Đen (Black Day)]{"entity":"object","value":"vntourism:Valentine_Đen_(Black_Day)"}  Có mô tả ?
+    - [Tiết Thanh minh]{"entity":"object","value":"vntourism:Tiết_Thanh_minh"}  Có mô tả ?
+    - [Hội đền Đông Bộ Đầu]{"entity":"object","value":"vntourism:Hội_đền_Đông_Bộ_Đầu"}  Có mô tả ?
+    - [Hội An Sơn]{"entity":"object","value":"vntourism:Hội_An_Sơn"}  Có mô tả ?
+    - [Ngày Báo chí Việt Nam]{"entity":"object","value":"vntourism:Ngày_Báo_chí_Việt_Nam"}  Có mô tả ?
+    - [Hội Lim]{"entity":"object","value":"vntourism:Hội_Lim"}  Có mô tả ?
+    - [Hội đình Phú Diễn (Hữu Hoà)]{"entity":"object","value":"vntourism:Hội_đình_Phú_Diễn_(Hữu_Hoà)"}  Có mô tả ?
+    - [Hội đình Kim Mã Hạ]{"entity":"object","value":"vntourism:Hội_đình_Kim_Mã_Hạ"}  Có mô tả ?
+    - [Tết Trung Thu]{"entity":"object","value":"vntourism:Tết_Trung_Thu"}  Có mô tả ?
+    - [Hội thổi cơm thi ở Đồng Vân]{"entity":"object","value":"vntourism:Hội_thổi_cơm_thi_ở_Đồng_Vân"}  Có mô tả ?
+    - [Lễ hội chùa Thầy]{"entity":"object","value":"vntourism:Lễ_hội_chùa_Thầy"}  Có mô tả ?
+    - [Ngày Quốc tế Người cao tuổi]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_Người_cao_tuổi"}  Có mô tả ?
+    - [Hội thờ Thủy thần]{"entity":"object","value":"vntourism:Hội_thờ_Thủy_thần"}  Có mô tả ?
+    - [Lễ hội đình Ngũ Giáp]{"entity":"object","value":"vntourism:Lễ_hội_đình_Ngũ_Giáp"}  Có mô tả ?
+    - [Hội chùa Hàm Long]{"entity":"object","value":"vntourism:Hội_chùa_Hàm_Long"}  Có mô tả ?
+    - [Lễ hội đình và đền Kim Liên (Cao Sơn)]{"entity":"object","value":"vntourism:Lễ_hội_đình_và_đền_Kim_Liên_(Cao_Sơn)"}  Có mô tả ?
+    - [Ngày lễ Giáng sinh]{"entity":"object","value":"vntourism:Ngày_lễ_Giáng_sinh"}  Có mô tả ?
+    - [Lễ hội đình La Dương]{"entity":"object","value":"vntourism:Lễ_hội_đình_La_Dương"}  Có mô tả ?
+    - [Hội đền Cai Công]{"entity":"object","value":"vntourism:Hội_đền_Cai_Công"}  Có mô tả ?
+    - [Lễ hội đình Mông Phụ]{"entity":"object","value":"vntourism:Lễ_hội_đình_Mông_Phụ"}  Có mô tả ?
+    - [Hội đền Xuân Lai]{"entity":"object","value":"vntourism:Hội_đền_Xuân_Lai"}  Có mô tả ?
+    - [Hội làng Lai Tảo]{"entity":"object","value":"vntourism:Hội_làng_Lai_Tảo"}  Có mô tả ?
+    - [Ngày Quốc tế Nam giới]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_Nam_giới"}  Có mô tả ?
+    - [Hội làng Giáp Lục]{"entity":"object","value":"vntourism:Hội_làng_Giáp_Lục"}  Có mô tả ?
+    - [Lễ hội làng Hạ Thái]{"entity":"object","value":"vntourism:Lễ_hội_làng_Hạ_Thái"}  Có mô tả ?
+    - [Hội làng Phú Đô]{"entity":"object","value":"vntourism:Hội_làng_Phú_Đô"}  Có mô tả ?
+    - [Ngày sinh của Chủ tịch Hồ Chí Minh]{"entity":"object","value":"vntourism:Ngày_sinh_của_Chủ_tịch_Hồ_Chí_Minh"}  Có mô tả ?
+    - [Hội làng Thanh Am]{"entity":"object","value":"vntourism:Hội_làng_Thanh_Am"}  Có mô tả ?
+    - [Lễ hội Vân Sa]{"entity":"object","value":"vntourism:Lễ_hội_Vân_Sa"}  Có mô tả ?
+    - [Hội đình Nhật Tảo]{"entity":"object","value":"vntourism:Hội_đình_Nhật_Tảo"}  Có mô tả ?
+    - [Ngày Quốc tế thiếu nhi]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_thiếu_nhi"}  Có mô tả ?
+    - [Hội đình Trường Lâm]{"entity":"object","value":"vntourism:Hội_đình_Trường_Lâm"}  Có mô tả ?
+    - [Ngày thành lập Hội Phụ nữ Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Hội_Phụ_nữ_Việt_Nam"}  Có mô tả ?
+    - [Hội làng Yên Nội]{"entity":"object","value":"vntourism:Hội_làng_Yên_Nội"}  Có mô tả ?
+    - [Ngày giải phóng miền Nam]{"entity":"object","value":"vntourism:Ngày_giải_phóng_miền_Nam"}  Có mô tả ?
+    - [Lễ hội thổi cơm thi Thị Cấm]{"entity":"object","value":"vntourism:Lễ_hội_thổi_cơm_thi_Thị_Cấm"}  Có mô tả ?
+    - [Lễ tình nhân (Valentine)]{"entity":"object","value":"vntourism:Lễ_tình_nhân_(Valentine)"}  Có mô tả ?
+    - [Hội Phủ Đức]{"entity":"object","value":"vntourism:Hội_Phủ_Đức"}  Có mô tả ?
+    - [Lễ hội chùa Duệ Tú]{"entity":"object","value":"vntourism:Lễ_hội_chùa_Duệ_Tú"}  Có mô tả ?
+    - [Lễ hội đền Lư Giang]{"entity":"object","value":"vntourism:Lễ_hội_đền_Lư_Giang"}  Có mô tả ?
+    - [Hội đền Hát Môn]{"entity":"object","value":"vntourism:Hội_đền_Hát_Môn"}  Có mô tả ?
+    - [Hội làng Khê Hồi]{"entity":"object","value":"vntourism:Hội_làng_Khê_Hồi"}  Có mô tả ?
+    - [Lễ hội đình-đền Chèm]{"entity":"object","value":"vntourism:Lễ_hội_đình-đền_Chèm"}  Có mô tả ?
+    - [Hội làng Hồ Khẩu]{"entity":"object","value":"vntourism:Hội_làng_Hồ_Khẩu"}  Có mô tả ?
+    - [Lễ hội làng Sơn Đồng]{"entity":"object","value":"vntourism:Lễ_hội_làng_Sơn_Đồng"}  Có mô tả ?
+    - [Hội làng Canh Hoạch (làng Vác)]{"entity":"object","value":"vntourism:Hội_làng_Canh_Hoạch_(làng_Vác)"}  Có mô tả ?
+    - [Hội tế Trung Đồ]{"entity":"object","value":"vntourism:Hội_tế_Trung_Đồ"}  Có mô tả ?
+    - [Ngày Sức khỏe Thế giới]{"entity":"object","value":"vntourism:Ngày_Sức_khỏe_Thế_giới"}  Có mô tả ?
+    - [Hội làng Xuân Dục]{"entity":"object","value":"vntourism:Hội_làng_Xuân_Dục"}  Có mô tả ?
+    - [Hội đền bà Tấm]{"entity":"object","value":"vntourism:Hội_đền_bà_Tấm"}  Có mô tả ?
+    - [Lễ hội Cổ Loa]{"entity":"object","value":"vntourism:Lễ_hội_Cổ_Loa"}  Có mô tả ?
+    - [Ngày thành lập Mặt trận Tổ quốc Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Mặt_trận_Tổ_quốc_Việt_Nam"}  Có mô tả ?
+    - [Hội rước thành hoàng tổng Hà Hồi]{"entity":"object","value":"vntourism:Hội_rước_thành_hoàng_tổng_Hà_Hồi"}  Có mô tả ?
+    - [Hội đền Ghềnh (Hà Nội)]{"entity":"object","value":"vntourism:Hội_đền_Ghềnh_(Hà_Nội)"}  Có mô tả ?
+    - [Hội làng Phú Xá]{"entity":"object","value":"vntourism:Hội_làng_Phú_Xá"}  Có mô tả ?
+    - [Lễ hội làng Sủi]{"entity":"object","value":"vntourism:Lễ_hội_làng_Sủi"}  Có mô tả ?
+    - [Hội xã Tự Nhiên]{"entity":"object","value":"vntourism:Hội_xã_Tự_Nhiên"}  Có mô tả ?
+    - [Lễ hội đình Nhật Tân]{"entity":"object","value":"vntourism:Lễ_hội_đình_Nhật_Tân"}  Có mô tả ?
+    - [Lễ hội chùa Hương]{"entity":"object","value":"vntourism:Lễ_hội_chùa_Hương"}  Có mô tả ?
+    - [Ngày toàn quốc kháng chiến]{"entity":"object","value":"vntourism:Ngày_toàn_quốc_kháng_chiến"}  Có mô tả ?
+    - [Lễ cúng Ông Táo]{"entity":"object","value":"vntourism:Lễ_cúng_Ông_Táo"}  Có mô tả ?
+    - [Hội Sốm]{"entity":"object","value":"vntourism:Hội_Sốm"}  Có mô tả ?
+    - [Ngày Quốc tế Hạnh phúc]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_Hạnh_phúc"}  Có mô tả ?
+    - [Lễ tình nhân (Valentine, Valentine đỏ)]{"entity":"object","value":"vntourism:Lễ_tình_nhân_(Valentine,_Valentine_đỏ)"}  Có mô tả ?
+    - [Lễ hội đền Bạch Mã]{"entity":"object","value":"vntourism:Lễ_hội_đền_Bạch_Mã"}  Có mô tả ?
+    - [Hội Đại Mỗ]{"entity":"object","value":"vntourism:Hội_Đại_Mỗ"}  Có mô tả ?
+    - [Ngày thành lập Hội Cựu chiến binh Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Hội_Cựu_chiến_binh_Việt_Nam"}  Có mô tả ?
+    - [Ngày thành lập Đoàn Thanh niên Cộng sản Hồ Chí Minh]{"entity":"object","value":"vntourism:Ngày_thành_lập_Đoàn_Thanh_niên_Cộng_sản_Hồ_Chí_Minh"}  Có mô tả ?
+    - [Ngày thành lập Đội Thiếu niên Tiền phong Hồ Chí Minh]{"entity":"object","value":"vntourism:Ngày_thành_lập_Đội_Thiếu_niên_Tiền_phong_Hồ_Chí_Minh"}  Có mô tả ?
+    - [Hội thả diều Bá Giang]{"entity":"object","value":"vntourism:Hội_thả_diều_Bá_Giang"}  Có mô tả ?
+    - [Hội làng Nghè]{"entity":"object","value":"vntourism:Hội_làng_Nghè"}  Có mô tả ?
+    - [Ngày thành lập Hội Nông dân Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Hội_Nông_dân_Việt_Nam"}  Có mô tả ?
+    - [Ngày Học sinh – Sinh viên Việt Nam]{"entity":"object","value":"vntourism:Ngày_Học_sinh_–_Sinh_viên_Việt_Nam"}  Có mô tả ?
+    - [Ngày Bác Hồ ra đi tìm đường cứu nước và ngày Môi trường Thế giới]{"entity":"object","value":"vntourism:Ngày_Bác_Hồ_ra_đi_tìm_đường_cứu_nước_và_ngày_Môi_trường_Thế_giới"}  Có mô tả ?
+    - [Hội vật làng Yên Nội]{"entity":"object","value":"vntourism:Hội_vật_làng_Yên_Nội"}  Có mô tả ?
+    - [Lễ hội làng Bắc Biên]{"entity":"object","value":"vntourism:Lễ_hội_làng_Bắc_Biên"}  Có mô tả ?
+    - [Lễ hội Võng La]{"entity":"object","value":"vntourism:Lễ_hội_Võng_La"}  Có mô tả ?
+    - [Hội làng Hậu Ái]{"entity":"object","value":"vntourism:Hội_làng_Hậu_Ái"}  Có mô tả ?
+    - [Lễ hội đình Phú Gia]{"entity":"object","value":"vntourism:Lễ_hội_đình_Phú_Gia"}  Có mô tả ?
+    - [Ngày Sách Việt Nam]{"entity":"object","value":"vntourism:Ngày_Sách_Việt_Nam"}  Có mô tả ?
+    - [Hội làng Động Phí]{"entity":"object","value":"vntourism:Hội_làng_Động_Phí"}  Có mô tả ?
+    - [Hội làng Cót]{"entity":"object","value":"vntourism:Hội_làng_Cót"}  Có mô tả ?
+    - [Hội làng Liên Bạt]{"entity":"object","value":"vntourism:Hội_làng_Liên_Bạt"}  Có mô tả ?
+    - [Lễ hội chùa Láng]{"entity":"object","value":"vntourism:Lễ_hội_chùa_Láng"}  Có mô tả ?
+    - [Lễ hội đình Yên Phụ]{"entity":"object","value":"vntourism:Lễ_hội_đình_Yên_Phụ"}  Có mô tả ?
+    - [Hội Hoa Sơn]{"entity":"object","value":"vntourism:Hội_Hoa_Sơn"}  Có mô tả ?
+    - [Tết Hàn Thực]{"entity":"object","value":"vntourism:Tết_Hàn_Thực"}  Có mô tả ?
+    - [Hội đình An Phú]{"entity":"object","value":"vntourism:Hội_đình_An_Phú"}  Có mô tả ?
+    - [Ngày Halloween]{"entity":"object","value":"vntourism:Ngày_Halloween"}  Có mô tả ?
+    - [Ngày Thương binh liệt sĩ]{"entity":"object","value":"vntourism:Ngày_Thương_binh_liệt_sĩ"}  Có mô tả ?
+    - [Hội Võng Thị]{"entity":"object","value":"vntourism:Hội_Võng_Thị"}  Có mô tả ?
+    - [Ngày Quốc tế Lao động]{"entity":"object","value":"vntourism:Ngày_Quốc_tế_Lao_động"}  Có mô tả ?
+    - [Hội Nghiềm]{"entity":"object","value":"vntourism:Hội_Nghiềm"}  Có mô tả ?
+    - [Lễ hội đình Đại Yên]{"entity":"object","value":"vntourism:Lễ_hội_đình_Đại_Yên"}  Có mô tả ?
+    - [Hội Gióng đền Sóc]{"entity":"object","value":"vntourism:Hội_Gióng_đền_Sóc"}  tri ân ?
+    - [Hội đình Kim Mã Hạ]{"entity":"object","value":"vntourism:Hội_đình_Kim_Mã_Hạ"}  tri ân ?
+    - [Lễ hội Cổ Loa]{"entity":"object","value":"vntourism:Lễ_hội_Cổ_Loa"}  tri ân ?
+    - [Lễ hội đền Cửa Ông]{"entity":"object","value":"vntourism:Lễ_hội_đền_Cửa_Ông"}  tri ân ?
+    - [Hội làng Tó]{"entity":"object","value":"vntourism:Hội_làng_Tó"}  tri ân ?
+    - [Hội chợ Chuông]{"entity":"object","value":"vntourism:Hội_chợ_Chuông"}  tri ân ?
+    - [Hội đình Thượng Lão]{"entity":"object","value":"vntourism:Hội_đình_Thượng_Lão"}  tri ân ?
+    - [Hội đền Xuân Lai]{"entity":"object","value":"vntourism:Hội_đền_Xuân_Lai"}  tri ân ?
+    - [Lễ hội Đống Đa]{"entity":"object","value":"vntourism:Lễ_hội_Đống_Đa"}  tri ân ?
+    - [Lễ hội Côn Sơn - Kiếp Bạc]{"entity":"object","value":"vntourism:Lễ_hội_Côn_Sơn_-_Kiếp_Bạc"}  tri ân ?
+    - [Hội Sơn Thanh]{"entity":"object","value":"vntourism:Hội_Sơn_Thanh"}  tri ân ?
+    - [Lễ hội đền Đức Thánh Cả Lê Uy]{"entity":"object","value":"vntourism:Lễ_hội_đền_Đức_Thánh_Cả_Lê_Uy"}  tri ân ?
+    - [Lễ hội đình Đông Phù]{"entity":"object","value":"vntourism:Lễ_hội_đình_Đông_Phù"}  tri ân ?
+    - [Lễ hội làng Triều Khúc]{"entity":"object","value":"vntourism:Lễ_hội_làng_Triều_Khúc"}  tri ân ?
+    - [Lễ hội làng Bắc Biên]{"entity":"object","value":"vntourism:Lễ_hội_làng_Bắc_Biên"}  tri ân ?
+    - [Lễ Hội Tịch Điền]{"entity":"object","value":"vntourism:Lễ_Hội_Tịch_Điền"}  tri ân ?
+    - [Hội Gióng đền Sóc]{"entity":"object","value":"vntourism:Hội_Gióng_đền_Sóc"}  tưởng nhớ ?
+    - [Hội đình Kim Mã Hạ]{"entity":"object","value":"vntourism:Hội_đình_Kim_Mã_Hạ"}  tưởng nhớ ?
+    - [Lễ hội Cổ Loa]{"entity":"object","value":"vntourism:Lễ_hội_Cổ_Loa"}  tưởng nhớ ?
+    - [Lễ hội đền Cửa Ông]{"entity":"object","value":"vntourism:Lễ_hội_đền_Cửa_Ông"}  tưởng nhớ ?
+    - [Hội làng Tó]{"entity":"object","value":"vntourism:Hội_làng_Tó"}  tưởng nhớ ?
+    - [Hội chợ Chuông]{"entity":"object","value":"vntourism:Hội_chợ_Chuông"}  tưởng nhớ ?
+    - [Hội đình Thượng Lão]{"entity":"object","value":"vntourism:Hội_đình_Thượng_Lão"}  tưởng nhớ ?
+    - [Hội đền Xuân Lai]{"entity":"object","value":"vntourism:Hội_đền_Xuân_Lai"}  tưởng nhớ ?
+    - [Lễ hội Đống Đa]{"entity":"object","value":"vntourism:Lễ_hội_Đống_Đa"}  tưởng nhớ ?
+    - [Lễ hội Côn Sơn - Kiếp Bạc]{"entity":"object","value":"vntourism:Lễ_hội_Côn_Sơn_-_Kiếp_Bạc"}  tưởng nhớ ?
+    - [Hội Sơn Thanh]{"entity":"object","value":"vntourism:Hội_Sơn_Thanh"}  tưởng nhớ ?
+    - [Lễ hội đền Đức Thánh Cả Lê Uy]{"entity":"object","value":"vntourism:Lễ_hội_đền_Đức_Thánh_Cả_Lê_Uy"}  tưởng nhớ ?
+    - [Lễ hội đình Đông Phù]{"entity":"object","value":"vntourism:Lễ_hội_đình_Đông_Phù"}  tưởng nhớ ?
+    - [Lễ hội làng Triều Khúc]{"entity":"object","value":"vntourism:Lễ_hội_làng_Triều_Khúc"}  tưởng nhớ ?
+    - [Lễ hội làng Bắc Biên]{"entity":"object","value":"vntourism:Lễ_hội_làng_Bắc_Biên"}  tưởng nhớ ?
+    - [Lễ Hội Tịch Điền]{"entity":"object","value":"vntourism:Lễ_Hội_Tịch_Điền"}  tưởng nhớ ?
+    - [Hội Gióng đền Sóc]{"entity":"object","value":"vntourism:Hội_Gióng_đền_Sóc"}  kỷ niệm ?
+    - [Hội đình Kim Mã Hạ]{"entity":"object","value":"vntourism:Hội_đình_Kim_Mã_Hạ"}  kỷ niệm ?
+    - [Lễ hội Cổ Loa]{"entity":"object","value":"vntourism:Lễ_hội_Cổ_Loa"}  kỷ niệm ?
+    - [Lễ hội đền Cửa Ông]{"entity":"object","value":"vntourism:Lễ_hội_đền_Cửa_Ông"}  kỷ niệm ?
+    - [Hội làng Tó]{"entity":"object","value":"vntourism:Hội_làng_Tó"}  kỷ niệm ?
+    - [Hội chợ Chuông]{"entity":"object","value":"vntourism:Hội_chợ_Chuông"}  kỷ niệm ?
+    - [Hội đình Thượng Lão]{"entity":"object","value":"vntourism:Hội_đình_Thượng_Lão"}  kỷ niệm ?
+    - [Hội đền Xuân Lai]{"entity":"object","value":"vntourism:Hội_đền_Xuân_Lai"}  kỷ niệm ?
+    - [Lễ hội Đống Đa]{"entity":"object","value":"vntourism:Lễ_hội_Đống_Đa"}  kỷ niệm ?
+    - [Lễ hội Côn Sơn - Kiếp Bạc]{"entity":"object","value":"vntourism:Lễ_hội_Côn_Sơn_-_Kiếp_Bạc"}  kỷ niệm ?
+    - [Hội Sơn Thanh]{"entity":"object","value":"vntourism:Hội_Sơn_Thanh"}  kỷ niệm ?
+    - [Lễ hội đền Đức Thánh Cả Lê Uy]{"entity":"object","value":"vntourism:Lễ_hội_đền_Đức_Thánh_Cả_Lê_Uy"}  kỷ niệm ?
+    - [Lễ hội đình Đông Phù]{"entity":"object","value":"vntourism:Lễ_hội_đình_Đông_Phù"}  kỷ niệm ?
+    - [Lễ hội làng Triều Khúc]{"entity":"object","value":"vntourism:Lễ_hội_làng_Triều_Khúc"}  kỷ niệm ?
+    - [Lễ hội làng Bắc Biên]{"entity":"object","value":"vntourism:Lễ_hội_làng_Bắc_Biên"}  kỷ niệm ?
+    - [Lễ Hội Tịch Điền]{"entity":"object","value":"vntourism:Lễ_Hội_Tịch_Điền"}  kỷ niệm ?
+    - [Lễ hội đền Cửa Ông]{"entity":"object","value":"vntourism:Lễ_hội_đền_Cửa_Ông"}  bắt đầu vào ?
+    - [Lễ hội đền Cửa Ông]{"entity":"object","value":"vntourism:Lễ_hội_đền_Cửa_Ông"}  kết thúc vào ?
     - [Lễ hội Ok Om Bok]{"entity":"object","value":"vntourism:Lễ_hội_Ok_Om_Bok"}  được tổ chức ?
     - [Hội làng Giáp Lục]{"entity":"object","value":"vntourism:Hội_làng_Giáp_Lục"}  được tổ chức ?
     - [Lễ hội núi Sưa]{"entity":"object","value":"vntourism:Lễ_hội_núi_Sưa"}  được tổ chức ?
@@ -313,53 +867,6 @@
     - [Hội làng Hà Hương]{"entity":"object","value":"vntourism:Hội_làng_Hà_Hương"}  được tổ chức ?
     - [Lễ hội đình Vạn Phúc]{"entity":"object","value":"vntourism:Lễ_hội_đình_Vạn_Phúc"}  được tổ chức ?
     - [Hội làng Hồ Khẩu]{"entity":"object","value":"vntourism:Hội_làng_Hồ_Khẩu"}  được tổ chức ?
-    - [Hội Gióng đền Sóc]{"entity":"object","value":"vntourism:Hội_Gióng_đền_Sóc"}  tri ân ?
-    - [Hội đình Kim Mã Hạ]{"entity":"object","value":"vntourism:Hội_đình_Kim_Mã_Hạ"}  tri ân ?
-    - [Lễ hội Cổ Loa]{"entity":"object","value":"vntourism:Lễ_hội_Cổ_Loa"}  tri ân ?
-    - [Lễ hội đền Cửa Ông]{"entity":"object","value":"vntourism:Lễ_hội_đền_Cửa_Ông"}  tri ân ?
-    - [Hội làng Tó]{"entity":"object","value":"vntourism:Hội_làng_Tó"}  tri ân ?
-    - [Hội chợ Chuông]{"entity":"object","value":"vntourism:Hội_chợ_Chuông"}  tri ân ?
-    - [Hội đình Thượng Lão]{"entity":"object","value":"vntourism:Hội_đình_Thượng_Lão"}  tri ân ?
-    - [Hội đền Xuân Lai]{"entity":"object","value":"vntourism:Hội_đền_Xuân_Lai"}  tri ân ?
-    - [Lễ hội Đống Đa]{"entity":"object","value":"vntourism:Lễ_hội_Đống_Đa"}  tri ân ?
-    - [Lễ hội Côn Sơn - Kiếp Bạc]{"entity":"object","value":"vntourism:Lễ_hội_Côn_Sơn_-_Kiếp_Bạc"}  tri ân ?
-    - [Hội Sơn Thanh]{"entity":"object","value":"vntourism:Hội_Sơn_Thanh"}  tri ân ?
-    - [Lễ hội đình Đông Phù]{"entity":"object","value":"vntourism:Lễ_hội_đình_Đông_Phù"}  tri ân ?
-    - [Lễ hội làng Triều Khúc]{"entity":"object","value":"vntourism:Lễ_hội_làng_Triều_Khúc"}  tri ân ?
-    - [Lễ hội làng Bắc Biên]{"entity":"object","value":"vntourism:Lễ_hội_làng_Bắc_Biên"}  tri ân ?
-    - [Lễ Hội Tịch Điền]{"entity":"object","value":"vntourism:Lễ_Hội_Tịch_Điền"}  tri ân ?
-    - [Hội Gióng đền Sóc]{"entity":"object","value":"vntourism:Hội_Gióng_đền_Sóc"}  tưởng nhớ ?
-    - [Hội đình Kim Mã Hạ]{"entity":"object","value":"vntourism:Hội_đình_Kim_Mã_Hạ"}  tưởng nhớ ?
-    - [Lễ hội Cổ Loa]{"entity":"object","value":"vntourism:Lễ_hội_Cổ_Loa"}  tưởng nhớ ?
-    - [Lễ hội đền Cửa Ông]{"entity":"object","value":"vntourism:Lễ_hội_đền_Cửa_Ông"}  tưởng nhớ ?
-    - [Hội làng Tó]{"entity":"object","value":"vntourism:Hội_làng_Tó"}  tưởng nhớ ?
-    - [Hội chợ Chuông]{"entity":"object","value":"vntourism:Hội_chợ_Chuông"}  tưởng nhớ ?
-    - [Hội đình Thượng Lão]{"entity":"object","value":"vntourism:Hội_đình_Thượng_Lão"}  tưởng nhớ ?
-    - [Hội đền Xuân Lai]{"entity":"object","value":"vntourism:Hội_đền_Xuân_Lai"}  tưởng nhớ ?
-    - [Lễ hội Đống Đa]{"entity":"object","value":"vntourism:Lễ_hội_Đống_Đa"}  tưởng nhớ ?
-    - [Lễ hội Côn Sơn - Kiếp Bạc]{"entity":"object","value":"vntourism:Lễ_hội_Côn_Sơn_-_Kiếp_Bạc"}  tưởng nhớ ?
-    - [Hội Sơn Thanh]{"entity":"object","value":"vntourism:Hội_Sơn_Thanh"}  tưởng nhớ ?
-    - [Lễ hội đình Đông Phù]{"entity":"object","value":"vntourism:Lễ_hội_đình_Đông_Phù"}  tưởng nhớ ?
-    - [Lễ hội làng Triều Khúc]{"entity":"object","value":"vntourism:Lễ_hội_làng_Triều_Khúc"}  tưởng nhớ ?
-    - [Lễ hội làng Bắc Biên]{"entity":"object","value":"vntourism:Lễ_hội_làng_Bắc_Biên"}  tưởng nhớ ?
-    - [Lễ Hội Tịch Điền]{"entity":"object","value":"vntourism:Lễ_Hội_Tịch_Điền"}  tưởng nhớ ?
-    - [Hội Gióng đền Sóc]{"entity":"object","value":"vntourism:Hội_Gióng_đền_Sóc"}  kỷ niệm ?
-    - [Hội đình Kim Mã Hạ]{"entity":"object","value":"vntourism:Hội_đình_Kim_Mã_Hạ"}  kỷ niệm ?
-    - [Lễ hội Cổ Loa]{"entity":"object","value":"vntourism:Lễ_hội_Cổ_Loa"}  kỷ niệm ?
-    - [Lễ hội đền Cửa Ông]{"entity":"object","value":"vntourism:Lễ_hội_đền_Cửa_Ông"}  kỷ niệm ?
-    - [Hội làng Tó]{"entity":"object","value":"vntourism:Hội_làng_Tó"}  kỷ niệm ?
-    - [Hội chợ Chuông]{"entity":"object","value":"vntourism:Hội_chợ_Chuông"}  kỷ niệm ?
-    - [Hội đình Thượng Lão]{"entity":"object","value":"vntourism:Hội_đình_Thượng_Lão"}  kỷ niệm ?
-    - [Hội đền Xuân Lai]{"entity":"object","value":"vntourism:Hội_đền_Xuân_Lai"}  kỷ niệm ?
-    - [Lễ hội Đống Đa]{"entity":"object","value":"vntourism:Lễ_hội_Đống_Đa"}  kỷ niệm ?
-    - [Lễ hội Côn Sơn - Kiếp Bạc]{"entity":"object","value":"vntourism:Lễ_hội_Côn_Sơn_-_Kiếp_Bạc"}  kỷ niệm ?
-    - [Hội Sơn Thanh]{"entity":"object","value":"vntourism:Hội_Sơn_Thanh"}  kỷ niệm ?
-    - [Lễ hội đình Đông Phù]{"entity":"object","value":"vntourism:Lễ_hội_đình_Đông_Phù"}  kỷ niệm ?
-    - [Lễ hội làng Triều Khúc]{"entity":"object","value":"vntourism:Lễ_hội_làng_Triều_Khúc"}  kỷ niệm ?
-    - [Lễ hội làng Bắc Biên]{"entity":"object","value":"vntourism:Lễ_hội_làng_Bắc_Biên"}  kỷ niệm ?
-    - [Lễ Hội Tịch Điền]{"entity":"object","value":"vntourism:Lễ_Hội_Tịch_Điền"}  kỷ niệm ?
-    - [Lễ hội đền Cửa Ông]{"entity":"object","value":"vntourism:Lễ_hội_đền_Cửa_Ông"}  bắt đầu vào ?
-    - [Lễ hội đền Cửa Ông]{"entity":"object","value":"vntourism:Lễ_hội_đền_Cửa_Ông"}  kết thúc vào ?
     - [Tết Đoan Ngọ]{"entity":"object","value":"vntourism:Tết_Đoan_Ngọ"}  diễn ra vào ?
     - [Ngày thành lập Hội Cựu chiến binh Việt Nam]{"entity":"object","value":"vntourism:Ngày_thành_lập_Hội_Cựu_chiến_binh_Việt_Nam"}  diễn ra vào ?
     - [Hội Sơn Thanh]{"entity":"object","value":"vntourism:Hội_Sơn_Thanh"}  diễn ra vào ?

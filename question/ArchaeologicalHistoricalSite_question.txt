@@ -1,0 +1,1 @@
+    - [di tích khảo cổ]{"entity":"class"} nào [có niên đại]{"entity":"predicate","value":"vntourism:hasChronology"} [3000 năm]{"entity":"object","value":"3000 năm"}?

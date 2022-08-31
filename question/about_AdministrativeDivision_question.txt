@@ -1,2 +1,4 @@
     - [Hoa Lư]{"entity":"object","value":"vntourism:Hoa_Lư"}  nằm trong ?
     - [Ái Châu]{"entity":"object","value":"vntourism:Ái_Châu"}  nằm trong ?
+    - [Hà Nội]{"entity":"object","value":"vntourism:Hà_Nội"}  được mô tả là ?
+    - [Hà Nội]{"entity":"object","value":"vntourism:Hà_Nội"}  Có mô tả ?
